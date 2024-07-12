@@ -23,22 +23,23 @@ layout: default
         height: auto; /* Maintains aspect ratio */
         }
 
-    .picture-grid {
+    .picture-grid2 {
         display: grid;
-        grid-template-columns: repeat(2, 1fr); /* Creates a 3-column layout */
-        grid-gap: 5px; /* Adjusts the gap between grid items */
-        max-width: 800px; /* Ensures the grid does not exceed 1280px in width */
-        margin: auto; /* Centers the grid horizontally */
-        justify-content: center; /* Centers the grid items horizontally */
-        justify-items: center; /* Centers the grid items horizontally */
-        align-items: center; /* Centers the grid items vertically */
+        grid-template-columns: repeat(2, 1fr); /* Keeps the 2-column layout */
+        grid-column-gap: 20px; /* Adjusts the gap between columns (horizontal) */
+        grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
+        max-width: px; /* Adjust based on your preference */
+        margin: auto; /* Center the grid horizontally */
       }
-
-    .picture-grid img {
-        width: 100%; /* Makes images fill their container */
-        height: 100%; /* Maintains aspect ratio */
+      
+    .picture-grid2 img {
+          width: 100%; /* Makes images fill their container */
+          height: 100%; /* Maintains aspect ratio */
+          object-fit: cover; /* Ensures the image covers the container without distortion */
+          display: block; /* Ensures there are no extra spaces around images */
       }
-
+      
+      
 </style>
 
 {{ content }}
