@@ -76,14 +76,29 @@ layout:           style
     - Mountain
     - Progression Marker
     - Growth and Mastery
+<div class="picture-grid3">
+  <img src="/Blog/assets/a-short-hike/qg_climb.png" alt="Climb">
+  <img src="/Blog/assets/a-short-hike/qg_fclimb.png" alt="FClimb">
+  <img src="/Blog/assets/a-short-hike/qg_fsummit.png>" alt="Summit"/>
+</div>
 - **Mountain (Environment):** The mountain also serves as the general playing ground for the player with different mechanics scattered throughout it and hidden locations spread throughout. Throughout the play-time of the player whether they are set-out by NPCs or in search of chests, the mountain allows the player to orient themselves and set-out new micro goals
     - Mountain Environment
     - Chest, NPCs, Items, etc.
     - Discovery and Exploration
+<div class="picture-grid3">
+  <img src="/Blog/assets/a-short-hike/qe_chest.png" alt="Chest">
+  <img src="/Blog/assets/a-short-hike/qe_feather.png" alt="Feather">
+  <img src="/Blog/assets/a-short-hike/qe_random.png>" alt="Random"/>
+</div>
 - **Quest (Givers)**: In "A Short Hike," quest givers are NPCs who provide the player with tasks that offer both growth and narrative depth. While the quests themselves grant golden feathers and encourage exploration, the quest givers add a layer of storytelling and character development. The existence of these quest givers fosters a sense of community and connection, enhancing the player's emotional investment in the game and its world
     - NPCs
     - Social Interaction
     - Narrative
+<div class="picture-grid3">
+  <img src="/Blog/assets/a-short-hike/npc_frog.png" alt="aww hec">
+  <img src="/Blog/assets/a-short-hike/npc_duck.png" alt="howdy">
+  <img src="/Blog/assets/a-short-hike/npc_bill.png>" alt="fisherman"/>
+</div>
 - **Quest (Existence):** The main avenue for the player to collect more of the golden feathers is through completing quests given by NPCs scattered throughout the mountain. Each of these quests focuses on a unique aspect of the game while granting the player more feathers. The existence of these quests incentivizes the player to actively search for NPCs and enframe them in more to the world of "A Short Hike".
     - Quest
     - Active Quest Searching
