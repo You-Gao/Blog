@@ -97,9 +97,10 @@ layout:           style
     - Path-Memorizing and Feather Conservation
     - Challenge
 <div class="picture-grid2">
-  <div><img src="/Blog/assets/a-short-hike/f_pool.png" alt="Mountain Pool"/></div>
-  <div><img src="/Blog/assets/a-short-hike/f_fire.png" alt="Mountain Fire"/></div>
+  <img src="/Blog/assets/a-short-hike/f_pool.png" alt="Mountain Pool">
+  <img src="/Blog/assets/a-short-hike/f_fire.png" alt="Mountain Fire">
 </div>
+
 * * *
 
 ### *Design Choices*:
