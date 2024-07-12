@@ -9,7 +9,7 @@ layout:           post
 tags:
 title: >-
   "A Short Hike" Game Analysis
-layout:           default
+layout:           style
 ---
 
 ## **"A Short Hike" Game Analysis**
