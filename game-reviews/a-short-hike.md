@@ -16,7 +16,7 @@ display: grid;
 grid-template-columns: repeat(2, 1fr); /* Keeps the 2-column layout */
 grid-column-gap: 20px; /* Adjusts the gap between columns (horizontal) */
 grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
-max-width: 640px; /* Adjust based on your preference */
+max-width: 1280px; /* Adjust based on your preference */
 margin: auto; /* Center the grid horizontally */
 }
 
@@ -26,10 +26,10 @@ width: 100%; /* Adjust this to control the size */
 margin: auto; /* Center the video in the div */
 }
 
-  video {
-    width: 100%; /* Makes video fill its container */
-    height: auto; /* Maintains aspect ratio */
-  }
+video {
+width: 100%; /* Makes video fill its container */
+height: auto; /* Maintains aspect ratio */
+}
 </style>
 ## **"A Short Hike" Game Analysis**
 
@@ -81,8 +81,6 @@ margin: auto; /* Center the video in the div */
     </video>
     <p>Item Use</p>
   </div>
-</div>
-
 </div>
 
 * * *
