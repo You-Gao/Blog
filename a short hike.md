@@ -1,16 +1,14 @@
 ---
 categories:       blog
-date:             2024-05-21 16:45:00 +0200
+date:             
 description:  >-
-  Receiving a SSTV transmission from the SONATE-2 cubesat launched by the
-  University of Würzburg
+  A reflection on "A Short Hike"
 lang:             en
-last_modified_at: 2024-05-21 16:50:00 +0200
+last_modified_at: 
 layout:           post
 tags:
-  - Radio
 title: >-
-  Receiving SSTV images from SONATE-2
+  "A Short Hike" Game Analysis
 ---
 
 ## **"A Short Hike" Game Analysis**
