@@ -72,6 +72,7 @@ layout:           style
     - Golden Feather +1
     - Enhanced Exploration Capabilities
     - Growth and Mastery
+
 - **Mountain (Goal):** The game's main objective is to reach the peak of a tall mountain, initially inaccessible to the player. Collecting golden feathers grants more freedom of movement, enabling further exploration. The goal of getting the top sets a clear, but ephemeral measurement for the player's progress.
     - Mountain
     - Progression Marker
@@ -81,6 +82,7 @@ layout:           style
   <img src="/Blog/assets/a-short-hike/qg_fclimb.png" alt="FClimb">
   <img src="/Blog/assets/a-short-hike/qg_fsummit.png" alt="Summit"/>
 </div>
+
 - **Mountain (Environment):** The mountain also serves as the general playing ground for the player with different mechanics scattered throughout it and hidden locations spread throughout. Throughout the play-time of the player whether they are set-out by NPCs or in search of chests, the mountain allows the player to orient themselves and set-out new micro goals
     - Mountain Environment
     - Chest, NPCs, Items, etc.
@@ -90,6 +92,7 @@ layout:           style
   <img src="/Blog/assets/a-short-hike/qe_feather.png" alt="Feather">
   <img src="/Blog/assets/a-short-hike/qe_random.png" alt="Random"/>
 </div>
+
 - **Quest (Givers)**: In "A Short Hike," quest givers are NPCs who provide the player with tasks that offer both growth and narrative depth. While the quests themselves grant golden feathers and encourage exploration, the quest givers add a layer of storytelling and character development. The existence of these quest givers fosters a sense of community and connection, enhancing the player's emotional investment in the game and its world
     - NPCs
     - Social Interaction
@@ -99,14 +102,17 @@ layout:           style
   <img src="/Blog/assets/a-short-hike/npc_duck.png" alt="howdy">
   <img src="/Blog/assets/a-short-hike/npc_bill.png" alt="fisherman"/>
 </div>
+
 - **Quest (Existence):** The main avenue for the player to collect more of the golden feathers is through completing quests given by NPCs scattered throughout the mountain. Each of these quests focuses on a unique aspect of the game while granting the player more feathers. The existence of these quests incentivizes the player to actively search for NPCs and enframe them in more to the world of "A Short Hike".
     - Quest
     - Active Quest Searching
     - Discovery and Exploration
+
 - **Chests:** These are boxes scattered throughout the mountain and gives coins upon opening them. Coins are necessary to purchase more Golden Feather's so the existence of these chests incentivizes the player to explore and be more tuned in to their surroundings.
     - Chests
     - Active Chest Searching
     - Discovery and Exploration
+
 - **Mountain Top (Frozen):** At a specific altitude of the mountain, the golden feathers are frozen upon use and is replenished when the player gets to a warm zone (campfire or warm water). The mechanic goes on the create a sense of safety (players need to remember where they are) and challenge (sparingly use feathers), which generate two different dynamics: path-memorizing and skill progression.
     - Freeze Mechanic
     - Path-Memorizing and Feather Conservation
@@ -121,8 +127,11 @@ layout:           style
 ### *Design Choices*:
 
 - **Perspective and Camera Work:** A unique aspect of "A Short Hike" is primarily the camera work around the mountain. It does not follow the conventional 3D perspective used in shooter where the camera is above and behind the player, but instead focuses in on the mountain as if it were looking towards the center.
+
 - **Art Style and Atmosphere:** "A Short Hike" is celebrated for its charming pixel art style and vibrant color palette. The game's visuals evoke a sense of nostalgia and simplicity, contributing to a warm and inviting atmosphere. This artistic choice, combined with the tranquil and picturesque environment, creates a serene and immersive world that encourages players to explore and relax.
+
 - **Soundtrack:** Each track is carefully crafted to match different areas and moments within the game, creating an auditory journey that aligns with the player's progress. The soundtrack not only enriches the atmosphere but also adds emotional depth, making the exploration feel more immersive and rewarding.
+
 - **No Fall Damage:** One of the refreshing gameplay mechanics in "A Short Hike" is the absence of fall damage. This design choice allows players to explore the mountain freely without the fear of negative consequences from falling.
 
 * * *
@@ -130,7 +139,9 @@ layout:           style
 ### *Themes and Player Experience:*
 
 - **Growth and Mastery:** The game emphasizes personal growth and mastery over mechanics. This mirrors the satisfaction players derive from sports, where improvement and skill development are key motivators.
+
 - **Exploration and Discovery:** As players collect golden feathers, they experience increased freedom, reinforcing themes of exploration and discovery. The mountain serves as a metaphorical and literal goalpost, marking player progression.
+
 - **Non-competitive Challenge:** The mountain presents a challenge without adversaries, focusing on personal achievement and the joy of overcoming obstacles rather than on competition.
 
 * * *
