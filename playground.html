@@ -18,7 +18,7 @@
       grid-template-columns: repeat(2, 1fr); /* Keeps the 2-column layout */
       grid-column-gap: 75px; /* Adjusts the gap between columns (horizontal) */
       grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
-      max-width: 400px; /* Adjust based on your preference */
+      max-width: 500px; /* Adjust based on your preference */
       margin: auto; /* Center the grid horizontally */
       align-items: center;
       justify-content: center;
@@ -31,8 +31,30 @@
       align-items: center; 
       justify-content: center;
       object-fit: fill;
-      max-width: 200px;
-      max-height: 200px;
+      max-width: 250px;
+      max-height: 250px;
+      }
+  
+    .picture-grid3 {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr); /* Keeps the 2-column layout */
+      grid-column-gap: 25px; /* Adjusts the gap between columns (horizontal) */
+      grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
+      max-width: 900px; /* Adjust based on your preference */
+      margin: auto; /* Center the grid horizontally */
+      align-items: center;
+      justify-content: center;
+      place-items: center;
+      }
+
+  .picture-grid3 img {
+      width: 100%; /* Makes images fill their container */
+      height: 100%; /* Maintains aspect ratio */
+      align-items: center; 
+      justify-content: center;
+      object-fit: fill;
+      max-width: 230px;
+      max-height: 230px;
       }
     
 </style>
@@ -56,3 +78,8 @@
   <div><img src="/assets/a-short-hike/f_pool.png" alt="Mountain Pool"/></div>
   <div><img src="/assets/a-short-hike/f_fire.png" alt="Mountain Pool"/></div>
 </div>
+
+<div class="picture-grid3">
+  <div><img src="/assets/a-short-hike/f_pool.png" alt="Mountain Pool"/></div>
+  <div><img src="/assets/a-short-hike/f_fire.png" alt="Mountain Pool"/></div>
+  <div><img src="/assets/a-short-hike/f_pool.png" alt="Mountain Pool"/></div>
