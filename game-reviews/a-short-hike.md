@@ -11,6 +11,23 @@ title: >-
   "A Short Hike" Game Analysis
 ---
 
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Creates a 2-column layout */
+  grid-gap: 20px; /* Adjusts the gap between grid items */
+  max-width: 640px; /* Adjust based on your preference */
+  margin: auto; /* Center the grid horizontally */
+}
+
+.video-grid div {
+  aspect-ratio: 1 / 1; /* Ensures each div is a square */
+}
+
+video {
+  width: 100%; /* Makes video fill its container */
+  height: auto; /* Maintains aspect ratio */
+}
+
 ## **"A Short Hike" Game Analysis**
 
 *Introduction and Setting:* The game begins with the player character, a bird, traveling in a car with Aunt May to a hiking location. This sets the stage for the adventure and exploration that follows.
@@ -28,8 +45,8 @@ title: >-
 
 **What's Not There:** An interesting analysis to look at there is certain game mechanics that were intentionally not added to the game: fall damage and map completion (mainly), but also other mechanics that the designer could have added.
 
-<div style="display: flex; justify-content: space-around;">
-
+<!-- Add a container around your video divs -->
+<div class="video-grid">
   <div>
     <video width="320" height="240" controls>
       <source src="/Blog/assets/a-short-hike/walk.mp4" type="video/mp4">
@@ -40,7 +57,7 @@ title: >-
 
   <div>
     <video width="320" height="240" controls>
-      <source src="assets/a-short-hike/walk.mp4" type="video/mp4">
+      <source src="/Blog/assets/a-short-hike/glide.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p>Glide</p>
@@ -53,10 +70,19 @@ title: >-
     </video>
     <p>Run</p>
   </div>
+
+  <div>
+    <video width="320" height="240" controls>
+      <source src="/Blog/assets/a-short-hike/items.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p>Item Use</p>
+  </div>
+</div>
   
   <div>
     <video width="320" height="240" controls>
-      <source src="www.yougao.dev/Blog/assets/a-short-hike/walk.mp4" type="video/mp4">
+      <source src="/Blog/assets/a-short-hike/items.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p>Item Use</p>
