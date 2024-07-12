@@ -29,15 +29,18 @@ layout: default
         grid-gap: 5px; /* Adjusts the gap between grid items */
         max-width: 1280px; /* Ensures the grid does not exceed 1280px in width */
         margin: auto; /* Centers the grid horizontally */
+        justify-content: center; /* Centers the grid items horizontally */
       }
-      
+
     .picture-grid img {
         width: 100%; /* Makes images fill their container */
-        height: auto; /* Maintains aspect ratio */
+        height: 100%; /* Maintains aspect ratio */
+        justify-content: center; /* Centers the images horizontally */
       }
     
     picture {
         display: flex; /* Aligns the image and caption horizontally */
+        justify-content: center; /* Centers the image and caption horizontally */
         flex-direction: column; /* Stacks the image and caption vertically */
         gap: 10px; /* Adjusts the gap between the image and caption */
       }
