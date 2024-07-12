@@ -98,7 +98,6 @@ layout:           style
     - Challenge
 <div class="picture-grid">
 <div><img src="/Blog/assets/a-short-hike/f_pool.png" alt="Mountain Pool"/></div>
-<div><img src="/Blog/assets/a-short-hike/f_fire.png" alt="Mountain Fire"/></div>
 </div>
 * * *
 

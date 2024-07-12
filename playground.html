@@ -1,100 +1,36 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Video Grid Example</title>
-<style>
-.video-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Keeps the 2-column layout */
-    grid-column-gap: 20px; /* Adjusts the gap between columns (horizontal) */
-    grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
-    max-width: 640px; /* Adjust based on your preference */
-    margin: auto; /* Center the grid horizontally */
-    }
-
-  .video-grid div {
-  aspect-ratio: 12/1; /* Adjust this to your desired aspect ratio */
-  width: 100%; /* Adjust this to control the size */
-  margin: auto; /* Center the video in the div */
-  }
-
-  video {
-    width: 100%; /* Makes video fill its container */
-    height: auto; /* Maintains aspect ratio */
-  }
-
-  .picture-grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Creates a 3-column layout */
-    grid-gap: 5px; /* Adjusts the gap between grid items */
-    max-width: 1280px; /* Ensures the grid does not exceed 1280px in width */
-    margin: auto; /* Centers the grid horizontally */
-  }
-  
-  .picture-grid img {
-    width: 100%; /* Makes images fill their container */
-    height: auto; /* Maintains aspect ratio */
-  }
-
-  picture {
-    display: flex; /* Aligns the image and caption horizontally */
-    flex-direction: column; /* Stacks the image and caption vertically */
-    gap: 10px; /* Adjusts the gap between the image and caption */
-  }
-</style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .flex-container {
+            display: flex;
+            justify-content: center; /* Centers the grid container horizontally */
+            align-items: center; /* Centers the grid container vertically */
+            height: 100vh; /* Adjust as needed */
+        }
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr); /* Adjust as needed */
+            gap: 5px; /* Adjust as needed for spacing */
+        }
+        .grid-item {
+            width: 100%; /* Adjust as needed */
+            height: 100%; /* Adjust as needed */
+            background-color: lightblue; /* Just for visibility */
+            display: flex;
+            justify-content: center; /* Centers content within each grid item */
+            align-items: center; /* Centers content within each grid item */
+        }
+    </style>
 </head>
 <body>
-
-<div class="video-grid">
-  <div>
-    <video controls>
-      <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  <div>
-    <video controls>
-      <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  <div>
-    <video controls>
-      <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  <div>
-    <video controls>
-      <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-</div>
-
-<div class="picture-grid">
-  <picture>
-    <img src="https://placehold.co/600x400" alt="Placeholder Image">
-  </picture>
-  <picture>
-    <img src="https://placehold.co/600x400" alt="Placeholder Image">
-  </picture>
-  <picture>
-    <img src="https://placehold.co/600x400" alt="Placeholder Image">
-  </picture>
-  <picture>
-    <img src="https://via.placeholder.com/640x360" alt="Placeholder Image">
-    <figcaption>Image 4</figcaption>
-  </picture>
-  <picture>
-    <img src="https://via.placeholder.com/640x360" alt="Placeholder Image">
-    <figcaption>Image 5</figcaption>
-  </picture>
-  <picture>
-    <img src="https://via.placeholder.com/640x360" alt="Placeholder Image">
-    <figcaption>Image 6</figcaption>
-  </picture>
+    <div class="flex-container">
+        <div class="grid-container">
+            <div class="grid-item">Image 1</div>
+            <div class="grid-item">Image 2</div>
+        </div>
+    </div>
 </body>
 </html>

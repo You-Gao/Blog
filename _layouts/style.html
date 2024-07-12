@@ -22,28 +22,23 @@ layout: default
         width: 100%; /* Makes video fill its container */
         height: auto; /* Maintains aspect ratio */
         }
-    
+
     .picture-grid {
         display: grid;
-        grid-template-columns: repeat(3, 1fr); /* Creates a 3-column layout */
+        grid-template-columns: repeat(2, 1fr); /* Creates a 3-column layout */
         grid-gap: 5px; /* Adjusts the gap between grid items */
-        max-width: 1280px; /* Ensures the grid does not exceed 1280px in width */
+        max-width: 800px; /* Ensures the grid does not exceed 1280px in width */
         margin: auto; /* Centers the grid horizontally */
         justify-content: center; /* Centers the grid items horizontally */
+        justify-items: center; /* Centers the grid items horizontally */
+        align-items: center; /* Centers the grid items vertically */
       }
 
     .picture-grid img {
         width: 100%; /* Makes images fill their container */
         height: 100%; /* Maintains aspect ratio */
-        justify-content: center; /* Centers the images horizontally */
       }
-    
-    picture {
-        display: flex; /* Aligns the image and caption horizontally */
-        justify-content: center; /* Centers the image and caption horizontally */
-        flex-direction: column; /* Stacks the image and caption vertically */
-        gap: 10px; /* Adjusts the gap between the image and caption */
-      }
+
 </style>
 
 {{ content }}
