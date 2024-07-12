@@ -12,34 +12,34 @@ layout: default
         margin: auto; /* Center the grid horizontally */
         }
     
-    .video-grid div {
-        aspect-ratio: 12 / 1; /* Adjust this to your desired aspect ratio */
-        width: 100%; /* Adjust this to control the size */
-        margin: auto; /* Center the video in the div */
-        }
-    
-    video {
+    .video-grid video {
         width: 100%; /* Makes video fill its container */
-        height: auto; /* Maintains aspect ratio */
+        height: 100%; /* Maintains aspect ratio */
         }
-
+  
     .picture-grid2 {
         display: grid;
         grid-template-columns: repeat(2, 1fr); /* Keeps the 2-column layout */
         grid-column-gap: 20px; /* Adjusts the gap between columns (horizontal) */
         grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
-        max-width: px; /* Adjust based on your preference */
+        max-width: 400px; /* Adjust based on your preference */
         margin: auto; /* Center the grid horizontally */
+        align-items: center;
+        justify-content: center;
+        place-items: center;
       }
-      
+  
     .picture-grid2 img {
           width: 100%; /* Makes images fill their container */
           height: 100%; /* Maintains aspect ratio */
           object-fit: cover; /* Ensures the image covers the container without distortion */
           display: block; /* Ensures there are no extra spaces around images */
-      }
-      
+          align-items: center; 
+          justify-content: center;
+          
+        }
       
 </style>
+  
 
 {{ content }}
