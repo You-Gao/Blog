@@ -1,12 +1,17 @@
 ---
-title: A Short Hike Blog Post
-description: Explore the beauty of A Short Hike game and its design elements.
+categories:       blog
+date:             2024-05-21 16:45:00 +0200
+description:  >-
+  Receiving a SSTV transmission from the SONATE-2 cubesat launched by the
+  University of Würzburg
+lang:             en
+last_modified_at: 2024-05-21 16:50:00 +0200
+layout:           post
+tags:
+  - Radio
+title: >-
+  Receiving SSTV images from SONATE-2
 ---
-<!-- Open Graph Meta Tags -->
-<meta property="og:title" content="A Short Hike Blog Post">
-<meta property="og:description" content="Explore the beauty of A Short Hike game and its design elements.">
-<meta property="og:image" content="https://example.com/path/to/your/image.jpg">
-<meta property="og:url" content="https://www.yougao.dev/Blog/a%20short%20hike">
 
 ## **"A Short Hike" Game Analysis**
 
