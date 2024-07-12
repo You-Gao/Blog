@@ -1,3 +1,13 @@
+---
+title: A Short Hike Blog Post
+description: Explore the beauty of A Short Hike game and its design elements.
+---
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="A Short Hike Blog Post">
+<meta property="og:description" content="Explore the beauty of A Short Hike game and its design elements.">
+<meta property="og:image" content="https://example.com/path/to/your/image.jpg">
+<meta property="og:url" content="https://www.yougao.dev/Blog/a%20short%20hike">
+
 ## **"A Short Hike" Game Analysis**
 
 *Introduction and Setting:* The game begins with the player character, a bird, traveling in a car with Aunt May to a hiking location. This sets the stage for the adventure and exploration that follows.
