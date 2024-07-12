@@ -32,7 +32,7 @@ title: >-
 
   <div>
     <video width="320" height="240" controls>
-      <source src="/assets/a-short-hike/walk.mp4" type="video/quicktime">
+      <source src="/Blog/assets/a-short-hike/walk.mp4" type="video/quicktime">
       Your browser does not support the video tag.
     </video>
     <p>Walk</p>
@@ -40,7 +40,7 @@ title: >-
 
   <div>
     <video width="320" height="240" controls>
-      <source src="/assets/a-short-hike/glide.mp4" type="video/quicktime">
+      <source src="/Blog/assets/a-short-hike/glide.mp4" type="video/quicktime">
       Your browser does not support the video tag.
     </video>
     <p>Glide</p>
@@ -48,7 +48,7 @@ title: >-
 
   <div>
     <video width="320" height="240" controls>
-      <source src="/assets/a-short-hike/run.mp4" type="video/quicktime">
+      <source src="/Blog/assets/a-short-hike/run.mp4" type="video/quicktime">
       Your browser does not support the video tag.
     </video>
     <p>Run</p>
@@ -56,7 +56,7 @@ title: >-
   
   <div>
     <video width="320" height="240" controls>
-      <source src="/assets/a-short-hike/items.mp4" type="video/quicktime">
+      <source src="/Blog/assets/a-short-hike/items.mp4" type="video/quicktime">
       Your browser does not support the video tag.
     </video>
     <p>Item Use</p>
