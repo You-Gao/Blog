@@ -32,34 +32,34 @@ title: >-
 
   <div>
     <video width="320" height="240" controls>
-      <source src="assets/jump_and_glide.mov" type="video/quicktime">
+      <source src="assets/a-short-hike/walk.mp4" type="video/quicktime">
       Your browser does not support the video tag.
     </video>
-    <p>Jumping and Gliding</p>
+    <p>Walk</p>
   </div>
 
   <div>
     <video width="320" height="240" controls>
-      <source src="assets/item_usage.mov" type="video/quicktime">
+      <source src="assets/a-short-hike/glide.mp4" type="video/quicktime">
       Your browser does not support the video tag.
     </video>
-    <p>Item Usage</p>
+    <p>Glide</p>
   </div>
 
   <div>
     <video width="320" height="240" controls>
-      <source src="assets/running.mov" type="video/quicktime">
+      <source src="assets/a-short-hike/run.mp4" type="video/quicktime">
       Your browser does not support the video tag.
     </video>
-    <p>Running</p>
+    <p>Run</p>
   </div>
   
   <div>
     <video width="320" height="240" controls>
-      <source src="assets/fourth_video.mov" type="video/quicktime">
+      <source src="assets/a-short-hike/items.mp4" type="video/quicktime">
       Your browser does not support the video tag.
     </video>
-    <p>Fourth Video</p>
+    <p>Item Use</p>
   </div>
 
 </div>
