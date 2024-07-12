@@ -9,28 +9,9 @@ layout:           post
 tags:
 title: >-
   "A Short Hike" Game Analysis
+layout:           default
 ---
-<style>
-.video-grid {
-display: grid;
-grid-template-columns: repeat(2, 1fr); /* Keeps the 2-column layout */
-grid-column-gap: 20px; /* Adjusts the gap between columns (horizontal) */
-grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
-max-width: 1280px; /* Adjust based on your preference */
-margin: auto; /* Center the grid horizontally */
-}
 
-.video-grid div {
-aspect-ratio: 12 / 1; /* Adjust this to your desired aspect ratio */
-width: 100%; /* Adjust this to control the size */
-margin: auto; /* Center the video in the div */
-}
-
-video {
-width: 100%; /* Makes video fill its container */
-height: auto; /* Maintains aspect ratio */
-}
-</style>
 ## **"A Short Hike" Game Analysis**
 
 *Introduction and Setting:* The game begins with the player character, a bird, traveling in a car with Aunt May to a hiking location. This sets the stage for the adventure and exploration that follows.
