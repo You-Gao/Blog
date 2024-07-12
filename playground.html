@@ -13,40 +13,29 @@
       height: 100%; /* Maintains aspect ratio */
       }
 
-      .picture-grid2 {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr); /* Keeps the 2-column layout */
-        grid-column-gap: 100px; /* Adjusts the gap between columns (horizontal) */
-        grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
-        max-width: 1000px; /* Adjust based on your preference */
-        margin: auto; /* Center the grid horizontally */
-        align-items: center;
-        justify-content: center;
-        place-items: center;
-        }
-    
-    .picture-grid2 div {
-          width: 100%; /* Makes images fill their container */
-          height: 100%; /* Maintains aspect ratio */
-          align-items: center; 
-          justify-content: center;
-          object-fit: cover;
+  .picture-grid2 {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr); /* Keeps the 2-column layout */
+      grid-column-gap: 100px; /* Adjusts the gap between columns (horizontal) */
+      grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
+      max-width: 800px; /* Adjust based on your preference */
+      margin: auto; /* Center the grid horizontally */
+      align-items: center;
+      justify-content: center;
+      place-items: center;
       }
 
-    .picture-grid2 img {
-        width: 100%; /* Makes images fill their container */
-        height: 100%; /* Maintains aspect ratio */
-        display: block; /* Ensures there are no extra spaces around images */
-        align-items: center; 
-        justify-content: center;
-        object-fit: cover;
-        max-width: 300px;
-        max-height: 300px;
-        }
-      
+  .picture-grid2 img {
+      width: 100%; /* Makes images fill their container */
+      height: 100%; /* Maintains aspect ratio */
+      align-items: center; 
+      justify-content: center;
+      object-fit: fill;
+      max-width: 200px;
+      max-height: 200px;
+      }
     
 </style>
-
 <div class="video-grid">
   <div>
     <video controls>
