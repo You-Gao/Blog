@@ -14,7 +14,7 @@ layout:           style
 
 ## **"A Short Hike" Game Analysis**
 
-<img src="/assets/a-short-hike/game_logo.png" alt="Mountain Pool" class="game_logo"/>
+<img src="/Blog/assets/a-short-hike/game_logo.png" alt="Logo" class="game_logo"/>
 
 ### *Introduction and Setting:* 
 The game begins with the player character, a bird, traveling in a car with Aunt May to a hiking location. This sets the stage for the adventure and exploration that follows.
