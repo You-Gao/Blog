@@ -30,8 +30,6 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 
 **Complexity in Simplicity:** The mechanics are simple, yet mastering them provides a sense of challenge and fulfillment. The gliding mechanic, in particular, offers depth, encouraging players to learn and refine their control.   
 
-**What's Not There:** An interesting analysis to look at there is certain game mechanics that were intentionally not added to the game: fall damage and map completion (mainly), but also other mechanics that the designer could have added.
-
 <!-- Add a container around your video divs -->
 <div class="video-grid">
   <div>
@@ -88,7 +86,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 </div>
 <br/><br/>
 
-- **Mountain (Environment):** The mountain also serves as the general playing ground for the player with different mechanics scattered throughout it and hidden locations spread throughout. Throughout the play-time of the player whether they are set-out by NPCs or in search of chests, the mountain allows the player to orient themselves and set-out new micro goals
+- **Mountain (Environment):** The mountain also serves as the general playing ground for the player with different mechanics scattered throughout it and hidden locations spread throughout. Throughout the play-time of the player whether they are set-out by NPCs or in search of chests, the mountain allows the player to orient themselves and set-out new micro goals.
     - M: Mountain Environment
     - D: Chest, NPCs, Items, etc.
     - A: Discovery and Exploration
@@ -99,7 +97,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 </div>
 <br/><br/>
 
-- **Quest (Givers)**: In "A Short Hike," quest givers are NPCs who provide the player with tasks that offer both growth and narrative depth. While the quests themselves grant golden feathers and encourage exploration, the quest givers add a layer of storytelling and character development. The existence of these quest givers fosters a sense of community and connection, enhancing the player's emotional investment in the game and its world
+- **NPCs**: In "A Short Hike," NPCs  provide the player with tasks that offer both growth and narrative depth. While the quests themselves grant golden feathers and encourage exploration, the NPC add a layer of storytelling and character development. 
     - M: NPCs
     - D: Social Interaction
     - A: Narrative
@@ -116,7 +114,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
     - A: Discovery and Exploration
 <br/><br/>
 
-- **Chests:** These are boxes scattered throughout the mountain and gives coins upon opening them. Coins are necessary to purchase more Golden Feather's so the existence of these chests incentivizes the player to explore and be more tuned in to their surroundings.
+- **Chests:** Chests are scattered throughout the mountain and gives coins upon opening them. Coins are necessary to purchase more Golden Feather's so the existence of these chests incentivizes the player to explore and be more tuned in to their surroundings.
     - M: Chests
     - D: Active Chest Searching
     - A: Discovery and Exploration
@@ -153,6 +151,21 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 
 - **Non-competitive Challenge:** The mountain presents a challenge without adversaries, focusing on personal achievement and the joy of overcoming obstacles rather than on competition.
 
+- **Narrative and Connection:** The game's narrative acts as the cohesive glue that binds together its diverse aesthetics, advancing the storyline and deeply immersing players in its world. 
+
+**What's Not There:** Further analysis to look at are the game mechanics that were intentionally not added to the game: fall damage and map completion (mainly), but also other mechanics that the designer could have added.
+
 * * *
 
-*Conclusion:* "A Short Hike" effectively blends simple mechanics with deep, meaningful themes. The journey up the mountain is a testament to the player's growth, mirroring real-life experiences of learning, exploration, and the satisfaction of achieving personal goals. Through its design, the game creates a fulfilling and introspective experience for the player.
+### *Conclusion and Reflection:* 
+
+"A Short Hike" effectively blends simple mechanics with deep, meaningful themes. The journey up the mountain is a testament to the player's growth, mirroring real-life experiences of learning, exploration, and the satisfaction of achieving personal goals. Through its design, the game creates a fulfilling and introspective experience for the player.
+
+My own reflections on the game led me to the conclusion that I should go on a hike sometimes. Having thought about what a hike means to me, I realized that the only reason why I didn't go on hikes was because of my previous conceptions of them. I always thought of them like solo player stick-to-the-path adventures and the reward was the view. Not to discount that, but I wouldn't see myself hiking for that reason. Hiking for physical growth is another reason as well, but if that is the only thing, it's more efficient to hit the treadmill.
+
+With that said, the motivator missing for me is the people climbing along with me. In the actual world, a hiker wouldn't normally encounter a shady person dealing enhancements or in search of 15 seashells (hiking with micro-missions sounds cool). I've also heard from others that a hike might include going off the path and then getting lost to eventually find yourself at the scenic view. At the end of the day, what makes "A Short Hike" and could make real hikes are the people you go with. Because it's really about the people; climbing the mountain is only a goal.
+
+Here is a clip of some memorable moments for me in "A Short Hike"
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KEJDFSUUzCo?si=__ZUXXb8rP5HVS-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+If you want to play the game: [https://ashorthike.com/](https://ashorthike.com/)
