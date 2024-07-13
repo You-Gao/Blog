@@ -22,10 +22,10 @@ layout:           style
 
 - **Character Control:** Players control the bird character using movement keys.
 - **Jumping and Gliding:** Pressing 'Z' allows the character to jump, and holding the button lets the character glide. Players can also perform a freedive.
-- **Item Usage:** Pressing 'X' with an equipped item allows the player to use the item
+- **Item Usage:** Pressing 'X' with an equipped item allows the player to use the item.
 - **Running:** Holding 'C' when the player has running shoes acquired allows the character to run.
 
-**Complexity in Simplicity:** The mechanics are simple, yet mastering them provides a sense of challenge and fulfillment. The gliding mechanic, in particular, offers depth, encouraging players to learn and refine their control.
+**Complexity in Simplicity:** The mechanics are simple, yet mastering them provides a sense of challenge and fulfillment. The gliding mechanic, in particular, offers depth, encouraging players to learn and refine their control.   
 
 **What's Not There:** An interesting analysis to look at there is certain game mechanics that were intentionally not added to the game: fall damage and map completion (mainly), but also other mechanics that the designer could have added.
 
@@ -72,8 +72,7 @@ layout:           style
     - M: Golden Feathers
     - D: Enhanced Exploration Capabilities
     - A: Growth and Mastery
-
-  
+<br/><br/>
 - **Mountain (Goal):** The game's main objective is to reach the peak of a tall mountain, initially inaccessible to the player. Collecting golden feathers grants more freedom of movement, enabling further exploration. The goal of getting the top sets a clear, but ephemeral measurement for the player's progress.
     - M: Mountain
     - D: Progression Marker
@@ -83,8 +82,7 @@ layout:           style
   <img src="/Blog/assets/a-short-hike/qg_fclimb.png" alt="FClimb">
   <img src="/Blog/assets/a-short-hike/qg_fsummit.png" alt="Summit"/>
 </div>
-
-  
+<br/><br/>
 - **Mountain (Environment):** The mountain also serves as the general playing ground for the player with different mechanics scattered throughout it and hidden locations spread throughout. Throughout the play-time of the player whether they are set-out by NPCs or in search of chests, the mountain allows the player to orient themselves and set-out new micro goals
     - M: Mountain Environment
     - D: Chest, NPCs, Items, etc.
@@ -94,8 +92,7 @@ layout:           style
   <img src="/Blog/assets/a-short-hike/qe_feather.png" alt="Feather">
   <img src="/Blog/assets/a-short-hike/qe_random.png" alt="Random"/>
 </div>
-
-  
+<br/><br/>
 - **Quest (Givers)**: In "A Short Hike," quest givers are NPCs who provide the player with tasks that offer both growth and narrative depth. While the quests themselves grant golden feathers and encourage exploration, the quest givers add a layer of storytelling and character development. The existence of these quest givers fosters a sense of community and connection, enhancing the player's emotional investment in the game and its world
     - M: NPCs
     - D: Social Interaction
@@ -105,20 +102,17 @@ layout:           style
   <img src="/Blog/assets/a-short-hike/npc_duck.png" alt="howdy">
   <img src="/Blog/assets/a-short-hike/npc_bill.png" alt="fisherman"/>
 </div>
-
-  
+<br/><br/>
 - **Quest (Existence):** The main avenue for the player to collect more of the golden feathers is through completing quests given by NPCs scattered throughout the mountain. Each of these quests focuses on a unique aspect of the game while granting the player more feathers. The existence of these quests incentivizes the player to actively search for NPCs and enframe them in more to the world of "A Short Hike".
     - M: Quest
     - D: Active Quest Searching
     - A: Discovery and Exploration
-
-  
+<br/><br/>
 - **Chests:** These are boxes scattered throughout the mountain and gives coins upon opening them. Coins are necessary to purchase more Golden Feather's so the existence of these chests incentivizes the player to explore and be more tuned in to their surroundings.
     - M: Chests
     - D: Active Chest Searching
     - A: Discovery and Exploration
-
- 
+<br/><br/>
 - **Mountain Top (Frozen):** At a specific altitude of the mountain, the golden feathers are frozen upon use and is replenished when the player gets to a warm zone (campfire or warm water). The mechanic goes on the create a sense of safety (players need to remember where they are) and challenge (sparingly use feathers), which generate two different dynamics: path-memorizing and skill progression.
     - M: Freeze Mechanic
     - D: Path-Memorizing and Feather Conservation
