@@ -21,4 +21,8 @@ internal monologue about why I wanted to write reviews
 
 link: [game-reviews](https://www.yougao.dev/Blog/game-reviews/)
 
-# ETC.
+# Book Reviews
+
+internal monologue about why I wanted to write reviews
+ 
+link: [book-reviews](https://www.yougao.dev/Blog/book-reviews/)
