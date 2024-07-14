@@ -2,9 +2,6 @@
 
 ## **2024**
 
-* * *
-<br/><br/>
-
 ### **July:**
 
 - [A Short Hike](https://www.yougao.dev/Blog/game-reviews/a-short-hike) - bird goes hiking
