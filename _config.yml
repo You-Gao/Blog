@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   An archive of my thoughts about life and probably everything else.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.yougao.dev" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yougao.dev/Blog" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  You-Gao
 
 collections:
