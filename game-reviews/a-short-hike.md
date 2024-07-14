@@ -6,6 +6,7 @@ description:  >-
 lang:             en
 last_modified_at: 2024-07-14
 tags:
+- Game-Review
 title: >-
   "A Short Hike" Game Analysis
 layout:           style
