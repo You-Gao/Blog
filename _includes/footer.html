@@ -1,27 +1,21 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  <data class="u-url" href="/Blog/"></data>
 
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-	    <li><p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p></li>
+        <ul class="contact-list"><li><p class="rss-subscribe">subscribe <a href="/Blog/feed.xml">via RSS</a></p></li>
         </ul>
       </div>
 
-      <div class="footer-col footer-col-2">
-        {%- include social.html -%}
-      </div>
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/You-Gao"><svg class="svg-icon"><use xlink:href="/Blog/assets/minima-social-icons.svg#github"></use></svg> <span class="username">You-Gao</span></a></li></ul>
+</div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+        <p>An archive of my thoughts about life and probably everything else.</p>
       </div>
     </div>
 
   </div>
-
 </footer>
