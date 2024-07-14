@@ -26,7 +26,7 @@ layout:           style
 
 * * *
 
-## *Player Mechanics:*
+### *Player Mechanics:*
 
 - **Movement:** WASD or arrow keys
 - **Jump:** hold space to long jump, tap space to short hop
@@ -38,7 +38,7 @@ layout:           style
 
 * * *
 
-## *Core Mechanics:*
+### *Core Mechanics:*
 
 - **Powerups:** After each bo2, the loser gets to select an enhancement from a set of 5 cards. These power-ups add and modify the existing mechanics while stacking with previously selected cards. The combinations of the power-ups makes each match unique and heavily incentivizes the player's creativity to generate an effective build.
 - **Maps:** Each round within a match sets the two players in one of the many unique maps and environments. What makes them so fun is the fact that each map sets the battleground and environment for different player builds to fight in. The maps force the player to consciously adapt and recognize how to maximize the efficacy of their power-ups.
@@ -47,13 +47,13 @@ layout:           style
 
 * * *
 
-## *Notable Design Choices:*
+### *Notable Design Choices:*
 
 - **Combinatorics:** ROUNDS is not the only indie game that uses combinatorics to allow for expression in the gameplay. However, it is interesting to highlight how effective this design choice is for generating player possibilities by allowing for synergistic modifications to the player character. Players can experiment with different combinations and develop their playstyles. This simple game mechanic creates a significant enhancement in gameplay.
 
 * * *
 
-## *Themes and Player Experience:*
+### *Themes and Player Experience:*
 
 - **Competition:** It goes without being said, the main point of a 1v1 like ROUNDS is the destruction of your opponent. The underlying depth is that within each match you get put into mind games against the opponent and assess the skill differences in not only shooter, but also strategic power-up selections.
 - **Expression:** The combinations of power-ups available in a match and niche interaction of mechanics allows players to creatively invent themselves between different matches. Whether it is a 1-shot glass cannon, rush-down shield explosion, or bullet-hell shotgun. ROUNDS mechanics let people explore and express their tactical ingenuity and strategic creativity.
@@ -61,7 +61,7 @@ layout:           style
 
 * * *
 
-## *Conclusion and Reflection:*
+### *Conclusion and Reflection:*
 
 ROUNDS is the type of game you look for when wanting a quick fix of fun against a friend. Its mechanics are simple, and the skill ceiling isn't that high either. Simply put, the game gives what is advertised: shenanigans and fun.
 
