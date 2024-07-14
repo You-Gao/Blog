@@ -15,3 +15,9 @@ collections:
   games:
     output: true
     permalink: /games/:title/
+  life:
+    output: true
+    permalink: /life/:title/
+  work:
+    output: true
+    permalink: /work/:title/

@@ -13,7 +13,7 @@ permalink: /books/
 ---
 
 <h1>Book Reviews</h1>
-<p>Here you will find all our book reviews.</p>
+<p>Here you will find all my book reviews.</p>
 
 <ul>
   {% for post in site.books %}

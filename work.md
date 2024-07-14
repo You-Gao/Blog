@@ -2,21 +2,21 @@
 categories:       blog
 date:             2024-07-14
 description:  >-
-  A list of all the games that have been reviewed by me.
+  Working in the world...
 lang:             en
 last_modified_at: 2024-07-14
 layout:           style
 tags:
 title: >-
-  Game Reviews
+  Work
 permalink: /games/
 ---
 
-<h1>Game Reviews</h1>
-<p>Here you will find all my game reviews.</p>
+<h1>Work</h1>
+<p>Here you will find wealth.</p>
 
 <ul>
-  {% for post in site.games %}
+  {% for post in site.work %}
     <li>
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </li>
