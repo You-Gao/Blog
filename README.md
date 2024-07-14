@@ -9,8 +9,17 @@ layout:           post
 tags:
   - Radio
 title: >-
-  Main
+  Main Page
 ---
 
-# Blog
-my blog for game design or other articles
+# Welcome to My Blog!
+
+internal monologue about my life goes here
+
+# Game Reviews
+
+internal monologue about why I wanted to write reviews
+
+link: [game-reviews](https://www.yougao.dev/Blog/game-reviews/)
+
+# ETC.
