@@ -1,3 +1,16 @@
+---
+categories:       blog
+date:             2024-07-14
+description:  >-
+  Checkout some game reviews
+lang:             en
+last_modified_at: 2024-07-14
+layout:           post
+title: >-
+  Game Reviews
+layout:           style
+---
+
 # Game Reviews
 
 ## **2024**
