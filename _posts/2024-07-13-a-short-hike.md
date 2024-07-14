@@ -14,7 +14,8 @@ layout:           style
 
 ## **"A Short Hike" Game Analysis**
 
-<img src="/Blog/assets/a-short-hike/game_logo.png" alt="Logo" class="game_logo"/>
+<img src="{{ 'assets/a-short-hike/game_logo.png' | relative_url }}" alt="Logo" class="game_logo"/>
+
 
 ### *Introduction and Setting:* 
 The game begins with the player character, a bird, traveling in a car with Aunt May to a hiking location. This sets the stage for the adventure and exploration that follows.
@@ -34,7 +35,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 <div class="video-grid">
   <div>
     <video controls>
-      <source src="/Blog/assets/a-short-hike/walk.mp4" type="video/mp4">
+      <source src="{{ '/assets/a-short-hike/walk.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p>Walk</p>
@@ -42,7 +43,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 
   <div>
     <video controls>
-      <source src="/Blog/assets/a-short-hike/glide.mp4" type="video/mp4">
+      <source src="{{ '/assets/a-short-hike/glide.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p>Glide</p>
@@ -50,7 +51,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 
   <div>
     <video controls>
-      <source src="/Blog/assets/a-short-hike/run.mp4" type="video/mp4">
+      <source src="{{ '/assets/a-short-hike/run.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p>Run</p>
@@ -58,7 +59,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 
   <div>
     <video controls>
-      <source src="/Blog/assets/a-short-hike/items.mp4" type="video/mp4">
+      <source src="{{ '/assets/a-short-hike/items.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p>Item Use</p>
@@ -80,9 +81,9 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
     - D: Progression Marker
     - A: Growth and Mastery
 <div class="picture-grid3">
-  <img src="/Blog/assets/a-short-hike/qg_climb.png" alt="Climb">
-  <img src="/Blog/assets/a-short-hike/qg_fclimb.png" alt="FClimb">
-  <img src="/Blog/assets/a-short-hike/qg_fsummit.png" alt="Summit"/>
+  <img src="{{ 'assets/a-short-hike/qg_climb.png' | relative_url }}" alt="Climb">
+  <img src="{{ 'assets/a-short-hike/qg_fclimb.png' | relative_url }}" alt="FClimb">
+  <img src="{{ 'assets/a-short-hike/qg_fsummit.png' | relative_url }}" alt="Summit"/>
 </div>
 <br/><br/>
 
@@ -91,9 +92,9 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
     - D: Chest, NPCs, Items, etc.
     - A: Discovery and Exploration
 <div class="picture-grid3">
-  <img src="/Blog/assets/a-short-hike/qe_chest.png" alt="Chest">
-  <img src="/Blog/assets/a-short-hike/qe_feather.png" alt="Feather">
-  <img src="/Blog/assets/a-short-hike/qe_random.png" alt="Random"/>
+  <img src="{{ 'assets/a-short-hike/qe_chest.png' | relative_url }}" alt="Chest">
+  <img src="{{ 'assets/a-short-hike/qe_feather.png' | relative_url }}" alt="Feather">
+  <img src="{{ 'assets/a-short-hike/qe_random.png' | relative_url }}" alt="Random"/>
 </div>
 <br/><br/>
 
@@ -102,9 +103,9 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
     - D: Social Interaction
     - A: Narrative
 <div class="picture-grid3">
-  <img src="/Blog/assets/a-short-hike/npc_frog.png" alt="aww hec">
-  <img src="/Blog/assets/a-short-hike/npc_duck.png" alt="howdy">
-  <img src="/Blog/assets/a-short-hike/npc_bill.png" alt="fisherman"/>
+  <img src="{{ 'assets/a-short-hike/npc_frog.png' | relative_url }}" alt="aww hec">
+  <img src="{{ 'assets/a-short-hike/npc_duck.png' | relative_url }}" alt="howdy">
+  <img src="{{ 'assets/a-short-hike/npc_bill.png' | relative_url }}" alt="fisherman"/>
 </div>
 <br/><br/>
 
@@ -125,8 +126,8 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
     - D: Path-Memorizing and Feather Conservation
     - A: Challenge
 <div class="picture-grid2">
-  <img src="/Blog/assets/a-short-hike/f_pool.png" alt="Mountain Pool">
-  <img src="/Blog/assets/a-short-hike/f_fire.png" alt="Mountain Fire">
+  <img src="{{ 'assets/a-short-hike/f_pool.png' | relative_url }}" alt="Mountain Pool">
+  <img src="{{ 'assets/a-short-hike/f_fire.png' | relative_url }}" alt="Mountain Fire">
 </div>
 
 * * *
