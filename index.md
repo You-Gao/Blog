@@ -19,10 +19,10 @@ internal monologue about my life goes here
 
 internal monologue about why I wanted to write reviews
 
-link: [game-reviews]({{ '/game-reviews/' | relative_url }})
+link: [game-reviews]({{ '/games/' | relative_url }})
 
 # Book Reviews
 
 internal monologue about why I wanted to write reviews
  
-link: [book-reviews](https://www.yougao.dev/Blog/book-reviews/)
+link: [game-reviews]({{ '/books/' | relative_url }})
