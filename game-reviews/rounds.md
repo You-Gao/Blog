@@ -1,12 +1,13 @@
 ---
 categories:       blog
-date:             
+date:             2024-07-14
 description:  >-
   A reflection on ROUNDS
 lang:             en
-last_modified_at: 
+last_modified_at: 2024-07-14
 layout:           post
 tags:
+- Game-Review
 title: >-
   ROUNDS Game Analysis
 layout:           style
