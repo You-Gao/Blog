@@ -2,13 +2,13 @@
 categories:       blog
 date:             2024-07-14
 description:  >-
-  Home page for Henry's Blog
+  Home page for a very informative and super special blog.
 lang:             en
 last_modified_at: 2024-07-14
 layout:           style
 tags:
 title: >-
-  Main Page
+  Home
 ---
 
 # Welcome to My Blog!
