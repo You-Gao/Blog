@@ -9,7 +9,7 @@ layout:           style
 tags:
 title: >-
   Thoughts on Living
-permalink: /games/
+permalink: /life/
 ---
 
 <h1>Life</h1>

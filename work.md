@@ -9,7 +9,7 @@ layout:           style
 tags:
 title: >-
   Work
-permalink: /games/
+permalink: /work/
 ---
 
 <h1>Work</h1>
