@@ -14,7 +14,7 @@ layout:           style
 
 ## **ROUNDS Game Analysis**
 
-**<img>**
+<img src="/Blog/assets/rounds/game_logo.png" alt="Logo" class="game_logo"/>
 
 ### *Introduction:*
 
@@ -36,14 +36,54 @@ layout:           style
 
 **Skill Expression:** Even though the game houses a pretty simple set of controls, the shield mechanic heavily enables a wide range of possibilities along with the floaty yet snappy fast paced movement. Mastering these mechanics is pretty rewarding when you can be flying across the map on round start or flipping the match around via a well timed shield to reflect bullets.
 
+<div class="video-grid">
+  <div>
+    <video controls>
+      <source src="/Blog/assets/rounds/jump.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p>Jump</p>
+  </div>
+
+  <div>
+    <video controls>
+      <source src="/Blog/assets/rounds/shield.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p>Shield</p>
+  </div>
+</div>
+
 * * *
 
 ### *Core Mechanics:*
 
 - **Powerups:** After each bo2, the loser gets to select an enhancement from a set of 5 cards. These power-ups add and modify the existing mechanics while stacking with previously selected cards. The combinations of the power-ups makes each match unique and heavily incentivizes the player's creativity to generate an effective build.
+<div class="picture-grid3">
+  <img src="/Blog/assets/rounds/c1.png" alt="C1">
+  <img src="/Blog/assets/rounds/c2.png" alt="C2">
+  <img src="/Blog/assets/rounds/c3.png" alt="C3"/>
+</div>
+<br/><br/>
+
 - **Maps:** Each round within a match sets the two players in one of the many unique maps and environments. What makes them so fun is the fact that each map sets the battleground and environment for different player builds to fight in. The maps force the player to consciously adapt and recognize how to maximize the efficacy of their power-ups.
+<div class="picture-grid3">
+  <img src="/Blog/assets/rounds/m1.png" alt="M1">
+  <img src="/Blog/assets/rounds/m2.png" alt="M2">
+  <img src="/Blog/assets/rounds/m3.png" alt="M3"/>
+</div>
+<br/><br/>
+
 - **Human Opponent:** An interesting aspect of ROUNDS is that there is not an AI mode for you to play against for better or worse. However, the human element of an opponent adds a lot in making the game dynamic and pulls in the player more. There is something beautiful about the PvP aspect and continually adapting to each other's build to see which one wins out in the end.
+<br/><br/>
+
 - **Player Customization:** ROUNDS allows you to customize the character before heading into a match. It is a simple feature, but it does so much, as most games with character creation, in generating the genuineness of an opponent.
+<div class="picture-grid3">
+  <img src="/Blog/assets/rounds/p1.png" alt="P1">
+  <img src="/Blog/assets/rounds/p2.png" alt="P2">
+  <img src="/Blog/assets/rounds/p3.png" alt="P3"/>
+</div>
+<br/><br/>
 
 * * *
 
@@ -55,9 +95,14 @@ layout:           style
 
 ### *Themes and Player Experience:*
 
-Competition:** It goes without saying that the main point of a 1v1 game like ROUNDS is to destroy your opponent. The underlying depth is that within each match, you are put into mind games against the opponent and assess the skill differences in not only the shooter but also strategic power-up selections.
+- **Competition:** It goes without saying that the main point of a 1v1 game like ROUNDS is to destroy your opponent. The underlying depth is that within each match, you are put into mind games against the opponent and assess the skill differences in not only the shooter but also strategic power-up selections.
+<br/><br/>
+
 - **Expression:** The combinations of power-ups available in a match and the niche interaction of mechanics allow players to creatively invent themselves between different matches. Whether it is a one-shot glass cannon, rush-down shield explosion, or bullet-hell shotgun, ROUNDS mechanics let people explore and express their tactical ingenuity and strategic creativity.
+<br/><br/>
+
 - **Narrative and Immersion:** ROUNDS is a 1v1 shooter that puts the player in dialogue with the opponent via the gameplay mechanics and its core gimmick of power-ups. The addition of character customization adds another layer of immersion, which helps produce broader narrative elements like rivalry, conquest, and trickery.
+<br/><br/>
 
 * * *
 
@@ -68,3 +113,8 @@ ROUNDS is the type of game you look for when wanting a quick fix of fun against 
 I usually reflect deeply on the game and its values, but the most intriguing thought I had from this was on AI in games. I wanted a satisfactory answer to the question: Why play games vs. AI or real players? Like what would take away from, say, WoW if it were entirely NPCs even if it were an advanced AI. What I came to the conclusion was that there is something a real opponent contributes that allows for nuanced narratives and deeper immersions. 
 
 Playing against an AI makes it harder to construct the notion of a rival or really see the opponent as a "person" with whom to have that dimension of interaction. Even in the extreme case of, say, the best state-of-the-art RL agent, there seems to be something missing, knowing that everyone else around you are bots. That isn't to say an AI is bad by any means. Solo-player games have such immense potential in utilizing advanced AI to create better and more effective challenges for players to increase satisfaction. However, in the realm of PvP and MMORPGs, the human element truly shines through.
+
+Here are some clips of some cool kills:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i0iXxlvRic0?si=A9o_bBpQ2YIuAybb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+If you want to play the game: [https://landfall.se/rounds](https://landfall.se/rounds)
