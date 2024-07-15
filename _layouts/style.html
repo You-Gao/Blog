@@ -95,34 +95,16 @@
         vertical-align: bottom;
     }
 
+    ul {
+        list-style-type: none;
+    }
+      
 </style>
 
-<nav class="navbar navbar-expand-lg navbar-light container-lg px-1">
-    <div class="container-fluid align-text-bottom">
-        <a class="navbar-brand h1" href="{{ '/' | relative_url }}">You's Blog</a>
-        <a class="navbar-brand h2 my-3" href="{{'/about' | relative_url}}">About Me</a>
-        <div class="collapse navbar-collapse ms-auto" id="navbarNav">
-            <ul class="navbar-nav ms-auto align-text-bottom">
-                <li class="nav-item">
-                <a class="nav-link h2 my-3 italic-link align-text-bottom" aria-current="page" href="#">Topics:</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link h2 my-3" href="{{'/games' | relative_url}}">Games</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link h2 my-3" href="{{'/books' | relative_url}}">Books</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link h2 my-3" href="{{'/life' | relative_url}}">Life</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link h2 my-3" href="{{'/work' | relative_url}}">Work</a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</nav>
+{% include header.html %}
 
 <div class="container-lg px-3 my-2 markdown-body">
 {{ content }}
 </div>
+
+{% include footer.html %}

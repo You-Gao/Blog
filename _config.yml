@@ -8,6 +8,10 @@ baseurl: "/Blog" # the subpath of your site, e.g. /blog
 url: "https://yougao.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  You-Gao
 
+author: You Gao
+website: https://www.yougao.dev/
+email: mail@yougao.dev
+
 collections:
   books:
     output: true
