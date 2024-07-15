@@ -9,7 +9,7 @@ layout:           style
 tags:
 title: >-
   About Me
-
+permalink: /about/
 ---
 
 # Welcome to My Blog!
