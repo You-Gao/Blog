@@ -71,6 +71,8 @@
         width: 100%;
         }
     
+
+    /* Header and Footer */
     .nav-item {
         vertical-align: bottom;
     }
@@ -91,20 +93,29 @@
     .italic-link {
         font-style: italic;
     }
-    .align-bottom {
-        vertical-align: bottom;
-    }
 
     ul {
         list-style-type: none;
     }
+
+    /* https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/ */
+    .Site {
+        display: flex;
+        min-height: 100vh;
+        flex-direction: column;
+      }
       
+    .Site-content {
+        flex: 1;
+    }
 </style>
 
+<body class="Site">
 {% include header.html %}
-
+<main class="Site-content">
 <div class="container-lg px-3 my-2 markdown-body">
 {{ content }}
 </div>
-
+</main>
+</body>
 {% include footer.html %}
