@@ -15,11 +15,11 @@ permalink: /life/
 <h1>Life</h1>
 
 <figure class="container-lg" style="padding: 0;">
-    <blockquote class="blockquote" style="font-size: 22px;">
-    <p>The most important attitude that can be formed is that of desire to go on learning.</p>
+    <blockquote class="blockquote" style="font-size: 21px;">
+    <p>Today you are You, that is truer than true. There is no one alive who is Youer than You.</p>
     </blockquote>
-    <figcaption class="blockquote-footer">
-    John Dewey, <cite title="Source Title">Experience and Education</cite>
+    <figcaption class="blockquote-footer" style="font-size: 14px;">
+    Dr. Seuss, <cite title="Source Title">Happy Birthday to You!</cite>
     </figcaption>
 </figure>
 

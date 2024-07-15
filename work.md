@@ -16,10 +16,10 @@ permalink: /work/
 
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote" style="font-size: 22px;">
-    <p>The most important attitude that can be formed is that of desire to go on learning.</p>
+    <p>We do not learn from experience... we learn from reflecting on experience.</p>
     </blockquote>
-    <figcaption class="blockquote-footer">
-    John Dewey, <cite title="Source Title">Experience and Education</cite>
+    <figcaption class="blockquote-footer" style="font-size: 14px;">
+    John Dewey, <cite title="Source Title">How We Think</cite>
     </figcaption>
 </figure>
 

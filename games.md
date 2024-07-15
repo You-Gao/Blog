@@ -14,11 +14,11 @@ permalink: /games/
 <h1>Game Reviews</h1>
 
 <figure class="container-lg" style="padding: 0;">
-    <blockquote class="blockquote" style="font-size: 22px;">
-    <p>The most important attitude that can be formed is that of desire to go on learning.</p>
+    <blockquote class="blockquote" style="font-size: 21px;">
+    <p>All are temporary worlds within the ordinary world, dedicated to the performance of an act apart.</p>
     </blockquote>
-    <figcaption class="blockquote-footer">
-    John Dewey, <cite title="Source Title">Experience and Education</cite>
+    <figcaption class="blockquote-footer" style="font-size: 14px;">
+    Johan Huizinga,  <cite title="Source Title"> Homo Ludens: A Study of the Play-Element in Culture</cite>
     </figcaption>
 </figure>
 
