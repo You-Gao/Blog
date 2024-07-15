@@ -22,3 +22,5 @@ permalink: /games/
     </li>
   {% endfor %}
 </ul>
+
+<hr />
