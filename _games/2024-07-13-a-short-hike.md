@@ -10,6 +10,8 @@ tags:
 title: >-
   "A Short Hike" Game Analysis
 layout:           style
+name: >-
+  A Short Hike
 ---
 
 ## **"A Short Hike" Game Analysis**

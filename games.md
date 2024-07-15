@@ -43,17 +43,17 @@ permalink: /games/
     </div>
     {% assign previousMonth = currentMonth %}
     <div class="col">
-    <h3>{{ currentMonth }}:</h3>
-    <ul>
+    <h3 class="my-1">{{ currentMonth }}:</h3>
+    <ul style="list-style-type: '- ';">
     
   {% elsif previousMonth != currentMonth and previousMonth == '' %}
     {% assign previousMonth = currentMonth %}
-    <div class="col">
-    <h3>{{ currentMonth }}:</h3>
-    <ul>
+    <div class="col ">
+    <h3 class="my-1">{{ currentMonth }}:</h3>
+    <ul style="list-style-type: '- ';">
   {% endif %}
   
-  <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+  <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.name }}</a></li>
   {% if forloop.last %}
     {% if previousMonth != '' %}
     </ul>
