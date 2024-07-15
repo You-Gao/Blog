@@ -22,5 +22,3 @@ permalink: /books/
     </li>
   {% endfor %}
 </ul>
-
-<hr />

@@ -26,5 +26,3 @@ link: [game-reviews]({{ '/games/' | relative_url }})
 internal monologue about why I wanted to write reviews
  
 link: [game-reviews]({{ '/books/' | relative_url }})
-
-<hr />
