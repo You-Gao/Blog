@@ -13,12 +13,63 @@ permalink: /books/
 ---
 
 <h1>Book Reviews</h1>
-<p>Here you will find all my book reviews.</p>
 
-<ul>
-  {% for post in site.books %}
-    <li>
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+<figure class="container-lg" style="padding: 0;">
+    <blockquote class="blockquote" style="font-size: 22px;">
+    <p>The most important attitude that can be formed is that of desire to go on learning.</p>
+    </blockquote>
+    <figcaption class="blockquote-footer">
+    John Dewey, <cite title="Source Title">Experience and Education</cite>
+    </figcaption>
+</figure>
+
+<div class="container-lg" style="padding: 0;">
+{% assign previousYear = '' %}
+{% assign previousMonth = '' %}
+{% assign sorted = site.books | reverse %}
+{% for post in sorted %}
+  {% assign currentYear = post.date | date: '%Y' %}
+  {% assign currentMonth = post.date | date: '%B' %}
+
+  {% if previousYear != currentYear and previousYear != ''  %}
+    {% if previousMonth != '' %}
+      </ul>
+      </div>
+      {% endif %}
+    </div>
+    {% assign previousYear = currentYear %}
+    {% assign previousMonth = '' %}
+    <h2>{{ currentYear }}</h2>
+    <div class="row row-cols-4">
+  {% elsif previousYear != currentYear and previousYear == '' %}
+    {% assign previousYear = currentYear %}
+    {% assign previousMonth = '' %}
+    <h2 class="my-0">{{ currentYear }}</h2>
+    <div class="row row-cols-4">
+  {% endif %}
+  
+  {% if previousMonth != currentMonth and previousMonth != '' %}
+    </ul>
+    </div>
+    {% assign previousMonth = currentMonth %}
+    <div class="col">
+    <h3 class="my-2">{{ currentMonth }}:</h3>
+    <ul style="list-style-type: '- ';">
+    
+  {% elsif previousMonth != currentMonth and previousMonth == '' %}
+    {% assign previousMonth = currentMonth %}
+    <div class="col ">
+    <h3 class="my-2">{{ currentMonth }}:</h3>
+    <ul style="list-style-type: '- ';">
+  {% endif %}
+  
+  <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.name }}</a></li>
+  {% if forloop.last %}
+    {% if previousMonth != '' %}
+    </ul>
+    </div>
+    </div> <!-- Close the last column -->
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</div>

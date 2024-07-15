@@ -13,7 +13,17 @@ permalink: /games/
 
 <h1>Game Reviews</h1>
 
-<div class="container">
+<figure class="container-lg" style="padding: 0;">
+    <blockquote class="blockquote" style="font-size: 22px;">
+    <p>The most important attitude that can be formed is that of desire to go on learning.</p>
+    </blockquote>
+    <figcaption class="blockquote-footer">
+    John Dewey, <cite title="Source Title">Experience and Education</cite>
+    </figcaption>
+</figure>
+
+
+<div class="container-lg" style="padding: 0;">
 {% assign previousYear = '' %}
 {% assign previousMonth = '' %}
 {% assign sorted = site.games | reverse %}
@@ -34,7 +44,7 @@ permalink: /games/
   {% elsif previousYear != currentYear and previousYear == '' %}
     {% assign previousYear = currentYear %}
     {% assign previousMonth = '' %}
-    <h2>{{ currentYear }}</h2>
+    <h2 class="my-0">{{ currentYear }}</h2>
     <div class="row row-cols-4">
   {% endif %}
   
@@ -43,13 +53,13 @@ permalink: /games/
     </div>
     {% assign previousMonth = currentMonth %}
     <div class="col">
-    <h3 class="my-1">{{ currentMonth }}:</h3>
+    <h3 class="my-2">{{ currentMonth }}:</h3>
     <ul style="list-style-type: '- ';">
     
   {% elsif previousMonth != currentMonth and previousMonth == '' %}
     {% assign previousMonth = currentMonth %}
     <div class="col ">
-    <h3 class="my-1">{{ currentMonth }}:</h3>
+    <h3 class="my-2">{{ currentMonth }}:</h3>
     <ul style="list-style-type: '- ';">
   {% endif %}
   
