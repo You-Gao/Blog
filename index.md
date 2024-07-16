@@ -11,18 +11,60 @@ title: >-
   Home
 ---
 
-# Welcome to My Blog!
+# Pick a Card, Any Card :^)
 
-internal monologue about my life goes here
+<div class="card-group row-cols-4">
 
-# Game Reviews
+<div class="cards">
+<div class="col">
+  <div class="card" style="width: 14rem;">
+    <img src="..." class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Games</h5>
+        <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      </div>
+  </div>
+</div>
+</div>
 
-internal monologue about why I wanted to write reviews
+<div class="cards">
+<div class="col">
+  <div class="card" style="width: 14rem;">
+    <img src="..." class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Books</h5>
+        <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      </div>
+  </div>
+</div>
+</div>
 
-link: [game-reviews]({{ '/games/' | relative_url }})
+<div class="cards">
+<div class="col">
+  <div class="card" style="width: 14rem;">
+      <img src="..." class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Life</h5>
+        <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      </div>
+  </div>
+</div>
+</div>
 
-# Book Reviews
+<div class="cards">
+<div class="col">
+  <div class="card" style="width: 14rem;">
+      <img src="..." class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Work</h5>
+        <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+      </div>
+  </div>
+</div>
+</div>
 
-internal monologue about why I wanted to write reviews
- 
-link: [game-reviews]({{ '/books/' | relative_url }})
+</div>

@@ -7,7 +7,7 @@ last_modified_at: 2024-07-14
 layout:           style
 tags:
 title: >-
-  Game Reviews
+  Games
 permalink: /games/
 ---
 
