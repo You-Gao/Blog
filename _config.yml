@@ -12,6 +12,9 @@ author: You Gao
 website: https://www.yougao.dev/
 email: mail@yougao.dev
 
+plugins:
+  - jekyll-seo-tag
+
 collections:
   books:
     output: true
