@@ -14,15 +14,24 @@ permalink: /about/
 
 # meet the author
 
-## potentially relevant information about You (Me): 
+<div class="container" style="text-align: left;  margin-left: 0;">
+  <div class="row">
+    <div class="col-7" style="text-align: left;  margin-left: 0;">
+    <h2 style="margin-left: -10px;"> potentially relevant information about You (Me): </h2>
+    <li>i like to code and dawdle about in my spare-time. </li>
+    <li>currently attending uva and getting my piece of paper in 2 years. </li>
+    <li>the blog topics say i enjoy games, books, and pondering. </li>
+    <li>pretty big music and food guy as well. </li>
+    <li>please trust me i am a human being as well plz </li>
+    </div>
 
-- i like to code and dawdle about in my spare-time.
-- currently attending uva and getting my piece of paper in 2 years.
-- the blog topics say i enjoy games, books, and pondering.
-- pretty big music and food guy as well.
-- please trust me i am a human being as well plz
+    <div class="col" style="text-align: center;">
+    <img src=" {{ 'assets/home/bundled_me.jpg' | absolute_url}}" class="card-img-top" style="width: 300px;" alt="...">
+    </div>
+  </div>
+</div>
 
-## [!WARNING!] monologue alert [!WARNING!]
+<h2>[!WARNING!] monologue alert [!WARNING!]</h2>
 
 my wife left me, took the kids. lost of all my money. dark and stormy night. tore my acl. betrayed by close friends. diagnosed with a terminal illness. and got cancelled on twitter (X)... 
 

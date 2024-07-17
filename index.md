@@ -15,7 +15,7 @@ title: >-
 
 <div class="card-group row-cols-4 my-6">
 
-<div class="cards">
+<div class="cards" href="{{'/games' | relative_url}}">
 <div class="col">
   <div class="card" style="width: 14rem;">
     <img src=" {{ 'assets/home/dad.jpg' | absolute_url}}" class="card-img-top" alt="...">
