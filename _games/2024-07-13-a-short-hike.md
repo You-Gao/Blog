@@ -16,7 +16,7 @@ name: >-
 
 ## **"A Short Hike" Game Analysis**
 
-<img src="{{ 'assets/a-short-hike/game_logo.png' | relative_url }}" alt="Logo" class="game_logo"/>
+<img src="{{ 'assets/games/a-short-hike/game_logo.png' | relative_url }}" alt="Logo" class="game_logo"/>
 
 
 ### *Introduction and Setting:* 
@@ -37,7 +37,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 <div class="video-grid">
   <div>
     <video controls>
-      <source src="{{ '/assets/a-short-hike/walk.mp4' | relative_url }}" type="video/mp4">
+      <source src="{{ '/assets/games/a-short-hike/walk.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p>Walk</p>
@@ -45,7 +45,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 
   <div>
     <video controls>
-      <source src="{{ '/assets/a-short-hike/glide.mp4' | relative_url }}" type="video/mp4">
+      <source src="{{ '/assets/games/a-short-hike/glide.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p>Glide</p>
@@ -53,7 +53,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 
   <div>
     <video controls>
-      <source src="{{ '/assets/a-short-hike/run.mp4' | relative_url }}" type="video/mp4">
+      <source src="{{ '/assets/games/a-short-hike/run.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p>Run</p>
@@ -61,13 +61,12 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 
   <div>
     <video controls>
-      <source src="{{ '/assets/a-short-hike/items.mp4' | relative_url }}" type="video/mp4">
+      <source src="{{ '/assets/games/a-short-hike/items.mp4' | relative_url }}" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p>Item Use</p>
   </div>
 </div>
-<br/><br/>
 
 * * *
 
@@ -84,9 +83,9 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
     - D: Progression Marker
     - A: Growth and Mastery
 <div class="picture-grid3">
-  <img src="{{ 'assets/a-short-hike/qg_climb.png' | relative_url }}" alt="Climb">
-  <img src="{{ 'assets/a-short-hike/qg_fclimb.png' | relative_url }}" alt="FClimb">
-  <img src="{{ 'assets/a-short-hike/qg_fsummit.png' | relative_url }}" alt="Summit"/>
+  <img src="{{ 'assets/games/a-short-hike/qg_climb.png' | relative_url }}" alt="Climb">
+  <img src="{{ 'assets/games/a-short-hike/qg_fclimb.png' | relative_url }}" alt="FClimb">
+  <img src="{{ 'assets/games/a-short-hike/qg_fsummit.png' | relative_url }}" alt="Summit"/>
 </div>
 <br/><br/>
 
@@ -95,9 +94,9 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
     - D: Chest, NPCs, Items, etc.
     - A: Discovery and Exploration
 <div class="picture-grid3">
-  <img src="{{ 'assets/a-short-hike/qe_chest.png' | relative_url }}" alt="Chest">
-  <img src="{{ 'assets/a-short-hike/qe_feather.png' | relative_url }}" alt="Feather">
-  <img src="{{ 'assets/a-short-hike/qe_random.png' | relative_url }}" alt="Random"/>
+  <img src="{{ 'assets/games/a-short-hike/qe_chest.png' | relative_url }}" alt="Chest">
+  <img src="{{ 'assets/games/a-short-hike/qe_feather.png' | relative_url }}" alt="Feather">
+  <img src="{{ 'assets/games/a-short-hike/qe_random.png' | relative_url }}" alt="Random"/>
 </div>
 <br/><br/>
 
@@ -106,9 +105,9 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
     - D: Social Interaction
     - A: Narrative
 <div class="picture-grid3">
-  <img src="{{ 'assets/a-short-hike/npc_frog.png' | relative_url }}" alt="aww hec">
-  <img src="{{ 'assets/a-short-hike/npc_duck.png' | relative_url }}" alt="howdy">
-  <img src="{{ 'assets/a-short-hike/npc_bill.png' | relative_url }}" alt="fisherman"/>
+  <img src="{{ 'assets/games/a-short-hike/npc_frog.png' | relative_url }}" alt="aww hec">
+  <img src="{{ 'assets/games/a-short-hike/npc_duck.png' | relative_url }}" alt="howdy">
+  <img src="{{ 'assets/games/a-short-hike/npc_bill.png' | relative_url }}" alt="fisherman"/>
 </div>
 <br/><br/>
 
@@ -129,8 +128,8 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
     - D: Path-Memorizing and Feather Conservation
     - A: Challenge
 <div class="picture-grid2">
-  <img src="{{ 'assets/a-short-hike/f_pool.png' | relative_url }}" alt="Mountain Pool">
-  <img src="{{ 'assets/a-short-hike/f_fire.png' | relative_url }}" alt="Mountain Fire">
+  <img src="{{ 'assets/games/a-short-hike/f_pool.png' | relative_url }}" alt="Mountain Pool">
+  <img src="{{ 'assets/games/a-short-hike/f_fire.png' | relative_url }}" alt="Mountain Fire">
 </div>
 
 * * *
