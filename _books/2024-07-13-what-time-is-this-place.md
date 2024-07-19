@@ -60,6 +60,15 @@ In contrast with the previous section, encountering time focuses more on how we 
 
 It is a fun perspective to take because it means that you can experience time through a factor of different external stimuli. There were plenty of examples given throughout the book, but my favorite one was how, in historical Japan, the burning of scented candles was used as a way to mark different times of the day. Each candle would have a distinct scent, and as the scent changed, it signaled a new period of time. This method of timekeeping intertwined the sense of smell with the passage of time, making time an olfactory experience. It might be redundant to say on top of this, but the societal implications of this are fascinating! People waiting for buses, streets bustling in the morning, traffic going to work, and so much more in our daily lives then contribute to our interpersonal temporal rhythms as we move throughout the day.
 
+## Discounting Time
+
+If you somewhat agree with what I have said in the previous sections and take it semi-seriously, then let me leave you with some practical advice. A lot of people since the beginning of time have been discounting it, likening it to some cheap commodity they have in abundance. What people don't realize is that it doesn't matter if you have 70, 50, 40, or even 1 year of your life left to live. Because if it is spent with eyes closed, they haven't experienced any of the time at all. So really, do your darndest intentionally spend  time to make memories, experience new experiences, and, at the end of time you will feel full. -- The alternative is that as you grow older, time moves faster and faster, because you have settled down into the routine.
+
+<div style="display: flex; justify-content: center; margin-top: 30px; margin-bottom: 40px;">
+    <iframe width="500" height="300" src="https://www.youtube.com/embed/vsYBtfQ3QDo?si=RX_cBQ0xxj_UdXbx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+
 ## Index (From My Notes)
   <table>
       <thead>
