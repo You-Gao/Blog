@@ -14,7 +14,7 @@ name: >-
   A Short Hike
 ---
 
-## **"A Short Hike" Game Analysis**
+# **"A Short Hike" Game Analysis**
 
 <img src="{{ 'assets/games/a-short-hike/game_logo.png' | relative_url }}" alt="Logo" class="game_logo"/>
 

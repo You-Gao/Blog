@@ -14,9 +14,9 @@ name: >-
   What Time is This Place?
 ---
 
-# What Time is This Place?
+# **What Time is This Place?**
 
-<div class="container my-2 px-2" style="text-align: left;  margin-left: -5px;">
+<div class="container px-2" style="text-align: left;  margin-left: -5px; margin-top: -25px;">
 <div class="row">
 
 <div class="col">
@@ -43,9 +43,7 @@ The writer, Kevin Lynch, is an urban designer; he coined the term "wayfinding" (
 </div>
 </div>
 
-* * *
-
-## *Accounting Time*
+## Accounting Time
 
 We don't really experience time as if it were a clock or linearly as we think. And that effect can be described in the relationship between memory and experience. Memory as a neurological function itself always seems to be turned on and churning without stopping. Although there is a difference between short-term and long-term memory, experience itself is very much separate and immaterial. On the other hand, even though experience does indeed attach itself to long-term memories, but necessarily acts as a process above memory itself.
 
@@ -55,17 +53,14 @@ Another clarifying example is the common saying that "time speeds up when you ar
 
 I'm not saying throw out your clock either because time is only experienced through the environment. There is a well-intended use of clock time for the synchronization of activities, and it drives the timing of those events, but all I'm saying is that the daily calendar doesn't dictate the experience of time. Going by yet another example is the common bureaucratic worker who does adhere to the calendar and solely changes places via calendar reminders. I would wager that their day passes all the same, with the time they clocked in and clocked out being one innocuous fog of time.
 
-* * *
 
-## *Encountering Time*
+## Encountering Time
 
 In contrast with the previous section, encountering time focuses more on how we relate and orient ourselves, using the same key components of memory and experience. What differs here is how the memory and experience are utilized. Accounting time was about the relation of changes that created time. Encountering time is about recognizing signifiers of an experience and using those to recognize temporal place. The night does not start at 8:00pm, but rather when people start to travel to bars and congregate, and when they finally arrive, that is when the night begins.
 
 It is a fun perspective to take because it means that you can experience time through a factor of different external stimuli. There were plenty of examples given throughout the book, but my favorite one was how, in historical Japan, the burning of scented candles was used as a way to mark different times of the day. Each candle would have a distinct scent, and as the scent changed, it signaled a new period of time. This method of timekeeping intertwined the sense of smell with the passage of time, making time an olfactory experience. It might be redundant to say on top of this, but the societal implications of this are fascinating! People waiting for buses, streets bustling in the morning, traffic going to work, and so much more in our daily lives then contribute to our interpersonal temporal rhythms as we move throughout the day.
 
-* * *
-
-  <h2>Index (From My Notes)</h2>
+## Index (From My Notes)
   <table>
       <thead>
           <tr>
