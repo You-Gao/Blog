@@ -45,7 +45,7 @@ The writer, Kevin Lynch, is an urban designer; he coined the term "wayfinding" (
 
 ## Accounting Time
 
-We don't really experience time as if it were a clock or linearly as we think. And that effect can be described in the relationship between memory and experience. Memory as a neurological function itself always seems to be turned on and churning without stopping. Although there is a difference between short-term and long-term memory, experience itself is very much separate and immaterial. On the other hand, even though experience does indeed attach itself to long-term memories, but necessarily acts as a process above memory itself.
+We don't really experience time as if it were a clock or linearly as we think. And that effect can be described in the relationship between memory and experience. Memory as a neurological function itself always seems to be turned on and churning without stopping. Although there is a difference between short-term and long-term memory, experience itself is very much separate and immaterial.
 
 If I were to ask you to think about your childhood experiences, it would very much tend to be fragmented sections of key moments that you have kept as a part of that "time." What experienced time is, then, seems to be a collection of long-term memories that can be drawn out by reflecting on past experiences. The relation of perceived change is the important part to state here. That change is what constructs the experience of time. The change within experiences, between experiences, and the present. To make sure of another point as well, I am only talking about the experience of time, which is separate from trying to speak on what time is of itself.
 
