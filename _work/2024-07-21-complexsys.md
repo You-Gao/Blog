@@ -7,7 +7,7 @@ lang:             en
 last_modified_at: 2024-07-21
 layout:           post
 tags:
-- Life
+- Work
 title: >-
   How Complex Systems Fail
 layout:           style
