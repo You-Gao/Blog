@@ -4,7 +4,7 @@ date:             2024-07-21
 description:  >-
   The recent Crowdstrike incident and insights
 lang:             en
-last_modified_at: 2024-07-21
+last_modified_at: 2024-07-23
 layout:           post
 tags:
 - Work
@@ -50,3 +50,6 @@ I think this is the best mindset going forward, off-course some heads will roll 
 1.  Write more tests and faithfully validate the states of your software.
 2.  Edge cases are very real, but they go uncaught.
 3.  I'm interesting in seeing how litigation goes for this.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bLHL75H_VEM?si=0Oy8artPhcsKbiCS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
