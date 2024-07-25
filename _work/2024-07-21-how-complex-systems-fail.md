@@ -53,3 +53,11 @@ I think this is the best mindset going forward, off-course some heads will roll 
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bLHL75H_VEM?si=0Oy8artPhcsKbiCS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br/><br/>
+
+## Citations
+
+Allspaw, J., & Cook, R.I. (2010). How Complex Systems Fail. Web Operations.
+
+Patriarca, R., Bergström, J., Di Gravio, G., & Costantino, F. (2018). Resilience engineering: Current status of the research and future challenges. Safety Science, 102, 79–100. https://doi.org/10.1016/j.ssci.2017.10.005

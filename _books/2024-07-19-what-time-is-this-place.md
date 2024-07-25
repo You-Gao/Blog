@@ -112,3 +112,17 @@ If you somewhat agree with what I have said in the previous sections and take it
           </tr>
       </tbody>
   </table>
+
+<br/><br/>
+
+## Citations
+
+Allman, M. J., & Meck, W. H. (2011). Pathophysiological distortions in time perception and timed performance. Brain, 135(3), 656–677. https://doi.org/10.1093/brain/awr210
+
+Bonato, M., Zorzi, M., & Umiltà, C. (2012). When time is space: Evidence for a mental time line. Neuroscience & Biobehavioral Reviews/Neuroscience and Biobehavioral Reviews, 36(10), 2257–2273. https://doi.org/10.1016/j.neubiorev.2012.08.007
+
+Grondin, S. (2010). Timing and time perception: A review of recent behavioral and neuroscience findings and theoretical directions. Attention, Perception & Psychophysics, 72(3), 561–582. https://doi.org/10.3758/app.72.3.561
+
+Krauss, S. (1970). The experience of time. BMJ, 1(5690), 235. https://doi.org/10.1136/bmj.1.5690.235-b
+
+Lynch, K. A. (1972). What time is this place.

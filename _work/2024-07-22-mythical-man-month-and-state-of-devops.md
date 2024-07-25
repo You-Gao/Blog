@@ -113,3 +113,13 @@ Chapters:
 * CH 13: The Whole and the Parts
 
 ** Note: I think there is still an art of setting up a non-cloud native networking environment
+
+<br/><br/>
+
+## Citations
+
+2023 State of DevOps Report | Google Cloud. (n.d.). Google Cloud. https://cloud.google.com/devops/state-of-devops
+
+Brooks, F.P. (1987). No Silver Bullet: Essence and Accidents of Software Engineering.
+
+Brooks, F.P. (1975). The Mythical Man-Month. Reliable Software.
