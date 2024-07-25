@@ -118,7 +118,7 @@ Chapters:
 
 ## Citations
 
-2023 State of DevOps Report | Google Cloud. (n.d.). Google Cloud. https://cloud.google.com/devops/state-of-devops
+2023 State of DevOps Report, Google Cloud. (n.d.). Google Cloud. https://cloud.google.com/devops/state-of-devops
 
 Brooks, F.P. (1987). No Silver Bullet: Essence and Accidents of Software Engineering.
 

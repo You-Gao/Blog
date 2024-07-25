@@ -65,3 +65,19 @@ The broader ethical question is: How should you be happy?
     - If you are sure -> you did it, go celebrate.
 - To the older generation trying to understand this phenomena: think back on the proliferation and emergence of smoking.
     - But in this case, it is more of a cognitive? addiction than physical.
+
+<br/><br/>
+
+## Citations
+
+Anderson, E.L., Steen, E., & Stavropoulos, V. (2017). Internet use and Problematic Internet Use: a systematic review of longitudinal research trends in adolescence and emergent adulthood. International Journal of Adolescence and Youth, 22, 430-454.
+
+Braun-Courville, D.K., & Rojas, M. (2009). Exposure to sexually explicit Web sites and adolescent sexual attitudes and behaviors. The Journal of Adolescent Health: Official Publication of the Society for Adolescent Medicine, 45(2), 156-162.
+
+Gray, C.M., Kou, Y., Battles, B., Hoggatt, J., & Toombs, A. (2018). The Dark (Patterns) Side of UX Design. Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems.
+
+Nguyen, C.T. (2018). ECHO CHAMBERS AND EPISTEMIC BUBBLES. Episteme, 17, 141-161.
+
+Jones, F., & Skinner, B.F. (2016). The Behavior of Organisms: An Experimental Analysis.
+
+Rescorla, R., & Wagner, A.R. (1972). A theory of Pavlovian conditioning: Variations in the effectiveness of reinforcement and nonreinforcement.
