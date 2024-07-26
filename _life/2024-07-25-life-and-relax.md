@@ -22,7 +22,7 @@ I made this to reflect on what I do when I'm not deeply working. In my childhood
 
 ## Living
 
-If work is to set a goal as the means to an end (still can server larger goals), than I see living life as an end in itself (still can be goal oriented). For me work is a matter of duty to society and humanity whereas life is simply existing for my values. And reflecting on my values made me think back to an experience I had for a side-project w/ a CS Professor who was really into value-based living. There was some wisdom in that and I still have my notes from the retreat, but the main thing I took away was realize my 3 key values were learning, growth, and openness.
+If work is to set a goal as the means to an end (still can serve a larger goals), than I see living life as an end in itself (still can be goal oriented). For me work is a matter of duty to society and humanity whereas life is simply existing for my values. And reflecting on my values made me think back to an experience I had for a side-project w/ a CS Professor who was really into value-based living. There was some wisdom in that and I still have my notes from the retreat, but the main thing I took away was realize my 3 key values were learning, growth, and openness.
 
 *Note: Looking at this, I realize there is an aspect of life in job as well. I could not be a bureaucrat.
 
@@ -39,3 +39,5 @@ So how does that lead me to organize my daily activities towards those values?
 7. Social Media: I limited it to an hour, but largely serves as a function for news
 
 I think sometimes though, it is about just getting to the next day. BUT be intentional when you can.
+
+There's no need to subscribe yourself to an -ism (although Zizek disagrees), but there is historic function.
