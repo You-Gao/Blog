@@ -2,16 +2,16 @@
 categories:       blog
 date:             2024-07-25
 description:  >-
-How I free myself from distractions and small signals.
+    How I free myself from distractions and small signals.
 lang:             en
 last_modified_at: 2024-07-25
 tags:
 - Life
 title: >-
-My Productivity Set-up
+    My Productivity Set-up
 layout:           style
 name: >-
-My Productivity Set-up
+    My Productivity Set-up
 ---
 
 # My Productivity Set-up
