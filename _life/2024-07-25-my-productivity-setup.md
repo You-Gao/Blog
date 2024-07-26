@@ -37,19 +37,32 @@ Looking back, this was seriously underpriced and I'm glad I bought it. Besides t
 
 ## Terminal and Tiling Manager
 
-The first actual modification I made to my environment was spending a couple hours editing my .bashrc to give it a good feel everytime I loaded it up. There's no point in productivity other than the creative aspect of making sure its a unique and separate mental mode. I also made sure to download a folder of fun / aesthetic images to randomize each boot with; very important that they match the theme you configured as well. Anyways heres the end results of .bashrc faningaling: Banner that tells me weather, class, and time. A quote to ponder on for 1 second. A large ASCII drawing that I spent too long customizing.
+The first actual modification I made to my environment was spending a couple hours editing my terminal configs to give it a good feel everytime I loaded it up. There's no point in productivity other than the creative aspect of making sure its a unique and separate mental mode. I also made sure to download a folder of fun / aesthetic images to randomize each boot with; very important that they match the theme you configured as well. Another very important thing to do is to go in and cusotmize your .bashrc to print something fun like a quote or ascii image out everytime it opens.
 
+Another key thing for my environment besides the terminal is the tiling manager. It allows me to consciously context switch between tasks, which helps me dial in on the tasks/purpose I gave a specific window. This practice does seem restricive at first, but the productivity gain from it in constrast to alt-tabbing on Windows is greatly appreciated.
 
+The 5 named windows I have are:
+1. Google
+2. PDF
+3. Joplin
+4. Terminal
+5. Habitica/To-Do
 
 ## Joplin
 
+A pretty solid open-source note taking app. I know Obsidian exists, but I already have a system going on for me and the trade-off isn't there for me to switch over. I have largely 3 groups of tag that I utilize and browse through which are based on their purpose. Each tag essentially lets you view the notes or sub-notebooks attaches wihch are usually just textbook readings etc. I'll list them below for you to judge if they are effective. Overall though, Jopling solid .md note taker, minimal and effective.
+
+* .compsci and .human (my two majors)
+* /basher, /designer /jupyter, /vimer, /vscoder (prospective career paths)
+* #life, #phil, $facts, $work (general categories for life)
+
 ## Habitica
+
+This app is one of the more interesting ones of the list. The app aims to gamify daily tasks, habits, and to-do lists in a positive way. And it does largely achieve that atleast for me. The thing with any habit tracker/daily task app; for it to be effective you need to do critical inquiry about what are you goals in life and then go in to set them up in the app. In a sense you are developing your "virtual self" that mirrors what you want to be in reality. It's a continuous process to reflect and see what other things you would like to artificially incentivize. On that point as well, you can create separate accounts for school, work, or however you want to segment it. 
 
 ## To-do
 
-<br/><br/>
+The classic to-do list everyone has. I use Microsoft because it syncs flagged emails and to Outlook's calendar so it is integrated. I don't use it too often for daily tasks then I would like, just because I'm not the greatest at estimating out what to do for the day. It is mostly used to store book-lists of what I plan on reading next, things I need to review, and serves as a general backlog for categories.
 
-## Citations
-
-
+(I skipped PDF, but it's some generic one that I always have to check htop for)
 
