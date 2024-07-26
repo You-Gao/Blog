@@ -41,3 +41,5 @@ So how does that lead me to organize my daily activities towards those values?
 I think sometimes though, it is about just getting to the next day. BUT be intentional when you can.
 
 There's no need to subscribe yourself to an -ism (although Zizek disagrees), but there is historic function.
+
+I support radical responsibility, critical thinking, and civic duty. (Reminder to not write at midnight)
