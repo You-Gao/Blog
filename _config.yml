@@ -29,3 +29,8 @@ collections:
   work:
     output: true
     permalink: /work/:title/
+
+image:
+  path: /assets/logo.png
+  height: 192
+  width: 192
