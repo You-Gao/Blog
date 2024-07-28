@@ -170,9 +170,8 @@ With that said, the motivator missing for me is the people climbing along with m
 
 Here is a clip of the most memorable moment for me in "A Short Hike"
 
-<div class="video-container">
-<iframe src="https://www.youtube.com/embed/KEJDFSUUzCo?si=__ZUXXb8rP5HVS-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/KEJDFSUUzCo?si=__ZUXXb8rP5HVS-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br/><br/>
 
 If you want to play the game: [https://ashorthike.com/](https://ashorthike.com/)

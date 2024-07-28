@@ -16,9 +16,9 @@ name: >-
 
 # Digital Hedonism
 
-<div style="text-align: left; margin-bottom: 15px; ">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/L8csN-ci3Yk?si=ADXqqsxQjTOxFQ9R&amp;start=41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+
+  <iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/L8csN-ci3Yk?si=ADXqqsxQjTOxFQ9R&amp;start=41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 Yeah, it has gotten pretty bad. Even when I try to stay aware and moderate myself, I get to the point where I am still unconsciously attracted to my phone (pretty bad...).  The thing is, even if you know why the internet works and go into it with a certain mindset, there are larger unconscious psychological processes that can and are exploited to drive more usage. So, the point of this blog is to look into why the internet is so powerful and how that relates to living life intentionally. To do so, I will be taking a look into Dark Patterns (UI/UX) and Psychology.
 
