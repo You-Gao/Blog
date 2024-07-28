@@ -12,7 +12,7 @@ title: >-
   MMM and DevOps
 layout:           style
 name: >-
-  The Mythical Man-Month and State of DevOps
+  MMM and DevOps
 ---
 
 # The Mythical Man-Month

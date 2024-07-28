@@ -12,7 +12,7 @@ title: >-
   A Philosophy of Software Design
 layout:           style
 name: >-
-  A Philosophy of Software Design: 1st Edition
+  A Philosophy of Software Design
 ---
 
 # A Philosophy of Software Design

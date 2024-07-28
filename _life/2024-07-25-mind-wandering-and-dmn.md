@@ -8,10 +8,10 @@ last_modified_at: 2024-07-25
 tags:
 - Life
 title: >-
-  Mind Wandering and DMN
+  Mind Wandering
 layout:           style
 name: >-
-  Mind Wandering and DMN 
+  Mind Wandering
 ---
 
 # Mind Wandering and DMN

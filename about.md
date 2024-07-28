@@ -17,10 +17,10 @@ permalink: /about/
 <div class="container-fluid" style="text-align: left;">
   <div class="row">
     <div class="col-sm-7" style="text-align: left;  margin-left: 0;">
-    <h2 style="margin-left: -10px;"> potentially relevant information about You (Me): </h2>
+    <h2 style="margin-left: -10px;"> potentially relevant information: </h2>
     <ul>
     <li>i like to code and dawdle about in my spare-time. </li>
-    <li>currently attending uva and getting my piece of paper in 2 years. </li>
+    <li>attending uva and getting my piece of paper in 2 years. </li>
     <li>i enjoy games, books, and pondering. </li>
     <li>pretty big music and food guy as well. </li>
     <li>more comprehensive about me is on the main site.</li>
