@@ -40,25 +40,25 @@ permalink: /work/
     {% assign previousYear = currentYear %}
     {% assign previousMonth = '' %}
     <h2>{{ currentYear }}</h2>
-    <div class="row row-cols-4">
+    <div class="row">
   {% elsif previousYear != currentYear and previousYear == '' %}
     {% assign previousYear = currentYear %}
     {% assign previousMonth = '' %}
     <h2 class="my-0">{{ currentYear }}</h2>
-    <div class="row row-cols-4">
+    <div class="row">
   {% endif %}
   
   {% if previousMonth != currentMonth and previousMonth != '' %}
     </ul>
     </div>
     {% assign previousMonth = currentMonth %}
-    <div class="col">
+    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
     <h3 class="my-2">{{ currentMonth }}:</h3>
     <ul style="list-style-type: '- ';">
     
   {% elsif previousMonth != currentMonth and previousMonth == '' %}
     {% assign previousMonth = currentMonth %}
-    <div class="col ">
+    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
     <h3 class="my-2">{{ currentMonth }}:</h3>
     <ul style="list-style-type: '- ';">
   {% endif %}
