@@ -4,11 +4,14 @@
       <a class="navbar-brand h1" href="{{ '/' | relative_url }}">You's Blog</a>
       <a class="navbar-brand h2 my-3" href="{{'/about' | relative_url}}">(About Me)</a>
 
-      <div class="col">
-      <div class="d-flex justify-content-center align-text-bottom" style="margin-left: 65px; margin-top: 0px;">
+      <div class="col" >
+      <div id="react-icon" class="d-flex justify-content-center align-text-bottom" style="margin-left: 65px; margin-top: 0px;">
         <button id="night-mode-toggle" class="btn btn-link">
-            <img id="toggle-icon" src="" alt="Night Mode" style="width: 50px; height: 50px;">
-        </button>
+            <script>
+                const theme = localStorage.getItem('theme') || 'normalize';
+                document.write('<img id="toggle-icon" src="/assets/' + theme + '.png" alt="Night Mode" style="width: 50px; height: 50px;">');
+            </script>
+        </button>  
       </div>
       </div>
 
@@ -37,32 +40,42 @@
   </div>
 </nav>
 
+<script type="text/babel">
+    const Toggle = () => {
+        const setTheme = (themeName) => {
+            const themeStyle = document.getElementById('theme-style');
+            const toggleIcon = document.getElementById('toggle-icon');
+            themeStyle.href = '/assets/' + themeName + '.css';
+            toggleIcon.src = '/assets/' + themeName + '.png';
+            localStorage.setItem('theme', themeName);
+        };
 
-<script>
-    // Function to set a given theme/color-scheme
-    function setTheme(themeName) {
-        const themeStyle = document.getElementById('theme-style');
-        const toggleIcon = document.getElementById('toggle-icon');
-        themeStyle.href = '/assets/' + themeName + '.css';
-        toggleIcon.src = '/assets/' + themeName + '.png';
-        localStorage.setItem('theme', themeName);
-    }
-
-    // Function to toggle between themes
-    function toggleTheme() {
-        const currentTheme = localStorage.getItem('theme') || 'normalize';
-        if (currentTheme === 'normalize') {
-            setTheme('normalize_invert');
-        } else {
-            setTheme('normalize');
+        const handleClick = () => {
+            const currentTheme = localStorage.getItem('theme') || 'normalize';
+            if (currentTheme === 'normalize') {
+                setTheme('normalize_invert');
+            } else {
+                setTheme('normalize');
+            }
         }
-    }
+        const size_style={
+            width: '50px',
+            height: '50px'
+        }
+        const currentTheme = localStorage.getItem('theme') || 'normalize';
+        const src_path = '/assets/' + currentTheme + '.png';
+        return (
+            <div>
+                <button id="night-mode-toggle" className="btn btn-link" onClick={handleClick}>
+                    <img 
+                    id="toggle-icon" 
+                    src={src_path}
+                    alt="Night Mode" 
+                    style={size_style} />
+                </button>
+            </div>
+        );
+    };
 
-    (function() {
-        const savedTheme = localStorage.getItem('theme') || 'normalize';
-        setTheme(savedTheme);
-    })();
-
-    // Add event listener to the toggle button
-    document.getElementById('night-mode-toggle').addEventListener('click', toggleTheme);
+    ReactDOM.render(<Toggle />, document.getElementById('react-icon'));
 </script>
