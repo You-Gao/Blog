@@ -16,17 +16,17 @@ name: >-
 
 # **What Time is This Place?**
 
-<div class="container px-2" style="text-align: left;  margin-left: -5px; margin-top: -25px;">
+<div class="container-fluid px-2" style="text-align: left;  margin-left: -5px; margin-top: -25px;">
 <div class="row">
 
-<div class="col">
+<div class="col-md">
 <h3 >Introduction</h3>
 
 The writer, Kevin Lynch, is an urban designer; he coined the term "wayfinding" and has worked on many interesting tidbits in his life. The book itself details how inhabitants of an environment experience time through environmental cues and how that translates to the larger picture of "rhythms of time." Its ideas made me piece together my thoughts about how we experience time more broadly. I eventually settled on a theory of experiencing time and focused on how we account for time and encounter or orient ourselves to time.
 
 </div>
 
-<div class="col-4" style="text-align: left;  margin-left: 0;">
+<div class="col-md-4" style="text-align: left;  margin-left: 0;">
 <img src="">
 
 <h3 style="margin-left: 0px; margin-top: 2px;">Further Exploration</h3>

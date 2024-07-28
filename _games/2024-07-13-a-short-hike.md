@@ -169,7 +169,10 @@ My own reflections on the game led me to the conclusion that I should go on a hi
 With that said, the motivator missing for me is the people climbing along with me. In the actual world, a hiker wouldn't normally encounter a shady person dealing enhancements or in search of 15 seashells (hiking with micro-missions sounds cool). I've also heard from others that a hike might include going off the path and then getting lost to eventually find yourself at the scenic view. At the end of the day, what makes "A Short Hike" and could make real hikes are the people you go with. Because it's really about the people; climbing the mountain is only a goal.
 
 Here is a clip of the most memorable moment for me in "A Short Hike"
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KEJDFSUUzCo?si=__ZUXXb8rP5HVS-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/KEJDFSUUzCo?si=__ZUXXb8rP5HVS-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 <br/><br/>
 
 If you want to play the game: [https://ashorthike.com/](https://ashorthike.com/)
