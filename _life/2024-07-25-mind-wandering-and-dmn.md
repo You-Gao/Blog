@@ -16,7 +16,7 @@ name: >-
 
 # Mind Wandering and DMN
 
-DMN in the context of the mind-wandering sounds like a ubiquitous 21st century drug found across the world to the uninitiated. But, it is actually the main functional group that scientist's have pointed to in explaining the phenomena of many functions humans experience like reflection, day-dreaming, streams-of-consciousness, and what I want to focus on here is mind-wandering. To explain why they believe it does so is pretty simple to explain. A researcher decided to look at the fMRI scans of patients while they were not doing anything and discovered a pattern which was then labeled the DMN (Default Mode Network).
+DMN, in the context of mind-wandering, sounds like a ubiquitous 21st-century drug to the uninitiated. But, it is actually the main functional group that scientists have pointed to in explaining the phenomena of many functions humans experience, like reflection, day-dreaming, streams-of-consciousness, and what I want to focus on here is mind-wandering. Explaining why they believe it does so is pretty simple. A researcher decided to look at the fMRI scans of patients while they were not doing anything and discovered a pattern, which was then labeled the DMN (Default Mode Network).
 
 Yeah, I thought I would have written more, but I don't think I have more to say other than summaries. 
 

@@ -78,7 +78,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
     - A: Growth and Mastery
 <br/><br/>
 
-- **Mountain (Goal):** The game's main objective is to reach the peak of a tall mountain, initially inaccessible to the player. Collecting golden feathers grants more freedom of movement, enabling further exploration. The goal of getting the top sets a clear, but ephemeral measurement for the player's progress.
+- **Mountain Top:** The game's main objective is to reach the peak of a tall mountain, initially inaccessible to the player. Collecting golden feathers grants more freedom of movement, enabling further exploration. The goal of getting the top sets a clear, but ephemeral measurement for the player's progress.
     - M: Mountain
     - D: Progression Marker
     - A: Growth and Mastery
@@ -89,7 +89,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 </div>
 <br/><br/>
 
-- **Mountain (Environment):** The mountain also serves as the general playing ground for the player with different mechanics scattered throughout it and hidden locations spread throughout. Throughout the play-time of the player whether they are set-out by NPCs or in search of chests, the mountain allows the player to orient themselves and set-out new micro goals.
+- **Mountain:** The mountain also serves as the general playing ground for the player with different mechanics scattered throughout it and hidden locations spread throughout. Throughout the play-time of the player whether they are set-out by NPCs or in search of chests, the mountain allows the player to orient themselves and set-out new micro goals.
     - M: Mountain Environment
     - D: Chest, NPCs, Items, etc.
     - A: Discovery and Exploration
@@ -111,7 +111,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 </div>
 <br/><br/>
 
-- **Quest (Existence):** The main avenue for the player to collect more of the golden feathers is through completing quests given by NPCs scattered throughout the mountain. Each of these quests focuses on a unique aspect of the game while granting the player more feathers. The existence of these quests incentivizes the player to actively search for NPCs and enframe them in more to the world of "A Short Hike".
+- **Quests:** The main avenue for the player to collect more of the golden feathers is through completing quests given by NPCs scattered throughout the mountain. Each of these quests focuses on a unique aspect of the game while granting the player more feathers. The existence of these quests incentivizes the player to actively search for NPCs and enframe them in more to the world of "A Short Hike".
     - M: Quest
     - D: Active Quest Searching
     - A: Discovery and Exploration
