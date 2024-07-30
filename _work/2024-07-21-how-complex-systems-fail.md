@@ -12,7 +12,7 @@ title: >-
   How Complex Systems Fail
 layout:           style
 name: >-
-  How Complex Systems Fail
+  How Complex Systems Fail and Clowdstrike
 ---
 
 # [How Complex Systems Fail](https://how.complexsystems.fail/)
