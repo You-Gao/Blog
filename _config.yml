@@ -1,8 +1,8 @@
-name: Henry's Blog
+name: You's Blog
 title: false
 
 description: >- # this means to ignore newlines until "baseurl:"
-  An archive of my thoughts about life and probably everything else.
+  An archive of my thoughts on life.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.yougao.dev" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,3 +29,8 @@ collections:
   work:
     output: true
     permalink: /work/:title/
+
+image:
+  path: /assets/logo.png
+  height: 192
+  width: 192

@@ -78,7 +78,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
     - A: Growth and Mastery
 <br/><br/>
 
-- **Mountain (Goal):** The game's main objective is to reach the peak of a tall mountain, initially inaccessible to the player. Collecting golden feathers grants more freedom of movement, enabling further exploration. The goal of getting the top sets a clear, but ephemeral measurement for the player's progress.
+- **Mountain Top:** The game's main objective is to reach the peak of a tall mountain, initially inaccessible to the player. Collecting golden feathers grants more freedom of movement, enabling further exploration. The goal of getting the top sets a clear, but ephemeral measurement for the player's progress.
     - M: Mountain
     - D: Progression Marker
     - A: Growth and Mastery
@@ -89,7 +89,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 </div>
 <br/><br/>
 
-- **Mountain (Environment):** The mountain also serves as the general playing ground for the player with different mechanics scattered throughout it and hidden locations spread throughout. Throughout the play-time of the player whether they are set-out by NPCs or in search of chests, the mountain allows the player to orient themselves and set-out new micro goals.
+- **Mountain:** The mountain also serves as the general playing ground for the player with different mechanics scattered throughout it and hidden locations spread throughout. Throughout the play-time of the player whether they are set-out by NPCs or in search of chests, the mountain allows the player to orient themselves and set-out new micro goals.
     - M: Mountain Environment
     - D: Chest, NPCs, Items, etc.
     - A: Discovery and Exploration
@@ -111,7 +111,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 </div>
 <br/><br/>
 
-- **Quest (Existence):** The main avenue for the player to collect more of the golden feathers is through completing quests given by NPCs scattered throughout the mountain. Each of these quests focuses on a unique aspect of the game while granting the player more feathers. The existence of these quests incentivizes the player to actively search for NPCs and enframe them in more to the world of "A Short Hike".
+- **Quests:** The main avenue for the player to collect more of the golden feathers is through completing quests given by NPCs scattered throughout the mountain. Each of these quests focuses on a unique aspect of the game while granting the player more feathers. The existence of these quests incentivizes the player to actively search for NPCs and enframe them in more to the world of "A Short Hike".
     - M: Quest
     - D: Active Quest Searching
     - A: Discovery and Exploration
@@ -169,7 +169,9 @@ My own reflections on the game led me to the conclusion that I should go on a hi
 With that said, the motivator missing for me is the people climbing along with me. In the actual world, a hiker wouldn't normally encounter a shady person dealing enhancements or in search of 15 seashells (hiking with micro-missions sounds cool). I've also heard from others that a hike might include going off the path and then getting lost to eventually find yourself at the scenic view. At the end of the day, what makes "A Short Hike" and could make real hikes are the people you go with. Because it's really about the people; climbing the mountain is only a goal.
 
 Here is a clip of the most memorable moment for me in "A Short Hike"
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KEJDFSUUzCo?si=__ZUXXb8rP5HVS-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/KEJDFSUUzCo?si=__ZUXXb8rP5HVS-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br/><br/>
 
 If you want to play the game: [https://ashorthike.com/](https://ashorthike.com/)

@@ -14,19 +14,21 @@ permalink: /about/
 
 # meet the author
 
-<div class="container" style="text-align: left;  margin-left: 0;">
+<div class="container-fluid" style="text-align: left;">
   <div class="row">
-    <div class="col-7" style="text-align: left;  margin-left: 0;">
-    <h2 style="margin-left: -10px;"> potentially relevant information about You (Me): </h2>
+    <div class="col-sm-7" style="text-align: left;  margin-left: 0;">
+    <h2 style="margin-left: -10px;"> potentially relevant information: </h2>
+    <ul>
     <li>i like to code and dawdle about in my spare-time. </li>
-    <li>currently attending uva and getting my piece of paper in 2 years. </li>
-    <li>the blog topics say i enjoy games, books, and pondering. </li>
+    <li>attending uva and getting my piece of paper in 2 years. </li>
+    <li>i enjoy games, books, and pondering. </li>
     <li>pretty big music and food guy as well. </li>
-    <li>please trust me i am a human being as well plz </li>
+    <li>more comprehensive about me is on the main site.</li>
+    </ul>
     </div>
 
-    <div class="col" style="text-align: center;">
-    <img src=" {{ 'assets/home/bundled_me.jpg' | absolute_url}}" class="card-img-top" style="width: 300px;" alt="...">
+    <div class="col-sm-5" style="text-align: center;">
+    <img src=" {{ 'assets/home/bundled_me.jpg' | absolute_url}}" class="img-fluid" style="width: 300px;" alt="...">
     </div>
   </div>
 </div>

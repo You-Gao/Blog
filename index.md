@@ -22,7 +22,7 @@ title: >-
       <div class="card-body">
         <h5 class="card-title">Games</h5>
         <h6 class="card-subtitle mb-2 text-muted">are ya winning son?</h6>
-        <p class="card-text">Analysis, reviews, and reflections from a person who has played a lot of them.</p>
+        <p class="card-text">Analysis, reviews, and reflections from a person who has played a lot of them. Some cool stuff.</p>
         <a href="{{'/games' | relative_url}}" class="stretched-link"></a>
       </div>
   </div>
@@ -64,7 +64,7 @@ title: >-
       <div class="card-body">
         <h5 class="card-title">Work</h5>
         <h6 class="card-subtitle mb-2 text-muted">avg it experience</h6>
-        <p class="card-text">Things about computer science and the job. Might just be about things I put my energy in.</p>
+        <p class="card-text">Things about computer science and the job. Reflections about things I put my energy in.</p>
         <a href="{{'/work' | relative_url}}" class="stretched-link"></a>
       </div>
   </div>

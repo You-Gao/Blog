@@ -16,17 +16,17 @@ name: >-
 
 # **What Time is This Place?**
 
-<div class="container px-2" style="text-align: left;  margin-left: -5px; margin-top: -25px;">
+<div class="container-fluid px-2" style="text-align: left;  margin-left: -5px; margin-top: -25px;">
 <div class="row">
 
-<div class="col">
+<div class="col-md">
 <h3 >Introduction</h3>
 
-The writer, Kevin Lynch, is an urban designer; he coined the term "wayfinding" (pretty cool) and has worked on many interesting tidbits in his life. The book itself details how inhabitants of an environment experience time through environmental cues and how that translates to the larger picture of "rhythms of time." Its ideas made me piece together my thoughts about how we experience time more broadly. I eventually settled on a theory of experiencing time and focused on how we account for time and encounter or orient ourselves to time.
+The writer, Kevin Lynch, is an urban designer; he coined the term "wayfinding" and has worked on many interesting tidbits in his life. The book itself details how inhabitants of an environment experience time through environmental cues and how that translates to the larger picture of "rhythms of time." Its ideas made me piece together my thoughts about how we experience time more broadly. I eventually settled on a theory of experiencing time and focused on how we account for time and encounter or orient ourselves to time.
 
 </div>
 
-<div class="col-4" style="text-align: left;  margin-left: 0;">
+<div class="col-md-4" style="text-align: left;  margin-left: 0;">
 <img src="">
 
 <h3 style="margin-left: 0px; margin-top: 2px;">Further Exploration</h3>
@@ -62,7 +62,7 @@ It is a fun perspective to take because it means that you can experience time th
 
 ## Discounting Time
 
-If you somewhat agree with what I have said in the previous sections and take it semi-seriously, then let me leave you with some practical advice. A lot of people since the beginning of time have been discounting it, likening it to some cheap commodity they have in abundance. What people don't realize is that it doesn't matter if you have 70, 50, 40, or even 1 year of your life left to live. Because if it is spent with eyes closed, you haven't experienced any of the time at all. So really, do your darndest intentionally spend  time to make memories, experience new experiences, and, if you do it right, at the end of time you will feel full. -- The alternative is that as you grow older, time moves faster and faster, because you have settled down into the routine.
+If you somewhat agree with what I have said in the previous sections and take it semi-seriously, then let me leave you with some practical advice. A lot of people since the beginning of time have been discounting it. What people don't realize is that it doesn't matter if you have 70, 50, 40, or even 1 year of your life left to live. Because if it is spent with eyes closed, you haven't experienced any of the time at all. So really, do your best intentionally spend time to make memories, experience new things, and, if you do it right, at the end of time you will feel full. -- The alternative is that as you grow older, time moves faster and faster, because you have settled down into the routine.
 
 <div style="display: flex; justify-content: center; margin-top: 30px; margin-bottom: 40px;">
     <iframe width="500" height="300" src="https://www.youtube.com/embed/vsYBtfQ3QDo?si=RX_cBQ0xxj_UdXbx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
