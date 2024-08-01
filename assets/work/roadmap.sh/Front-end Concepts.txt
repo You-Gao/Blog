@@ -1,0 +1,101 @@
+Front-end Engineer:
+https://roadmap.sh/frontend
+
+![Warning]! = iffy if i got the concepts to know correct
+** = what even is this??? (unknown unknown)
+* = not fully conceptualized or have actually used (known unknown)
+? = i want to understand the higher/broader concepts better (deeper wisdom or rusty)
+
+Internet:
+? How does the internet work? - OSI Model, BGP Protocol,  Security Protocols, and Network Infrastructure
+? What is HTTP? - TLS/SSL Handshake, Security Mechanisms, RESTFul
+What is hosting? - Web Servers, Hosting Architectures
+DNS and how do they work? - DNS Records, DNS Resolution
+Browsers and how do they work? - DOM Constructions and Repainting, HTTP Requests, DNS Lookups
+
+HTML:
+Semantic HTML
+SEO Tags - OpenGraph
+? HTML 5 Features - LocalStorage, WebASM
+* Accessibility - WCAG, Accessibility Tools, ARIA
+
+CSS:
+CSS Custom Properties
+CSS Libraries - Bootstrap 5, Tailwind
+* Responsive Design - Media Queries, Viewport, Flexbox, Behavior
+
+![Warning]!
+JavaScript:
+JS Syntax - Functions, Objects, Variables
+* V8 Engine - JIT, WebASM, Optimization
+* Asynchronous and Event Loop - Async/Await, Task Queues
+* DOM + OOP - Node Manipulation, Shadow DOM, DOM Objects
+
+
+------- Build Tools -------
+
+Package Managers:
+(npm, pnpm, yarn)
+Dependency Management - Versions, Transitive Dependencies
+* Semantic Versioning - Version Formats, Releases
+* Repositories - Registries
+
+Pick a Framework:
+(React, Angular, etc.)
+* Data Binding - Two-way / One-way, Directives 
+* Component Architecture - Babel, .JSX, State Management
+* Responsive Classes - Conditional, Hooks, "Reactive"
+
+CSS Preprocessors:
+(Sass, PostCSS)
+** Mix-ins
+** Functions
+** Logic Directives
+
+Modules:
+(Vite, Parcel, Esbuild)
+** Transpiler
+** Bundler
+? Dev Server - Live Reload, Ports
+
+Linters:
+(Prettier, ESLint)
+** ASTs
+** Linter Scopes
+** Custom Rules
+
+Testers:
+(Vitest, Cypress)
+? E2E Testing - Validate, Smoke-test, Cross-functional Reqs
+** State Management
+** Mocks
+
+Parts of the Roadmap Left (In-Order):
+* Web Security Basics
+** Web Components
+* Type Checkers
+** Server Side Rendering
+** GraphQL
+** Progressive Web Apps
+* Static Site Generators (JEKYLL?)
+** Mobile Apps
+** Desktop Apps
+
+Skipped in Mentions:
+Git
+Authentication
+
+To become a better Front-end dev I need to focus on:
+Understanding V8 and Browser Execution
+Learning Responsive CSS Design
+Using Package Managers
+Trying JS Frameworks
+Researching Linters
+Applying Testing to JS Projects
+
+> Future:
+Optimize Webapps and Development
+Mobile and Desktop
+
+--
+END, *'s still need to be removed before roadmap check-off

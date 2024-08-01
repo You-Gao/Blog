@@ -1,0 +1,83 @@
+ Back-end Engineer:
+https://roadmap.sh/backend
+
+![Warning]! = iffy if i got the concepts to know correct
+** = what even is this??? (unknown unknown)
+* = not fully conceptualized or have actually used (known unknown)
+? = i want to understand the higher/broader concepts better (deeper wisdom or rusty)
+
+Internet:
+? How does the internet work? - OSI Model, BGP Protocol, and ISPs
+? What is HTTP? - TLS/SSL, Security Mechanisms, RESTFul
+What is hosting? - Web Servers, Hosting Architectures
+DNS and how do they work? - DNS Records, DNS Resolution
+Browsers and how do they work? - DOM Constructions and Repainting, HTTP Requests
+
+Language:
+? Compilation - Linking, AST, Platform-agnostic (Bytecode), Make
+Execution - Concurrency, I/O, Exceptions, Memory (how it's used)
+Page-Tables, Sys Calls, CPU Caching, OO-Execution, Spec-Ex - i'm kidding...
+
+Frameworks (they didn't have this?):
+Flask - Blueprints, Templates, Decorator Extensions (Microservices)
+Django - App, Models, Templates, Views (Monolithic)
+Spring-boot - Models, Databases, Controllers, Repositories
+
+Relation DBs:
+(PostgreSQL, SQLite, MySQL, Oracle)
+Syntax - SQL, Complex Queries, Building Queries
+? Data Structures - Index Structures, Tables, Keys (mostly just the underlying algorithms)
+Relationships and Forms - XNF, X-X Relationships, Complex Joins (sigh)
+
+API General Topics:
+REST APIs - Stateless, Error Handling, and OAS
+Authentication - OICD, JWT, OAUTH2
+* Testing - Unit, Integration, Functional
+
+Caching:
+(Redis, Memcached)
+Server-side - Key-Value, Cache Invalidation
+* Client-side - Cookies, CDNs
+
+Web Security:
+* Firewall - Packet Inspection & Filtering
+* CORS - Headers, Preflight
+* Security - OWASP, Hashing, Best Practices 
+
+Database Grab-bag:
+ORMS - Classes, Relationships, SQL as Classes
+* Best Practices - ACID, no N+1, Normalization, Transactions
+** Failure Modes
+** Performance Profiling
+
+Software Architecture:
+Monolithic - Front End <-> Back End <-> Another Service
+Microservices - Front End -> Back End or -> Another Service
+Service Oriented Architecture - In between monolithic and microservices (specifically DBs)
+** Serverless, Service Mesh, Twelve Factor Apps
+
+Parts of the Roadmap Left (In-Order):
+* Scaling Databases
+* Design and Development Principles
+* Docker (In-depth)
+* Kubernetes (In-depth)
+* Scaling APIs
+* Monitoring
+* Message Brokers
+* Search Engines
+* Web Servers
+** Real-Time Data
+* NoSQL DBs
+
+Skipped in Mentions:
+Git
+Testing
+
+To be a better Back-end Dev I need to focus on:
+Scaling APIs and DBs Theory
+Learning API Ecosystems (Logging, Brokers, Servers)
+Using Real-time Data (non REST)
+Trying NoSQL DB Solutions
+
+--
+END, *'s still need to be removed before roadmap check-off

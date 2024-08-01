@@ -1,0 +1,25 @@
+Technical Writer:
+
+* = not fully conceptualized or have actually used (known unknown & unknown known)
+** = what even is this??? (unknown unknown)
+
+Introduction:
+Who/What is Technical Writ(er/ing)?
+Role of Technical Writers
+Forms of Technical Writing
+
+Parts of the Roadmap Left (In-Order):
+* Required Skills
+* Tooling
+** Best Practices
+** Content Research
+** Types of Technical Content
+** Technical Content Marketing
+** Content SEO
+** (X)-Funnel Content
+** Content Optimization
+** Content Analysis
+** Content Distribution
+
+--
+END, *'s still need to be removed before roadmap check-off

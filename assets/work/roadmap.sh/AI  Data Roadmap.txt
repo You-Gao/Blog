@@ -1,0 +1,56 @@
+AI / Data Scientist + Analyst:
+https://roadmap.sh/ai-data-scientist
+
+![Warning]! = iffy if i got the concepts to know correct
+** = what even is this??? (unknown unknown)
+* = not fully conceptualized or have actually used (known unknown)
+? = i want to understand the higher/broader concepts better (deeper wisdom or rusty)
+
+Mathematics:
+Linear Algebra - Vectors, Matrices, Transformations
+Differential Calculus - Derivatives, Integration
+
+Statistics:
+Understand all the types of distributions:
+https://pbs.twimg.com/media/DIZ4zh6WsAAblfL.jpg
+https://pbs.twimg.com/media/GCxJnJmWgAAO0jA?format=jpg&name=large
+
+? Hypothesis Testing - Type 1/2 Errors, Random Vars, 1 vs. 2 sample tests.
+? Probability Theory - Bayes, Probability Space, CLT
+Sampling Methods - SRS, Stratified, Cluster
+* Metrics - Feature Engineering, Measurement
+
+![Warning]!
+Econometrics:
+SARIMA - AR, I, MA
+? General Time Series - Autocorr, Seasonality
+** More complex econometrics
+
+Exploratory Data Analysis:
+Understand all these types of graphs:
+https://python-graph-gallery.com/
+
+Pandas, Matplot, Seaborn - Advanced DF Manipulation, Plot Elements, Multiples
+Scikit-Learn - Training, Model Creation, Train/Test
+
+Machine Learning:
+Understand all these types of algorithms:
+https://images.squarespace-cdn.com/content/v1/58dc1a1ee4fcb51cbb80a096/24c2f0fb-e667-42d6-a6fb-b2c4ad79ed41/ML-CheatSheet-en.png
+https://scikit-learn.org/1.3/tutorial/machine_learning_map/index.html
+
+? Supervised - Linear, Logistic, NNs
+? Unsupervised - Clustering, Dimensionality Reduction
+? Model Evaluation - Confusion Matrix, ROC Curve, Model Metrics
+
+Parts of the Roadmap Left (In-Order):
+* Deep Learning
+** MLOps
+
+To be a better Data Scientist I need to focus on:
+Formalizing Broader Concepts of ML
+Learning Econometrics / Time-series ML
+Using MLOps Platforms
+Experimenting with Deep Learning
+
+--
+END, *'s still need to be removed before roadmap check-off

@@ -1,0 +1,106 @@
+Dev-ops Engineer:
+https://roadmap.sh/devops
+
+![Warning]! = iffy if i got the concepts to know correct
+** = what even is this??? (unknown unknown)
+* = not fully conceptualized or have actually used (known unknown)
+? = i want to understand the higher/broader concepts better (deeper wisdom or rusty)
+
+Operating Systems:
+? Linux - File System, CLI, Packages
+? Windows - File System, CLI, Packages
+TempleOS - HolyC
+
+Terminal Knowledge:
+* Bash - Scripts, CMDs, I/O
+* Linux CMDS - Networking, Monitoring, General
+* Editors - VIM, Emacs, Nano
+
+Containers:
+(Docker)
+Images - Layers, Tags, Registry
+* Networking - Docker Compose, Bridge, Port Mapping
+* Daemon - Docker Engine, Container Management
+
+How to Setup X?:
+* F&P Proxy - Port Forwarding, Load Balancing, Client/Server
+* Load Balancing - Algorithms, Scaling, Health Checks 
+* Firewall - Network vs. Host, Filtering
+
+Networking Protocols:
+* HTTP/HTTPS - L7, Status Codes, Sessions 
+* SSH - L7, Encryption, Port Forwading
+* SSL/TLS - L6, Handshake, Certificates
+DNS - L7, Name Servers, DNS Queries
+
+------- Deployment Tools -------
+
+Cloud Providers:
+(AWS, Heroku, Azure, GCP)
+Service Models - IaaS, PaaS, SaaS
+* Deployment Models - Public, Private, Hybrid
+* Cloud Security - IAM, Recovery, Net Security
+
+Provisioning:
+(Terraform, CloudFormation)
+* IaC - Configuration, Provisioning, Immutable
+* Deployment Strategies - Blue-Green, Canary, Rolling
+
+Configuration Management:
+(Ansible, Chef, Puppet, YAML)
+? Config Files - File Formats, Templates
+* Config Versioning - Artifacts, Logs
+
+CI/CD Environment:
+(Gitlab CI, GitHub Actions, Jenkins, etc.)
+* CI - Builds, Artifacts, Pipelines
+* CD - Deployment, Rollback, Monitoring
+* Pipelines - Processes, Auditing, Releases
+
+Artifact Management:
+(Nexus, Cloud Smith, Artifactory)
+* Artifact Versioning - Metadata, Lifecycles
+* Dependency Management - Transitive Dependencies, Locking
+* Storage Formats - Binaries, Archives, Objects
+
+------- Application Tools -------
+
+Secret Management:
+(Vault, etc.)
+Dynamic Secrets - Injections, Expiration
+* Access Policies - Configuration, Assignment
+
+Infrastructure Monitoring:
+(Prometheus, Grafana, Datadog)
+Metrics - Business, Application, Infrastructure
+? Alerts - Anomaly, Threshold, Tracing
+
+Logs Management:
+(ELK, Loki, etc.)
+* Logging - Collection, Storage, Management
+* Analyzing - Parsing, Detection, Insights
+Visualizing - Dashboards
+
+Container Orchestration:
+(Kubernetes, etc.)
+* Pods - Containers, Lifecycles
+* Services - Load Balance, IP Assignment
+* Networking - Ingress, Policies, Plug-ins
+
+Parts of the Roadmap Left (In-Order):
+** Email Protocols
+** Application Monitoring
+** Service Mesh
+** Serverless
+** GitOps
+* Cloud Design Patterns
+
+To be a DevOps Engineer I need to focus on:
+Managing my own Cloud Environment
+Standing up my own Cloud CI/CD Pipeline
+Analyzing Build Artifacts
+Implementing Monitoring Solutions
+Practicing Linux CMDs
+
+--
+END, *'s still need to be removed before roadmap check-off

@@ -1,0 +1,10 @@
+My Personal Rankings
+
+1. Game Design - I like playing games, always wanted to formally make one at scale
+2. DevOps - I enjoy setting up environments and building everyone up around me
+3. Full-stack - Making a solution for client and business is always fun
+4. AI / Data - The interpretive process of data analysis and then developing models is 10/10
+5. Technical Writer - No.5, because I think I can do reasonably well at the role
+6. UX - Good to keep in mind while doing user facing work
+7. Software Architect - Too large-scale and removed from the building, atleast I think so
+X. Research Scientist - X factor here, I really enjoy creating things

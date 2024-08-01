@@ -1,0 +1,19 @@
+UX Designer:
+
+* = not fully conceptualized or have actually used (known unknown & unknown known)
+** = what even is this??? (unknown unknown)
+
+Parts of the Roadmap Left (In-Order):
+** Human Decision Making
+** Behavior Change Strategies
+** Existing and New Behavior
+** Conscious Action
+* Understanding the Product
+* Conceptual Design
+* Wireframing
+* Prototyping
+** UX Best Practices
+* Metrics for Testing
+
+--
+END, *'s still need to be removed before roadmap check-off
