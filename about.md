@@ -8,7 +8,7 @@ last_modified_at: 2024-07-14
 layout:           style
 tags:
 title: >-
-  About Me
+  about
 permalink: /about/
 ---
 
@@ -23,7 +23,7 @@ permalink: /about/
     <li>attending uva and getting my piece of paper in 2 years. </li>
     <li>i enjoy games, books, and pondering. </li>
     <li>pretty big music and food guy as well. </li>
-    <li>more comprehensive about me is on the main site.</li>
+    <li>more comprehensive about me is on the <a href="https://yougao.dev/">main site.</a></li>
     </ul>
     </div>
 
