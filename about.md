@@ -2,7 +2,7 @@
 categories:       blog
 date:             2024-07-14
 description:  >-
-  Who I am and why I started this blog.
+  who i am and why i started blogging
 lang:             en
 last_modified_at: 2024-07-14
 layout:           style

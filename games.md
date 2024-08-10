@@ -1,7 +1,7 @@
 ---
 date:             2024-07-14
 description:  >-
-  A list of all the games that have been reviewed by me, organized by year and month.
+  my attempt at answering "why play?"
 lang:             en
 last_modified_at: 2024-07-14
 layout:           style

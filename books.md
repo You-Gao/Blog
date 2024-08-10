@@ -2,7 +2,7 @@
 categories:       blog
 date:             2024-07-14
 description:  >-
-  A list of all the books that have been reviewed by me.
+  the books i read for fun
 lang:             en
 last_modified_at: 2024-07-14
 layout:           style

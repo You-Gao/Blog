@@ -2,7 +2,7 @@
 categories:       blog
 date:             2024-07-14
 description:  >-
-  Working in the world...
+  working in the world...
 lang:             en
 last_modified_at: 2024-07-14
 layout:           style
