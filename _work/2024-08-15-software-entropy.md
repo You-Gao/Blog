@@ -1,3 +1,20 @@
+---
+categories:       blog
+date:             2024-08-15
+description:  >-
+    Understanding what software entropy is.
+lang:             en
+last_modified_at: 2024-08-15
+layout:           post
+tags:
+- Work
+title: >-
+ Software Entropy and Silver Bullets
+layout:           style
+name: >-
+ Software Entropy and Silver Bullets
+---
+
 I wanted to write this blog to make the necessary scoping of software entropy
 Specifically waht software entropy encaptures as a behavior of software.
 A lot of people learn about this concept throughout college or the workplace,but I feel that there isn't a clear enough distinction. This ends up leading to the common misconception that there really isn't anything to do for 
