@@ -20,3 +20,11 @@ I think the first reaction for me is that of course being in contradiction with 
 This same question has been asked in psychology literature before, because there are a valuable set of people that requires them to have schedules out of sync. These people are dubbed: night shifters/workers. They faced the symptoms I have drawn out in the earlier chapters which is an incredible amount of social isolation. A thing I missed out on though was the real biological timings humans have to interact with the environment. Messing up circadian rhythyms will invariably mess you up biologically.
 
 * After reading about these, I realize I don't need to continue on writing.
+
+<br/><br/>
+
+## Citations
+
+Holt‐Lunstad, Julianne et al. “Loneliness and Social Isolation as Risk Factors for Mortality.” Perspectives on Psychological Science 10 (2015): 227 - 237.
+
+Touitou, Yvan et al. “Association between light at night, melatonin secretion, sleep deprivation, and the internal clock: Health impacts and mechanisms of circadian disruption.” Life Sciences 173 (2017): 94–106.
