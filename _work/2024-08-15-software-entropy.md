@@ -30,3 +30,8 @@ Once, software entropy is understood as not a magical deterioration of software 
 
 To oversimplify: good design + good code + good documentation = no software entropy.
 
+<br/><br/>
+
+## Citations
+
+Brooks, F.P. (1987). No Silver Bullet: Essence and Accidents of Software Engineering.
