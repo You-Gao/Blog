@@ -22,7 +22,7 @@ name: >-
 
 Yeah, it has gotten pretty bad. Even when I try to stay aware and moderate myself, I get to the point where I am still unconsciously attracted to my phone (pretty bad...).  The thing is, even if you know why the internet works and go into it with a certain mindset, there are larger unconscious psychological processes that can and are exploited to drive more usage. So, the point of this blog is to look into why the internet is so powerful and how that relates to living life intentionally. To do so, I will be taking a look into Dark Patterns (UI/UX) and Psychology.
 
-# Dark Patterns
+## Dark Patterns
 
 If you haven't heard of this term before, after you read about the examples, it will become much clearer. The general idea is that dark patterns are specific design choices in an application that work by targeting and exploiting psychological functions. I want to first highlight the dark patterns and then go deeper into their psychological/cognitive foundations in the next section.
 
@@ -31,13 +31,13 @@ If you haven't heard of this term before, after you read about the examples, it 
 - **Gamification:** Incentives that drive goal-seeking behavior. It's not bad in a vacuum, but it's questionable when its goals are exploitative.
 - **Social Gratification:** The corollary to gamification when it is applied through likes and shares. Is a video even good without likes?
 
-# Psychology and Dopamine Levers
+## Psychology and Dopamine Levers
 
 All of those patterns above prey on the same thing: short-term dopamine rewards ***without agency.*** The fun thing with social media apps is that they take advantage of both types of conditioning, Pavlovian (anticipation-based) and Skinnerian (reward-based). Tiktok, for example, uses Pavlovian-based conditioning to instill the drive to engage with content and crave more content. It also uses Skinnerian-based conditioning by allowing for continual access to rewards; think of each swipe to a new video as a positive electric shock. What is dangerous here is that the two forms of conditioning easily synergize and consistently utilize each other to trap the user further. The even more dubious part of this is how algorithms play into analyzing and furthering the content feedback loop by exploiting cognitive biases for continuing user engagement. I mean, Autoscroll would be useless if it was just purely random content being recommended, wouldn't it? 
 
 Such is the foundation of digital hedonism and leads to being lost in the short-term dopamine playground of the internet. The best thing you can do is recognize it when it occurs and stop it there. Still, even if you know the larger systematic patterns, you will need to be mindful of what dopamine levers are specifically being utilized. Some common ones online are gambling (variable rewards), sexual content, social interaction, achievement, and novelty. Something I'd like to highlight again is that these dopamine levers are not inherently bad; they turn bad when it is intentionally used to realize a goal that's not yours.
 
-# Internet Addicts vs. Drug Addicts?
+## Internet Addicts vs. Drug Addicts?
 
 Thinking about the differences and similarities between the internet and drug addicts can help further illuminate the conceptual difference between digital hedonism and standard hedonism. The main difference here is that drug addicts are much more of a material addiction to neurochemicals; the "feel good" arises from a physical substance. Internet addicts receive the "feel good" from more cognitive and immaterial processes, which is why I think it is more dubious. That's why I wrote this blog in the first place: because the mechanisms and dark patterns of the internet capture your agency and essentially force you to "feel good." Of course, the same agential takeover can occur the same way with physical drugs if someone pumps a person with drugs while they are sleeping. It is just way more likely to have the former takeover occurring due to how many people/organizations on the internet are aiming to capture you on their social platforms.
 
@@ -47,7 +47,7 @@ I don't think I did the greatest job in answering the question, so I will pose i
 
 The broader ethical question is: How should you be happy?
 
-# Practical Advice
+## Practical Advice
 
 - Simply just don't use the internet. Delete your social media apps. Go back to the real world.
     - I acknowledge the socio-economic effects that contribute to internet addiction and that might honestly be the most depressing thing about it.

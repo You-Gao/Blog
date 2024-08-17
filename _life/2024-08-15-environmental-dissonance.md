@@ -15,14 +15,17 @@ name: >-
 ---
 # Environmental Dissonance
 
-What do you do when you are out of tune with your environment? That is what I want to answer. We have heard of the idea of cognitive dissonance, where you believe one thing but continue to contradict that. So what happens when you are in contradiction with your environment?
+What do you do when you are out of tune with your environment? We have heard of the idea of cognitive dissonance, where you believe one thing but continue to contradict that. So what happens when you are in contradiction with your environment?
 
-I think the first reaction is that, of course, being in contradiction with society is a bad thing, right? If you are a night owl that stays up at night and goes to sleep in the daytime. It would seem to be entirely unbeneficial for the person. They miss out on the things necessary to live, explicitly being able to interact with society. This behavior would usually lead to social isolation and being unable to fulfill daily contracts.
+My gut reaction is that, of course, being in contradiction with society is a bad thing, right? If you are a night owl that stays up at night and goes to sleep in the daytime. It would be entirely unbeneficial for the person. They miss out on the things necessary to live, like being able to interact with society. This behavior usually leads to social isolation and being unable to fulfill daily contracts.
 
-This same question has been asked in psychology literature before because there are a valuable set of people who require them to have schedules out of sync. These people are dubbed night shifters/workers. They faced the symptoms I have drawn out in the earlier chapters, which is an incredible amount of social isolation. A thing I missed out on, though, was the actual biological timings humans have in sync with the environment. Messing up circadian rhythms will invariably mess you up biologically.
+This same question has been asked in psychology literature before because there are a valuable set of people who require them to have schedules out of sync. These people are dubbed night shifters/workers. They faced the symptoms I have drawn out earlier, which is an incredible amount of social isolation. A thing I missed out on, though, was the actual biological timings humans have in sync with the environment. Messing up circadian rhythms will invariably mess you up biologically.
 
 ** Note: After reading about the citations, I realize I don't need to continue writing.
 
+## My Own Reports of Night Owling
+
+I wanted to write on the idea of environmental dissonance because I have always had a nagging cognitive dissonance about how I was living compared to the world around me. One of those was the frequent late nights spent pondering or wandering around. A dear and frightful memory to me was when I often stayed up at night working on problem sets; very inefficiently working through them, I would add. But, in the downtime, I was able to walk around outside my dorm at 3 AM, experiencing the fragility of the night as everyone winds down and the streets get pin-drop silent. There was a sense of melancholy mixed with freedom that was found between the silence of the night and the noise of my mind. It was just me and my thoughts. A lot of good self-reflection and pondering was completed in that time, so maybe it wasn't entirely hurtful.
 
 <br/><br/>
 

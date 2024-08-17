@@ -16,17 +16,24 @@ name: >-
 
 # Learning Forwards and Backwards
 
-In Plato's Meno, there is a passage on recollection that goes: "For if you believe, as I do, that all learning is but recollection, then it follows that learning is not a matter of getting new information but of remembering what the soul already knows."
+In Plato's Meno, there is a passage on recollection that goes:
+
+<figure class="container-lg my-6" style="padding: 0;">
+ <blockquote class="blockquote" style="font-size: 18px;">
+ <p>  "For if you believe, as I do, that all learning is but recollection, then it follows that learning is not a matter of getting new information but of remembering what the soul already knows." </p>
+ </blockquote>
+</figure>
+
 
 Learning and gathering new facts about the world (epistemology) has been a highly productive field of human thought. I am entering this world to summarize my position on how learning operates and the different perspectives a person can orient when needing to learn. Taking from the already popularized dichotomies of know-how vs. know-that, implicit vs explicit, and known unknown vs unknown unknowns. I will see if I can use that to argue the ways in which we can gather knowledge on a topic and draw out where you would use a specific method of learning.
 
-## Learning Forward
+## Learning Forwards
 
 Before making the argument of learning backward, I need to address the question of how people pick up base facts to extrapolate upon. These are the base facts you need before going further in conceptual depth. Ideas such as Newton's Laws and many other empirical facts would fall under the category. Besides needing to figure it out yourselves, many other intelligent people in humanity's past have collected and archived that base observational knowledge to consume. So it begins textbooks, readings, and onwards until you have enough facts in relation to each other that cognitive models are created on topics. 
 
 ** Note: I'd like to go on a tangent for epistemic trust and truth, but I will save that
 
-## Learning Backward
+## Learning Backwards
 
 Alas, after you have lived in the world and gathered a suite of ontologies, you can start learning by going backward. My idea of learning backward is parallel to the concept of learning by analogy. To teach someone how multithreading and async work, you likely wouldn't start immediately on sync mechanisms or spawning processes. I think the sane approach would be to give an analogy to working on a project and how people are able to work on different things simultaneously, as well as the scenarios where you need to wait for someone. It just seems more effective in conveying information as the models for interaction are already there. They could then "work backward" to understand the specific technical details of how multithreading is accomplished.
 
