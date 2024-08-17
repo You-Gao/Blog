@@ -30,7 +30,7 @@ Learning and gathering new facts about the world (epistemology) has been a highl
 
 ## Learning Forwards
 
-Before making the argument of learning backward, I need to address the question of how people pick up base knowledge. These are the minimum facts you need before going further in conceptual depth. Ideas such as Newton's Laws and many other laws would fall under the category. This is good because humanity has generated a corpus of empirical facts. Many other intelligent people in humanity's past have collected and archived knowledge to consume. So it begins textbooks, readings, and onwards until you have enough facts in relation to each other that cognitive models are created on topics. 
+Before making the argument of learning backward, I need to address the question of how people pick up base knowledge. These are the minimum facts you need before going further in conceptual depth. Ideas such as Newton's Laws and many other laws would fall under the category. This is good because humanity has generated a corpus of empirical facts. So, initial learning begins textbooks, readings, and onwards until you have enough facts in relation to each other that cognitive models are created on topics. 
 
 ** Note: I'd like to go on a tangent for epistemic trust and truth, but I will save it
 
