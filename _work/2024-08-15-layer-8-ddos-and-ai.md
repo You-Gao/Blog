@@ -17,7 +17,7 @@ name: >-
 
 # Layer 8 DDOS and AI 
 
-* I think I have to preface by saying this is all speculation and done for education purposes *
+** * I think I have to preface by saying this is all speculation and done for education purposes *
 
 The concept of a Layer 8 DDOS is based on the OSI Model. Traditionally, DDOS or DOS attacks are aimed at specific layers with the goal of taking up all the resources available, hence the naming denial of service. Layer 8 refers to the human resources available behind the computer.
 

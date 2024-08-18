@@ -20,6 +20,16 @@
 .nav-item a:hover {
     color: rgb(212, 212, 212) !important;
 }
+.card {
+    --bs-card-bg: black;
+    color: #ffffff;
+}
+.text-muted {
+    color: #b7bcc1 !important;
+}
+.card-img-top {
+    filter: invert(100%) hue-rotate(180deg);
+  }
 body{
     margin:0
 }
