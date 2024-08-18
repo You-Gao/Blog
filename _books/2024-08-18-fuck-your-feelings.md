@@ -1,0 +1,30 @@
+---
+categories:       blog
+date:             2024-08-18
+description:  >-
+  meh and some reminders on life
+lang:             en
+last_modified_at: 2024-08-18
+tags:
+- Book-Review
+title: >-
+  F*ck Your Feelings
+layout:           style
+name: >-
+  F*ck Your Feelings
+---
+
+# F*ck Your Feelings
+
+Pretty boring and off-putting book to those with knowledge on basic psychology, neuroscience, and sociology concepts. I would say it works as a motivational book more than anything. It had some good factoids from stuff in the literature, but it is interwoven with psuedo-scientific interpretations which makes it more difficult to read through than adding any value. 
+
+The only takeaway I had was a reminder to be aware about my environment and attitudes towards accomplishing something. If you are looking to get some deeper insights into productivity, I suggest Cal Newport's ["Deep Work"](https://blog.yougao.dev/work/deep-work/) over this book.
+
+To Summarize The Key Concepts from 275 Pages...:
+* Theory of Emotions
+* Neurofeedback
+* Circadian Rhythms
+* Gut and Neurotransmitters
+* Polyvagal Theory
+
+I get that the person is a trained nutritionist so they wouldn't know a lot, but they should probably stick to that.
