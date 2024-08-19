@@ -14,13 +14,14 @@ name: >-
   The Presentation of Self in Everyday life
 ---
 
+# The Presentation of Self in Everyday life
+
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote" style="font-size: 18px;">
     <p>"To use a different imagery, the very obligation and profitability of appearing always in a steady moral light, of being a socialized character, forces us to be the sort of person who is practiced in the ways of the stage."</p>
     </blockquote>
 </figure>
 
-# The Presentation of Self in Everyday life
 * Dramaturgical Analysis
 
 ## Performance
