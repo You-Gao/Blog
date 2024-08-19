@@ -16,6 +16,13 @@ name: >-
 
 # **What Time is This Place?**
 
+
+<figure class="container-lg" style="padding: 0;">
+    <blockquote class="blockquote" style="font-size: 18px;">
+    <p>"Everywhere there are signs of time."</p>
+    </blockquote>
+</figure>
+
 <div class="container-fluid px-2" style="text-align: left;  margin-left: -5px; margin-top: -25px;">
 <div class="row">
 
