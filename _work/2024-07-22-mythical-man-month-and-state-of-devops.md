@@ -17,6 +17,12 @@ name: >-
 
 # The Mythical Man-Month
 
+<figure class="container-lg" style="padding: 0;">
+    <blockquote class="blockquote" style="font-size: 18px;">
+    <p>"For many, the joys far outweigh the woes, and for them the remainder of this book will attempt to lay some boardwalks across the tar."</p>
+    </blockquote>
+</figure>
+
 Mythical Man-Month as a book is solid, and what really makes it good (at least for me) is how strongly the ideas put out in the book have stood the test of time. Fred Brooks, the author of the book, provides us with the wisdom he has gathered over the years leading major software projects in the 1970s. The book leads SWEs into the uncomfortable realization that writing software does indeed have a social, ethical, and political domain that requires reflective inquiries to construct ideal systems. So, if you want to know why the tech field has adopted certain organizational structures, software teams, common best practices, and development methodologies, consider checking the book out.
 
 Personally, the book has helped highlight and provide insight into a lot of the challenges of writing software within an organizational context (open-source or in a company). As a student, you usually will never encounter software development at scale until an internship, so this book is really priceless in that aspect. The book is dated, though, just because it is a different time for software development. Specifically, the portion about developing software with constraints gave an interesting thought to judging software not by size but by functionality (Mostly irrelevant now due to storage size).
@@ -26,6 +32,12 @@ This paragraph is a bit of a tangent and can be skipped: Why was there minimal m
 ** Side note: A lot of these issues persist today, and I definitely think it is because they are not incentivized correctly
 
 # [State of DevOps 2023 Report](https://services.google.com/fh/files/misc/2023_final_report_sodr.pdf)
+
+<figure class="container-lg" style="padding: 0;">
+    <blockquote class="blockquote" style="font-size: 18px;">
+    <p>"The management of this complex craft will demand our best use of new languages and systems, our best adaptation of proven engineering management methods, liberal doses of common sense, and a God-given humility to recognize our fallibility and limitations."</p>
+    </blockquote>
+</figure>
 
 I added "State of DevOps" to this review because, from the 21st century looking back, the DevOps movement can be contextualized as an attempt to solve the organizational, interpersonal, and technical problems posed by software development. Putting it into perspective, during Brooks' time, there weren't technologies or concepts like Version Control (Git), CI/CD, API Specifications, Agile methodologies, linters, and test environments—though there were some rudimentary equivalents. Software development and system design was only in it's infancy in those days. Now in the 21st century, the DevOps movement continues to address issues related to software engineering teams, architectural decisions, formal specifications, knowledge sharing, testing, uptime, and documentation.
 

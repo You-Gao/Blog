@@ -30,6 +30,9 @@
 .card-img-top {
     filter: invert(100%) hue-rotate(180deg);
   }
+.markdown-body table {
+    color: #000000 !important;
+}
 body{
     margin:0
 }
