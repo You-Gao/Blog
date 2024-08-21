@@ -2,7 +2,7 @@
 categories:       blog
 date:             2024-08-18
 description:  >-
-  meh and some reminders on life
+  Meh and some reminders on life.
 lang:             en
 last_modified_at: 2024-08-18
 tags:
