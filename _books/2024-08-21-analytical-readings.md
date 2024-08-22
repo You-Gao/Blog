@@ -26,3 +26,4 @@ After, stumbling my way through reasons and persons. Albeit I did try to read th
 * On What There is
 * Theory of Syntax
 
+** Note: 8/22 - I tried to tackle Tractatus and On Sense and Reference, my head is spinning a bit.
