@@ -22,7 +22,7 @@ name: >-
     </blockquote>
 </figure>
 
-* Dramaturgical Analysis
+
 
 ## Performance
 * Symbolic Interactionism
