@@ -22,17 +22,24 @@ name: >-
     </blockquote>
 </figure>
 
+A book that gives a theory and a perspective to look at the social world with. Given and acknowledging the problem of other minds, Goffman sets out to functionalize the ways the social self performs itself to others. In doing so, sociology receives the fun tool of dramaturgical analysis as a means to analyze social actors. 
 
+The question I had and for other books related that speak upon the social self is simply: Why is there a need for performance? Language is a social technology used for communication and I can see how that may lend itself into being normative, but is there really any function in being reductive about the identities a person can take on? 
 
 ## Performance
 * Symbolic Interactionism
 
+
+
 ## Front and Backstage
-* Self-fulfilling Prophecy
+
+As part of a theatre, there is the front stage where the performance occurs and everything behind the curtains lends itself to the backstage. This piece of the dramaturgical analysis is the most cynical for me, as it states that from my perspective I could never get to know the "true other". Any perceptions of the other will always be the front-stage and of what goes on. Although, I don't think Goffman is exactly as fatalistic because he states that you can have glimpses into the backstage, but not fully as you don't have access to another person's mind. Such situations of the backstage, is finding out the "true" nature of someone, hearing gossip that was always behind your back, and so forth.
+
+A common critique of Goffman's work on the front and backstage is that the distinction between the two are not entirely clear. But, I think that is by design. Similar to how actor's have to deal with the question of internalizing their role; the actor becoming the role. People situated in social contexts can be seen taking onto the attitudes of the role and even self-regulating themselves to play into them. Psychology already have a term for this: a self-fulfilling prophecy.
 
 ## Related Topics and Connections
 
-### Judith Butler's Gender Performance:
+### Judith Butler's Gender Roles:
 
 Reading through the book, I had this background neuron continually activating which really felt like the idea's put out by Goffman on Performance was related to Butler's work on Performativity. They both conceptualize the self and more specifically gender coming into itself through performance. It is through this that a lot of people (academics) view Butler's work as a more developed front, but I view it as the same. The point of contention highlighted in a paper is how much agency the self has, but I think the underlying points of both theories posits the self as reflective and in continuation of... being and becoming.
 
