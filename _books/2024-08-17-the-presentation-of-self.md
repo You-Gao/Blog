@@ -27,8 +27,8 @@ A book that gives a theory and a perspective to look at the social world with. G
 The question I had and for other books related that speak upon the social self is simply: Why is there a need for performance? Language is a social technology used for communication and I can see how that may lend itself into being normative, but is there really any function in being reductive about the identities a person can take on? 
 
 ## Performance
-* Symbolic Interactionism
 
+The idea of performance drawn out in this book is fairly simple. Playing the role that is socially expected of you whether that be the role of a professional role, gender, or student. These categories have well and specific expections in actions and behaviors with it's medium being us humans. What philosophers and sociologists gain analyzing performance is to draw out then these modes of being. This is the idea of symbolic interactionism. 
 
 
 ## Front and Backstage
