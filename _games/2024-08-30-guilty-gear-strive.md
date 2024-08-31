@@ -25,7 +25,7 @@ Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for
 
 ### *Player Mechanics*
 
-- **Moves:** Like any other fighting game of its past, there is a light and heavy version of kick + punch.
+- **Moves:** Attack inputs are punch, kick, slash, heavy slash, and duster.
 
 - **Specials:** Inputs can be stringed together with movement keys to execute special moves.
 
@@ -37,22 +37,23 @@ Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for
 
 - **Burst Cancel:** A "get off me" button that resets the game state to neutral.
 
-<div class="video-grid">
+<div class="video-grid" style="margin-left: -50px  !important;">
+
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wQ58Vy3DffY?si=jxrj8lvxA_mwEhLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
   <div>
-    <video controls>
-      <source src="{{ '/assets/games/a-short-hike/walk.mp4' | relative_url }}" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <p>Inputs</p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/0a2ODmxbkLQ?si=dVG-TuP3FRDqqHrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 
   <div>
-    <video controls>
-      <source src="{{ '/assets/games/a-short-hike/glide.mp4' | relative_url }}" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <p>RC and Burst</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9I0o8UtmQT4?si=wrRLSc0qyu4kjZqB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
+
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V-oLfRI7uxU?si=NBpe1yJNh74T1Xe3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 </div>
 
 ***
@@ -60,16 +61,14 @@ Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for
 ### *Game Mechanics*
 
 - **Matches -** Every match is a first to 2, where you need to reduce the life bar of the opponent to 0 twice to win. The only interesting portion on how this is set-up and impacts a round is that the burst gauge carriers over between rounds, so if you used the burst, it might still be on cooldown the next round. For me, it functions as a reminder to be wary about my resources that I have and how I should utilize them to win not only the round, but the match as well.
-<div class="picture-grid2">
-  <img src="{{ 'assets/games/kind-words-2/c1.png' | relative_url }}" alt="Mountain Pool">
-  <img src="{{ 'assets/games/kind-words-2/c2.png' | relative_url }}" alt="Mountain Fire">
+<div class="picture-grid1">
+  <img src="{{ 'assets/games/ggst/match.png' | relative_url }}" style="max-width: 800px !important; max-height: 400px !important;"  alt="Mountain Pool">
 </div>
 <br/><br/>
 
 - **Meter** **-** Each attack and move adds to the bar throughout the fight. It allows the player to execute supers and roman cancels which can be used different ways to extend combos, deal more damage, mix-ups, and more. The meter bar in a way incentivizes interaction and is carefully used to balance the ways a player can gain an advantage or reset to neutral.
-<div class="picture-grid2">
-  <img src="{{ 'assets/games/kind-words-2/c1.png' | relative_url }}" alt="Mountain Pool">
-  <img src="{{ 'assets/games/kind-words-2/c2.png' | relative_url }}" alt="Mountain Fire">
+<div class="picture-grid1">
+  <img src="{{ 'assets/games/ggst/meter.png' | relative_url }}" style="max-width: 800px !important; max-height: 400px !important;"  alt="Mountain Pool">
 </div>
 <br/><br/>
 
@@ -77,7 +76,7 @@ Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for
 
 - **Characters -** The cast of the game boasts a pretty diverse and wide set of characters. In the fighting game genre, these character archetypes have been sort of "solved" in a sense for the game plan of the character: grappler, zoner, shoto, pixie, etc. But, it is also important to recognize how it's not directly linear in a game plan and depending on match-ups that would change. On-top of this archetypal difference, each character has a unique set of tools, combo routes, and interactions that when managed efficiently gives rise to a pretty deep expression of the player.
 <div class="picture-grid1">
-  <img src="{{ 'assets/games/kind-words-2/c1.png' | relative_url }}" alt="Mountain Pool">
+  <img src="{{ 'assets/games/ggst/pot.png' | relative_url }}" style="max-height: 400px !important;"  alt="Mountain Pool">
 </div>
 <br/><br/>
 
@@ -103,10 +102,6 @@ I get how people might be confused on me putting social interaction and narrativ
 With all that being said, Guilty Gear is a game that is fun for me and I recognize when it is not fun either. It's not fun when I am not playing for play purposes, but instead I am playing to win. Should you play Guilty Gear? Yes, if you have nothing better to do. It's a pretty great leisure time activity and better than a lot of other alternatives that take up a lot of time. A match is pretty quick like 5 minutes max to complete one.
 
 On another point, Guilty Gear made me reflect on the point of playing games. Often, it can lend itself to this individualistic point of winning above all else; this is a very banal way of understanding games in my opinion. Fighting games are very different from the conception of winning in relation to something like chess. It provides a layer to the turn-based interaction and provides a stronger argument to the social nature of games. As chess have been solved via game theory and algorithms, fighting games to an extent haven't. The explanation to that is essentially the social aspect and complexities of this multivariable-multidimensional social calculus happening in the back drop of a game.
-
-Here are clips of me playing my main Potemkin
-
-<iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/KEJDFSUUzCo?si=__ZUXXb8rP5HVS-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/><br/>
 
