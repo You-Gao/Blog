@@ -17,6 +17,7 @@ name: >-
 
 # **Guilty Gear Strive Game Analysis**
 
+<img src="{{ 'assets/games/ggst/header.jpg' | relative_url }}" alt="Logo" class="game_logo"/>
 
 ### *Introduction:*
 
@@ -36,17 +37,49 @@ Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for
 
 - **Burst Cancel:** A "get off me" button that resets the game state to neutral.
 
+<div class="video-grid">
+  <div>
+    <video controls>
+      <source src="{{ '/assets/games/a-short-hike/walk.mp4' | relative_url }}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p>Inputs</p>
+  </div>
+
+  <div>
+    <video controls>
+      <source src="{{ '/assets/games/a-short-hike/glide.mp4' | relative_url }}" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p>RC and Burst</p>
+  </div>
+</div>
+
 ***
 
 ### *Game Mechanics*
 
 - **Matches -** Every match is a first to 2, where you need to reduce the life bar of the opponent to 0 twice to win. The only interesting portion on how this is set-up and impacts a round is that the burst gauge carriers over between rounds, so if you used the burst, it might still be on cooldown the next round. For me, it functions as a reminder to be wary about my resources that I have and how I should utilize them to win not only the round, but the match as well.
+<div class="picture-grid2">
+  <img src="{{ 'assets/games/kind-words-2/c1.png' | relative_url }}" alt="Mountain Pool">
+  <img src="{{ 'assets/games/kind-words-2/c2.png' | relative_url }}" alt="Mountain Fire">
+</div>
+<br/><br/>
 
 - **Meter** **-** Each attack and move adds to the bar throughout the fight. It allows the player to execute supers and roman cancels which can be used different ways to extend combos, deal more damage, mix-ups, and more. The meter bar in a way incentivizes interaction and is carefully used to balance the ways a player can gain an advantage or reset to neutral.
+<div class="picture-grid2">
+  <img src="{{ 'assets/games/kind-words-2/c1.png' | relative_url }}" alt="Mountain Pool">
+  <img src="{{ 'assets/games/kind-words-2/c2.png' | relative_url }}" alt="Mountain Fire">
+</div>
+<br/><br/>
 
 - **Wall Breaks -** Although not directly unique to Guilty Gear, the wall break mechanic adds a new layer of interaction to getting the opponent in a corner. The only other popular fighting game that has this is Tekken? It just adds something fresh to the traditional game-plan's of getting the opponent into the corner and performing mix-ups. Instead, the goal is to break to wall for extra dmg in a combo and gain meter bonus.
 
 - **Characters -** The cast of the game boasts a pretty diverse and wide set of characters. In the fighting game genre, these character archetypes have been sort of "solved" in a sense for the game plan of the character: grappler, zoner, shoto, pixie, etc. But, it is also important to recognize how it's not directly linear in a game plan and depending on match-ups that would change. On-top of this archetypal difference, each character has a unique set of tools, combo routes, and interactions that when managed efficiently gives rise to a pretty deep expression of the player.
+<div class="picture-grid1">
+  <img src="{{ 'assets/games/kind-words-2/c1.png' | relative_url }}" alt="Mountain Pool">
+</div>
+<br/><br/>
 
 * * *
 
@@ -77,4 +110,4 @@ Here are clips of me playing my main Potemkin
 
 <br/><br/>
 
-If you want to play the game: [https://www.guiltygear.com/ggst/en/](https://landfall.se/games/rounds)
+If you want to play the game: [https://www.guiltygear.com/ggst/en/](https://www.guiltygear.com/ggst/en/)
