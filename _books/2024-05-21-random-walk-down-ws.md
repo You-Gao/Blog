@@ -30,6 +30,8 @@ name: >-
 
 A good and fun introduction to the concepts of investing and the types of investing possible. So when you want to understand the sudden rise of tech-stocks that seem to be motivated by "hype" in the short-term, then take a look at the castle-in-the-sky theory of value. On the flip-side, you have the firm-foundation theory of value, where the valuation of some stock will always be the underlying economic fundamentals of the company. I'm not an economist, so the book was I think a pretty solid introduction to those concepts to further build upon in understanding value investing. Anyways, this is one of the plently books I want to read in order to understand the nature of economic insturments.
 
+<br/><br/>
+
 ## Citations
 
 Malkiel, B. G. (1973). A random walk down Wall Street. http://ci.nii.ac.jp/ncid/BA09907455
