@@ -24,8 +24,6 @@ name: >-
 
 I went to an exhibit today, and man, what an interesting exhibit it was. The exhibit aimed to lay bare the mechanisms and ontological foundations of "the security state," which imposes themselves onto the built environment and the social psyche. An innovative aspect to the exhibit, at least for me, is how it was architected in a way that it neccessarily involved you in the exhibit, literally the viewers becoming absorbed into the exhibit. And that was part of the intentional design, as it aimed to illustrate what the boundaries of surveillance were and how it was embedded in our psyche's ourselves. On top of the existing cameras, cctvs, and public sensors observing us, the exhibit called to attention that the state has made a panopticon out of all of us: EVERYONE IS WATCHING EVERYWHERE -> BEHAVE. 
 
-## Reflection:
-
 Now that I told you what the exhibit was, you might be asking, How did it work? What were the pieces? I can describe the broader descriptions no better than what they have on their website. 
 
 > Site-responsive, public, and multimodal, The Threat, The rescripts object, action, site, sound, and text using tactics from a range of theatrical, architectural, and activist traditions to grapple with the legacies and artifacts of the security state and to disrupt popular securitarian narratives circulated as pretext for state violence.
