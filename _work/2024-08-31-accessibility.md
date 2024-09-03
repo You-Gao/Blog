@@ -23,6 +23,10 @@ name: >-
     </blockquote>
 </figure>
 
+The workshop was delivered via presentation. The presenter went through some slides and talked about the different non-text elements available and deciding on wihch ones should have alt-text, but also what when the alt-text should be applied. 
+
+
+## Reflection
 
 Recently, took a workshop in digital accessibility as I always wanted to learn more, but often neglected it as most people that use the internet are all able-bodied. This mindset infact does heavily impact ways in which people interact with the internet, and makes the point that the powerful technology of the internet should be able usable for all. From the workshop itself, we were taught about the general non-text element functions in html to enable screen readers. These were the standard set of aria-labels, figcaptions, and headers. What was interesting in particular is that there were actually design patterns set in place to make the screen-reader parse the html better. An example was placing an image in a div with the aria-text saying please go to header x for more information, then the header would contain the actual text for the image. Doing some of my own research, there could be better solutions out there as well, with updates to aria-label.
 
@@ -30,10 +34,8 @@ Besides from what I learned on digital accessibility, I want to make the case th
 
 As researching the topic more, I become disheartened as I knew it's not a major focus because the category of "disabled" is neccessary marginal to a businesses. Although thats why modern disabilities study have pushinng the term temporary able-bodied against the dichotomy of able vs disabled.
 
-https://www.sciencedirect.com/science/article/pii/S0970389617301131
-
 <br/><br/>
 
 ## Citations
 
-Brooks, F.P. (1987). No Silver Bullet: Essence and Accidents of Software Engineering.
+Kulkarni, M. (2019). Digital accessibility: Challenges and opportunities. IIMB Management Review, 31(1), 91–98. https://doi.org/10.1016/j.iimb.2018.05.009
