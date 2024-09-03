@@ -65,7 +65,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
   </div>
 </div>
 
-## Core Mechanics:
+## Game Mechanics:
 
 - **Golden Feathers:** A crucial collectible in the game, golden feathers enhance the character's abilities, allowing for additional jumps or extended climbing. This item symbolizes growth and progression. As the player collects more of these feathers they feel the sense of dynamic growth through the enhanced capabilities granted and how those capabilities "unlock" more potential areas of the mountain to explore.
 
