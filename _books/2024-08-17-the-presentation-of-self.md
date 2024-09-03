@@ -45,8 +45,6 @@ Reading through the book, I had this background neuron continually activating wh
 
 ** Note: Found a paper that covered these exact thoughts I had, but in more faithful depth to both positions. in citations.
 
-https://journals.sagepub.com/doi/10.1177/1097184X03257515
-
 ### Sartre's The Look:
 
 Same thing as above occurred when revisiting some of Sartre's work in phenomenology, specifically the portion of affective consciousness. It basically brings to bear the idea that you can not know your social self as it is fundamentally perceived by others. In the same light, this is why I think assigning yourself to a pop-culture icon is self-reductive; Which is different than recognizing the relation between yourself and other pop-culture icons.
@@ -55,7 +53,10 @@ Same thing as above occurred when revisiting some of Sartre's work in phenomenol
 
 The easiest for last. Goffman seems to have developed the ideas set forth in Mead's "Mind, Self, and Society"
 
+<br/><br/>
+
 ## Citations
 
-https://www.jstor.org/stable/42705181?seq=2
-https://journals.sagepub.com/doi/10.1177/1097184X03257515
+Brickell, C. (2005). Masculinities, performativity, and subversion. Men And Masculinities, 8(1), 24–43. https://doi.org/10.1177/1097184x03257515
+
+Dolezal, L. (2012). Reconsidering the look in Sartre’s: Being and Nothingness. Sartre Studies International, 18(1). https://doi.org/10.3167/ssi.2012.180102
