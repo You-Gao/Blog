@@ -16,7 +16,7 @@ name: >-
 
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote" style="font-size: 18px;">
-    <p style="color: #D21404;">"Part of my archival series"</p>
+    <p style="color: #D21404;">"archival series"</p>
     </blockquote>
 </figure>
 
@@ -33,3 +33,5 @@ Two concepts, I mainly took away from Singer's work on critiquing moral intuitio
 What's missing for me here is the pracitcal application of the ethics set out in "Living High and Letting Die". How do you know the amount that you can contribute while still being left well-off? There is also the interesting reaction I have when reading the starting page which is the section on contributing $100 to UNICEF's program. The reaciton, atleast for me, is an immediate anxiety I have regarding my capital and the uses of such. I think it necessarilly hinges the destruction of my own trust in global institutions for actually converting that donation into any moral good. Given the amount of controversy that has gone around non-profits, I am skeptical.
 
 ## Citations
+
+Kamm, F. M., & Unger, P. (1999). Living high and letting die: our illusion of innocence. The Philosophical Review, 108(2), 300. https://doi.org/10.2307/2998310

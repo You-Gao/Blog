@@ -29,7 +29,7 @@ Personally, the book has helped highlight and provide insight into a lot of the 
 
 This paragraph is a bit of a tangent and can be skipped: Why was there minimal mention of organizational culture in Mythical Man-Month? Brook says a lot about organizational structures and what the responsibilities of those roles should be, but there is minimal mention of culture's impact on a software project's success. Maybe, back then, no one needed a reminder that everyone at the company was there to succeed, and no one was actually out to get them. Most of the current DevOps best practices just seem to be pretty innocuous, though that could be in hindsight. Either way, with DevOps and learning from the 70s, we now have feedback loops, deployment pipelines, cross-functional teams, QA teams, continuous learning, code reviews, code ownership, and general cognizance of good software development organizations.
 
-** Side note: A lot of these issues persist today, and I definitely think it is because they are not incentivized correctly
+** Note: A lot of these issues persist today, and I definitely think it is because they are not incentivized correctly
 
 # [State of DevOps 2023 Report](https://services.google.com/fh/files/misc/2023_final_report_sodr.pdf)
 

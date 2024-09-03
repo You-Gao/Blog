@@ -17,7 +17,7 @@ name: >-
 
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote" style="font-size: 18px; color: red;">
-    <p style="color: #D21404;">"Part of my archival series"</p>
+    <p style="color: #D21404;">"archival series"</p>
     </blockquote>
 </figure>
 
@@ -34,3 +34,5 @@ Picked up this book, because I wanted to understand my sense of objection recogn
 The latter part of the book surprisngly goes into putting the idea of looking by turning the applying the ideas to epistemic violence, capitalism spiritiualism, and mechanality of signs. It has been a long time since reading, but in summary, epistemic violence here relates to the interpretation of signs and specifically which perspective is valued more, capitalism spiritualism relates to the commodification of art and symbols to serve spiritual (market) needs, and finally the mechanicality relates to the function of signs, specifically reductive functions of cognition (think fixed categorical understandings).
 
 ## Citations
+
+Berger, J. (2008). Ways of Seeing.
