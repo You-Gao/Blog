@@ -15,74 +15,53 @@ name: >-
   Guilty Gear Strive
 ---
 
-# **Guilty Gear Strive Game Analysis**
+# **Guilty Gear Strive**
 
 <img src="{{ 'assets/games/ggst/header.jpg' | relative_url }}" alt="Logo" class="game_logo"/>
 
-### *Introduction:*
+## Introduction:
 
 Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for $50. It's a cult classic fighting game series made by Daisuke Ishiwatari and is highly praised for what it has given to the fighting game community. Although it does get a lot of flack for being "scrubby," I think it makes the game accessible. There is a high-skill ceiling but also a low-skill floor. The quick match system in the game also makes skill-based matchmaking bearable. I personally have 300+ hours on it, all on one character, so here is my reflection after playing that much.
 
-### *Player Mechanics*
+## Player Mechanics:
 
 - **Moves:** Attack inputs are punch, kick, slash, heavy slash, and duster.
-
 - **Specials:** Inputs can be stringed together with movement keys to execute special moves.
-
 - **Supers:** Super special moves that require meter to use.
-
 - **Duster:** A high-risk input that launches the opponent for an air combo.
-
-- **RC (Roman Cancel):** 0 clue, why it was stands for roman cancel, but it allows you to use meter to cancel a move, extend a combo, or slow the game down.
-
+- **RC (Roman Cancel):** Allows you to use meter to cancel a move, extend a combo, or slow the game down.
 - **Burst Cancel:** A "get off me" button that resets the game state to neutral.
 
-<div class="video-grid" style="margin-left: -50px  !important;">
+<div class="video-grid" style="margin-left: 10px  !important;">
 
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wQ58Vy3DffY?si=jxrj8lvxA_mwEhLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="400" height="315" src="https://www.youtube.com/embed/wQ58Vy3DffY?si=jxrj8lvxA_mwEhLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
   <div>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/0a2ODmxbkLQ?si=dVG-TuP3FRDqqHrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="400" height="315" src="https://www.youtube.com/embed/0a2ODmxbkLQ?si=dVG-TuP3FRDqqHrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 
   <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9I0o8UtmQT4?si=wrRLSc0qyu4kjZqB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="400" height="315" src="https://www.youtube.com/embed/9I0o8UtmQT4?si=wrRLSc0qyu4kjZqB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 
 <div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V-oLfRI7uxU?si=NBpe1yJNh74T1Xe3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="400" height="315" src="https://www.youtube.com/embed/V-oLfRI7uxU?si=NBpe1yJNh74T1Xe3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
-***
-
-### *Game Mechanics*
+## Game Mechanics:
 
 - **Matches -** Every match is a first to 2, where you need to reduce the life bar of the opponent to 0 twice to win. The only interesting portion of how this is set up and impacts a match is that the burst gauge carriers over between rounds, so if you used the burst, it might still be on cooldown the next round. For me, it functions as a reminder to be wary about the resources that I have and how I should utilize them to win not only the round but the match as well.
-<div class="picture-grid1">
-  <img src="{{ 'assets/games/ggst/match.png' | relative_url }}" style="max-width: 800px !important; max-height: 400px !important;"  alt="Mountain Pool">
-</div>
-<br/><br/>
 
 - **Meter** **-** Each attack and move adds to the bar throughout the fight. It allows the player to execute supers and Roman cancels, which can be used in different ways to extend combos, deal more damage, mix-ups, and more. The meter bar, in a way, incentivizes interaction and is carefully used to balance the ways a player can gain an advantage or reset to neutral.
-<div class="picture-grid1">
-  <img src="{{ 'assets/games/ggst/meter.png' | relative_url }}" style="max-width: 800px !important; max-height: 400px !important;"  alt="Mountain Pool">
-</div>
-<br/><br/>
 
 - **Wall Breaks -** Although not directly unique to Guilty Gear, the wall break mechanic adds a new layer of interaction when the opponent is in a corner. The only other popular fighting game that has this is Tekken? The mechanic adds something fresh to the traditional game of getting the opponent into the corner and performing mix-ups. Instead, the goal is to break the wall for extra damage in a combo and gain a meter bonus.
 
 - **Characters -** The cast of the game boasts a pretty diverse and comprehensive set of characters. In the fighting game genre, these character archetypes have been sort of "solved" in a sense for the game plan of the character: grappler, zoner, shoto, pixie, etc. But, it is also essential to recognize how it's not directly linear in a game plan, and, depending on match-ups, that would change. On top of this archetypal difference, each character has a unique set of tools, combo routes, and interactions that, when managed efficiently, give rise to a pretty deep expression of the player.
-<div class="picture-grid1">
-  <img src="{{ 'assets/games/ggst/pot.png' | relative_url }}" style="max-height: 400px !important;"  alt="Mountain Pool">
-</div>
-<br/><br/>
 
-* * *
-
-### *Themes and Player Experience*
+## Themes and Player Experience:
 
 - **Social Interaction:** The reason I play Guilty Gear Strive is the social aspect. Going against another "real" player (until AI gets too advanced) makes me actually take the game seriously. It's serious insofar as we both sort of take on these characters' agencies and openly play. It’s not just about winning or losing; it’s about the encounter itself, the back-and-forth of skill, mind games, and adaptation.
 
@@ -95,9 +74,7 @@ Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for
 
 I get how people might be confused about me putting social interaction and narrative here. The idea is there are two ways people can go about playing games: The individualistic subject that plays to win or the community subject that plays to connect. After reflecting on games, I feel like they have so much more power as a connective medium than the former relation. While the thrill of competition is undeniable, the moments where I’ve deeply enjoyed the game is with others—whether through friendly banter, exchanging tips, or even just mutual respect after a hard-fought match.
 
-* * *
-
-### *Conclusion*
+## Conclusion:
 
 With all that being said, Guilty Gear is a game that is fun for me, and I recognize when it is not fun, either. It's not fun when I am not playing for play purposes; instead, I am playing to win. Should you play Guilty Gear? Yes, if you have nothing better to do. It's a pretty great leisure time activity and better than a lot of other alternatives that take up a lot of time. A match is pretty quick, like 5 minutes max, to complete one.
 
