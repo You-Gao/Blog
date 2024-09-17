@@ -18,7 +18,7 @@ name: >-
 
 I've said somewhere in my blogs that it makes no sense to try and define yourself through characters. But, I feel like you can still do some reflection on the characters that you align with and why. There is maybe a twinge of psychoanalysis going on here in pulling things out from your unconscious when viewing media. However, that is exactly what I am going to do. Not going to apply like any real psychoanalytic theories like Freud, Jung, or Lacan; just going to be like, Hey, I enjoy this character in some way.
 
-# INTJ
+## INTJ
 Of course the first thing I need to start with here is the MBTI test. I have always fluctuated between INTJ and INFJ, so maybe I feel more analytical today or something. The fun part is going to online personality databases and then looking at characters under the same MBTI. Taking a general look, my favorite characters in the list are: Sasuke Uchiha, Dr. House, and Suguru Geto. Yeah, not the greatest look, as all 3 of these characters are also seen as villains or are actually villains in the story. I can see how the INT traits lead to this downfall of character, so I will be mindful of the emotional and affective aspects of decision-making.
 
 ## Manwha/Manga Heros
