@@ -25,8 +25,11 @@ A classic of the TBS (turn-based strategy genres) where you take on the job of a
 ## Player Mechanics
 
 - **Unit Movement** - Click and move units to perform actions, battle, etc.
-- **Resource Allocation** -  Select the specific resources to "work"
-- **Decision-making** - It was kind of awkward thinking of specifically player mechanics because for Turn-based Games you are just interacting w/ the main game mechanics. There isn't a single "body" to control, rather a system.
+- **Resource Allocation** -  Select the specific resources to "work".
+- **Decision-making** - So so so many choices to make each turn.
+
+
+** Note: It was kind of awkward thinking of specifically player mechanics because for Turn-based Games you are just interacting w/ the main game mechanics. There isn't a single "body" to control, rather a system.
 
 ## Game Mechanics
 
