@@ -8,10 +8,10 @@ last_modified_at: 2024-08-21
 tags:
 - Book-Review
 title: >-
-  Way's of Seeing
+  Ways of Seeing
 layout:           style
 name: >-
-  Way's of Seeing
+  Ways of Seeing
 ---
 
 
