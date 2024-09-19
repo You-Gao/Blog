@@ -21,6 +21,12 @@ I've said somewhere in my blogs that it makes no sense to try and define yoursel
 ## INTJ
 Of course the first thing I need to start with here is the MBTI test. I have always fluctuated between INTJ and INFJ, so maybe I feel more analytical today or something. The fun part is going to online personality databases and then looking at characters under the same MBTI. Taking a general look, my favorite characters in the list are: Sasuke Uchiha, Dr. House, and Suguru Geto. Yeah, not the greatest look, as all 3 of these characters are also seen as villains or are actually villains in the story. I can see how the INT traits lead to this downfall of character, so I will be mindful of the emotional and affective aspects of decision-making.
 
+<div class="picture-grid3" style="margin-bottom:10px;">
+  <img src="{{ 'assets/games/rounds/c1.png' | relative_url }}" alt="C1">
+  <img src="{{ 'assets/games/rounds/c2.png' | relative_url }}" alt="C2">
+  <img src="{{ 'assets/games/rounds/c3.png' | relative_url }}" alt="C3"/>
+</div>
+
 ## Manwha/Manga Heros
 
 I binge-read a lot of these ranking system-hidden power-regressor-underdog heroes, but I don't think they are necessarily the stereotypical heroes. They all have pretty detrimental character flaws like being lazy, starting off super weak, or being social outcasts. On face level, this would mean that I am obsessed with otherworldly powers so I can just rise to the top of the world. But I think the real reason is that the stories are simple and follow expected through-lines. If only living was like training in a RPG game, but that's not living, is it?
