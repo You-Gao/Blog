@@ -14,8 +14,19 @@ name: >-
     The Art of Listening
 ---
 
+<figure class="container-lg" style="padding: 0;">
+    <blockquote class="blockquote" style="font-size: 18px; color: red;">
+    <p style="color: #D21404;">"archival series"</p>
+    </blockquote>
+</figure>
 
 # The Art of Listening
+
+<figure class="container-lg" style="padding: 0;">
+    <blockquote class="blockquote" style="font-size: 18px;">
+    <p>"and, actually, every human being is the hero of a drama"</p>
+    </blockquote>
+</figure>
 
 Fromm has good ideas. I'm not a Fromm scholar in particular, but having read some of his previous works like "The Escape from Freedom" and "The Art of Loving,"  it made me seek out some more of his works, which ended up being the Art of Listening. The book itself is a collection of talks and seminars Fromm did later on in his career, which arose from his own reflections on psychoanalysis and the insights he gathered from helping people psychologically.
 
