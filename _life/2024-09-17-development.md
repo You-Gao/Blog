@@ -128,6 +128,8 @@ Charlottesville Archive-Texts. www2.iath.virginia.edu/schwartz/texts.html.
 
 DFID. “Growth: Building Jobs and Prosperity in Developing Countries.” 
 
+Ghertner, D. Asher. 2015. “Why Gentrification Theory Fails in ‘Much of the World.’” City 19 (4): 552–63. doi:10.1080/13604813.2015.1051745.
+
 Lipset, Seymour Martin. “Some Social Requisites of Democracy: Economic Development and Political Legitimacy.” American Political Science Review, vol. 53, no. 1, Mar. 1959, pp. 69–105. https://doi.org/10.2307/1951731.
 
 “The Neo-Liberal University on JSTOR.” www.jstor.org. JSTOR, www.jstor.org/stable/40342886.
@@ -139,3 +141,6 @@ Roser, Max. “The Short History of Global Living Conditions and Why It Matters 
 Sen, Amartya Kumar. Development as Freedom. 1999, ci.nii.ac.jp/ncid/BA43059927. 
 
 Urban Renewal, Vinegar Hill, 1960, Charlottesville Daily Progress Articles. edu.lva.virginia.gov/dbva/items/show/300.
+
+Zuk, M., Bierbaum, A. H., Chapple, K., Gorska, K., & Loukaitou-Sideris, A. 2018. Gentrification, Displacement, and the Role of Public Investment. Journal of Planning Literature, 33(1), 31-44. https://doi.org/10.1177/0885412217716439
+

@@ -22,9 +22,9 @@ I've said somewhere in my blogs that it makes no sense to try and define yoursel
 Of course the first thing I need to start with here is the MBTI test. I have always fluctuated between INTJ and INFJ, so maybe I feel more analytical today or something. The fun part is going to online personality databases and then looking at characters under the same MBTI. Taking a general look, my favorite characters in the list are: Sasuke Uchiha, Dr. House, and Suguru Geto. Yeah, not the greatest look, as all 3 of these characters are also seen as villains or are actually villains in the story. I can see how the INT traits lead to this downfall of character, so I will be mindful of the emotional and affective aspects of decision-making.
 
 <div class="picture-grid3" style="margin-bottom:10px;">
-  <img src="{{ 'assets/games/rounds/c1.png' | relative_url }}" alt="C1">
-  <img src="{{ 'assets/games/rounds/c2.png' | relative_url }}" alt="C2">
-  <img src="{{ 'assets/games/rounds/c3.png' | relative_url }}" alt="C3"/>
+  <img src="{{ 'assets/life/archetypes/geto.jpg' | relative_url }}">
+  <img src="{{ 'assets/life/archetypes/house.jpg' | relative_url }}">
+  <img src="{{ 'assets/life/archetypes/uchiha.jpg' | relative_url }}"/>
 </div>
 
 ## Manwha/Manga Heros
