@@ -115,3 +115,27 @@ The implication, then, is that I will involve everyone in the development proces
 ** Note: My finally takeaway on gentrification is that its actually caused by speculation not any physical env changes.
 
 ** Note: Vienna, Austria the birthplace of Austrian Economics has 80% social housing?
+
+<br/><br/>
+
+## Citations
+
+Cameron, Brian. “UVA And the History of Race: Property and Power.” UVA Today, 15 Mar. 2021, news.virginia.edu/content/uva-and-history-race-property-and-power. 
+
+Charlottesville Archive. www2.iath.virginia.edu/schwartz/archive.html. 
+
+Charlottesville Archive-Texts. www2.iath.virginia.edu/schwartz/texts.html.
+
+DFID. “Growth: Building Jobs and Prosperity in Developing Countries.” 
+
+Lipset, Seymour Martin. “Some Social Requisites of Democracy: Economic Development and Political Legitimacy.” American Political Science Review, vol. 53, no. 1, Mar. 1959, pp. 69–105. https://doi.org/10.2307/1951731.
+
+“The Neo-Liberal University on JSTOR.” www.jstor.org. JSTOR, www.jstor.org/stable/40342886.
+
+Progress Timeline: Advancing Our Goals. strategicplan.virginia.edu/vision. 
+
+Roser, Max. “The Short History of Global Living Conditions and Why It Matters That We Know It.” Our World in Data, 19 Mar. 2024, ourworldindata.org/a-history-of-global-living-conditions?linkId=62571595.
+
+Sen, Amartya Kumar. Development as Freedom. 1999, ci.nii.ac.jp/ncid/BA43059927. 
+
+Urban Renewal, Vinegar Hill, 1960, Charlottesville Daily Progress Articles. edu.lva.virginia.gov/dbva/items/show/300.
