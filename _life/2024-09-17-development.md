@@ -113,4 +113,5 @@ My own reflections on development after doing the case studies are as follows:
 The implication, then, is that I will involve everyone in the development process, continually evaluate the ends development is accomplishing, and openly take on different vantage points to view development.
 
 ** Note: My finally takeaway on gentrification is that its actually caused by speculation not any physical env changes.
+
 ** Note: Vienna, Austria the birthplace of Austrian Economics has 80% social housing?
