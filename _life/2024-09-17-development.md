@@ -21,6 +21,8 @@ The city of Charlottesville can be considered gentrified. But what does the term
 
 ** Note: After doing some literature reading, I myself stand conflicted on my own interpretations of gentrification. There is like 10+ different definitions, ways of measuring, and viewpoints on it which makes it even more confusing.
 
+** Note 2: I'm glad I'm not crazy, doing some more reading. There has been many critiques against the broad field of gentrification theory due to the overloading of the term. For the purpose of this blog, my definition is just the existence of class/racial re/displacement. I say existence because it will be intellectually disingenious for me to provide a definition that covers the processes of gentrification.
+
 Before going any further, this post was made for a midterm assignment for one of my classes. **However**, the goal of this post is for me to critically assess the histories and ongoing stories of development in Charlottesville. This blog post serves to help me address questions I have about the place I'm earning my degree and the institution's position within everything.
 
 The questions I will go on to address in this blog are as follows:
@@ -112,6 +114,10 @@ My own reflections on development after doing the case studies are as follows:
 
 The implication, then, is that I will involve everyone in the development process, continually evaluate the ends development is accomplishing, and openly take on different vantage points to view development.
 
+## Post Blog Reflections:
+
+I keep reflecting more on this blog and want to rewrite or add pages of notes/edits. That's why I made this section so I don't... Anything new or interesting will be added here. 
+
 ** Note: My finally takeaway on gentrification is that its actually caused by speculation not any physical env changes.
 
 ** Note: Vienna, Austria the birthplace of Austrian Economics has 80% social housing?
@@ -136,9 +142,13 @@ Lipset, Seymour Martin. “Some Social Requisites of Democracy: Economic Develop
 
 Progress Timeline: Advancing Our Goals. strategicplan.virginia.edu/vision. 
 
+Rose, D. “Rethinking Gentrification: Beyond the Uneven Development of Marxist Urban Theory.” Environment and Planning D Society and Space, vol. 2, no. 1, Mar. 1984, pp. 47–74. https://doi.org/10.1068/d020047.
+
 Roser, Max. “The Short History of Global Living Conditions and Why It Matters That We Know It.” Our World in Data, 19 Mar. 2024, ourworldindata.org/a-history-of-global-living-conditions?linkId=62571595.
 
 Sen, Amartya Kumar. Development as Freedom. 1999, ci.nii.ac.jp/ncid/BA43059927. 
+
+Smith, Neil. “Gentrification and the Rent Gap.” Annals of the Association of American Geographers, vol. 77, no. 3, Sept. 1987, pp. 462–65. https://doi.org/10.1111/j.1467-8306.1987.tb00171.x.
 
 Urban Renewal, Vinegar Hill, 1960, Charlottesville Daily Progress Articles. edu.lva.virginia.gov/dbva/items/show/300.
 
