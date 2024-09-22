@@ -124,7 +124,7 @@ I found an interesting video essay that aligned on a lot of the notes here. What
 
 After reading a bit more on the Berkely situation, I found it funny how the history of development at Berkely is the reverse from UVA's. Berkely first established itself there and attracted people to buy-up land surrounding it. Now they don't want the university to build more housing. UVA was not the "first to be here", but rather expanded through actively buying out land to expand. But in our case, building affordable housing does not absolve UVA history of acquiring the land.
 
-<iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/MH1R9I7GYw4?si=2vpL6xfeyggtL6f1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/37lTnnsZgZI?si=ZZkwwp-jh2PgGDP6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ** Note: My finally takeaway on gentrification is that its actually caused by speculation not any physical env changes.
 
