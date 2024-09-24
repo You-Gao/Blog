@@ -8,7 +8,7 @@ last_modified_at: 2024-09-23
 tags:
 - Life
 title: >-
-  Care and Violece: On Architectural Materials, Damage, and Repair        
+  Care and Violence: On Architectural Materials, Damage, and Repair        
 layout:           style
 name: >-  
   On Architectural Materials       
@@ -22,7 +22,7 @@ name: >-
     </blockquote>
 </figure>
 
-A friend visited from town, and I wanted to take them to something fun/exciting. What better thing of interest is a seminar from the Architectural School titled "Care and Violence: On Architectural Materials, Damage, and Repair." The thing I really appreciate about Architectural seminars is how lucidly they reveal social/political/economic structures through materiality or the built environment. In other social study fields, it is done so by examining bodies, institutions, markets, ideology, actors, ontologies, theories, and so forth up the abstraction ladder. Architectural studies are able to gain a bit more clarity because they can point out the reification of these "abstract forces" and how they manifest materially in the world.
+A friend visited and I wanted to take them to something fun/exciting. What better thing of interest is a seminar from the Architectural School titled "Care and Violence: On Architectural Materials, Damage, and Repair." The thing I really appreciate about Architectural seminars is how lucidly they reveal social/political/economic structures through materiality or the built environment. In other social study fields, it is done so by examining bodies, institutions, markets, ideology, actors, ontologies, theories, and so forth up the abstraction ladder. Architectural studies are able to gain a bit more clarity because they can point out the reification of these "abstract forces" and how they manifest materially in the world.
 
 ** Note: This doesn't mean it is better or really any clearer than social theory. Most art/performance pieces require a description of what they are, or else I wouldn't know the true intent. However, some art plays on that interpretation itself, etc. etc.
 
