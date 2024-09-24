@@ -11,10 +11,10 @@ title: >-
   Care and Violece: On Architectural Materials, Damage, and Repair        
 layout:           style
 name: >-
-  Care and Violece: On Architectural Materials, Damage, and Repair        
+  On Architectural Materials, Damage, and Repair        
 ---
 
-# Care and Violece: On Architectural Materials, Damage, and Repair      
+# On Architectural Materials, Damage, and Repair      
 
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote" style="font-size: 18px;">
@@ -24,7 +24,7 @@ name: >-
 
 A friend visited from town and I wanted to take them to something fun/interesting. What better things of interest is a seminar from the Architectural School titled "Care and Violence: On Architectural Materials, Damage, and Repair". The thing I really appreciate about Architectural seminars is how lucidly they reveal social/political/economic structures through the histories of a material or the built-environment. In other social study fields, they do so by examining bodies, institutions, markets, ideology, actors, ontologies, and so forth up the abstraction ladder. Architectural studies is able to accomplish a bit more clarity because they can point out the reification of these "abstract forces" and how they manifest materially in the world.
 
-However, I do have some critiques on the field of social theory, whatever field it is in. Because the employment of interpretation and meaning assignment is itself privileged; the realm of high-arts and academia when discussing meaning seems a bit questionable. There is the usage of theoretical jargon, sense of cultural gatekeeping, and a need of such fluency. Anyways, I left the talk with a sense of ivory-towerism toward the seminar. It may be because I fell asleep, but it also may be due to the heavy use of theoretical terms: neoliberalism, colonialism, environmental justice, biopolitics, vinyality, pollution as colonialism, white domesticity, and such. But it was definitely because I stayed up until 4am the day of to do laundry.
+However, I do have some critiques on the field of social theory, whatever field it is in. Because the employment of interpretation and meaning assignment is itself privileged; the realm of high-arts and academia when discussing meaning seems a bit questionable. There is a sense of cultural gatekeeping, the usage of theoretical jargon, and a need of such fluency to be "in". Anyways, I left the talk with a sense of ivory-towerism toward the seminar. It may be because I fell asleep, but it also may be due to the heavy use of theoretical terms: neoliberalism, colonialism, environmental justice, biopolitics, vinyality, pollution as colonialism, white domesticity, and such. But it was definitely because I stayed up until 4am the day of to do laundry.
 
 ## The Seminar
 
