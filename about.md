@@ -33,16 +33,12 @@ permalink: /about/
   </div>
 </div>
 
-<h2>[!WARNING!] monologue alert [!WARNING!]</h2>
+<h2>why are you writing?</h2>
 
-my wife left me, took the kids. lost of all my money. dark and stormy night. tore my acl. betrayed by close friends. diagnosed with a terminal illness. and got cancelled on twitter (X)... 
-
-alright, putting the dramatic explicates aside, the actual reason why i started this blog was to have a place for formal dialogue with who i am. practice my hand at creation and learn more about myself in the process. the feature topics were chosen because i felt like they were tangible pieces that i could further formalize the existing thoughts i had for them.
+the reason why i started this blog was to have a place for formal dialogue with the world and myself; practice my hand at creation and learn more about myself in the process. the feature topics were chosen because i felt like they were tangible pieces that i could further explore the existing thoughts i had for them.
 
 what you will encounter in the blog are the perspectives and takes i have synthesized on those topics. and if i turn out to be a decent blogger, there is something tangible to skedaddle out with as a takeaway. 
 
 enjoy the site, no matter how you have stumbled onto this crevice of the internet.
 
-leave a message (at the tone): mail@yougao.dev  
-^ if there is enough interest I can set-up a newsletter for updates  
-^^ feel free to leave suggestions, critiques, or scathing reviews
+leave a message at the tone: mail@yougao.dev  
