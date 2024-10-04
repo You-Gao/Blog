@@ -63,7 +63,7 @@ permalink: /books/
     <ul style="list-style-type: '- ';">
   {% endif %}
   
-  <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.name }}</a></li>
+  <li><a href="{{ post.url | prepend: site.baseurl }}" style="font-size: 20px">{{ post.name }}</a></li>
   {% if forloop.last %}
     {% if previousMonth != '' %}
     </ul>
