@@ -1,10 +1,10 @@
---
+---
 categories:       blog
 date:             2024-10-03
 description:  >-
     Moral bankruptcy in the gilded age.
 lang:             en
-last_modified_at: 2024-10-03
+last_modified_at: 2024-10-04
 layout:           post
 tags:
 - Work
