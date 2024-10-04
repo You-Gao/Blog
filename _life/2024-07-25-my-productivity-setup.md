@@ -11,7 +11,7 @@ title: >-
     My Productivity Set-up
 layout:           style
 name: >-
-    My Productivity Set-up
+    Productivity Set-up
 ---
 
 # My Productivity Set-up

@@ -15,8 +15,7 @@ permalink: /games/
 
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote" style="font-size: 24px;">
-    <p>All are temporary worlds within the ordinary world,
-    dedicated to the performance of an act apart.</p>
+    <p>All are temporary worlds within the ordinary world.</p>
     </blockquote>
     <figcaption class="blockquote-footer" style="font-size: 18px;">
     Johan Huizinga,  <cite title="Source Title"> Homo Ludens: A Study of the Play-Element in Culture</cite>
