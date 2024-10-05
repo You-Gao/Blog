@@ -16,7 +16,7 @@ permalink: /books/
 
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote" style="font-size: 24px;">
-    <p>The reading of good books is like a conversation with the best minds of past centuries.</p>
+    <p style="font-size: 24px;">The reading of good books is like a conversation with the best minds of past centuries.</p>
     </blockquote>
     <figcaption class="blockquote-footer" style="font-size: 18px;">
     Rene Descartes, <cite title="Source Title">Meditations on First Philosophy</cite>

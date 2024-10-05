@@ -16,7 +16,7 @@ permalink: /work/
 
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote" style="font-size: 24px;">
-    <p>We do not learn from experience... we learn from reflecting on experience.</p>
+    <p style="font-size: 24px">We do not learn from experience... we learn from reflecting on experience.</p>
     </blockquote>
     <figcaption class="blockquote-footer" style="font-size: 18px;">
     John Dewey, <cite title="Source Title">How We Think</cite>
