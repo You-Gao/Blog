@@ -17,8 +17,6 @@ name: >-
 
 # Adam Smith's Physical Hand
 
-cover the idea of philosophers and economists until the gilded age. specifically cover the usage of adam smith to tie back into the modern economists, but also justify liberal political positions. then transition to the shenanigans that occured during the gilded age and just enjoy economic dogmatism takin to it's extreme
-
 The Gilded Age is a period of American history we all heard about in middle school history class. We learned about the magnates, robber barons, journalists, state powers, and the worker exploitation that occured. We have all seen the political cartoon where you have all the workers lifting up fat magnates. However, I don't think we as kids were really thinking about class consciousness or the operations of the political world. Which alas leads to today; I'm less of a kid now and my attention has been turned back on these topics.
 
 ** Note: John Stuart Mill was a kid that did.
@@ -125,3 +123,13 @@ Though the life of Andrew Carnegie was full of contradictions, he embodied the t
 I want to leave off the blog with a question for you to consider:
 
 What do you think of Bill Gates and the Bill Gates Foundation?
+
+## Citations
+
+Carnegie, Andrew, and Edward C. Kirkland. “The Gospel of Wealth and Other Timely Essays, by Andrew Carnegie.” The Economic History Review, vol. 19, no. 1, Jan. 1966, p. 232. https://doi.org/10.2307/2592833.
+
+Heilbroner, Robert L. The Worldly Philosophers: The Lives, Times and Ideas of the Great Economic Thinkers. 1999, ci.nii.ac.jp/ncid/BA47266617. 
+
+Sumner, William Graham. What Social Classes Owe to Each Other. 1883, ci.nii.ac.jp/ncid/BA19308286.
+
+A lot of wikipedia
