@@ -28,7 +28,7 @@ The question I had and for other books related that speak upon the social self i
 
 ## Performance
 
-The idea of performance drawn out in this book is fairly simple. Playing the role that is socially expected of you whether that be the role of a professional role, gender, or student. These categories have well and specific expections in actions and behaviors with it's medium being us humans. What philosophers and sociologists gain analyzing performance is to draw out then these modes of being. This is the idea of symbolic interactionism. 
+The idea of performance drawn out in this book is fairly simple. Playing the role that is socially expected of you whether that be the role of a professional role, gender, or student. These categories have well and specific expectations in actions and behaviors with it's medium being us humans. What philosophers and sociologists gain in analyzing performance is to draw out then these modes of being. This is the idea of symbolic interactionism. 
 
 
 ## Front and Backstage

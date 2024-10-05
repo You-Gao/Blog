@@ -27,11 +27,4 @@ It is a pretty dull and off-putting book to those with knowledge of introductory
 
 The only takeaway I had was a reminder to be aware about my environment and attitudes towards accomplishing something. If you are looking to get some deeper insights into productivity, I suggest Cal Newport's ["Deep Work"](https://blog.yougao.dev/work/deep-work/) over this book.
 
-To Summarize The Key Concepts from 275 Pages...:
-* Theory of Emotions
-* Neurofeedback
-* Circadian Rhythms
-* Gut and Neurotransmitters
-* Polyvagal Theory
-
 I get that the person is a trained nutritionist, so they wouldn't know much, but they should probably stick to that.

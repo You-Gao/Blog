@@ -18,7 +18,7 @@ name: >-
 
 After, stumbling my way through reasons and persons. Albeit I did try to read through it with a headache. I am making my list that I plan to finish by next semester of college for myself that covers logical thinking. Without further ado here is the smorgasbord of books I WILL read through:
 
-* Tractatus Logico-Philosophicus
+* Philosophical Investigations
 * Language, Truth, and Logic
 * Naming and Necessity
 * On Sense and Reference

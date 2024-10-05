@@ -28,7 +28,7 @@ name: >-
     </blockquote>
 </figure>
 
-The book that gave a pretty famous quote on existential vitality in destining man's existence. Frankl delivers this by giving his account's of living within concentraion camps and in a way creating a theory to capture the cruelness yet hopeful conditions. He posits that suffering is universal, but the ways in which people will cope with that and perservere is fundamentally what Frankl wants to give us. Frankl's logotherapy then a specific method to humanism, where it's goal is to aim for human spirituality. In that case, many of thinkers for the modern century hsa posited their philosophies in such a way to value the human. Nietzsche's "will to power", Bergson's "vitaliyt", Husserl's "Lebenswelt", Laozi's "Tao", and so on from all conceptions of human phlosophy have ennumerated the human potential.
+The book that gave a pretty famous quote on existential vitality in destining man's existence. Frankl delivers this by giving his account's of living within concentration camps and in a way creating a theory to capture the cruelness yet hopeful conditions. He posits that suffering is universal, but the ways in which people will cope with that and persevere is fundamentally what Frankl wants to give us. Frankl's logotherapy then, is a specific method to humanism, where it's goal is to uplift human spirituality. In that case, many of thinkers have previously posited their philosophies in such a way to value the human. Nietzsche's "will to power", Bergson's "vitality", Husserl's "Lebenswelt", Laozi's "Tao", and so on from all conceptions of human philosophy have enumerated the human potential.
 
 <br/><br/>
 
