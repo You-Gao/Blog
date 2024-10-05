@@ -182,10 +182,35 @@
 
     /* home page */
     .cards{
+        transform: scale(0.9);
         transition: all 0.2s ease;
         cursor: pointer;
     }
-        
+    
+
+    .card-text {
+        font-size: 17px !important;
+    }
+
+
+    @media (max-width: 768px) {
+        .cards {
+            transform: scale(1);
+            width: 90%;
+            margin: auto;
+            margin-top: 20px;
+        }
+        .card-text {
+            font-size: 0px !important;
+        }
+        .card-title {
+            font-size: 30px !important;
+        }
+        .card-subtitle {
+            font-size: 20px !important;
+        }
+    }
+
     .cards:hover{
     
         box-shadow: 5px 4px 10px -2px #e9ecef;
@@ -196,9 +221,15 @@
         height: 150px;
         object-fit: fill; /* This ensures the image covers the area without distorting its aspect ratio */
       }
+
+    /* random changes i need */
     blockquote {
     font-size: 20px !important; /* Forcefully override */
 	}
+
+    .footnotes {
+    font-size: 18px !important; /* Forcefully override */
+    }
 
 </style>
 

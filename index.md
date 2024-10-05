@@ -13,11 +13,11 @@ title: >-
 
 # Pick a Card, Any Card
 
-<div class="card-group row-cols-4 my-6">
+<div class="card-group row-cols-4 my-6" style="gap: 0px">
 
 <div class="cards" href="{{'/games' | relative_url}}">
-<div class="col">
-  <div class="card" style="width: 14rem;">
+<div class="col" style="height: 100%;">
+  <div class="card" style="width: 100%; height: 100%;">
     <img src=" {{ 'assets/home/dad.jpg' | absolute_url}}" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Games</h5>
@@ -30,8 +30,8 @@ title: >-
 </div>
 
 <div class="cards">
-<div class="col">
-  <div class="card" style="width: 14rem;">
+<div class="col" style="height: 100%;">
+  <div class="card" style="width: 100%; height: 100%;">
     <img src="{{ 'assets/home/read.png' | absolute_url}}" class="card-img-top" alt="...">
       <div class="card-body my-0">
         <h5 class="card-title">Books</h5>
@@ -44,8 +44,8 @@ title: >-
 </div>
 
 <div class="cards">
-<div class="col">
-  <div class="card" style="width: 14rem;">
+<div class="col" style="height: 100%;">
+  <div class="card" style="width: 100%; height: 100%;">
       <img src="{{ 'assets/home/grow.png' | absolute_url }}" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Life</h5>
@@ -58,8 +58,8 @@ title: >-
 </div>
 
 <div class="cards">
-<div class="col">
-  <div class="card" style="width: 14rem;">
+<div class="col" style="height: 100%;">
+  <div class="card" style="width: 100%; height: 100%;">
       <img src="{{ 'assets/home/computer.jpg' | absolute_url}}" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Work</h5>
