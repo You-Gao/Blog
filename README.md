@@ -3,5 +3,4 @@
 ![Description of Image](/assets/home/screenshot.png)
 
 # To-DO
-* Fix Navbar Mobile Scaling
-* Look into different Card-Group Options
+* Play w/ semver and implemented a workflow to update release based on conventional commits.

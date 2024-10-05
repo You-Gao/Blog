@@ -12,7 +12,7 @@ title: >-
  Layer 8 DDOS and AI
 layout:           style
 name: >-
- Layer 8 DDOS and AI
+ Layer 8 DDOS
 ---
 
 # Layer 8 DDOS and AI 

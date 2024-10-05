@@ -15,10 +15,10 @@ permalink: /life/
 <h1>Life</h1>
 
 <figure class="container-lg" style="padding: 0;">
-    <blockquote class="blockquote" style="font-size: 21px;">
-    <p>Today you are You, that is truer than true. There is no one alive who is Youer than You.</p>
+    <blockquote class="blockquote" style="font-size: 24px;">
+    <p style="font-size: 24px">Today you are You, that is truer than true. There is no one alive who is Youer than You.</p>
     </blockquote>
-    <figcaption class="blockquote-footer" style="font-size: 14px;">
+    <figcaption class="blockquote-footer" style="font-size: 18px;">
     Dr. Seuss, <cite title="Source Title">Happy Birthday to You!</cite>
     </figcaption>
 </figure>
@@ -63,7 +63,7 @@ permalink: /life/
     <ul style="list-style-type: '- ';">
   {% endif %}
   
-  <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.name }}</a></li>
+  <li><a href="{{ post.url | prepend: site.baseurl }}" style="font-size: 20px">{{ post.name }}</a></li>
   {% if forloop.last %}
     {% if previousMonth != '' %}
     </ul>

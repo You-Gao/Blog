@@ -15,10 +15,10 @@ permalink: /books/
 <h1>Book Reviews</h1>
 
 <figure class="container-lg" style="padding: 0;">
-    <blockquote class="blockquote" style="font-size: 21px;">
-    <p>The reading of good books is like a conversation with the best minds of past centuries.</p>
+    <blockquote class="blockquote" style="font-size: 24px;">
+    <p style="font-size: 24px;">The reading of good books is like a conversation with the best minds of past centuries.</p>
     </blockquote>
-    <figcaption class="blockquote-footer" style="font-size: 14px;">
+    <figcaption class="blockquote-footer" style="font-size: 18px;">
     Rene Descartes, <cite title="Source Title">Meditations on First Philosophy</cite>
     </figcaption>
 </figure>
@@ -63,7 +63,7 @@ permalink: /books/
     <ul style="list-style-type: '- ';">
   {% endif %}
   
-  <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.name }}</a></li>
+  <li><a href="{{ post.url | prepend: site.baseurl }}" style="font-size: 20px">{{ post.name }}</a></li>
   {% if forloop.last %}
     {% if previousMonth != '' %}
     </ul>
