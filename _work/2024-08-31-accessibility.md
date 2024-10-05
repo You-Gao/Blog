@@ -34,7 +34,7 @@ Besides from what I learned on digital accessibility, I want to make the case th
 
 As I researched the topic more, I became disheartened, as I knew it's not a major focus because the category of "disabled" is neccessarily marginal to a business. Although thats why modern disability studies have pushed the term temporary able-bodied against the dichotomy of able vs. disabled. Anyways accessibility is cool, but there is also a reason why it's not focused on, but should that be the case? 
 
-<br/><br/>
+<br/>
 
 ## Citations
 

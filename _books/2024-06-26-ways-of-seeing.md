@@ -32,9 +32,3 @@ name: >-
 Picked up this book, because I wanted to understand my sense of objection recognition. In essence what the quote means is the ways in which we see (view the world, receive visual stimuli) and what we know (the signs and signifiers imbued with meaning) are never stable nor comprehensive of the thing (person, object, other). Berger goes through in explaining this effect through analyzing art, pictures, and their meanings. The subsequent concept of perspective phenomenology that he delivers is powerful because it conceptualizes the project of phenomenology; at least for me; as the process of coming into understanding the nature of human inter-subjectivity.
 
 The latter part of the book surprisingly goes into putting the idea of looking by turning the applying the ideas to epistemic violence, capitalism spiritualism, and mechanicality of signs. It has been a long time since reading, but in summary, epistemic violence here relates to the interpretation of signs and specifically which perspective is valued more, capitalism spiritualism relates to the commodification of art and symbols to serve spiritual (market) needs, and finally the mechanicality relates to the function of signs, specifically reductive functions of cognition (think fixed categorical understandings).
-
-<br/><br/>
-
-## Citations
-
-Berger, J. (2008). Ways of Seeing.

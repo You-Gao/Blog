@@ -29,7 +29,7 @@ Yeah, that's the end of the blog. I'm not too sure of any enduring strategies ag
 
 Fun and depressing random note: Any "fake agent" or "bad faith actor" can be seen as a dos attack on society. It takes time and context to verify if something being put out is actually true or not.
 
-<br/><br/>
+<br/>
 
 ## Citations
 

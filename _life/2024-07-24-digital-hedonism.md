@@ -66,7 +66,7 @@ The broader ethical question is: How should you be happy?
 - To the older generation trying to understand this phenomena: think back on the proliferation and emergence of smoking.
     - But in this case, it is more of a cognitive? addiction than physical.
 
-<br/><br/>
+<br/>
 
 ## Citations
 

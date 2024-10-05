@@ -29,9 +29,3 @@ Maybe, I didn't fully understand the text (I did in-fact skim it), but aside fro
 Personally, the more relevant on those influences would be on Marcuse, specifically on Freire's conception of his critical pedagogy and how epistemological means fit in relation to Marcuse's work "One-Dimensional Man". Both highlighting the need for critical thinking against the historical and material realities as a way for the subject to experience "freedom".
 
 This reflection can be skipped as my own ramblings. This book is my first "dive" into political theory and I think I have knowingly steered myself away from diving into such. Most of my past readings have been safely shielded in establishing a system of persons relating with each other. Looking at the philosophical branches I have covered: metaphysics, ontology, epistemology, phenomenology, logic, ethics, aesthetics. THE only one missing is politics and on how peoples should conduct themselves. I can appreciate the basic ideas from Hobbes, Locke, and Rousseau, but yeah, I don't know, maybe I'll get to the point where I feel comfortable on affirming my political positions aside from validating them to the arsenal of ethical theories. It's just that I have no clue at all of the full scopes/behavior of the objects underlying a political theory.
-
-<br/><br/>
-
-## Citations
-
-Freire, P. (2014). Pedagogy of the oppressed: 30th Anniversary Edition. Bloomsbury Publishing USA.

@@ -29,9 +29,3 @@ name: >-
 </figure>
 
 The book that gave a pretty famous quote on existential vitality in destining man's existence. Frankl delivers this by giving his account's of living within concentration camps and in a way creating a theory to capture the cruelness yet hopeful conditions. He posits that suffering is universal, but the ways in which people will cope with that and persevere is fundamentally what Frankl wants to give us. Frankl's logotherapy then, is a specific method to humanism, where it's goal is to uplift human spirituality. In that case, many of thinkers have previously posited their philosophies in such a way to value the human. Nietzsche's "will to power", Bergson's "vitality", Husserl's "Lebenswelt", Laozi's "Tao", and so on from all conceptions of human philosophy have enumerated the human potential.
-
-<br/><br/>
-
-## Citations
-
-Frankl, V. E. (1946). Man’s search for meaning. http://lifemanagement4filipinos.weebly.com/uploads/1/2/0/6/12062185/mans_search_for_meaning_-_viktor_e._frankl_1.pdf

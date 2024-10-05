@@ -45,7 +45,9 @@ In many high-information systems, learning backward would be the primary way if 
 <div class="picture-grid1">
 <img src="{{ 'assets/life/learning/snippet.png' | relative_url }}">
 </div>
-<br/><br/>
+
+
+<br/>
 
 
 ## Citations

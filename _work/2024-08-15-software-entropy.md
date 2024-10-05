@@ -30,7 +30,7 @@ But the point is: software entropy is understood as not a magical deterioration 
 
 To oversimplify: good design + good code + good documentation = no software entropy.
 
-<br/><br/>
+<br/>
 
 ## Citations
 

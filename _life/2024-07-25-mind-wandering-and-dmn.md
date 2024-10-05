@@ -27,7 +27,7 @@ Yeah, I thought I would have written more, but I don't think I have more to say 
 - [The Science of Mind-Wandering](https://pubmed.ncbi.nlm.nih.gov/25293689/) 
     - Comprehensive review of the topic (recommended if you want to read more) 
 
-<br/><br/>
+<br/>
 
 ## Citations
 

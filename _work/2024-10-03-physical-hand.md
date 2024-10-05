@@ -124,6 +124,8 @@ I want to leave off the blog with a question for you to consider:
 
 What do you think of Bill Gates and the Bill Gates Foundation?
 
+<br/>
+
 ## Citations
 
 Carnegie, Andrew, and Edward C. Kirkland. “The Gospel of Wealth and Other Timely Essays, by Andrew Carnegie.” The Economic History Review, vol. 19, no. 1, Jan. 1966, p. 232. https://doi.org/10.2307/2592833.

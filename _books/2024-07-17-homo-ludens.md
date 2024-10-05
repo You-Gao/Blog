@@ -30,9 +30,3 @@ name: >-
 </figure>
 
 I play and review games; I've done the play part more; The book is about play and a pretty famous book on play at that; so I felt obligated in needing to read the book as it related to my experiences on play. The title of the book "homo ludens" refer to conceiving of humanity as playing beings and Huizinga goes on to show how it extends into the realm of society by examining the nature of play. In doing so, Huizinga demonstrates how religion, law, and society are in a form *sub sudi luci* (under guise of a game). That's kind of all I remembered. I don't think he gave a definition of play or game.
-
-<br/><br/>
- 
-## Citations
-
-Gillin, J. L., & Huizinga, J. (1951). Homo Ludens: A Study of the Play-Element in Culture. American Sociological Review, 16(2), 274. https://doi.org/10.2307/2087716

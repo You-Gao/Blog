@@ -115,7 +115,7 @@ If you somewhat agree with what I have said in the previous sections and take it
       </tbody>
   </table>
 
-<br/><br/>
+<br/>
 
 ## Citations
 

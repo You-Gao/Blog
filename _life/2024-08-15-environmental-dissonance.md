@@ -27,7 +27,7 @@ This same question has been asked in psychology literature before because there 
 
 I wanted to write on the idea of environmental dissonance because I have always had a nagging cognitive dissonance about how I was living compared to the world around me. One of those was the frequent late nights spent pondering or wandering around. A dear and frightful memory to me was when I often stayed up at night working on problem sets; very inefficiently working through them, I would add. But, in the downtime, I was able to walk around outside my dorm at 3 AM, experiencing the fragility of the night as everyone winds down and the streets get pin-drop silent. There was a sense of melancholy mixed with freedom that was found between the silence of the night and the noise of my mind. It was just me and my thoughts. A lot of good self-reflection and pondering was completed in that time, so maybe it wasn't entirely hurtful.
 
-<br/><br/>
+<br/>
 
 ## Citations
 

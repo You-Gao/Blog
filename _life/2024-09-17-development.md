@@ -130,7 +130,7 @@ After reading a bit more on the Berkely situation, I found it funny how the hist
 
 ** Note: Vienna, Austria the birthplace of Austrian Economics has 80% social housing?
 
-<br/><br/>
+<br/>
 
 ## Citations
 

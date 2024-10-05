@@ -126,7 +126,7 @@ Chapters:
 
 ** Note: I think there is still an art of setting up a non-cloud native networking environment
 
-<br/><br/>
+<br/>
 
 ## Citations
 
