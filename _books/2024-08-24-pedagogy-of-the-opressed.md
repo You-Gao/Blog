@@ -8,13 +8,13 @@ last_modified_at: 2024-08-24
 tags:
 - Book-Review
 title: >-
-  Pedagogy of the Opressed
+  Pedagogy of the Oppressed
 layout:           style
 name: >-
-  Pedagogy of the Opressed
+  Pedagogy of the Oppressed
 ---
 
-# Pedagogy of the Opressed
+# Pedagogy of the Oppressed
 
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote" style="font-size: 18px;">
@@ -22,7 +22,7 @@ name: >-
     </blockquote>
 </figure>
 
-The book delivers a clear critique of how forms of instruction solidify the position of the oppressor against the oppressed. What Frerie does after delivering the critique is providing moves forward to *Conscientization* through the use of a dialogic and praxis. 
+The book delivers a clear critique of how forms of instruction solidify the position of the oppressor against the oppressed. What Freire does after delivering the critique is providing moves forward to *Conscientization* through the use of a dialogic and praxis. 
 
 Maybe, I didn't fully understand the text (I did in-fact skim it), but aside from the productive discourse on oppressor and oppressed, a lot of the concepts developed further seemed to be a mix of historically detailed ideas. Which makes sense as he has been cited to been influenced by Fromm, Sartre, and Marcuse. Understanding it in in perspective makes the book a bit clearer, as the ethical and political implications end up radically indexed on humanism. 
 

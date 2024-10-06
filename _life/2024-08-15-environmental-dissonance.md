@@ -21,7 +21,7 @@ My gut reaction is that, of course, being in contradiction with society is a bad
 
 This same question has been asked in psychology literature before because there are a valuable set of people who require them to have schedules out of sync. These people are dubbed night shifters/workers. They faced the symptoms I have drawn out earlier, which is an incredible amount of social isolation. A thing I missed out on, though, was the actual biological timings humans have in sync with the environment. Messing up circadian rhythms will invariably mess you up biologically.
 
-** Note: After reading about the citations, I realize I don't need to continue writing.
+[^1]
 
 ## My Own Reports of Night Owling
 
@@ -34,3 +34,7 @@ I wanted to write on the idea of environmental dissonance because I have always 
 Holt‐Lunstad, Julianne et al. “Loneliness and Social Isolation as Risk Factors for Mortality.” Perspectives on Psychological Science 10 (2015): 227 - 237.
 
 Touitou, Yvan et al. “Association between light at night, melatonin secretion, sleep deprivation, and the internal clock: Health impacts and mechanisms of circadian disruption.” Life Sciences 173 (2017): 94–106.
+
+<br/>
+---
+[^1]: After reading about the citations, I realize I don't need to continue writing.

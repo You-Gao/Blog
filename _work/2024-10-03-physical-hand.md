@@ -124,7 +124,6 @@ A lot of wikipedia
 
 <br/>
 ---
-
 [^1]: John Stuart Mill was a kid who did.
 [^2]: Adam Smith only wrote the words "invisible hand" once in the entirety of Wealth of Nations. The book that made Smith popular during his era was actually The Theory of Moral Sentiments. Adam Smith can then be said to be colloquially "rolling in his grave" whenever his ideas are brought up.
 [^3]: The more modern debate on this topic is the concept of meritocracy. Can you see the similarities?

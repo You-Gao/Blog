@@ -30,7 +30,6 @@ The question I had and for other books related that speak upon the social self i
 
 The idea of performance drawn out in this book is fairly simple. Playing the role that is socially expected of you whether that be the role of a professional role, gender, or student. These categories have well and specific expectations in actions and behaviors with it's medium being us humans. What philosophers and sociologists gain in analyzing performance is to draw out then these modes of being. This is the idea of symbolic interactionism. 
 
-
 ## Front and Backstage
 
 As part of a theatre, there is the front stage where the performance occurs and everything behind the curtains lends itself to the backstage. This piece of the dramaturgical analysis is the most cynical for me, as it states that from my perspective I could never get to know the "true other". Any perceptions of the other will always be the front-stage and of what goes on. Although, I don't think Goffman is exactly as fatalistic because he states that you can have glimpses into the backstage, but not fully as you don't have access to another person's mind. Such situations of the backstage, is finding out the "true" nature of someone, hearing gossip that was always behind your back, and so forth.
@@ -41,9 +40,7 @@ A common critique of Goffman's work on the front and backstage is that the disti
 
 ### Judith Butler's Gender Roles:
 
-Reading through the book, I had this background neuron continually activating which really felt like the idea's put out by Goffman on Performance was related to Butler's work on Performativity. They both conceptualize the self and more specifically gender coming into itself through performance. It is through this that a lot of people (academics) view Butler's work as a more developed front, but I view it as the same. The point of contention highlighted in a paper is how much agency the self has, but I think the underlying points of both theories posits the self as reflective and in continuation of... being and becoming.
-
-** Note: Found a paper that covered these exact thoughts I had, but in more faithful depth to both positions. in citations.
+Reading through the book, I had this background neuron continually activating which really felt like the idea's put out by Goffman on Performance was related to Butler's work on Performativity. They both conceptualize the self and more specifically gender coming into itself through performance. It is through this that a lot of people (academics) view Butler's work as a more developed front, but I view it as the same. The point of contention highlighted in a paper is how much agency the self has, but I think the underlying points of both theories posits the self as reflective and in continuation of... being and becoming. [^1]
 
 ### Sartre's The Look:
 
@@ -60,3 +57,7 @@ The easiest for last. Goffman seems to have developed the ideas set forth in Mea
 Brickell, C. (2005). Masculinities, performativity, and subversion. Men And Masculinities, 8(1), 24–43. https://doi.org/10.1177/1097184x03257515
 
 Dolezal, L. (2012). Reconsidering the look in Sartre’s: Being and Nothingness. Sartre Studies International, 18(1). https://doi.org/10.3167/ssi.2012.180102
+
+<br/>
+---
+[^1]: Found a paper that covered these exact thoughts I had, but in more faithful depth to both positions. in citations.

@@ -27,9 +27,7 @@ Mythical Man-Month as a book is solid, and what really makes it good (at least f
 
 Personally, the book has helped highlight and provide insight into a lot of the challenges of writing software within an organizational context (open-source or in a company). As a student, you usually will never encounter software development at scale until an internship, so this book is really priceless in that aspect. The book is dated, though, just because it is a different time for software development. Specifically, the portion about developing software with constraints gave an interesting thought to judging software not by size but by functionality (Mostly irrelevant now due to storage size).
 
-This paragraph is a bit of a tangent and can be skipped: Why was there minimal mention of organizational culture in Mythical Man-Month? Brook says a lot about organizational structures and what the responsibilities of those roles should be, but there is minimal mention of culture's impact on a software project's success. Maybe, back then, no one needed a reminder that everyone at the company was there to succeed, and no one was actually out to get them. Most of the current DevOps best practices just seem to be pretty innocuous, though that could be in hindsight. Either way, with DevOps and learning from the 70s, we now have feedback loops, deployment pipelines, cross-functional teams, QA teams, continuous learning, code reviews, code ownership, and general cognizance of good software development organizations.
-
-** Note: A lot of these issues persist today, and I definitely think it is because they are not incentivized correctly
+This paragraph is a bit of a tangent and can be skipped: Why was there minimal mention of organizational culture in Mythical Man-Month? Brook says a lot about organizational structures and what the responsibilities of those roles should be, but there is minimal mention of culture's impact on a software project's success. Maybe, back then, no one needed a reminder that everyone at the company was there to succeed, and no one was actually out to get them. Most of the current DevOps best practices just seem to be pretty innocuous, though that could be in hindsight. Either way, with DevOps and learning from the 70s, we now have feedback loops, deployment pipelines, cross-functional teams, QA teams, continuous learning, code reviews, code ownership, and general cognizance of good software development organizations.[^1]
 
 # [State of DevOps 2023 Report](https://services.google.com/fh/files/misc/2023_final_report_sodr.pdf)
 
@@ -124,8 +122,6 @@ Chapters:
 * CH 12: Sharp Tools
 * CH 13: The Whole and the Parts
 
-** Note: I think there is still an art of setting up a non-cloud native networking environment
-
 <br/>
 
 ## Citations
@@ -135,3 +131,7 @@ Chapters:
 Brooks, F.P. (1987). No Silver Bullet: Essence and Accidents of Software Engineering.
 
 Brooks, F.P. (1975). The Mythical Man-Month. Reliable Software.
+
+<br/>
+---
+[^1]: A lot of these issues persist today, and I definitely think it is because they are not incentivized correctly

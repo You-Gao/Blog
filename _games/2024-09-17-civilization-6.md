@@ -28,8 +28,7 @@ A classic of the TBS (turn-based strategy genres) where you take on the job of a
 - **Resource Allocation** -  Select the specific resources to "work".
 - **Decision-making** - So so so many choices to make each turn.
 
-
-** Note: It was kind of awkward thinking of specifically player mechanics because for Turn-based Games you are just interacting w/ the main game mechanics. There isn't a single "body" to control, rather a system.
+[^1]
 
 ## Game Mechanics
 
@@ -74,3 +73,6 @@ Good game, should play 10/10.
 
 If you want to play the game: [https://civilization.2k.com/](https://civilization.2k.com/)
  
+<br/>
+---
+[^1]: It was kind of awkward thinking of specifically player mechanics because for Turn-based Games you are just interacting w/ the main game mechanics. There isn't a single "body" to control, rather a system.

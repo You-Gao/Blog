@@ -17,11 +17,7 @@ name: >-
 
 # gentrification, cville, development, uva
 
-The city of Charlottesville can be considered gentrified. But what does the term gentrified even mean at this point? We all hear it being thrown around as a pejorative against the historical and ongoing development of a place. The evocation of gentrification, or any pejorative really, usually comes with an ethical judgment and epistemic closure. Subsequently, we (or at least I) fail to trace out the viewpoints of the developers by casting them as essentially evil, but also, on the flip side, fail to understand the deep ways in which development affects the existing people.
-
-** Note: After doing some literature reading, I myself stand conflicted on my own interpretations of gentrification. There is like 10+ different definitions, ways of measuring, and viewpoints on it which makes it even more confusing.
-
-** Note 2: I'm glad I'm not crazy, doing some more reading. There has been many critiques against the broad field of gentrification theory due to the overloading of the term. For the purpose of this blog, my definition is just the existence of class/racial re/displacement. I say existence because it will be intellectually disingenious for me to provide a definition that covers the processes of gentrification.
+The city of Charlottesville can be considered gentrified. But what does the term gentrified even mean at this point? We all hear it being thrown around as a pejorative against the historical and ongoing development of a place. The evocation of gentrification, or any pejorative really, usually comes with an ethical judgment and epistemic closure. Subsequently, we (or at least I) fail to trace out the viewpoints of the developers by casting them as essentially evil, but also, on the flip side, fail to understand the deep ways in which development affects the existing people.[^1] [^2]
 
 Before going any further, this post was made for a midterm assignment for one of my classes. **However**, the goal of this post is for me to critically assess the histories and ongoing stories of development in Charlottesville. This blog post serves to help me address questions I have about the place I'm earning my degree and the institution's position within everything.
 
@@ -93,9 +89,7 @@ Especially when it was prefaced with
 
 <br/>
 
-Given my pessimism, but also seemingly wishful thinking for higher education, I want to make space for the future. Aren't we students bringing in these values and beliefs toward what we want from the university? The optimism here is that really the university does not have any choice but to play by these games of growing endowment funds, getting research grants, and practically teaching workable skills. I'm optimistic because we are the students that make up the institution! I think we have some say? Okay, I was motivated for a second, but it faded away. Why? Thinking back to Vinegar Hill when economic development was achieved through disregarding human/political dimensions, the same is happening here, just more subtle and less racist. UVA doesn't care as long as it gets paid.
-
-** Note: Pretty fatalistic ending to the paragraph, but I'm still hopeful.
+Given my pessimism, but also seemingly wishful thinking for higher education, I want to make space for the future. Aren't we students bringing in these values and beliefs toward what we want from the university? The optimism here is that really the university does not have any choice but to play by these games of growing endowment funds, getting research grants, and practically teaching workable skills. I'm optimistic because we are the students that make up the institution! I think we have some say? Okay, I was motivated for a second, but it faded away. Why? Thinking back to Vinegar Hill when economic development was achieved through disregarding human/political dimensions, the same is happening here, just more subtle and less racist. UVA doesn't care as long as it gets paid.[^3]
 
 ## What I Think of Development
 
@@ -126,9 +120,7 @@ After reading a bit more on the Berkely situation, I found it funny how the hist
 
 <iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/37lTnnsZgZI?si=ZZkwwp-jh2PgGDP6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-** Note: My finally takeaway on gentrification is that its actually caused by speculation not any physical env changes.
-
-** Note: Vienna, Austria the birthplace of Austrian Economics has 80% social housing?
+[^4][^5]
 
 <br/>
 
@@ -162,3 +154,10 @@ Urban Renewal, Vinegar Hill, 1960, Charlottesville Daily Progress Articles. edu.
 
 Zuk, M., Bierbaum, A. H., Chapple, K., Gorska, K., & Loukaitou-Sideris, A. 2018. Gentrification, Displacement, and the Role of Public Investment. Journal of Planning Literature, 33(1), 31-44. https://doi.org/10.1177/0885412217716439
 
+<br/>
+---
+[^1]: After doing some literature reading, I myself stand conflicted on my own interpretations of gentrification. There is like 10+ different definitions, ways of measuring, and viewpoints on it which makes it even more confusing.
+[^2]: I'm glad I'm not crazy, doing some more reading. There has been many critiques against the broad field of gentrification theory due to the overloading of the term. For the purpose of this blog, my definition is just the existence of class/racial re/displacement. I say existence because it will be intellectually disingenious for me to provide a definition that covers the processes of gentrification.
+[^3]: Pretty fatalistic ending to the paragraph, but I'm still hopeful.
+[^4]: My finally takeaway on gentrification is that its actually caused by speculation not any physical env changes.
+[^5]: Vienna, Austria the birthplace of Austrian Economics has 80% social housing?

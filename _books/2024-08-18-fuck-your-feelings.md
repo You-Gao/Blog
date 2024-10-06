@@ -16,7 +16,6 @@ name: >-
 
 # F*ck Your Feelings
 
-
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote" style="font-size: 18px;">
     <p>"Your life is perfectly designed for the results you’re currently getting."</p>
