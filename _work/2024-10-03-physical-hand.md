@@ -20,7 +20,8 @@ name: >-
 The Gilded Age is a period of American history we all heard about in middle school history class. We learned about the magnates, robber barons, journalists, state powers, and the worker exploitation that occurred. We have all seen the political cartoon where you have all the workers lifting fat magnates. However, we, as kids, were not really thinking about class consciousness or the operations of the political world.[^1] Which, alas, leads to today; I'm less of a kid now, and my attention has been turned back to these topics.
 
 
-The title of this blog, then, is a two-part critique of the moral bankruptcy during the Gilded Age and the use of economic doctrine to justify/strengthen those positions of power. Adam Smith's concept of the invisible hand becomes physical. That is, the economic and market mechanisms divined by the invisible hand are no longer abstract and beautiful. It has been cast out of the garden and is now in the hands of us humans. I look back to the Gilded Age as a case study precisely because it was a point in time when economic dogmatism was at its peak and its effects most destructive.
+The title of this blog, then, is a two-part investigation into the moral bankruptcy during the Gilded Age and the use of economic doctrine to justify/strengthen those positions of power. Adam Smith's concept of the invisible hand becomes physical. That is, the economic and market mechanisms divined by the invisible hand are no longer abstract and beautiful. It has been cast out of the garden and is now in the hands of us humans. I look back to the Gilded Age as a case study precisely because it was a point in time when economic dogmatism was at its peak and its effects most destructive.
+
 
 Some would say I'm cherry-picking or misconstruing the "true" power of economics and to that I say maybe I am.[^2] But what's important is my agenda, which is that positivist mathematical economics is sadly not free from human fallibility (a year ago, I definitely wanted it to be). I want to start considering again the political part of economics which was dropped at the turn of the 19th century in favor for what we have today in the 21st century.
 
@@ -43,7 +44,7 @@ There's already a clear undertone of Social Darwinism there.[^3] But it does mak
 
 This dogmatism is why I thought it'd be fun to examine what occurred during the Gilded Age in light of it. Stepping back a bit, there definitely were dissenters like Veblin and the like, but the dominating intellectual forces gravitated towards apathy and minutiae. I think I have made my point on economics' ability to make cruelty clear.I want to move on to the more visceral and narrative argument against indexing the soul towards the profit motive.
 
-# Rich Shenanigans
+## Rich Shenanigans
 
 > It was not only in their neglect of the fine processes of the law that the Americans outdid their European contemporaries; when they fought, they abandoned the gentleman’s rapier for the roughneck’s brass knuckles (The Worldly Philosophers)
 
@@ -51,13 +52,15 @@ This section tells the many, almost absurd tales, that went on during the age of
 
 ## Black Friday
 
-The Black Friday we know well today stems from the schemes of two magnates, James Fisk and Jay Gould. Our modern-day experience of Black Friday is one of sales and cheap goods, which benefits all consumers. The initial Black Friday was much more grim and had severe negative impacts on the American economy because the good that devalued then was gold. So, how did the gold crash and economic downturn come about? It rose from the desire and ability to manipulate the markets financially.
+T#he Black Friday we know well today stems from the schemes of two magnates, James Fisk and Jay Gould. Our modern-day experience of Black Friday is one of sales and cheap goods, which benefits all consumers. The initial Black Friday was much more grim and had severe negative impacts on the American economy because the good that devalued then was gold. So, how did the gold crash and economic downturn come about? It rose from the desire and ability to manipulate the markets financially.
 
 In the Gilded Age, the United States was tied to the gold standard. The duo took advantage of the gold standard and devised a scheme to corner the gold market. The idea is, especially in a commodity market where there is significant demand, that if they control the supply, they can artificially inflate the price to their desired price levels. They also knew a little something about informational asymmetry, so they had to come up with a plan to execute their enters and exits anonymously. On top of that, they knew the government had gold reserves and were willing to prevent their cornering of the gold market by selling their reserves at standard market prices.
 
 Long story short, they bribed a guy named Daniel Butterfield to kill two birds with one stone. Because Butterfield was the one executing trades for the U.S. government, he could provide intel to Fisk and Gould on any potential market transactions before they were done. The duo would also buy up gold in Butterfield's name as a way to cover their tracks. But nothing really escapes the U.S. government. President Grant and his secretary of treasury pieced together their scheme and did what the duo was scared of. On September 24th, 1869, Black Friday occurred. The treasury sold off $4 million in gold to the market, and the price of gold dipped, which affected the cost of many goods like wheat, which went from $1.40 to $.77 a bushel.[^4]
 
-## The Original Pump & Dump Scheme
+---
+
+### The Original Pump & Dump Scheme
 
 This tale depicts the godfather of all crypto pump-and-dump schemes: the use of social status/trust, inflating the price of a meaningless thing (token/stocks), and then pulling the rug on buyers to exit with a pretty hefty profit. But instead of crypto bros or Youtubers being scummy, it was the work of William Rockefeller, the brother of John D. Rockefeller.[^5] Instead of a newly minted cryptocurrency or NFT, it was the shares of a newly created company called the Amalgamated Copper Company.[^6] [^7] [^8]
 
@@ -83,28 +86,32 @@ $36 million as their own profit on the deal.
 
 The investors were duped, and the magnates made out with a pretty hefty amount of money. $36 million is now around $1.3 billion. Although maybe it wasn't as bad as the crypto schemes of today. Amalgamated Copper Company actually had an underlying market and real cash flows in the mining and minerals industry. So you could argue that even though the investors got the short end in the short run, in the long run (100 years), they should be thanking them for providing the investment opportunity.
 
-## An Excerpt from The Worldly Philosophers
+---
+
+### An Excerpt from The Worldly Philosophers
 
 The book actually gave me the idea to write this blog post and this excerpt in particular was interesting:
 
 >In this mêlée for industrial supremacy no quarter was asked and none given. Even dynamite had its uses, being employed to eliminate one particularly sticky competitor of the Standard Oil group, while less violent means, such as kidnapping, were remarkable more for their ingenuity than for their immorality. In 1881, when a great blizzard blew down the telegraph lines in New York, Jay Gould, the ruthless master of the money markets, was forced to send his orders to his broker by messenger. His enemies saw their chance and acted on it: they kidnapped the boy, substituted another of the same general physiognomy, and for several weeks Gould was dismayed to find that his moves were all somehow known to his adversaries in advance. (The Worldly Philosophers)
 
-## Political Corruption
+---
+
+### Political Corruption
 
 Political corruption definitely happened, and there is so much documentation of these events happening. I'm being intellectually lazy by not showing these, but please don't be intellectually dishonest in saying political corruption was not a thing. I added this section more so to highlight the double standard that exists in the practical liberal framework. Economics can impact politics through bribing, buyouts, and super PACs, while politics have clearly nothing to do with economics to the extent that they should uphold "fundamental" rights.
 
 
-# Philanthropists or Robber Barons
+## Philanthropists or Robber Barons
 
 I spent most of my blog dunking on these magnates, but I actually want to highlight maybe some of the good they have done in their lives. Some of these magnates went on to distribute their wealth to education. An example of two schools formed directly due to such substantial donations is Carnegie Mellon University and the University of Chicago (Rockefeller). Carnegie is a magnate who embodies the dilemma of philanthropists. Andrew Carnegie got rich off of the steel industry. He gained the same riches as his contemporaries did by exploiting the labor of workers, manipulating the market, lobbying for tariffs, and buying out competition.
 
-The most major blight on his record was the Homestead Strike that occurred under Carnegie's leadership. Workers wanted to organize into a union and demand fairer pay for the working conditions in the steel mills. The strike led to the state guard coming in and shutting down the strike. But here is the kicker: Carnegie was not officially leading at that time. He was off away in Scotland to oversee the construction of his castle. Henry Frick was put in charge, and Carnegie did distance himself from the violence but never said anything privately. On an even more confusing note, Carnegie wrote "The Gospel of Wealth". A book which ran counter to Sumner's ideas and explicitly said this:
+The most major blight on his record was the Homestead Strike that occurred under Carnegie's leadership. Workers wanted to organize into a union and demand fairer pay for the working conditions in the steel mills. The strike led to the state guard coming in and shutting down the strike. But here is the kicker: Carnegie was not officially leading at that time. He was off away in Scotland to oversee the construction of his castle. Henry Frick was put in charge, and Carnegie did distance himself from the violence but never said anything publicly. On an even more confusing note, Carnegie wrote "The Gospel of Wealth". A book which ran counter to Sumner's ideas and explicitly said this:
 
 > Those who have greatly accumulated wealth have a duty to give back to society. (The Gospel of Wealth)
 
 He was a man of his word, and Carnegie ended up donating 90% of his estate to public-facing institutions. I chose Carnegie because his story, to me, is the most compelling for capitalism. It seems that at the end of his life, Carnegie came to realize that the fundamental liberal doctrine of pursuing wealth was that it made humanity better off. This complex history is why it is hard to judge him as a historical figure. However, I think it is accurate to say that the sum whole of Carnegie's life, he was both a philanthropist and a robber baron.
 
-Though the life of Andrew Carnegie was full of contradictions, he embodied the tension between industrial ambition and social responsibility. Though he amassed great wealth through practices that often exploited workers, he later advocated for the ethical obligation of the wealthy to give back to society. Though he sought to elevate society through his extensive donations, the methods he used to accumulate his fortune raised questions about the means justifying the ends. Ultimately, though Carnegie's story reflects the complexities of capitalism, it also highlights the potential for personal transformation and a commitment to the greater good.
+Though the life of Andrew Carnegie was full of contradictions, he embodied the tension between industrial ambition and social responsibility. Though he amassed great wealth through practices that often exploited workers, he later advocated for the ethical obligation of the wealthy to give back to society. Though he sought to elevate society through his extensive donations, the methods he used to accumulate his fortune raised questions about the means justifying the ends. Ultimately, though Carnegie's story reflects the complexities of capitalism.
 
 I want to leave off the blog with a question for you to consider:
 
