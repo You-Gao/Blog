@@ -22,9 +22,7 @@ name: >-
     </blockquote>
 </figure>
 
-A friend visited and I wanted to take them to something fun/exciting. What better thing of interest is a seminar from the Architectural School titled "Care and Violence: On Architectural Materials, Damage, and Repair." The thing I really appreciate about Architectural seminars is how lucidly they reveal social/political/economic structures through materiality or the built environment. In other social study fields, it is done so by examining bodies, institutions, markets, ideology, actors, ontologies, theories, and so forth up the abstraction ladder. Architectural studies are able to gain a bit more clarity because they can point out the reification of these "abstract forces" and how they manifest materially in the world.
-
-** Note: This doesn't mean it is better or really any clearer than social theory. Most art/performance pieces require a description of what they are, or else I wouldn't know the true intent. However, some art plays on that interpretation itself, etc. etc.
+A friend visited and I wanted to take them to something fun/exciting. What better thing of interest is a seminar from the Architectural School titled "Care and Violence: On Architectural Materials, Damage, and Repair." The thing I really appreciate about Architectural seminars is how lucidly they reveal social/political/economic structures through materiality or the built environment. In other social study fields, it is done so by examining bodies, institutions, markets, ideology, actors, ontologies, theories, and so forth up the abstraction ladder. Architectural studies are able to gain a bit more clarity because they can point out the reification of these "abstract forces" and how they manifest materially in the world.[^1]
 
 However, I do have some critiques on the idea of social theory, regardless of the field it is in. Because the employment of interpretation and meaning assignment to the world is itself privileged, the realm of high arts and academia, when discussing meaning, seems a bit questionable. I think we have all experienced a sense of cultural gatekeeping, the usage of theoretical jargon, and a need for such fluency to be "in". Anyway, I left the talk with a sense of ivory-towerism toward the seminar. It may be because I fell asleep, but it also may be due to the heavy use of theoretical terms: neoliberalism, colonialism, environmental justice, biopolitics, vinyality, pollution as colonialism, white domesticity, and such. But it was definitely because I stayed up until 4 a.m. on the day off to do laundry.
 
@@ -58,3 +56,6 @@ The final slide asked the audience to consider what can be done about vinyl prod
 - is art elitist or development talk?
 - Jafa and high-art installations
 
+<br/>
+---
+[^1]: This doesn't mean it is better or really any clearer than social theory. Most art/performance pieces require a description of what they are, or else I wouldn't know the true intent. However, some art plays on that interpretation itself, etc. etc.
