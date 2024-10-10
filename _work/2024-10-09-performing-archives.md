@@ -1,3 +1,20 @@
+---
+categories:       blog
+date:             2024-10-10
+description:  >-
+    Midterm assignment for AMST 4559 - Performing Archives
+lang:             en
+last_modified_at: 2024-10-10
+layout:           post
+tags:
+- Work
+title: >-
+    Performing Climate Archives
+layout:           style
+name: >-
+    Perfoming Climate Archives
+---
+
 # NOAA Climate Data Records
 
 For my paper I want to explore the archive of climate data and excavate it's other names through the performance of film. I say excavate because performance allows you to reveal the different names of an archive by providing different vantage points into it. Depending on how you look at a collection of climate, the material data can conceive a plurality of archives. An ecological economist could see it as an archive of market failures, a environmental scientist could see it as an archive of the earth's climate, or a tin-foilist could see it as an archive of state lies. By theorizing about archives that way, I argue that performance then is a form of pedagogy. Performance gives the performers viewpoint of the archive; which is achieved through the materiality and how it invokes the memories of the archive. In my case, film allows me to intervene on the archive's conception as historical climate data and modify it's name to become an archive of the worlds most pressing problem. Given a time where the public sees data through a very static and empirical lens, it is important to show that climate data is not simply the measurement with precision sensors, but also deeply implicated in the political, the social, and the economical.
