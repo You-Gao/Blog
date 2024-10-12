@@ -19,9 +19,7 @@ What do you do when you are out of tune with your environment? We have heard of 
 
 My gut reaction is that, of course, being in contradiction with society is a bad thing, right? If you are a night owl that stays up at night and goes to sleep in the daytime. It would be entirely unbeneficial for the person. They miss out on the things necessary to live, like being able to interact with society. This behavior usually leads to social isolation and being unable to fulfill daily contracts.
 
-This same question has been asked in psychology literature before because there are a valuable set of people who require them to have schedules out of sync. These people are dubbed night shifters/workers. They faced the symptoms I have drawn out earlier, which is an incredible amount of social isolation. A thing I missed out on, though, was the actual biological timings humans have in sync with the environment. Messing up circadian rhythms will invariably mess you up biologically.
-
-[^1]
+This same question has been asked in psychology literature before because there are a valuable set of people who require them to have schedules out of sync. These people are dubbed night shifters/workers. They faced the symptoms I have drawn out earlier, which is an incredible amount of social isolation. A thing I missed out on, though, was the actual biological timings humans have in sync with the environment. Messing up circadian rhythms will invariably mess you up biologically.[^1]
 
 ## My Own Reports of Night Owling
 

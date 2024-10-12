@@ -45,12 +45,13 @@ There's already a clear undertone of Social Darwinism there.[^3] But it does mak
 This dogmatism is why I thought it'd be fun to examine what occurred during the Gilded Age in light of it. Stepping back a bit, there definitely were dissenters like Veblin and the like, but the dominating intellectual forces gravitated towards apathy and minutiae. I think I have made my point on economics' ability to make cruelty clear.I want to move on to the more visceral and narrative argument against indexing the soul towards the profit motive.
 
 ## Rich Shenanigans
+## Rich Shenanigans
 
 > It was not only in their neglect of the fine processes of the law that the Americans outdid their European contemporaries; when they fought, they abandoned the gentleman’s rapier for the roughneck’s brass knuckles (The Worldly Philosophers)
 
 This section tells the many, almost absurd tales, that went on during the age of riches and expansion.
 
-## Black Friday
+### Black Friday:
 
 T#he Black Friday we know well today stems from the schemes of two magnates, James Fisk and Jay Gould. Our modern-day experience of Black Friday is one of sales and cheap goods, which benefits all consumers. The initial Black Friday was much more grim and had severe negative impacts on the American economy because the good that devalued then was gold. So, how did the gold crash and economic downturn come about? It rose from the desire and ability to manipulate the markets financially.
 
@@ -60,7 +61,7 @@ Long story short, they bribed a guy named Daniel Butterfield to kill two birds w
 
 ---
 
-### The Original Pump & Dump Scheme
+### The Original Pump & Dump Scheme:
 
 This tale depicts the godfather of all crypto pump-and-dump schemes: the use of social status/trust, inflating the price of a meaningless thing (token/stocks), and then pulling the rug on buyers to exit with a pretty hefty profit. But instead of crypto bros or Youtubers being scummy, it was the work of William Rockefeller, the brother of John D. Rockefeller.[^5] Instead of a newly minted cryptocurrency or NFT, it was the shares of a newly created company called the Amalgamated Copper Company.[^6] [^7] [^8]
 
@@ -88,7 +89,7 @@ The investors were duped, and the magnates made out with a pretty hefty amount o
 
 ---
 
-### An Excerpt from The Worldly Philosophers
+### An Excerpt from The Worldly Philosophers:
 
 The book actually gave me the idea to write this blog post and this excerpt in particular was interesting:
 
@@ -96,10 +97,9 @@ The book actually gave me the idea to write this blog post and this excerpt in p
 
 ---
 
-### Political Corruption
+### Political Corruption:
 
 Political corruption definitely happened, and there is so much documentation of these events happening. I'm being intellectually lazy by not showing these, but please don't be intellectually dishonest in saying political corruption was not a thing. I added this section more so to highlight the double standard that exists in the practical liberal framework. Economics can impact politics through bribing, buyouts, and super PACs, while politics have clearly nothing to do with economics to the extent that they should uphold "fundamental" rights.
-
 
 ## Philanthropists or Robber Barons
 

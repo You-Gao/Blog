@@ -47,8 +47,4 @@ Kolb, David A.. “Experiential Learning: Experience as the Source of Learning a
 <br/>
 ---
 [^1]: I'd like to go on a tangent for epistemic trust and truth, but I will save it
-[^2]: I found a paper to basically confirm the bias the things I wrote about; here is a screenshot of a section.
-
-<div>
-<img src="{{ 'assets/life/learning/snippet.png' | relative_url }}">
-</div>
+[^2]: I found a paper to basically confirm the bias the things I wrote about; here is a [screenshot](https://blog.yougao.dev/assets/life/learning/snippet.png) of a section.
