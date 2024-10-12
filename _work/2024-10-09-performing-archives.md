@@ -17,7 +17,7 @@ name: >-
 
 # NOAA Climate Data Records
 
-For my paper, I want to explore the archive of climate data and excavate its other names through film performances. I say excavate because performance allows you to reveal the different names of an archive by providing different vantage points. Depending on how you look at a climate collection, the material data can conceive a plurality of archives. An ecological economist could see it as an archive of market failures, an environmental scientist could see it as an archive of the earth's climate, or a tin-foilist could see it as an archive of state lies. By theorizing about archives that way, I argue that performance then is a form of pedagogy. The performance gives the performer's viewpoint of the archive, which is achieved through the materiality and how it invokes the memories of the archive. In my case, the film allows me to intervene in the archive's conception as historical climate data and modify its name to become an archive of the world's most pressing problem. Given a time where the public sees data through a very static and empirical lens, it is important to show that climate data is not simply the measurement with precision sensors but also deeply implicated in the political, the social, and the economic.
+I want to explore the archive of climate data and excavate its other names through film performances. I say excavate because performance allows you to reveal the different names of an archive by providing different vantage points. Depending on how you look at a climate collection, the material data can conceive a plurality of archives. An ecological economist could see it as an archive of market failures, an environmental scientist could see it as an archive of the earth's climate, or a tin-foilist could see it as an archive of state lies. By theorizing about archives that way, I argue that performance then is a form of pedagogy. The performance gives the performer's viewpoint of the archive, which is achieved through the materiality and how it invokes the memories of the archive. In my case, the film allows me to intervene in the archive's conception as historical climate data and modify its name to become an archive of the world's most pressing problem. Given a time where the public sees data through a very static and empirical lens, it is important to show that climate data is not simply the measurement with precision sensors but also deeply implicated in the political, the social, and the economic.
 
 ## Performing Archives 
 
@@ -47,7 +47,7 @@ Film as a method works, providing additional information that contextualizes the
 
 ## Climate Discourse Needs Fresh Eyes 
 
-I chose the NOAA (National Oceanic and Atmospheric Association) Climate Archives as the world is once again coming to a critical mass on the topic of climate change. We all see ecology through sensationalized news, but that leads a lot down the path of desensitization. Conceptually, the goal is to deliver this explicit intervention and offer a new perspective against desensitization. Even though I have gone to an environmental governor school, I still roll my eyes when I see the CO2 chart, not to the data but to the political-economic discourse faced in the light of its implications. To counter such apathy, I look towards ecological film in particular, as it has the power to show something raw; bare nature is something that can't be refuted. My class, Performing Archives, has given me a theoretical and practical foundation for interfacing with the archive of climate records to produce a narrative. Also, what time is better to do this work than now? The Sahara has been flooded. Mathematically improbable hurricanes are commonplace, and day after day during Summer, the Earth experiences record-breaking temperatures. If not now, when?
+I chose NOAA (National Oceanic and Atmospheric Association) Climate Archives as it seems the world is once again coming to critical mass on the topic of climate change. The problem is the old narratives have not succeeded or "feasibly" brought us to a world where the climate isn't a looming problem. Narratives from green economists, scientific researchers, and most importantly, politicians; have not actually changed the way we relate to the climate.  Even though I have gone to an environmental governor school, I still roll my eyes when I see the CO2 chart, not to the data but to the political-economic discourse faced in the light of its implications. To counter such apathy, I look towards ecological film in particular, as it has the power to show something raw; bare nature is something that can't be refuted. Also, what time is better to do this work than now? The Sahara has been flooded. Mathematically improbable hurricanes are commonplace, and day after day during Summer, the Earth experiences record-breaking temperatures. If not now, when?
 
 ## Conclusion/Justification
 
@@ -68,7 +68,6 @@ The beauty of creation lies in the journey, not just the end result. As I naviga
 THE hardest thing I am currently facing in finishing the short-film is the problem of scope. I originally set out to accomplish one-task related to my definitions of archive and performance. That task is showing how the climate archives, particularly the ones invoked by scientists, has other names. Because if you only see climate records as an archive of climate (which is debated), you miss out on any other ways of experiencing or interfacing with the records. Latour would say you are othering yourself from the processes of knowledge creation.
 
 
-
 ## Citations
 
 > This is the result of my own reflections of what it means to perform my own blogs 
@@ -76,7 +75,7 @@ THE hardest thing I am currently facing in finishing the short-film is the probl
 <br/>
 ---
 [^1]: I find it funny because after going through half the course my own conception of an archive seems to have aligned with what the author wrote.
-[^3]: I have to point out that even indigenous conceptions of the archives heavily challenges Western conceptions of them. As Sky Women and the land can be said to have knowledge, but the temporalities are more fractured and non-linear.
 [^2]: An archive of the US could our financial debts, memorials, there is a alot of records. An archive of a major could be the alumni list. An archive of a date could be any memoria from it
+[^3]: I have to point out that even indigenous conceptions of the archives heavily challenges Western conceptions of them. As Sky Women and the land can be said to have knowledge, but the temporalities are more fractured and non-linear.
 [^4]: The additional information is information that is not "found" inside the archive.
 [^5]: My final project actually can be thought of as performing global archives as well: [link](https://blog.yougao.dev/work/annotated-drawing.pdf)
