@@ -55,6 +55,8 @@ I chose NOAA (National Oceanic and Atmospheric Association) Climate Archives as 
 
 Throughout the blog, I have talked about the nature of archives: what is and what are, the powers of performing and performance, and how they are connected to memory and materiality. In a traditional paper, I would continue to write and talk about the plentitude of ways I can use film performance to disrupt the normative conception of climatological archives. I would continue to speak on why performance must be applied to provide new insights into the archives. The thing I wouldn't be doing is actually making the film. So, here is the short film experience I created. 
 
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/p5V4xtkkInU?si=h1NNtyVHf0hMtsgl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Creative Process
 
 > This does not have to be graded
@@ -66,7 +68,6 @@ I did a lot of media studies, self-study, and reflection on everything I have se
 The beauty of creation lies in the journey, not just the end result. As I navigated through this project, I found that the teacher often learns more than the student. This process of writing, performing, and creating, even if the end product seems useless, is still productive and generative. That's why I even started this blog. It serves as a platform for me to delve deeper and force myself to reflect on the things I come across-it's a form of pedagogy in itself.
 
 THE hardest thing I am currently facing in finishing the short-film is the problem of scope. I originally set out to accomplish one-task related to my definitions of archive and performance. That task is showing how the climate archives, particularly the ones invoked by scientists, has other names. Because if you only see climate records as an archive of climate (which is debated), you miss out on any other ways of experiencing or interfacing with the records. Latour would say you are othering yourself from the processes of knowledge creation.
-
 
 ## Citations
 

@@ -26,9 +26,9 @@ These are some of the lecture series I listened to from Chang. As stated above t
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/6rXBBqMmIP8?si=R52R977359zZWmN4&amp;start=1723" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/-XvfD3TYzkg?si=PdXysWpdRR2N_dHl&amp;start=1723" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/-XvfD3TYzkg?si=PdXysWpdRR2N_dHl&amp;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/whVf5tuVbus?si=a3jyoQEnwweEQRhn&amp;start=1723" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="350" src="https://www.youtube.com/embed/whVf5tuVbus?si=a3jyoQEnwweEQRhn&amp;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br/>
 ---
