@@ -19,9 +19,9 @@ name: >-
 
 I want to explore the archive of climate data and excavate its other names through film performances. I say excavate because performance allows you to reveal the different names of an archive by providing different vantage points. Depending on how you look at a collection of climate, the material data can conceive a plurality of archives. An ecological economist could see it as an archive of market failures, an environmental scientist could see it as an archive of the earth's climate, or a tin-foilist could see it as an archive of state lies. By theorizing about archives that way, I argue that performance then is a form of pedagogy. The performance gives the performer's viewpoint of the archive, which is achieved through materiality and how it invokes the memories of the archive. In my case, the film allows me to grapple with the archive's conception as just data and modify its name to be an archive of pressing problems. Given a time where the public sees data through a very static and empirical lens, it is important to show that climate data, in extension climate archives, are not simply the measurements of precision sensors but also deeply implicated in the political, the social, and the economic.
 
-## Performing Archives [^-1]
+## Performing Archives
 
-The most abstract but still functional definition of archives is any "concept" with a "history" in relation to material(s). That is, the fundamental pieces that make an archive are a memory function and a historical function, with material as its conduit whether it be practices, actions, or objects. [^0] For example, the Ginkgo tree near the Chapel is a part of an archive of place. Whether that be UVA, Charlottesville, or the USA, the Ginkgo tree is a part of each archives of place. In my definition, I say materials and not bodies because, to me, an archive encapsulates a collection of usually extracted, externalized knowledge. Going back to Diana Taylor, she also wrote:[^1] 
+The most abstract but still functional definition of archives is any "concept" with a "history" in relation to material(s). That is, the fundamental pieces that make an archive are a memory function and a historical function, with material as its conduit whether it be practices, actions, or objects. [^6][^7] For example, the Ginkgo tree near the Chapel is a part of an archive of place. Whether that be UVA, Charlottesville, or the USA, the Ginkgo tree is a part of each archives of place. In my definition, I say materials and not bodies because, to me, an archive encapsulates a collection of usually extracted, externalized knowledge. Going back to Diana Taylor, she also wrote:[^1] 
 
 > The fact that archival memory succeeds in separating the source of ‘‘knowledge’’ from the knower—in time and/or space —leads to comments, such as de Certeau’s, that it is ‘‘expansionist’’ and ‘‘immunized against alterity’'
 
@@ -74,13 +74,15 @@ THE hardest thing I am currently facing in finishing the short-film is the probl
 ## Citations
 
 Youtube
+
 EM-DAT Database
+
 NOAA Archives
 
 <br/>
 ---
-[^-1]: As we get further along in class, I get more convinced I need to study some linguistics. i.e. difference in saying something is an archive vs an archive of and so forth.
-[^0]: A physical archive's history, memory, and material is found as the object itself, the plurality comes in how it's signified is perceived. An immaterial archive's history, memory, and material is traced more metaphorically, and spiritually, but still relates to practice.
+[^7]: As we get further along in class, I get more convinced I need to study some linguistics. i.e. difference in saying something is an archive vs an archive of and so forth.
+[^6]: A physical archive's history, memory, and material is found as the object itself, the plurality comes in how it's signified is perceived. An immaterial archive's history, memory, and material is traced more metaphorically, and spiritually, but still relates to practice.
 [^1]: I find it funny because after going through half the course my own conception of an archive seems to have aligned with what the author wrote.
 [^2]: An archive of the US could our financial debts, memorials, there is a alot of records. An archive of a major could be the alumni list. An archive of a date could be any memoria from it
 [^3]: I have to point out that even indigenous conceptions of the archives heavily challenges Western conceptions of them. As Sky Women and the land can be said to have knowledge, but the temporalities are more fractured and non-linear.

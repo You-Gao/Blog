@@ -14,7 +14,9 @@ name: >-
     Character Archetypes [WIP]
 ---
 
-# Character Archetypes [^1]
+[^1]
+
+# Character Archetypes 
 
 I've said somewhere in my blogs that it makes no sense to try and define yourself through characters. But, I feel like you can still do some reflection on the characters that you align with and why. There is maybe a twinge of psychoanalysis going on here in pulling things out from your unconscious when viewing media. However, that is exactly what I am going to do. Not going to apply like any real psychoanalytic theories like Freud, Jung, or Lacan; just going to be like, Hey, I enjoy this character in some way.
 

@@ -17,7 +17,7 @@ name: >-
 
 # gentrification, cville, development, uva
 
-The city of Charlottesville can be considered gentrified. But what does the term gentrified even mean at this point? We all hear it being thrown around as a pejorative against the historical and ongoing development of a place. The evocation of gentrification, or any pejorative really, usually comes with an ethical judgment and epistemic closure. Subsequently, we (or at least I) fail to trace out the viewpoints of the developers by casting them as essentially evil, but also, on the flip side, fail to understand the deep ways in which development affects the existing people.[^1] [^2]
+The city of Charlottesville can be considered gentrified. But what does the term gentrified even mean at this point? We all hear it being thrown around as a pejorative against the historical and ongoing development of a place. The evocation of gentrification, or any pejorative really, usually comes with an ethical judgment and epistemic closure. Subsequently, we (or at least I) fail to trace out the viewpoints of the developers by casting them as essentially evil, but also, on the flip side, fail to understand the deep ways in which development affects the existing people.[^1][^2]
 
 Before going any further, this post was made for a midterm assignment for one of my classes. **However**, the goal of this post is for me to critically assess the histories and ongoing stories of development in Charlottesville. This blog post serves to help me address questions I have about the place I'm earning my degree and the institution's position within everything.
 
