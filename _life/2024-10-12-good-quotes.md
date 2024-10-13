@@ -1,4 +1,21 @@
-# Anatomy of Good Quotes
+---
+categories:       blog
+date:             2024-10-13
+description:  >-
+    What makes a quote good?
+lang:             en
+last_modified_at: 2024-10-13
+tags:
+- Life
+title: >-
+    Anatomy of a Quote
+layout:           style
+name: >-  
+    Anatomy of a Quote
+---
+
+
+# Anatomy of a Quote
 
 What makes a quote good? I don't know, but hopefully at the end of this blog I do. 
 
