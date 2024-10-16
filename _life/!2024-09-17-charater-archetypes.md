@@ -1,4 +1,4 @@
----
+<!-- ---
 categories:       blog
 date:             2024-09-16
 description:  >-
@@ -12,7 +12,7 @@ title: >-
 layout:           style
 name: >-
     Character Archetypes [WIP]
----
+--- -->
 
 [^1]
 
