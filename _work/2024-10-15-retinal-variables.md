@@ -1,0 +1,190 @@
+---
+categories:       blog
+date:             2024-10-15
+description:  >-
+    A memoir and reflection on an amazing class
+lang:             en
+last_modified_at: 2024-10-16
+layout:           post
+tags:
+- Work
+title: >-
+    SARC 5400: Data Visualization
+layout:           style
+name: >-
+    SARC 5400: Data Visualization
+---
+
+# SARC 5400: Data Visualization
+
+> How can we map retinal variables with informational variables to construct an experience, to illicit spatial-temporal-visual-causal intuitions and insights? 
+
+I took this course last spring. The best data viz course you can take. No it does not go into the drudgery lecturing of technical tools. The class gets at deep philosophical questions about data, display, and perception. What is data? How do you show it? What do you see? The metaphysical and philosophical questions on Technology, on Data, on Visual Forms, and on Perception were one of the most coolest parts of the course. But, then going on and converting that to actual visualizations in the world through D3.js, Tableau, and standard Python libraries was even cooler.
+
+## Introduction
+
+> informare: to give an essential or formative principle or quality to
+
+> technology: the application of scientific knowledge for practical purposes
+
+> visualization: a tool to discover something that the author does not already know
+
+> one of the things computers have 
+
+Gehry's Disney Concert Hall, Pedagogical Venn-diagram, (syn)thesis, Japanese Scroll, 1 + 1 = 3
+
+On the very first 10 minutes of the class, the lecturer pulled up a Data Viz of the class containing an interactive bubble-plot visual that showed the categorical groupings of the class by major, year, ugrad/grad, and other info. Then proceeds in the most interesting fashion of introducing interesting course material. First with the Oxford dictionary and etymology of the words being covered. Then showing us all the visualizations possible, challenging what it means to visualize, and tells us simply **to see**.
+
+[https://benfry.com/zipdecode/](https://benfry.com/zipdecode/) Enable the zoom option!
+
+## Language, Graphics, and Communication
+
+> language: a system of arbitrary signals, to which we assign meaning through convention
+
+> prosody: the patterns of stress and intonation in a language
+
+A course in visualization needs to spend its time covering semiotics and language. The ability for humans to convey themselves to others. And as a corollary, just as humanity have developed linguistic grammars, we also have a visual grammar. As an example, think of how not only how SOS sounds like but what it would look like.
+
+## The Material of Information
+
+> tectonics: using material and construction methods in such a way that they form an integral component of the design and actively help to shape it
+
+> data: the reconciliation of ourselves with our surroundings and environment
+
+> graphics is one of the major "languages" applicable to information processing - Jacques Bertin
+
+Telescopes, School of Athens, Pythagoras Theorem
+
+Karl Popper and his 3 worlds were invoked. The implications being on what we as humans use to perceive and on what there is in the world. And to further that, the history of film was taught. I mean who knew what daguerreotype were? The rest of the lecture went on to depict the different ways the 5 fundamental human senses: sight, sound, touch, taste, and smell interacts with "raw-materials" to create perception. It tend ended with the Magic Number 7 as a fun exercise for the class.
+
+
+## Structuring Information Aspects
+
+The fundamental question of the course is posed: How can we map retinal variables with informational variables to construct an experience, to illicit spatial-temporal-visual-causal intuitions and insights? Through this we are introduced to InkScape, Observable, and essentially the "engineering"/technological aspects of the course. 
+
+## Escaping Flatland
+
+> because you simply cannot think with images. - Postman
+
+> I do not paint things, I paint only the differences between things. - Henri Matisse
+
+> What we seek instead is a rich texture of data, a comparative context, an understanding of complexity revealed with an economy of means. - Tufte
+
+Galileo, Schreiner, IBM Series, Mississippi River, Goals Poster, US Memorial, Wharf 5 Tide Prediction, The Matrix
+
+Making a reference to the film Flatland. This lecture focused on such escape through visual display of more than 2 dimensions of data, more than the x-y scatterplots. Before that though, there is such a fun shortcut to the musings of Postman is his book "Amusing Ourselves to Death" where it illustrates a critique of visual society. The notion of images and appearances has become reductive for actually "thinking" or any novel interpretation. The shortcut serves as a counter-point to consider, because the point of the class is showing how visuals as a medium can carry a lot of novel knowledge. **However**, visuals should not aim to show "truth" or "raw information", but rather the insights, the relations beyond the surface.
+
+An interesting tidbit to take away from this is that unorderly visuals is not an overload of data, just a failure of design.
+
+Edward Tufte: the Grand Principles of Analytic Design
+1. What is the question? - "Do no harm!"
+2. Show relationships and comparison. - what is **this** in relation to **that**?
+3. Think and show causality. - Problem solving is causality thinking
+4. "To clarify, add data!" - **be multivariate**
+5. Integrate the evidence. all marks are visual, text, number, diagram, image
+6. Document everything.  **take ownership**
+
+Techniques:
+- Juxtapose: Layer and Separate or Layer and Separate
+- Small Multiples
+- Micro / Macro Scales
+- Parallelism
+- Minimalism: **Less is more**
+- Standardize
+
+## Tableau and Adobe Color
+
+Mostly a workshop in Tableau, but did start off with some basic color theory: triadic, analogous, complementary, monochromatic, and how those inform choices in visualizations.
+
+## Graphical Rules
+
+UVA Team Example
+
+How do you assign meanings to the retinal variables? The shape of a line, the color of an object, the gestalt ordering of the collection. What are the ways you can manipulate the DOM with these rules to generate visuals. Tableau is way too limiting in a lot of ways, that's why the class moves to D3.js. This gets to the more technical part of materializing the theoretical founding of the visualization. An **important** thing to remember is too not let the technology bind the imagination. Imagine with theory, Work in praxis.
+
+## Games and Visual Information System
+
+> Tools are great.
+> But don't let the tool drive the process.
+> Because tools really aren't great.
+
+> play: to engage in activity for enjoyment and recreation rather than a serious or practical purpose
+
+> simulation: a structured set of units and relationships that resolve to a result
+
+uva bay game, alphafold, wow plague virus
+
+Lecture starts off with a conversation about Big Data and how correlations will replace theory. Even giving examples of many "high-ranking" individuals are advocating that there is no need for models, just data and math. **However,** the counter force to that is highlighting **data without a model is just noise.** Correlation is not causation. Then with the conversation shifted to models and specifically mental models, we are given an epistemological system of proximal and distal. Connecting that back to visual information, is the idea of creating a system that allows for "play" but also contains core concepts.
+
+[]: people who are overindexed on either turn out to be interesting people, in a bad way.
+
+##  Spotify overview - Working with Big(-ish) Data
+
+Describes the dataset for the class midterm-y project. Everyone contributed their Spotify history and the goal was that we had a large dataset to tease out some relations with.
+
+## Tableau and Spotify
+
+Tableau workshop w/ the Spotify data
+
+## between
+
+> ubiquitous, incessant surveying smothers knowledge with noise
+
+> ecotone: a transition area between two biomes
+
+311 Complaints
+
+Pi is not just a number, yes, but it has a deeper relationship.
+
+Da Vinci wrote the word dimmi, show me, on his pages. Painting was a means for him to understand the world and science. 
+
+## Dynamics and Interaction
+
+> "increase the capability of a man to approach a complex situation, ... to derive solutions to problems" - Douglas Engebart
+
+1 Pixel Moon, Kepler's Planets
+
+Visuals need not be static. In-fact many good visuals are ones where people can interact with them. I was actually surprised a UI/UX lecture came this far into the course, but also very intrigued in how it fit together with visual design. The end takeaway is to deeply consider the possibilities for new technologies as a way to change how we think of visualization. Visuals have the power to be dynamic.
+
+## The Data in D3
+
+D3 workshop
+
+## Maps
+
+> map: symbolic depiction emphasizing relationships between elements of some space, objects, regions, or themes
+
+Nat Geo Inequality, Stereotype Map, Reconstructing a Bike Crash, DC Metro
+
+Maps were the original, most useful form of visuals. It all started from cartography to planning/mapping. As with any other lecture in this course. It starts with asking the question: what even is a map? and then showing the historical progression from Columbus to now. Google Maps is very much a map. 
+
+Maps as any other visuals can use the same techniques, relational variables, and visual form to convey information/relations. But, it works specifically if you are looking at a geospatial question.
+
+Gave a very interesting notebook that shows the different kinds of projections into a 2D space.
+[https://observablehq.com/@d3/projection-transitions](https://observablehq.com/@d3/projection-transitions)
+
+## Maps - Tableau and D3
+
+Workshop for Tableau and D3 for geoms
+
+## D3 Layout lib
+
+D3 Workshop
+
+## Wicked Problems
+
+The Ignorance Project, NCASE.me Trust
+
+Begins to tie in and recenter the key goal of the course which the ability of visualization to inform on hard problems. But, you have to realize the way you interact with the data affects what you can see. **Don't start from the data. Start from the problem!** The rest of lecture showing very good case studies in how they challenge and bring creativity to visualization.
+
+A thing I reflect on with the course is that data is not neutral, data visuals even more not neutral, and the data interpretation even **more** not neutral.
+
+## Integrating Multiple Orders
+
+Workshop for Tableau and D3 to make them dynamic
+
+## Conclusion
+
+> The challenge for this generation is the synthesis of information
+
+I'm very glad I took this class. It has helped me grow as a person and a data visualizer.
