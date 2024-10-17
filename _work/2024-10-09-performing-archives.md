@@ -75,7 +75,16 @@ THE hardest thing I am currently facing in finishing the short-film is the probl
 
 > I should probably write a blog for this and just link it.
 
-I treat ChatGPT as a more convenient google search. Given the underlying stuff that constitutes AI and its current boundary that of being unable to generate anything novel, I find it odd how people justify using it to produce for them. The reality of it probably is: I don't care about this task to do it. In a way it makes sense, before you could just throw-in whatever you got from google search. In the coding context, that means skipping writing "boilerplate" code which is valid, but educationally just seems like a form of indifference. 
+I treat ChatGPT as a more convenient google search, but you always have to be skeptical of what it gives. Given the underlying stuff that constitutes AI and its current boundary that of being unable to generate anything novel, I find it odd how people justify using it to produce for them. The reality of it probably is: I don't care about this task to do it. In a way it makes sense, before you could just throw-in whatever you got from google search. In the coding context, that means skipping writing "boilerplate" code which is valid, but educationally just seems like a form of indifference. Also, its quite literally just plagiarism. Imagine training an AI on 1 blog post.
+
+My workflow for thinking of new ideas is usually follows this pattern:
+1. new idea!
+2. hey chatgpt lets discuss this idea.
+3. semantic scholar to find current papers.
+4. reflect on the idea.
+5. synthesize or draw relations.
+
+I think before GPT, Step 2 was google, but I found the point of GPT's ability to have semantic similarities helpful in then going further on what to look-up. I remember for my Learning Forward and Backwards, the initial concept I had though about randomly was ontological structures in a domain and being able to map that on-to new knowledge; along with being able to create the initial constructs. I asked what theories are related to the concept I have thought up and lo' and behold I am not original. But, I'm sure if I put that into google search I would not have found what I was looking for.
 
 > There is a large category of facts in the world that are difficult to find, but easy to verify once you've found them.
 
