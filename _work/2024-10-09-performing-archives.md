@@ -71,13 +71,33 @@ The beauty of creation lies in the journey, not just the end result. As I naviga
 
 THE hardest thing I am currently facing in finishing the short-film is the problem of scope. I originally set out to accomplish one-task related to my definitions of archive and performance. That task is showing how the climate archives, particularly the ones invoked by scientists, has other names. Because if you only see climate records as an archive of climate (which is debated), you miss out on any other ways of experiencing or interfacing with the records. Latour would say you are othering yourself from the processes of knowledge creation.
 
+## AI Usage
+
+> I should probably write a blog for this and just link it.
+
+I treat ChatGPT as a more convenient google search. Given the underlying stuff that constitutes AI and its current boundary that of being unable to generate anything novel, I find it odd how people justify using it to produce for them. The reality of it probably is: I don't care about this task to do it. In a way it makes sense, before you could just throw-in whatever you got from google search. In the coding context, that means skipping writing "boilerplate" code which is valid, but educationally just seems like a form of indifference. 
+
+> There is a large category of facts in the world that are difficult to find, but easy to verify once you've found them.
+
+I mainly used it to do archival "research", like asking it extreme weather events before 1900. Post 1900 I had the EM-DAT to pull from and write scripts on. Even then I fact checked against https://premium.weatherweb.net/weather-in-history-1800-to-1849-ad/ which is a site that has human resources backing it.
+
+Other than that I did ask it some random questions I had on linguistics and repeat back the core concepts of my writing. I like making it summarize what I wrote because it acts as sort of a mirror.
+
 ## Citations
 
-Youtube
+AP Archives. (n.d.). https://www.youtube.com/@APArchive 
 
-EM-DAT Database
+Braiding sweetgrass: indigenous wisdom, scientific knowledge, and the teachings of plants. (2014). Choice Reviews Online, 51(10), 51–5594. https://doi.org/10.5860/choice.51-5594 
 
-NOAA Archives
+British Pathe. (n.d.). https://www.youtube.com/@britishpathe Guha-Sapir, D., Below, R., & Hoyois, P. (2016). 
+
+EM-DAT: The CRED/OFDA International Disaster Database [Dataset]. http://wedocs.unep.org/handle/20.500.11822/16183 
+
+Reuters. (n.d.). https://www.youtube.com/@Reuters 
+
+Sharpe, C. (2016). In the Wake: On Blackness and Being. http://read.dukeupress.edu/content/in-the-wake 
+
+Taylor, D. (2003). The Archive and the Repertoire: Performing Cultural Memory in the Americas. http://ci.nii.ac.jp/ncid/BA64891742
 
 <br/>
 ---
