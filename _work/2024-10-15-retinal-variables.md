@@ -17,8 +17,6 @@ name: >-
 
 # SARC 5400: Data Visualization
 
-> How can we map retinal variables with informational variables to construct an experience, to illicit spatial-temporal-visual-causal intuitions and insights? 
-
 I took this course last spring. The best data viz course you can take. No it does not go into the drudgery lecturing of technical tools. The class gets at deep philosophical questions about data, display, and perception. What is data? How do you show it? What do you see? The metaphysical and philosophical questions on Technology, on Data, on Visual Forms, and on Perception were one of the most coolest parts of the course. But, then going on and converting that to actual visualizations in the world through D3.js, Tableau, and standard Python libraries was even cooler.
 
 ## Introduction
@@ -28,8 +26,6 @@ I took this course last spring. The best data viz course you can take. No it doe
 > technology: the application of scientific knowledge for practical purposes
 
 > visualization: a tool to discover something that the author does not already know
-
-> one of the things computers have 
 
 Gehry's Disney Concert Hall, Pedagogical Venn-diagram, (syn)thesis, Japanese Scroll, 1 + 1 = 3
 
@@ -59,6 +55,9 @@ Karl Popper and his 3 worlds were invoked. The implications being on what we as 
 
 
 ## Structuring Information Aspects
+
+> How can we map retinal variables with informational variables to construct an experience,  
+to illicit spatial-temporal-visual-causal intuitions and insights? 
 
 The fundamental question of the course is posed: How can we map retinal variables with informational variables to construct an experience, to illicit spatial-temporal-visual-causal intuitions and insights? Through this we are introduced to InkScape, Observable, and essentially the "engineering"/technological aspects of the course. 
 
@@ -104,9 +103,9 @@ How do you assign meanings to the retinal variables? The shape of a line, the co
 
 ## Games and Visual Information System
 
-> Tools are great.
-> But don't let the tool drive the process.
-> Because tools really aren't great.
+> Tools are great.  
+But don't let the tool drive the process.  
+Because tools really aren't great.
 
 > play: to engage in activity for enjoyment and recreation rather than a serious or practical purpose
 
