@@ -23,7 +23,7 @@ I want to explore the archive of climate data and excavate its other names throu
 
 The most abstract but still functional definition of archives is any "concept" with a "history" in relation to material(s). That is, the fundamental pieces that make an archive are a memory function and a historical function, with material as its conduit whether it be practices, actions, or objects. [^6][^7] For example, the Ginkgo tree near the Chapel is a part of an archive of place. Whether that be UVA, Charlottesville, or the USA, the Ginkgo tree is a part of each archives of place. In my definition, I say materials and not bodies because, to me, an archive encapsulates a collection of usually extracted, externalized knowledge. Going back to Diana Taylor, she also wrote:[^1] 
 
-> The fact that archival memory succeeds in separating the source of ‘‘knowledge’’ from the knower—in time and/or space —leads to comments, such as de Certeau’s, that it is ‘‘expansionist’’ and ‘‘immunized against alterity’'
+> "The fact that archival memory succeeds in separating the source of ‘‘knowledge’’ from the knower—in time and/or space —leads to comments, such as de Certeau’s, that it is ‘‘expansionist’’ and ‘‘immunized against alterity’'"
 
 The strongest implication from the definition is that there is a normalizing force in archives and archival knowledge. A lot of the readings we covered throughout the class talk about how the archives are misused as tools that legitimize narratives. Epistemological violence is a word often used when questioning an archive because of how they were shaped. Knowledge production, and especially storage of knowledge, is socially implicated. That is why we covered concepts like refugee epistemology, the repertoire, and visceral logics precisely because archives, for better or worse, are created and interfaced with by people. In asking and answering, "What is an archive?" I ask myself, "What are archives?" and from class, the answer is that archives have been historically/presently tools that legitimize and reify logics of ideological dogmatism.
 
@@ -31,13 +31,13 @@ Going back to my definition earlier, I wanted to give some clarifying examples o
 
 Taking a look at indigenous oral storytelling, it can be said that their stories contains many archives. Archives of Sky Women, Sweetgrass, and the Land. [^3] Not only that, indigenous modes of being open-up new archives by changing what valid sources of information are: the body, the land, the life.
 
-> Breathe in its scent and you start to remember things you didn’t know you’d forgotten. Our elders say that ceremonies are the way we “remember to remember,”
+> "Breathe in its scent and you start to remember things you didn’t know you’d forgotten. Our elders say that ceremonies are the way we “remember to remember,”"
 
 Mar de Vang's intervention into the state archives is an example of how "materials can conceive for many archives." She demonstrates how state documents were not a neutral archive of Hmong peoples but how the archives had another being as an archive of Hmong violence. Archive(s) conceive from the things that are said and not said, found or forgotten, material and immaterial, signifier and signified.
 
 Then, the performance modifier of performing archives acts as a pedagogical function that gives knowledge of and necessarily modifies the archives. A phrase often used and is a good description in explaining performance is that each way of performing offers a way into the archive. The difference in method changes the materiality of how you come to know the archive, but the total memory stays the same regardless of methodology. However, the different techniques can illuminate different memories the archive holds to each of their strong suits. A clarifying example I look to is Christina Sharpe's "Wake Work" and how she uses it to approach the afterlives/archives of slavery. The substance and material here is the approach as a way of coming into knowing and reclaiming history. She writes:
 
-> the precarities of the ongoing disaster of the ruptures of chattel slavery. They texture my reading practices, my ways of being in and of the world, my relations with and to others.
+> "the precarities of the ongoing disaster of the ruptures of chattel slavery. They texture my reading practices, my ways of being in and of the world, my relations with and to others."
 
 Material invokes the archives, begs you to recall its imprinted memories, guides you towards what was lost; surrogates for knowledge.
 

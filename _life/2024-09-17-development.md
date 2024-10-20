@@ -44,7 +44,7 @@ The 600 residents and 30 businesses inhabited Vinegar Hill in the 1900s. Archiva
 
 In a 1960 transcript from *Charlottesville Daily Progress*, a local banker gave his take on the proposal for urban renewal:
 
-> Haden said, when asked what effect he thought the program would have on downtown Charlottesville, “I believe it will be helpful. As everybody knows, our business section of the city has been divided largely into two sections—the University section and the downtown section. This Vinegar Hill area has been all my life a very blighted area and it seems to me that if the situation is corrected, the whole business area of Charlottesville will be much helped.”
+> "Haden said, when asked what effect he thought the program would have on downtown Charlottesville, “I believe it will be helpful. As everybody knows, our business section of the city has been divided largely into two sections—the University section and the downtown section. This Vinegar Hill area has been all my life a very blighted area and it seems to me that if the situation is corrected, the whole business area of Charlottesville will be much helped."
 
 <br/>
 
@@ -69,7 +69,7 @@ What does it mean to attend a school that sells bonds? It means that I, as a stu
 
 Rehashing Sen's quote from Development as Freedoms:
 
-> The ends and means of development call for placing the perspective of ~~freedom~~ capital at the center of the stage.
+> "The ends and means of development call for placing the perspective of ~~freedom~~ capital at the center of the stage."
 
 <br/>
 
@@ -79,13 +79,13 @@ Just reflecting on my own biases, I ask this question: Why is the pragmatic man 
 
 So when something like v is said for our 2030 plan; I'm extremely skeptical.
 
-> In all this, we must never forget that our ultimate purpose, especially as a public university, is to serve the public through an unending and fearless search for truth and through our teaching, our research, and our health care.
+> "In all this, we must never forget that our ultimate purpose, especially as a public university, is to serve the public through an unending and fearless search for truth and through our teaching, our research, and our health care." 
 
 <br/>
 
 Especially when it was prefaced with
 
-> In 2030, universities will be judged in part by how well they are run and whether they are ethical institutions— whether they are great places to work and good partners with their surrounding communities; whether they are engines of economic growth; and whether they reach students, of any age or walk of life, who do not have the good fortune to enroll as full-time students. Attention will be paid to the return on investment, whether it is the investment that families make when paying tuition or the investment that legislatures make when allocating funds to support universities.
+> "In 2030, universities will be judged in part by how well they are run and whether they are ethical institutions— whether they are great places to work and good partners with their surrounding communities; whether they are engines of economic growth; and whether they reach students, of any age or walk of life, who do not have the good fortune to enroll as full-time students. Attention will be paid to the return on investment, whether it is the investment that families make when paying tuition or the investment that legislatures make when allocating funds to support universities."
 
 <br/>
 
