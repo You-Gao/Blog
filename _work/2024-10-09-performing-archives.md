@@ -63,28 +63,28 @@ So, here is the short film experience I created:
 
 > This does not have to be graded
 
-One of the most important things I do whenever working with information is ensuring I am honest about what I'm displaying. I think back to a class I took at the School of Architecture: SARC 5400 - Data Visualization, particularly Tufte's principles of information integrity.[^5] The first five are about causality, relationships, multivariateness, evidence, and what the question is. These principles can be mapped to doing information work in films, like considering what are the thematic objects, their relations, and the layered narratives, but the strongest element for me was documenting each clip. Going in and doing research to learn about the aftermaths, not only just what it was as a singular data point helped ground the work.
+One of the most important things I do whenever working with information is to ensure I am honest about what I'm displaying. I think back to a class I took at the School of Architecture: SARC 5400 - Data Visualization, particularly Tufte's principles of information integrity.[^5] The first five are about causality, relationships, multivariate ness, evidence, and what the question is. These principles can be mapped to doing information work in films, like considering what are the thematic objects, their relations, and the layered narratives, but the most vital element for me was documenting each clip. Going in and doing research to learn about the aftermath, not only what it was as a singular data point, helped ground the work.
 
 I had to learn Davinci Resolve, but using the tools to create the video was easier than I thought it would have been.
 
 The beauty of creation lies in the journey, not just the end result. As I navigated through this project, I found that the teacher often learns more than the student. This process of writing, performing, and creating, even if the end product seems useless, is still productive and generative. That's why I even started this blog. It serves as a platform for me to delve deeper and force myself to reflect on the things I come across-it's a form of pedagogy in itself.
 
-THE hardest thing I am currently facing in finishing the short-film is the problem of scope. I originally set out to accomplish one-task related to my definitions of archive and performance. That task is showing how the climate archives, particularly the ones invoked by scientists, has other names. Because if you only see climate records as an archive of climate (which is debated), you miss out on any other ways of experiencing or interfacing with the records. Latour would say you are othering yourself from the processes of knowledge creation.
+The hardest thing I am currently facing in finishing the short film is the problem of scope. I originally set out to accomplish one task related to my definitions of archive and performance. That task is showing how the climate archives, particularly the ones invoked by scientists, has other names. Because if you only see climate records as an archive of climate (which is debated), you miss out on any other ways of experiencing or interfacing with the records. Latour would say you are othering yourself from the processes of knowledge creation.
 
 ## AI Usage
 
 > I should probably write a blog for this and just link it.
 
-I treat ChatGPT as a more convenient google search, but you always have to be skeptical of what it gives. Given the underlying stuff that constitutes AI and its current boundary that of being unable to generate anything novel, I find it odd how people justify using it to produce for them. The reality of it probably is: I don't care about this task to do it. In a way it makes sense, before you could just throw-in whatever you got from google search. In the coding context, that means skipping writing "boilerplate" code which is valid, but educationally just seems like a form of indifference. Also, its quite literally just plagiarism. Imagine training an AI on 1 blog post.
+I treat ChatGPT as a more convenient Google search, but you always have to be skeptical of what it gives. Given the underlying stuff that constitutes AI and its current boundary of being unable to generate anything novel, I find it odd how people justify using it to produce for them. The reality is probably that I don't care about this task to do it. In a way, it makes sense, you could just throw in whatever you got from a Google search. In the coding context, that means skipping writing "boilerplate" code, which is valid, but educationally, just seems like a form of indifference. Also, it's plagiarism. Imagine training an AI on one blog post.
 
-My workflow for thinking of new ideas is usually follows this pattern:
+My workflow for thinking of new ideas usually follows this pattern:
 1. new idea!
-2. hey chatgpt lets discuss this idea.
+2. hey chatgpt, let's discuss this idea.
 3. semantic scholar to find current papers.
 4. reflect on the idea.
 5. synthesize or draw relations.
 
-I think before GPT, Step 2 was google, but I found the point of GPT's ability to have semantic similarities helpful in then going further on what to look-up. I remember for my Learning Forward and Backwards, the initial concept I had though about randomly was ontological structures in a domain and being able to map that on-to new knowledge; along with being able to create the initial constructs. I asked what theories are related to the concept I have thought up and lo' and behold I am not original. But, I'm sure if I put that into google search I would not have found what I was looking for.
+Before GPT, Step 2 was Google, but I found the point of GPT's ability to have semantic similarities helpful in then going further on what to look up. I remember that for my Learning Forward and Backwards blog, the initial concept I had thought about randomly was ontological structures in a domain, and I was able to map that onto new knowledge, along with being able to create the initial constructs. I asked what theories were related to the concept I had thought up, and lo' and behold, I am not original. But, if I put that into Google search, I would not have found what I was looking for.
 
 > There is a large category of facts in the world that are difficult to find, but easy to verify once you've found them.
 
@@ -113,7 +113,7 @@ Taylor, D. (2003). The Archive and the Repertoire: Performing Cultural Memory in
 [^7]: As we get further along in class, I get more convinced I need to study some linguistics. i.e. difference in saying something is an archive vs an archive of and so forth.
 [^6]: A physical archive's history, memory, and material is found as the object itself, the plurality comes in how it's signified is perceived. An immaterial archive's history, memory, and material is traced more metaphorically, and spiritually, but still relates to practice.
 [^1]: I find it funny because after going through half the course my own conception of an archive seems to have aligned with what the author wrote.
-[^2]: An archive of the US could our financial debts, memorials, there is a alot of records. An archive of a major could be the alumni list. An archive of a date could be any memoria from it
+[^2]: An archive of the US could our financial debts, memorials, there is a a lot of records. An archive of a major could be the alumni list. An archive of a date could be any memoria from it
 [^3]: I have to point out that even indigenous conceptions of the archives heavily challenges Western conceptions of them. As Sky Women and the land can be said to have knowledge, but the temporalities are more fractured and non-linear.
 [^4]: The additional information is information that is not "found" inside the archive.
 [^5]: My final project actually can be thought of as performing global archives as well: [link](https://blog.yougao.dev/assets/work/archives/annotated-drawing.pdf)
