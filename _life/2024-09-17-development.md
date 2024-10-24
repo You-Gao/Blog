@@ -156,8 +156,9 @@ Zuk, M., Bierbaum, A. H., Chapple, K., Gorska, K., & Loukaitou-Sideris, A. 2018.
 
 <br/>
 ---
-[^1]: After doing some literature reading, I myself stand conflicted on my own interpretations of gentrification. There is like 10+ different definitions, ways of measuring, and viewpoints on it which makes it even more confusing.
-[^2]: I'm glad I'm not crazy, doing some more reading. There has been many critiques against the broad field of gentrification theory due to the overloading of the term. For the purpose of this blog, my definition is just the existence of class/racial re/displacement. I say existence because it will be intellectually disingenious for me to provide a definition that covers the processes of gentrification.
-[^3]: Pretty fatalistic ending to the paragraph, but I'm still hopeful.
-[^4]: My finally takeaway on gentrification is that its actually caused by speculation not any physical env changes.
-[^5]: Vienna, Austria the birthplace of Austrian Economics has 80% social housing?
+[1]: After reading some literature, I am conflicted about my interpretations of gentrification. There are 10+ different definitions, ways of measuring, and viewpoints on it, which makes it even more confusing.
+[^2]: I'm glad I'm not crazy, doing some more reading. There have been many critiques against the broad field of gentrification theory due to the overloading of the term. For the purpose of this blog, my definition is just the existence of class/racial re/displacement. I say existence because it would be intellectually disingenuous for me to provide a definition that covers the processes of gentrification.
+[^3]: It's a pretty fatalistic ending to the paragraph, but I'm still hopeful.
+[^4]: My final takeaway on gentrification is that it's actually caused by speculation, not any physical environmental changes.
+[^5]: Vienna, Austria, the birthplace of Austrian Economics, has 80% social housing?
+
