@@ -12,7 +12,7 @@ title: >-
   How Complex Systems Fail
 layout:           style
 name: >-
-  How Complex Systems Fail and Clowdstrike
+  How Complex Systems Fail and Crowdstrike
 ---
 
 # [How Complex Systems Fail](https://how.complexsystems.fail/)
@@ -29,7 +29,7 @@ In light of the recent IT outage caused by Crowdstrike and the ironic timing of 
 
 My first question was: How did the build-test pipeline even let this occur? Surely any changes made would have been build and tested in the different Windows OS versions it supports so it doesn't crash. Right? Doing some digging in forums, it seems to be that it wasn't a build error that occurred but instead caused by faulty error handling for deserialization (of course). The current theory is the CSAgent.sys failed to handle malformed files or they pushed the nulled C...32.sys.
 
-After some more digging, it seems to be that it was a malformed file pushed by Clowdstrike themselves and when read by CSAgent.sys blows everything up. Now the next question is why was the file malformed and was the error handling non-existent? I mean for a kernel driver I would assume there has to be some standards of requiring error handling because if not it will just crash the OS... right? On top of that was there not a process of handling the addition of channel files to ensure data integrity for them?
+After some more digging, it seems to be that it was a malformed file pushed by Crowdstrike themselves and when read by CSAgent.sys blows everything up. Now the next question is why was the file malformed and was the error handling non-existent? I mean for a kernel driver I would assume there has to be some standards of requiring error handling because if not it will just crash the OS... right? On top of that was there not a process of handling the addition of channel files to ensure data integrity for them?
 
 My line of questioning here is to highlight the #2 point. Kernel and other drivers have been in development for decades. I'm (hopeful) sure people have realized the best practices and common playbooks for building/testing/linting them in such a way that they wouldn't go kaboom to take down the world's IT infrastructure.
 
