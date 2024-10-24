@@ -71,6 +71,9 @@ To quote Newton:[^8]
 
 ## Citations
 
+Nealon, Jeffrey T., and Susan Searls Giroux. “The Theory Toolbox: Critical Concepts for the Humanities, Arts, and Social Sciences.” Choice Reviews Online, vol. 49, no. 04, Dec. 2011, pp. 49–1799. https://doi.org/10.5860/choice.49-1799.
+
+Wikipedia contributors. “Great Man Theory.” Wikipedia, 21 Oct. 2024, en.wikipedia.org/wiki/Great_man_theory.
 
 
 <br/>
