@@ -57,7 +57,9 @@ What I gathered from Vinegar Hill is what happens when there is an imbalance in 
     <img src="{{ 'assets/life/midterm/urb2.jpeg' | relative_url }}" class="" style="width: 40%; margin: 0 2.5%;">
 </div>
 
-5 years before the demolition actually occurred. A guy named Lipset wrote on **Social Prerequisites of Democracy**. Relating it with the case of Vinegar Hill made me wonder if the paper addressed race relations? From the viewpoint of the White developers, Democracy was working great. They had systems of economic development education, income equality, and an on-going project of urban renewal. On top of that, the people of Charlottesville was checking off the boxes for democratic values like civic engagement and legitimizing institutions. This same emphatic blind spot for those in power seems to remain at the forefront of modern development discourse. It makes sense though, because as the systematic structures and normalized beliefs become invisible, the only thing left to say is: "Why don't they just have it figured out like us?". It echoes a similar viewpoint from the DFID paper where they discovered inequality of assets affect the distribution of development, but had nothing to say on how the inequality came to be and how to concretely address it.
+5 years before the demolition actually occurred. A guy named Lipset wrote on **Social Prerequisites of Democracy**. Relating it with the case of Vinegar Hill made me wonder if the paper addressed race relations? From the viewpoint of the White developers, Democracy was working great. They had systems of economic development education, income equality, and an on-going project of urban renewal. On top of that, the people of Charlottesville was checking off the boxes for democratic values like civic engagement and legitimizing institutions. 
+
+This same emphatic blind spot for those in power seems to remain at the forefront of modern development discourse. It makes sense though, because as the systematic structures and normalized beliefs become invisible, the only thing left to say is: "Why don't they just have it figured out like us?". It echoes a similar viewpoint from the DFID paper where they discovered inequality of assets affect the distribution of development, but had nothing to say on how the inequality came to be and how to concretely address it.
 
 Closing up the Vinegar Hill section, I have a bit of hope as something egregious as this only occurs when you justify economic development **and** view a group as less than human / deserve zero social capital. I think the US has, at large, moved past the whole racism thing? Keeping this case study in mind, I want to turn towards the future and ongoing histories of development at UVA. Though the university is also haunted by its past involvements in similar displacement stories of Gospel Hill and Canada, I want to inspect the university in the present. What does it mean to attend a university that advertises human and political development but actively prides itself on having AAA bond ratings?
 
@@ -156,8 +158,9 @@ Zuk, M., Bierbaum, A. H., Chapple, K., Gorska, K., & Loukaitou-Sideris, A. 2018.
 
 <br/>
 ---
-[^1]: After doing some literature reading, I myself stand conflicted on my own interpretations of gentrification. There is like 10+ different definitions, ways of measuring, and viewpoints on it which makes it even more confusing.
-[^2]: I'm glad I'm not crazy, doing some more reading. There has been many critiques against the broad field of gentrification theory due to the overloading of the term. For the purpose of this blog, my definition is just the existence of class/racial re/displacement. I say existence because it will be intellectually disingenious for me to provide a definition that covers the processes of gentrification.
-[^3]: Pretty fatalistic ending to the paragraph, but I'm still hopeful.
-[^4]: My finally takeaway on gentrification is that its actually caused by speculation not any physical env changes.
-[^5]: Vienna, Austria the birthplace of Austrian Economics has 80% social housing?
+[1]: After reading some literature, I am conflicted about my interpretations of gentrification. There are 10+ different definitions, ways of measuring, and viewpoints on it, which makes it even more confusing.
+[^2]: I'm glad I'm not crazy, doing some more reading. There have been many critiques against the broad field of gentrification theory due to the overloading of the term. For the purpose of this blog, my definition is just the existence of class/racial re/displacement. I say existence because it would be intellectually disingenuous for me to provide a definition that covers the processes of gentrification.
+[^3]: It's a pretty fatalistic ending to the paragraph, but I'm still hopeful.
+[^4]: My final takeaway on gentrification is that it's actually caused by speculation, not any physical environmental changes.
+[^5]: Vienna, Austria, the birthplace of Austrian Economics, has 80% social housing?
+
