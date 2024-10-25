@@ -42,6 +42,8 @@ At the core of the quote is that when you encounter the ideas from a forgone tim
 
 This insight is the merit I see in postmodernism. It allows translations from the past, specifically for these "great thinkers," to provide insight into the current world and generate more relevant theories. The breaks in clarity and understanding of these thinkers are not just you failing to understand what they said[^3]. The break itself opens up space to renegotiate meaning within the contemporary fabric. And to that, I say I cheers! Better to be "dumb" than an ideologue.
 
+*Editors Note: The reason I failed to grapple with this idea is because of my constant use of the word great. Think on this yourself. There is this sort of subtle/subversive linguistic object preference when we use the word great. Great usually denotes or qualifies for a singular noun. Which is directly orthogonal for the point I was trying to make in this blog. That is, what is great is actually the plurality of people behind the thinker.*
+
 I leave this section off with a quote from a rugby player:
 > These days people seek knowledge, not wisdom.
 
@@ -55,6 +57,8 @@ Again from the book:
 What it means to be a "great" philosopher on the list is something heavily in contention. A question I asked myself throughout the entirety of the quiz was just why is this person considered "great"? From the above discussion, their ideas apparently have been seen to stand "the test of time," but I don't think that is it either. The reason some are there is seemingly as a mascot for the culture and social forces of the time. 
 
 That is why I alluded to some of these thinkers as "slaves to history," as they are cherry-picked and interpreted for a hegemonic narrative instead of fundamentally grappling with the theories purported by them.[^5] But, I see this in myself as well. I view some of the philosophers up there as "Great." Their ideas have a profound relevance in the world and how **I view** it. Again, **BUT**, the point of the blog was to highlight that we shouldn't view any of them as peerless and, along with that, also consider why we view them as great in the first place.
+
+
 
 If Newton hadn't found calculus, Leibniz would have been on his tail, but let's also not treat either of them as intellectual idols.
 
