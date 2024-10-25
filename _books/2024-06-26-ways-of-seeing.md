@@ -21,7 +21,7 @@ name: >-
     </blockquote>
 </figure>
 
-# Way's of Seeing
+# Ways of Seeing
 
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote" style="font-size: 18px;">
