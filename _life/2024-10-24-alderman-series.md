@@ -9,13 +9,13 @@ layout:           post
 tags:
 - Life
 title: >-
-    The Alderman Series
+    The Clemons Series
 layout:           style
 name: >-
-    The Alderman Series
+    The Clemons Series
 ---
 
-# The Alderman Series
+# The Clemons Series
 
 The premise for this is simple: I get lost in aisle and push the boundaries of my knowledge.[^1]
 
