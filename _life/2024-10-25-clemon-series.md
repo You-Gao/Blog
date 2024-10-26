@@ -17,7 +17,7 @@ name: >-
 
 # The Clemons Series
 
-The premise for this is simple: I get lost in aisle and push the boundaries of my knowledge.[^1]
+The premise for this is simple: I get lost in an aisle and push the boundaries of my knowledge.[^1]
 
 ## B.102
 1. Food & Philosophy[^2]
