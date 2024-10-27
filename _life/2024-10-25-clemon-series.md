@@ -19,12 +19,17 @@ name: >-
 
 The premise for this is simple: I get lost in an aisle and push the boundaries of my knowledge.[^1]
 
-## B.102
-1. Food & Philosophy[^2]
-2. Absent Body 
-3. The Vocation of Writing
-4. Intentionality
-5. The Knowledge Illusion
+## AP.2
+1. On The Digital Humanities
+2. What Are The Arts And Sciences?
+3. The Intellectual Life
+
+## B.105
+1. Food & Philosophy[^2] - DROPPED: just not for me
+2. [Absent Body](https://blog.yougao.dev/books/absent-body/)
+3. The Vocation of Writing - SKIPPED: more linguistic stuff
+4. Intentionality - SKIPPED: see above
+5. The Knowledge Illusion - DROPPED: social constructivism lite + cognitive biases
 
 <br/>
 ---
