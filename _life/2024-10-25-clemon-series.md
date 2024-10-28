@@ -20,8 +20,8 @@ name: >-
 The premise for this is simple: I get lost in an aisle and push the boundaries of my knowledge.[^1]
 
 ## AP.2
-1. On The Digital Humanities
-2. What Are The Arts And Sciences?
+1. On The Digital Humanities - COMPLETED: dense, assumes of a lot of prior knowledge[^3]
+2. What Are The Arts And Sciences? - COMPLETED: a good table book
 3. The Intellectual Life
 
 ## B.105
@@ -35,3 +35,4 @@ The premise for this is simple: I get lost in an aisle and push the boundaries o
 ---
 [^1]: Hopefully, I figure out what the call codes mean.
 [^2]: Reflecting before reading made me realize the order I "consume" the readings are important for my experience.
+[^3]: To sum it up, one must be well versed in Gadamer and Turing but also doubly disciplined in the theory of language and meanings. And the whole canon on linguistics, computation, data, philosophy. To rephrase, one must be good at the Derridean game and perform skeptically well at the positivist game.
