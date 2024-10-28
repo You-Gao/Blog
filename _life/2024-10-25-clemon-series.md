@@ -19,12 +19,18 @@ name: >-
 
 The premise for this is simple: I get lost in an aisle and push the boundaries of my knowledge.[^1]
 
-## AP.2
-1. On The Digital Humanities - COMPLETED: dense, assumes of a lot of prior knowledge[^3]
+## AP.2.S // AZ.999.W
+1. On The Digital Humanities - READING: dense, assumes of a lot of prior knowledge[^3]
 2. What Are The Arts And Sciences? - COMPLETED: a good table book
-3. The Intellectual Life
+3. The Intellectual Life 
 
-## B.105
+## B.1.E // B.105.A
+1. Essays On Ultimate Questions
+2. The Virtual Embodied
+3. The Digital Phoenix
+4. The Simpsons And Philosophy
+
+## B.105 // B.127.C  
 1. Food & Philosophy[^2] - DROPPED: just not for me
 2. [Absent Body](https://blog.yougao.dev/books/absent-body/)
 3. The Vocation of Writing - SKIPPED: more linguistic stuff
