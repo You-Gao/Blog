@@ -22,7 +22,7 @@ The premise for this is simple: I get lost in an aisle and push the boundaries o
 ## AP.2.S // AZ.999.W
 1. On The Digital Humanities - READING: dense, assumes of a lot of prior knowledge[^3]
 2. What Are The Arts And Sciences? - COMPLETED: a good table book
-3. The Intellectual Life 
+3. The Intellectual Life - DROPPED: not bad, good insights, too theistic about it
 
 ## B.1.E // B.105.A
 1. Essays On Ultimate Questions
