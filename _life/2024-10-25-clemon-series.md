@@ -37,6 +37,14 @@ The premise for this is simple: I get lost in an aisle and push the boundaries o
 4. Intentionality - SKIPPED: see above
 5. The Knowledge Illusion - DROPPED: social constructivism lite + cognitive biases
 
+## B.127.C // B.132.D 
+1. All Else Is Bondage - READING: **interesting** essays on eastern metaphysics and wu wei 
+2. The Enigma of I-consciousness
+3. Indian Philosophy A-Z
+4. Li Zhi, Confucianism and desire
+5. Neo-Confucianism : metaphysics, mind, and morality
+
+
 <br/>
 ---
 [^1]: Hopefully, I figure out what the call codes mean.
