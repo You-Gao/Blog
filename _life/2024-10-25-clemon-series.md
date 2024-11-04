@@ -25,10 +25,10 @@ The premise for this is simple: I get lost in an aisle and push the boundaries o
 3. The Intellectual Life - DROPPED: not bad, good insights, too theistic about it
 
 ## B.1.E // B.105.A
-1. Essays On Ultimate Questions
-2. The Virtual Embodied
-3. The Digital Phoenix
-4. The Simpsons And Philosophy
+1. Essays On Ultimate Questions - READING: fun essays on every form of philosophical skepticism [^4]
+2. The Virtual Embodied - SKIMMED: meh table book 
+3. The Digital Phoenix - SKIMMED: okay table book
+4. The Simpsons And Philosophy - SKIMMED: great table book
 
 ## B.105 // B.127.C  
 1. Food & Philosophy[^2] - DROPPED: just not for me
@@ -42,3 +42,4 @@ The premise for this is simple: I get lost in an aisle and push the boundaries o
 [^1]: Hopefully, I figure out what the call codes mean.
 [^2]: Reflecting before reading made me realize the order I "consume" the readings are important for my experience.
 [^3]: To sum it up, one must be well versed in Gadamer and Turing but also doubly disciplined in the theory of language and meanings. And the whole canon on linguistics, computation, data, philosophy. To rephrase, one must be good at the Derridean game and perform skeptically well at the positivist game.
+[^4]: For me, I read this book because I want to recognize when someone is committing sophistry or not.
