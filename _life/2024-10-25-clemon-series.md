@@ -44,6 +44,10 @@ The premise for this is simple: I get lost in an aisle and push the boundaries o
 4. Li Zhi, Confucianism and desire
 5. Neo-Confucianism : metaphysics, mind, and morality
 
+## B.132.D // B.162.5.Y 
+1. A Glossary of Sanskrit Terms in the Synthesis of Yoga 
+2. Place, Commonality and Judgment
+3. Justice - READING: seminal essays on every form of justice 
 
 <br/>
 ---
