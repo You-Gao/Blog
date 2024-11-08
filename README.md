@@ -18,7 +18,7 @@ gem install bundler
 
 1. Clone the repository:
 ```
-git clone https://github.com/You-Gao/UVA-Electives-Oracle.git
+git clone https://github.com/You-Gao/Blog.git
 ```
 2. Install Dependencies:
 ```
