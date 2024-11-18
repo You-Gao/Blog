@@ -35,13 +35,13 @@ Taking a look at indigenous oral storytelling, it can be said that their stories
 
 > "Breathe in its scent and you start to remember things you didn’t know you’d forgotten. Our elders say that ceremonies are the way we “remember to remember,”"
 
-Mar de Vang's intervention into the state archives is an example of how "materials can conceive for many archives." She demonstrates how state documents were not a neutral archive of Hmong peoples but how the archives had another being as an archive of Hmong violence. Archive(s) conceive from the things that are said and not said, found or forgotten, material and immaterial, signifier and signified.
+Mar de Vang's intervention into the state archives is an example of how "materials can conceive for many archives." She demonstrates how state documents were not a neutral archive of Hmong peoples but how the archives had another being as an archive of Hmong violence. Archive(s) shape from the things that are said and not said, found or forgotten, material and immaterial.
 
 Then, the performance modifier of performing archives acts as a pedagogical function that gives knowledge of and necessarily modifies the archives. A phrase often used and is a good description in explaining performance is that each way of performing offers a way into the archive. The difference in method changes the materiality of how you come to know the archive, but the total memory stays the same regardless of methodology. However, the different techniques can illuminate different memories the archive holds to each of their strong suits. A clarifying example I look to is Christina Sharpe's "Wake Work" and how she uses it to approach the afterlives/archives of slavery. The substance and material here is the approach as a way of coming into knowing and reclaiming history. She writes:
 
 > "the precarities of the ongoing disaster of the ruptures of chattel slavery. They texture my reading practices, my ways of being in and of the world, my relations with and to others."
 
-Material invokes the archives, begs you to recall its imprinted memories, guides you towards what was lost; surrogates for knowledge.
+Material invokes the archives, guides you towards what was lost; surrogates for knowledge.
 
 ## Film as Performance 
 
