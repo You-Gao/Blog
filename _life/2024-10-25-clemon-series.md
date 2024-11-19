@@ -42,7 +42,7 @@ The premise for this is simple: I get lost in an aisle and push the boundaries o
 2. The Enigma of I-consciousness - DROPPED: a comparative analysis of the "self"
 3. Indian Philosophy A-Z - SKIMMED: I enjoy these viewpoints of the world
 4. Li Zhi, Confucianism and desire - DROPPED: The book doesn't interest me anymore
-5. Neo-Confucianism : metaphysics, mind, and morality - READING: historical chinese philosophers
+5. Neo-Confucianism : metaphysics, mind, and morality - SKIMMED: historical chinese philosophers
 
 ## B.132.D // B.162.5.Y 
 1. A Glossary of Sanskrit Terms in the Synthesis of Yoga - SKIMMED: very rich words
