@@ -40,7 +40,7 @@ I myself thought that Hashicorp was acting like an open-source org that holds th
 
 My summary of understanding this debacle is found in two questions. The individual user asks why there is a need for this project to be enterprise-level. The firm user asks why should I pay for this "open-source" project? Enterprise OS is more of a CYA purchase than anything.
 
-<img src="https://imgs.xkcd.com/comics/dependency.png"/>
+<img style="display: block; margin-left: auto; margin-right: auto" src="https://imgs.xkcd.com/comics/dependency.png"/>
 
 ## Keeb Community
 
