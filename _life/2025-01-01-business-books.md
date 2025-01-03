@@ -22,7 +22,7 @@ So based off my intuition, I decided to do some research on if business was more
 
 ## The GBB Metric
 
-My solution then is this, the GBB Metric. GBB being Good Business Book. I mean it is a pretty simple metric. I define it as the ratio of citations to Amazon or Goodreads reviews a book has. The rationale being that the "hidden gems" are vetted by the academic business community in direct contrast to the public receival of a book. For example, *Thinking Fast and Slow* would be ~50,000/500,000 which is  2 magnitudes "gooder" than *48 Laws of Power* at 500/200,000. A "time-tested" book like *Competitive Strategy* would be higher than both at 75,000/15,000. Though, I do admit that this is just a heuristic and that it is probably not even the best one at that. However, with that in mind, go out there and read some books. Thanks for reading.
+My solution then is this, the GBB Metric. GBB being Good Business Book. I mean it is a pretty simple metric. I define it as the ratio of citations to Amazon or Goodreads reviews a book has. The rationale being that the "hidden gems" are vetted by the academic business community in direct contrast to the public receival of a book. For example, *Thinking Fast and Slow* would be ~50,000/500,000 which is 2 magnitudes "gooder" than *48 Laws of Power* at 500/200,000. A "time-tested" book like *Competitive Strategy* would be higher than both at 75,000/15,000. Though, I do admit that this is just a heuristic and that it is probably not even the best one at that. However, with that in mind, go out there and read some books. Thanks for reading.
 
 <br/>
 ---
