@@ -16,7 +16,7 @@ name: >-
 
 # Democratizing Innovation
 
-> Users that innovate can develop exactly what they want, rather than relying on manufacturers to act as their (often very imperfect) agents.
+> "Users that innovate can develop exactly what they want, rather than relying on manufacturers to act as their (often very imperfect) agents."
 
 The quote is the central thesis of the book. Hippel here is writing against the dominant narrative of R&D, a narrative that supposes the core of innovation lies in the operation of manufacturing firms that produce and construct goods. Users in this story have no innovative power outside of voicing their needs or commanding their Capital on the market. Hippel essentially says to the R&D industry: "You've got it all wrong!". It is precisely the users of the goods that are the innovators. Users are the ones making the product better and generating new features, not the manufacturers. This point might seem obvious now, given the sort of shift and movement towards UX design. But no, product managers back then, and maybe still even now, point to their R&D department as the core product innovators.
 
@@ -26,7 +26,7 @@ I took an interest in this book precisely because of its relation to the open-so
 
 Ironically enough, when Hippel is discussing manufacturer firms and ways to work with user innovation in software, he points to Red Hat Enterprise Linux, which, after 13 or so years and being acquired by IBM, has "betrayed" or stirred up quite a lot of controversy. They have gone to the side of being a manufacturer instead of a user firm, and one that is egregiously bastardizing open-source contributors by profiting off of their efforts[^4]. But going back to when Hippel wrote this text, he highlighted how Red Hat as a firm dealt with monetizing open-source with respect to providing technical support for the project.
 
->  (3) Manufacturers may sell products or services that are complementary to user-developed innovations.
+>  "(3) Manufacturers may sell products or services that are complementary to user-developed innovations."
 
 This monetization model was reasonably uncontroversial. You have a group of users contributing to an OS for the use of each other without any care for funding. Then you have Red Hat that takes this OS and contributes to it as well, but also says: "If anyone wants to support, you can get it from us." The concern was when they decided they would go and make their upstream version behind a paywall. This move modified their relation to the users as more of a user-to-manufacturer than user-to-user. The decision can be interpreted as Red Hat supplanting itself on top of the open-source community, similar to what Amazon did to ElasticSearch. In the end, though, it feels more complex than that. On the one hand, a case can be made that Red Hat being profitable is suitable for open-source because it means that user innovators can get paid for what they do explicitly by Red Hat. On the other hand, there is still the argument that this corporation's supplanting is a net negative to the ethos of the open-source community. 
 
@@ -48,7 +48,7 @@ My summary of understanding this debacle is found in two questions. The individu
 
 The mechanical keyboard community, shortened keeb, is an example that immediately came to mind for me when Hippel was discussing how physical product manufacturers can work with users by taking the side-line to product development and instead focusing on producing parts for the community. The manufacturer's role here is to take the user-developed innovations in the keyboard community and do what they do with economies of scale to produce the base parts of kits that the users purchase. This story is what happened in the keyboard space. Manufacturers are following the rules Hippel as set out:
 
-> (1) Manufacturers may produce user-developed innovations for general commercial sale and/or offer a custom manufacturing service to specific users. (2) Manufacturers may sell kits of product-design tools and/or "product platforms" to ease users' innovation-related tasks.
+> "(1) Manufacturers may produce user-developed innovations for general commercial sale and/or offer a custom manufacturing service to specific users. (2) Manufacturers may sell kits of product-design tools and/or "product platforms" to ease users' innovation-related tasks."
 
 Many popular keyboard manufacturers, like DROP or KBDFans, sell fully functional keyboards themselves, but they mainly rose due to their manufacturing of keyboard kits. The design of these keyboard parts and of "what" to build is largely left up to the community innovators to generate. They sell (1) the custom keyboard specifications on their website along with (2) entire kits or parts that the user can go on to build the keyboard for themselves. Besides the manufacturer narrative fitting, the user narrative is about the same as well. 
 
@@ -58,7 +58,7 @@ Users of keyboards make modifications for aesthetical and functional reasons lik
 
 For last, I am saving the case study that throws a monkey wrench into Hipell's theory. It doesn't seem like the case here that the user innovators or the firms using microchips are the ones innovating in the manufacturing process. And the reason why was probably already covered in the book; I need to look for it. My theory behind it uses Hippel's highlight of software's unique characteristics of transactive and production costs; It's practically speaking 0. In contrast with the semiconductor industry, the barrier to entry is so much higher that users cannot innovate. Apple or any hobbyist does not have access to billions of dollars to innovate on chip manufacturing at their whim.  
 
-> Freedom from manufacturer involvement is possible because information products can be "produced" and distributed by users essentially for free on the web (Kollock 1999). In contrast, the production and diffusion of physical products involve activities with significant economies of scale.
+> "Freedom from manufacturer involvement is possible because information products can be "produced" and distributed by users essentially for free on the web (Kollock 1999). In contrast, the production and diffusion of physical products involve activities with significant economies of scale."
 
 ## Conclusion
 
