@@ -35,9 +35,9 @@ permalink: /about/
 
 <h2>why are you writing?</h2>
 
-the reason why i started this blog was to have a place for formal dialogue with the world and myself; practice my hand at creation and learn more about myself in the process. the feature topics were chosen because i felt like they were tangible pieces that i could further explore the existing thoughts i had for them.
+the reason why i started this blog was to have a place for formal dialogue with the world and myself; practice my hand at writing and reviewing to learn a bit more each week. the feature topics were chosen because i felt like they were interesting, perplexing, and that i could further explore the existing thoughts i had for them.
 
-what you will encounter in the blog are the perspectives and takes i have synthesized on those topics. and if i turn out to be a decent blogger, there is something tangible to skedaddle out with as a takeaway. 
+what you will encounter in the blog are the perspectives and takes i have synthesized on those topics. and if i turn out to be a decent blogger, there is something tangible to takeaway. 
 
 enjoy the site, no matter how you have stumbled onto this crevice of the internet.
 
