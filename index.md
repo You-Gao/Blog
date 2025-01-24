@@ -36,7 +36,7 @@ title: >-
       <div class="card-body my-0">
         <h5 class="card-title">Books</h5>
         <h6 class="card-subtitle mb-2 text-muted">reading books</h6>
-        <p class="card-text">Summaries of the books I read along with some commentary.<p>
+        <p class="card-text">Summaries of the books I read along with some commentary.</p>
         <a href="{{'/books' | relative_url}}" class="stretched-link"></a>
       </div>
   </div>
