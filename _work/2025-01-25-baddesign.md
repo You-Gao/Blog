@@ -18,7 +18,7 @@ name: >-
 
 Bad design is great. Obviously, it's "bad," but because it's bad, it's great. Why? Simply because there is so much to learn from "bad" design. That is, calling something "bad" can be pedagogical to the "bad-sayer." But what exactly do we mean when we call a design bad? To unpack this question, we need to examine the interplay between "bad design" and the perspectives we bring to it.
 
-In exploring bad design, we will meet a cast of characters: the engineer, the designer, and the user. Each represents a unique worldview and philosophical approach to creation and interaction. Central to understanding these characters is the distinction between realism and anti-realism: a debate about whether the truths of the world are objective and fixed or constructed and subjective. This philosophical lens matters because it shapes how each character perceives "badness" and, more importantly, how they respond to it. Through these perspectives, we can see how bad design is not just a failure but an opportunity for growth, collaboration, and deeper understanding.
+In exploring bad design, I will introduce a cast of characters: the engineer, the designer, and the user. Each represents a unique worldview and philosophical approach to creation and interaction. Central to understanding these characters is the distinction between realism and anti-realism: a debate about whether the truths of the world are objective and fixed or constructed and subjective. This philosophical lens matters because it shapes how each character perceives "badness" and, more importantly, how they respond to it. Through these perspectives, we can see how bad design is not just a failure but an opportunity for growth, collaboration, and deeper understanding.
 
 ## The Engineer
 
