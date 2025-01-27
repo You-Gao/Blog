@@ -6,7 +6,7 @@ description:  >-
 lang:             en
 last_modified_at: 2025-01-01
 tags:
-- Book-Review
+- Life
 title: >-
   How to Find "Good" Business Books
 layout:           style

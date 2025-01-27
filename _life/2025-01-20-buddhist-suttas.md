@@ -1,3 +1,19 @@
+---
+categories:       blog
+date:             2025-01-20
+description:  >-
+  wisdom from eastern works
+lang:             en
+last_modified_at: 2025-01-26
+tags:
+- Life
+title: >-
+  Buddhist Suttas
+layout:           style
+name: >-
+  Buddhist Suttas
+---
+
 # Buddhist Sutras/Suttas
 
 I recently stumbled upon some Buddhist texts, and they were insightful. So, I decided to go and find some more to review and reflect on. But, I was foolish to think finding more insightful stories would be an easy task. Of course, I already had the title of one of them and looked it up to see if it was part of a larger cohesive canon, a book, a collection, or some other organizing principle. This search for more led to the discovery that the canon of Buddhism is not a linear one, hence the title "Buddhist Sutras/Suttas."
