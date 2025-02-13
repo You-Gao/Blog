@@ -1,4 +1,4 @@
-## My Blog (https://blog.yougao.dev/)
+## My Blog
 I wanted a blog, this is the blog using jekyll and github pages.
 
 ## Installation
