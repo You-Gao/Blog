@@ -17,13 +17,13 @@ permalink: /about/
 <div class="container-fluid" style="text-align: left;">
   <div class="row">
     <div class="col-sm-7" style="text-align: left;  margin-left: 0;">
-    <h2 style="margin-left: -10px;"> potentially relevant information: </h2>
+    <h2 style="margin-left: -10px; margin-top: 0px;"> potentially relevant information: </h2>
     <ul>
     <li>i like to code and dawdle about in my spare-time. </li>
     <li>attending uva and getting my piece of paper in 2 years. </li>
     <li>i enjoy games, books, and pondering. </li>
     <li>pretty big music and food guy as well. </li>
-    <li>more comprehensive about me is on the <a href="https://yougao.dev/">main site.</a></li>
+    <li>more info on my <a href="https://yougao.dev/" target="_blank">main site.</a></li>
     </ul>
     </div>
 
