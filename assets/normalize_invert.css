@@ -1,38 +1,61 @@
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 .navbar-brand {
-    color: #ffffff;
+    color: #bac2de;
 }
 .nav-link {
-    color: #ffffff !important; 
+    color: #bac2de !important; 
 }
 
 .markdown-body blockquote{
-    color: #b7bcc1 !important;
-    border-left: 5px solid #b7bcc1 !important;
+    color: #6c7086 !important;
+    border-left: 5px solid #6c7086 !important;
 }
 
 .blockquote-footer {
-    color: #b7bcc1 !important;
+    color: #6c7086 !important;
 }
 .navbar-brand:hover {
-    color: rgb(212, 212, 212) !important;
+    color: #cdd6f4 !important;
 }
 .nav-item a:hover {
-    color: rgb(212, 212, 212) !important;
+    color: #cdd6f4 !important;
 }
 .card {
-    --bs-card-bg: black;
-    color: #ffffff;
+    --bs-card-bg: #11111b;
+    color: #cdd6f4;
+}
+.card:hover {
+    --bs-card-bg: #333344;
 }
 .text-muted {
-    color: #b7bcc1 !important;
+    color: #6c7086 !important;
 }
 .card-img-top {
-    filter: invert(100%) hue-rotate(180deg);
+    filter: invert(90%) hue-rotate(120deg);
   }
-.markdown-body table {
-    color: #000000 !important;
+
+.cards:hover {
+    background-color: #333344; /* Change this to your desired hover color */
+    box-shadow: none !important;
 }
+.markdown-body table {
+    color: #11111b!important;
+}
+body{
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-size:18px;
+    line-height:1.5;
+    color: #cdd6f4;
+    font-weight:400;
+    background-color:#11111b;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #cdd6f4;
+    margin-top:0;
+    margin-bottom:0
+}
+
+/* Original CSS, above is changes made to invert */
 body{
     margin:0
 }
@@ -185,14 +208,6 @@ input,select,textarea,button{
     font-size:inherit;
     line-height:inherit
 }
-body{
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-    font-size:18px;
-    line-height:1.5;
-    color: #ffffff;
-    font-weight:400;
-    background-color:#000000
-}
 a{
     color:#0366d6;
     text-decoration:none
@@ -239,11 +254,6 @@ details summary{
 }
 details:not([open])>*:not(summary){
     display:none !important
-}
-h1,h2,h3,h4,h5,h6{
-    color: #ffffff;
-    margin-top:0;
-    margin-bottom:0
 }
 h1{
     font-size:32px;
@@ -4774,7 +4784,6 @@ pre{
 .markdown-body h1 tt,.markdown-body h1 code,.markdown-body h2 tt,.markdown-body h2 code,.markdown-body h3 tt,.markdown-body h3 code,.markdown-body h4 tt,.markdown-body h4 code,.markdown-body h5 tt,.markdown-body h5 code,.markdown-body h6 tt,.markdown-body h6 code{
     font-size:inherit
 }
-
 .markdown-body h1{
     padding-bottom:0.3em;
     font-size:1.75em;

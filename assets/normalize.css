@@ -1,4 +1,7 @@
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
+.card:hover{
+    --bs-card-bg: #d6d6d6; /*grey*/
+}
 html{
     font-family:sans-serif;
     -ms-text-size-adjust:100%;
@@ -236,7 +239,7 @@ h4{
 }
 p{
     margin-top:0;
-    margin-bottom:10px
+    margin-bottom:10px;
 }
 small{
     font-size:90%
