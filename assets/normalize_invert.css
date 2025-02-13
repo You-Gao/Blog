@@ -3,9 +3,9 @@ p {
     margin-top: 0;
     margin-bottom: 2.5rem !important;
 }
-.footnote p {
+.footnotes li p {
     margin-top: 0;
-    margin-bottom: 1rem;
+    margin-bottom: 1rem !important;
 }
 .navbar-brand {
     color: #bac2de;
