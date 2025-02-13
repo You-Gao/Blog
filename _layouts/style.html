@@ -171,12 +171,6 @@
 
 
     @media (max-width: 768px) {
-        .cards {
-            transform: scale(1);
-            width: 90%;
-            margin: auto;
-            margin-top: 20px;
-        }
         .card-text {
             font-size: 0px !important;
         }
@@ -190,16 +184,16 @@
             margin-left: -80px;
             display: flex;
         }
-
-        .navbar-brand.h2.my-3 {
-            margin-left: -10px;
-        }
-
         .cards {
+            flex-basis: 50%;
+            max-width: 50%;
+        }
+        .row-cols-4 {
+            display: flex;
             justify-content: center;
+            flex-wrap: wrap;
             align-items: center;
-            margin-bottom: 50px;
-            margin-left: 50px;
+            width: 100%;
         }
     }
 
