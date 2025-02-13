@@ -20,7 +20,7 @@ I recently stumbled upon some Buddhist texts, and they were insightful. So, I de
 
 Suttas is the Pali equivalent of the Sanskrit word Sutra. Pali and Sanskrit both were ancient scripts that were used to write these scriptures. The historically interesting thing is that this linguistic difference can illuminate the difference between the two primary schools of Buddhism, Theravada, and Mahayana. The story I stumbled on was from the Theravada school, which has its particular canon, the Pali canon. The Tipitaka, as it is called, stands for the collection of three Buddhist texts, which are the Vinaya Pitaka, Sutta Pitaka, and Abhidhamma Pitaka. The Pali Canon is the canon that I will be reading and reflecting on in this blog.
 
-### (The Arrow)[https://www.dhammatalks.org/suttas/SN/SN36_6.html]
+### [The Arrow](https://www.dhammatalks.org/suttas/SN/SN36_6.html)
 
 I enjoyed this piece because it talked about the virtue of not being reactive to our emotions. At first, I almost seemed to disagree with the Sutta on the basis of interpreting it as advocating for a sort of stoic extreme. At first read, I interpreted it as talking about a sort of mind-privileging, especially when discussing the difference between the run-of-the-mill and the noble. The reason is that it seemed very easy to make the jump to say the same about the savage and the civilized man. But that reading hinges on my (mis)understanding of the noble vs. run-of-the-mill distinction here. It's not that there is a socio-economic difference between them, but rather a difference in skill or wisdom.
 

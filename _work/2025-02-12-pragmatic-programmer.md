@@ -45,6 +45,8 @@ With these, I'm sure a person can be a pretty solid developer. As Dave and Andy 
 
 > "Keep on reading" - they didn't actually say this, but they basically did
 
+<br/>
+---
 [1^]: It's not that I didn't enjoy Dante's Inferno. The idea of reading a fanfic that is assigned was the part that put me off. It was actually a pretty good story.
 [2^]: A more infinite analysis paralysis. Like how the reals are more infinite than the naturals. It's still a hard problem and the answer is there is no answer.
 [3^]: I hope the snake-oil sarcasm hit.
