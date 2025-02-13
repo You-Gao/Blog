@@ -2,10 +2,9 @@
   <div class="container-fluid align-text-bottom">
 
       <a class="navbar-brand h1" style="margin-top: 3px;" href="{{ '/' | relative_url }}">You's Blog</a>
-      <a class="navbar-brand h2 my-3" href="{{'/about' | relative_url}}">(About Me)</a>
-
-      <div class="col-md hidden-lg-down hidden-md-up" >
-      <div id="react-icon" class="d-flex justify-content-center align-text-bottom" style="margin-left: 65px; margin-top: 0px;">
+      <a class="navbar-brand h2" href="/about" style="margin-right:0; margin-left:0px; margin-top:10px;">(about me)</a>
+      <div class="" >
+      <div id="react-icon">
         <button id="night-mode-toggle" class="btn btn-link">
             <script>
                 const theme = localStorage.getItem('theme') || 'normalize';
@@ -16,7 +15,7 @@
       </div>
 
       <div class="col">
-      <div class="collapse navbar-collapse align-content-end" id="navbarNav">
+      <div class="collapse navbar-collapse align-content-end" id="navbarNav" style="justify-content: flex-end;">
           <ul class="navbar-nav align-text-bottom">
               <li class="nav-item">
               <a class="nav-link h2 my-3 italic-link align-text-bottom" style="pointer-events:none;" aria-current="page" href="#">Topics:</a>
