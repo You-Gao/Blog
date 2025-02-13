@@ -13,7 +13,7 @@ title: >-
 
 # Pick a Card, Any Card
 
-<div class="card-group row-cols-4 my-6" style="gap: 0px">
+<div class="card-group row-cols-4" style="gap: 0px">
 
 <div class="cards" href="{{'/games' | relative_url}}">
 <div class="col" style="height: 100%;">

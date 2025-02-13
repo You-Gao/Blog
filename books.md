@@ -52,13 +52,13 @@ permalink: /books/
     </ul>
     </div>
     {% assign previousMonth = currentMonth %}
-    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+    <div class="col-12 col-md-4">
     <h3 class="my-2">{{ currentMonth }}:</h3>
     <ul style="list-style-type: '- ';">
     
   {% elsif previousMonth != currentMonth and previousMonth == '' %}
     {% assign previousMonth = currentMonth %}
-    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+    <div class="col-12 col-md-4">
     <h3 class="my-2">{{ currentMonth }}:</h3>
     <ul style="list-style-type: '- ';">
   {% endif %}
