@@ -1,17 +1,17 @@
 ---
-categories:       blog
-date:             2025-01-01
-description:  >-
-  the commoning of innovation
-lang:             en
+categories:       blog
+date:             2025-01-01
+description:  >-
+ the commoning of innovation
+lang:             en
 last_modified_at: 2025-01-01
 tags:
 - Book-Review
 title: >-
-  Democratizing Innovation
-layout:           style
+ Democratizing Innovation
+layout:           style
 name: >-
-  Democratizing Innovation
+ Democratizing Innovation
 ---
 
 # Democratizing Innovation
@@ -24,11 +24,11 @@ I took an interest in this book precisely because of its relation to the open-so
 
 ## Red Hat & CentOS
 
-Ironically enough, when Hippel is discussing manufacturer firms and ways to work with user innovation in software, he points to Red Hat Enterprise Linux, which, after 13 or so years and being acquired by IBM, has "betrayed" or stirred up quite a lot of controversy. They have gone to the side of being a manufacturer instead of a user firm, and one that is egregiously bastardizing open-source contributors by profiting off of their efforts[^4]. But going back to when Hippel wrote this text, he highlighted how Red Hat as a firm dealt with monetizing open-source with respect to providing technical support for the project.
+Ironically enough, when Hippel is discussing manufacturer firms and ways to work with user innovation in software, he points to Red Hat Enterprise Linux, which, after 13 or so years, has been acquired by IBM, has "betrayed" or stirred up quite a lot of controversy. They have gone to the side of being a manufacturer instead of a user firm, and one that is egregiously bastardizing open-source contributors by profiting off of their efforts[^4]. But going back to when Hippel wrote this text, he highlighted how Red Hat as a firm dealt with monetizing open-source with respect to providing technical support for the project.
 
->  "(3) Manufacturers may sell products or services that are complementary to user-developed innovations."
+>  "(3) Manufacturers may sell products or services that are complementary to user-developed innovations."
 
-This monetization model was reasonably uncontroversial. You have a group of users contributing to an OS for the use of each other without any care for funding. Then you have Red Hat that takes this OS and contributes to it as well, but also says: "If anyone wants to support, you can get it from us." The concern was when they decided they would go and make their upstream version behind a paywall. This move modified their relation to the users as more of a user-to-manufacturer than user-to-user. The decision can be interpreted as Red Hat supplanting itself on top of the open-source community, similar to what Amazon did to ElasticSearch. In the end, though, it feels more complex than that. On the one hand, a case can be made that Red Hat being profitable is suitable for open-source because it means that user innovators can get paid for what they do explicitly by Red Hat. On the other hand, there is still the argument that this corporation's supplanting is a net negative to the ethos of the open-source community. 
+This monetization model was reasonably uncontroversial. You have a group of users contributing to an OS for the use of each other without any care for funding. Then you have Red Hat that takes this OS and contributes to it as well, but also says: "If anyone wants to support, you can get it from us." The concern was when they decided they would go and make their upstream version behind a paywall. This move modified their relation to the users as more of a user-to-manufacturer than a user-to-user. The decision can be interpreted as Red Hat supplanting itself on top of the open-source community, similar to what Amazon did to ElasticSearch. In the end, though, it feels more complex than that. On the one hand, a case can be made that Red Hat being profitable is suitable for open-source because it means that user innovators can get paid explicitly for what they do by Red Hat. On the other hand, there is still the argument that this corporation's supplanting is a net negative to the ethos of the open-source community. 
 
 The answer Hippel gives is likely along the lines of this. Individual users are mainly unaffected aside from being suspect towards the profit motive and the ethos around "enterprising" the project. User firms are generally outraged because they now have to pay for either the license for RHEL or using CentOS Stream. Red Hat still offers services technical support, fixes, updates, and services while (*hopefully*) contributing back to the open-source ecosystem. The tension, however, lies in whether this compromise tips too far toward commercialization, risking the alienation of the very community that sustains open-source innovation [^5]. 
 
@@ -36,11 +36,11 @@ The answer Hippel gives is likely along the lines of this. Individual users are 
 
 ## Hashicorps Move to BSL
 
-The story here is that the tooling under Hashicorp was deemed "open-source," similar to how Vagrant was before Hashicorp was created as an entity. The users or user firms were able to openly commit to the source code of any of the Hashicorp tools like Terraform, Helm, Consul, etc. The backlash occurred when they tried to shift over to a BSL license, which meant that their status was now more of a manufacturer than an "information community". It follows a similar pattern to the whole open-source -> enterprise edition firm. This incompatibility stems from the conversion of user innovation to a firm status, creating a contradiction of the general open-source ethos. 
+The story here is that the tooling under Hashicorp was deemed "open-source," similar to how Vagrant was before Hashicorp was created as an entity. The users or user firms were able to openly commit to the source code of any of the Hashicorp tools like Terraform, Helm, Consul, etc. The backlash occurred when they tried to shift over to a BSL license, which meant that their status was now more of a manufacturer than an "information community." It follows a similar pattern to the whole open-source -> enterprise edition firm. This incompatibility stems from the conversion of user innovation to a firm status, creating a contradiction of the general open-source ethos. 
 
-I myself thought that Hashicorp was acting like an open-source org that holds these projects, without the goal of profiting from them. But really, why is this open-source enterprise business model causing so much drama? Similar to RHEL, the developer firms contributes to the open-source and benefits from user contributions. Then, they go on to offer an enterprise edition that is aimed not at users but at user firms. These developer firms ostensibly profit from commercialization via enterprise editions, which are large sums. One standard line against the model is highlighting that open-source is open-source, not free nor enterprise, and developing a model around profits is against that. The second one highlights the nature of an "open-source org" and if it is tenable as they are allowed to modify the licenses to the project in the future to make it proprietary. An interesting enough observation here is that drama only occurs due to the B2B-esque dealings of these firms and usually never at the user-user level[^6].
+I thought that Hashicorp was acting like an open-source organization that held these projects without the goal of profiting from them. But really, why is this open-source enterprise business model causing so much drama? Similar to RHEL, the developer firms contribute to the open-source and benefit from user contributions. Then, they go on to offer an enterprise edition that is aimed not at users but at user firms. These developer firms ostensibly profit from commercialization via enterprise editions, which are large sums. One standard line against the model is highlighting that open-source is open-source, not free nor enterprise, and developing a model around profits is against that. The second one highlights the nature of an "open-source org" and if it is tenable as they are allowed to modify the licenses to the project in the future to make it proprietary. An interesting enough observation here is that drama only occurs due to the B2B-esque dealings of these firms and usually never at the user-user level[^6].
 
-My summary of understanding this debacle is found in two questions. The individual user asks why there is a need for this project to be enterprise-level. The firm user asks why should I pay for this "open-source" project? Enterprise Open Source is more of a CYA purchase than anything, akin to hiring consultants.
+My summary of understanding this debacle is found in two questions. The individual user asks why this project needs to be enterprise-level, and the firm user asks why I should pay for this "open-source" project. Enterprise Open Source is more of a CYA purchase than anything akin to hiring consultants.
 
 <img style="display: block; margin-left: auto; margin-right: auto" src="https://imgs.xkcd.com/comics/dependency.png"/>
 
@@ -56,7 +56,7 @@ Users of keyboards make modifications for aesthetical and functional reasons lik
 
 ## Samsung Electronics
 
-For last, I am saving the case study that throws a monkey wrench into Hipell's theory. It doesn't seem like the case here that the user innovators or the firms using microchips are the ones innovating in the manufacturing process. And the reason why was probably already covered in the book; I need to look for it. My theory behind it uses Hippel's highlight of software's unique characteristics of transactive and production costs; It's practically speaking 0. In contrast with the semiconductor industry, the barrier to entry is so much higher that users cannot innovate. Apple or any hobbyist does not have access to billions of dollars to innovate on chip manufacturing at their whim.  
+For last, I am saving the case study that throws a monkey wrench into Hipell's theory. It doesn't seem like the case here that the user innovators or the firms using microchips are the ones innovating in the manufacturing process. And the reason why was probably already covered in the book; I need to look for it. My theory behind it uses Hippel's highlight of software's unique characteristics of transactive and production costs; It's practically speaking 0. In contrast with the semiconductor industry, the barrier to entry is so much higher that users cannot innovate. Apple or any hobbyist does not have access to billions of dollars to innovate on chip manufacturing at their whim.  
 
 > "Freedom from manufacturer involvement is possible because information products can be "produced" and distributed by users essentially for free on the web (Kollock 1999). In contrast, the production and diffusion of physical products involve activities with significant economies of scale."
 
