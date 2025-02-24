@@ -2,7 +2,7 @@
 categories:       blog
 date:             2025-02-22
 description:  >-
-  skibidi rizz ohio
+  see the big picture charlie 
 lang:             en
 last_modified_at: 2024-12-28
 tags:
@@ -16,6 +16,8 @@ name: >-
 
 
 # The Fifth Discipline
+
+> In the long run, the only sustainable source of competitive advantage is your organization's ability to learn faster than its competition.
 
 The book, seen as a ground-breaking work for other, is seen as a bit too schizophrenic for me. The problem being, Senge has a lot of ground to cover in too short of an amount of pages. As a reader, I can see the general goal, introduce the core concepts of systems engineering and complexity science then apply them to the multi-factored nature of different business domains. 
 
