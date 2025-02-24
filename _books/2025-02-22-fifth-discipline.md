@@ -1,6 +1,6 @@
 ---
 categories:       blog
-date:             2024-12-26
+date:             2025-02-22
 description:  >-
   skibidi rizz ohio
 lang:             en
@@ -8,10 +8,10 @@ last_modified_at: 2024-12-28
 tags:
 - Book-Review
 title: >-
-  Amusing Ourselves to Death
+  The Fifth Discipline 
 layout:           style
 name: >-
-  Amusing Ourselves to Death
+  The Fifth Discipline 
 ---
 
 
