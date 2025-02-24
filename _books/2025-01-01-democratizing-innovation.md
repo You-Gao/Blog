@@ -9,7 +9,7 @@ tags:
 - Book-Review
 title: >-
   Democratizing Innovation
-layout:           style
+layout: style
 name: >-
   Democratizing Innovation
 ---

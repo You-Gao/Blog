@@ -9,7 +9,7 @@ tags:
 - Book-Review
 title: >-
   The Fifth Discipline 
-layout:           style
+layout: style
 name: >-
   The Fifth Discipline 
 ---
