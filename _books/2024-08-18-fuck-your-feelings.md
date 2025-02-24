@@ -16,11 +16,8 @@ name: >-
 
 # F*ck Your Feelings
 
-<figure class="container-lg" style="padding: 0;">
-    <blockquote class="blockquote" style="font-size: 18px;">
-    <p>"Your life is perfectly designed for the results you’re currently getting."</p>
-    </blockquote>
-</figure>
+> "Your life is perfectly designed for the results you’re currently getting."
+
 
 It is a pretty dull and off-putting book to those with knowledge of introductory psychology, neuroscience, and sociology concepts. I would say it works as a motivational book more than anything. It had some excellent factoids from stuff in the literature, but it is interwoven with pseudo-scientific interpretations, which makes it more challenging to read through than adding any value. 
 

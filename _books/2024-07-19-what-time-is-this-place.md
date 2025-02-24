@@ -14,14 +14,9 @@ name: >-
   What Time is This Place?
 ---
 
-# **What Time is This Place?**
+# What Time is This Place?
 
-
-<figure class="container-lg" style="padding: 0;">
-    <blockquote class="blockquote" style="font-size: 18px;">
-    <p>"Everywhere there are signs of time."</p>
-    </blockquote>
-</figure>
+> "Everywhere there are signs of time."
 
 <div class="container-fluid px-2" style="text-align: left;  margin-left: -5px; margin-top: -25px;">
 <div class="row">
@@ -65,7 +60,7 @@ I'm not saying throw out your clock either because time is only experienced thro
 
 In contrast with the previous section, encountering time focuses more on how we relate and orient ourselves, using the same key components of memory and experience. What differs here is how the memory and experience are utilized. Accounting time was about the relation of changes that created time. Encountering time is about recognizing signifiers of an experience and using those to recognize temporal place. The night does not start at 8:00pm, but rather when people start to travel to bars and congregate, and when they finally arrive, that is when the night begins.
 
-It is a fun perspective to take because it means that you can experience time through a factor of different external stimuli. There were plenty of examples given throughout the book, but my favorite one was how, in historical Japan, the burning of scented candles was used as a way to mark different times of the day. Each candle would have a distinct scent, and as the scent changed, it signaled a new period of time. This method of timekeeping intertwined the sense of smell with the passage of time, making time an olfactory experience. It might be redundant to say on top of this, but the societal implications of this are fascinating! People waiting for buses, streets bustling in the morning, traffic going to work, and so much more in our daily lives then contribute to our interpersonal temporal rhythms as we move throughout the day.
+It is a fun perspective to take because it means that you can experience time through a factor of different external stimuli. There were plenty of examples given throughout the book, but my favorite one was how, in historical Japan, the burning of scented candles was used as a way to mark different times of the day. Each candle would have a distinct scent, and as the scent changed, it signaled a new period of time. This method of timekeeping intertwined the sense of smell with the passage of time, making time an olfactory experience. It might be redundant to say on top of this, but the societal implications of this is quite peculiar. People waiting for buses, streets bustling in the morning, traffic going to work, and so much more in our daily lives then contribute to our interpersonal temporal rhythms as we move throughout the day.
 
 ## Discounting Time
 
