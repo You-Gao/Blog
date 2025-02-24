@@ -1,18 +1,19 @@
 ---
-categories:       blog
-date:             2025-02-22
-description:  >-
-    big picture thinking  
-lang:             en
-last_modified_at: 2025-02-24
+categories:       blog
+date:             2024-12-26
+description:  >-
+  skibidi rizz ohio
+lang:             en
+last_modified_at: 2024-12-28
 tags:
 - Book-Review
 title: >-
-    The Fifth Discipline 
-layout:           style
+  Amusing Ourselves to Death
+layout:           style
 name: >-
-    The Fifth Discipline 
+  Amusing Ourselves to Death
 ---
+
 
 # The Fifth Discipline
 
