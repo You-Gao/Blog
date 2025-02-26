@@ -28,7 +28,7 @@ Drew Leder writes about this cultural moment, providing mainly insight with some
 
 The ecstatic body makes more sense when considering the second lesser known definition of **ecstatic: involving and experience of mystic self-transcendence.** Leder talks on the experiencing body and our sensory apparatuses, dubbed as sensorimotors:
 
-> The surface is where self meets what is other than self
+> "The surface is where self meets what is other than self."
 
 The chapter is essentially a summary of previous work related to theorizing about the employment of perception, the limits of perceptions, and some idiosyncrasies related to perception. Leder starts off with introducing the idea of the **null point: a baseline orientation or reference point from which experiences or actions are gauged.** For example, the frame of distinction between left or right. To conceptualize this better, I drew a 2D figure with a cone going out from the eye; that point is the null point of vision, the beginning of sight. This idea of a null point is then expanded upon with the introduction of the actional field. The things that the null point opens up or projects too. The things you can touch, see, kick, smell, hear. Actional fields are the realm of experience the sensorimotors open up the body to experience.
 
