@@ -16,11 +16,8 @@ name: >-
 
 # Pedagogy of the Oppressed
 
-<figure class="container-lg" style="padding: 0;">
-    <blockquote class="blockquote" style="font-size: 18px;">
-    <p>"At the point of encounter there are neither utter ignorant muses nor perfect sages; there are only people who are attempting, together, to learn more than they now know."</p>
-    </blockquote>
-</figure>
+>"At the point of encounter there are neither utter ignorant muses nor perfect sages; there are only people who are attempting, together, to learn more than they now know."
+
 
 The book delivers a clear critique of how forms of instruction solidify the position of the oppressor against the oppressed. What Freire does after delivering the critique is providing moves forward to *Conscientization* through the use of a dialogic and praxis. 
 
@@ -32,7 +29,7 @@ Personally, the more relevant on those influences would be on Marcuse, specifica
 
 This reflection can be skipped as my own ramblings. This book is my first "dive" into political theory and I think I have knowingly steered myself away from diving into such. Most of my past readings have been safely shielded in establishing a system of persons relating with each other. 
 
-Looking at the philosophical branches I have covered: metaphysics, ontology, epistemology, phenomenology, logic, ethics, aesthetics. THE only one missing is politics and on how peoples should conduct themselves. I can appreciate the basic ideas from Hobbes, Locke, and Rousseau, but yeah, I don't know, maybe I'll get to the point where I feel comfortable on affirming my political positions aside from skipping them whenever it comes up. It's just that I have no clue at all of the full scopes/behavior of the objects underlying a political theory. [^1]
+I have covered: metaphysics, ontology, epistemology, phenomenology, logic, ethics, aesthetics. The only ontouched domain is politics. I can appreciate the basic ideas from Hobbes, Locke, Rawls, Nozick, and Rousseau, but yeah, I don't know, maybe I'll get to the point where I feel comfortable on affirming my political positions aside from skipping them whenever it comes up. It's just that I have no clue at all of the full scopes/behavior of the objects underlying a political theory. [^1]
 
 <br/>
 ---

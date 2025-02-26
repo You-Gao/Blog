@@ -24,7 +24,7 @@ Drew Leder writes about this cultural moment, providing mainly insight with some
 
 ## The Ecstatic Body
 
-> "It is thus possible to state a general principle: insofar as I perceive through an organ, it necessarily recedes from the perceptual field it dis-closes. I do not smell my nasal tissue, hear my ear, or taste my taste buds"
+> "It is thus possible to state a general principle: insofar as I perceive through an organ, it necessarily recedes from the perceptual field it dis-closes. I do not smell my nasal tissue, hear my ear, or taste my taste buds."
 
 The ecstatic body makes more sense when considering the second lesser known definition of **ecstatic: involving and experience of mystic self-transcendence.** Leder talks on the experiencing body and our sensory apparatuses, dubbed as sensorimotors:
 
@@ -51,7 +51,7 @@ That troubles me because I picked up this book in an attempt to answer a questio
 
 Leder relates these same troubles to diagnosing visceral pains in medical practices:
 
-> "An experience of "tightness" in the chest could signal any a number of cardiac, respiratory, muscular, or even alimentary difficulties, given the imprecision of interoception" 
+> "An experience of "tightness" in the chest could signal any a number of cardiac, respiratory, muscular, or even alimentary difficulties, given the imprecision of interoception." 
 
 ## The Dys-appearing Body
 
