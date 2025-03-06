@@ -9,7 +9,7 @@ tags:
 - Book-Review
 title: >-
  Worlds Hidden in Plain Sight
-layout:           style
+layout: style
 name: >-
  Worlds Hidden in Plain Sight
 ---
