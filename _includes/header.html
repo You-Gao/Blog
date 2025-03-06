@@ -5,12 +5,6 @@
       <a class="navbar-brand h2" href="/about" style="margin-right:0; margin-left:0px; margin-top:10px;">(about me)</a>
       <div class="" >
       <div id="react-icon">
-        <button id="night-mode-toggle" class="btn btn-link">
-            <script>
-                const theme = localStorage.getItem('theme') || 'normalize';
-                document.write('<img id="toggle-icon" src="/assets/' + theme + '.png" alt="Night Mode" style="width: 50px; height: 50px;">');
-            </script>
-        </button>  
       </div>
       </div>
 
@@ -39,8 +33,8 @@
   </div>
 </nav>
 
-<script type="text/babel">
-    const Toggle = () => {
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
         const setTheme = (themeName) => {
             const themeStyle = document.getElementById('theme-style');
             const toggleIcon = document.getElementById('toggle-icon');
@@ -56,25 +50,29 @@
             } else {
                 setTheme('normalize');
             }
-        }
-        const size_style={
+        };
+
+        const sizeStyle = {
             width: '50px',
             height: '50px'
-        }
-        const currentTheme = localStorage.getItem('theme') || 'normalize';
-        const src_path = '/assets/' + currentTheme + '.png';
-        return (
-            <div>
-                <button id="night-mode-toggle" className="btn btn-link" onClick={handleClick}>
-                    <img 
-                    id="toggle-icon" 
-                    src={src_path}
-                    alt="Night Mode" 
-                    style={size_style} />
-                </button>
-            </div>
-        );
-    };
+        };
 
-    ReactDOM.render(<Toggle />, document.getElementById('react-icon'));
+        const currentTheme = localStorage.getItem('theme') || 'normalize';
+        const srcPath = '/assets/' + currentTheme + '.png';
+
+        const button = document.createElement('button');
+        button.id = 'night-mode-toggle';
+        button.className = 'btn btn-link';
+        button.onclick = handleClick;
+
+        const img = document.createElement('img');
+        img.id = 'toggle-icon';
+        img.src = srcPath;
+        img.alt = 'Night Mode';
+        img.style.width = sizeStyle.width;
+        img.style.height = sizeStyle.height;
+
+        button.appendChild(img);
+        document.getElementById('react-icon').appendChild(button);
+    });
 </script>
