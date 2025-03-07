@@ -20,9 +20,9 @@ collections:
   books:
     output: true
     permalink: /books/:title/
-  games:
+  fun:
     output: true
-    permalink: /games/:title/
+    permalink: /fun/:title/
   life:
     output: true
     permalink: /life/:title/
