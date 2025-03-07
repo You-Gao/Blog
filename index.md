@@ -15,15 +15,15 @@ title: >-
 
 <div class="card-group row-cols-4" style="gap: 0px">
 
-<div class="cards" href="{{'/games' | relative_url}}">
+<div class="cards" href="{{'/fun' | relative_url}}">
 <div class="col" style="height: 100%;">
   <div class="card" style="width: 100%; height: 100%;">
     <img src=" {{ 'assets/home/dad.jpg' | absolute_url}}" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Games</h5>
-        <h6 class="card-subtitle mb-2 text-muted">are ya winning son?</h6>
-        <p class="card-text">Game reviews from someone that has played a lot of them.</p>
-        <a href="{{'/games' | relative_url}}" class="stretched-link"></a>
+        <h5 class="card-title">Fun</h5>
+        <h6 class="card-subtitle mb-2 text-muted">entertainment+</h6>
+        <p class="card-text">Movies, games, comics, and other fun things in life.</p>
+        <a href="{{'/fun' | relative_url}}" class="stretched-link"></a>
       </div>
   </div>
 </div>
@@ -36,7 +36,7 @@ title: >-
       <div class="card-body my-0">
         <h5 class="card-title">Books</h5>
         <h6 class="card-subtitle mb-2 text-muted">reading books</h6>
-        <p class="card-text">Summaries of the books I read along with some commentary.</p>
+        <p class="card-text">Summaries of the books I read along with commentary.</p>
         <a href="{{'/books' | relative_url}}" class="stretched-link"></a>
       </div>
   </div>

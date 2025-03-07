@@ -1,17 +1,17 @@
 ---
 date:             2024-07-14
 description:  >-
-  my attempt at answering "why play?"
+  entertaining stuff that i want to comment on
 lang:             en
-last_modified_at: 2024-07-14
+last_modified_at: 2025-03-17
 layout:           style
 tags:
 title: >-
   games
-permalink: /games/
+permalink: /fun/
 ---
 
-<h1>Game Reviews</h1>
+<h1>Fun Stuff</h1>
 
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote">
@@ -26,7 +26,7 @@ permalink: /games/
 <div class="container-lg" style="padding: 0;">
 {% assign previousYear = '' %}
 {% assign previousMonth = '' %}
-{% assign sorted = site.games | reverse %}
+{% assign sorted = site.fun | reverse %}
 {% for post in sorted %}
   {% assign currentYear = post.date | date: '%Y' %}
   {% assign currentMonth = post.date | date: '%B' %}
