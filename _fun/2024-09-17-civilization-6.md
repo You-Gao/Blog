@@ -14,7 +14,8 @@ layout:           style
 name: >-
     Civilization 6
 ---
-# **Civilization 6**
+
+# Civilization 6
 
 <img src="{{ 'assets/games/civ/header.jpg' | relative_url }}" alt="Logo" class="game_logo"/>
 
