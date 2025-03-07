@@ -26,7 +26,7 @@ Joel Barish is a complicated character to write; truly introspective characters 
 
 The key point being we as spectators have a direct vantage point to this like rationalizing why he went to Montauk, assuming Clementine "screwing" other people, and most importantly the journal. The journal as a narrative device was a key tool to illustrate Joel as a character. Because; just as Clementine's visceral reactions protrude outwards, Joel's recedes inwards. In order to then demonstrate that to the audience, you need a sort of reflective device, which is found in the journal.  
 
-However, I want to drive the claim that this journal and Joel's interaction with it isn't "real introspection". It simply acts as an eye or ear for these visceral reactions. That is, he sees and interprets an image of himself, the world, and others, but never seems to understand the agency doing so, and he ends up constructing the world he lives in from that angle. He records his emotions and perceptions, but rather than using them to understand himself, he passively constructs his reality through them.
+However, I want to drive the claim that this journal and Joel's interaction with it isn't "real introspection". It simply acts as an eye or ear for these visceral reactions. That is, he sees and interprets an image of himself, the world, and others, but never seems to understand the agency doing so, and he ends up constructing the world he lives in from that angle. He records his emotions and perceptions, but rather than using them to understand himself, he passively constructs his reality through them [^1].
 
 Joel Barish assumes his reserved, cautious nature is just "who he is," without questioning how much of that is a construct or a defense mechanism. His hesitancy, over-analysis, and repression suggest that he sees himself as a stable, rational individual. Yet, his actions—such as impulsively undergoing the memory erasure procedure—contradict that self-image. The journal, then, serves as a mirror, but a flawed one—it doesn’t offer self-awareness, only self-reinforcement.
 
@@ -42,4 +42,4 @@ The existence of this friction is why I came to the conclusion that the ending o
 
 <br/>
 ---
-[^1]: rationalization dne introspection, you're in your head but you don't "see" yourself, classic mind-body dualism.
+[^1]: rationalization dne introspection, you're in your head but you don't "see" yourself. similar to sarte's bad faith.
