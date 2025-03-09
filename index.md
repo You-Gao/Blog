@@ -11,7 +11,9 @@ title: >-
   home
 ---
 
-# Pick a Card, Any Card
+# My Recent Work
+
+# Explore The Topics
 
 <div class="card-group row-cols-4" style="gap: 0px">
 

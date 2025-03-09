@@ -17,7 +17,7 @@ name: >-
 
 # Eternal Sunshine of the Spotless Mind
 
-The film that finally made me revamp this section to include everything that I find fun instead of games. What really drew me into writing something about it and actually thinking I have something is what I thought to myself in the first minute or two of the movie. Which was: "This Joel person and this Clementine person have met before. I think the plot here is that even after erasure, their internal feelings led them to Montauk Beach, as they were fated lovers". I was right, or at least somewhat correct, which gave me some confidence to keep going down this path. The main things I am writing about for this review are the two main characters, Joel and Clementine.
+The film that finally made me revamp this section to include everything that I find fun instead of games. What really drew me into writing about it and thinking I have something, is what I thought to myself in the first minute or two of the movie. Which was: "This Joel person and this Clementine person have met before. I think the plot here is that even after erasure, their internal feelings led them to Montauk Beach, as they were fated lovers". I was right, or at least somewhat correct, which gave me some confidence to keep going down this path. The main things I am writing about for this review are the two main characters, Joel and Clementine.
 
 
 ## Joel Barish and His Journal
