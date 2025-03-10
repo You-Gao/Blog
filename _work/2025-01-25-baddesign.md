@@ -10,7 +10,7 @@ tags:
 - Work
 title: >-
  Bad Design is Great
-layout:           style
+layout: style
 name: >-
  Bad Design is Great
 ---

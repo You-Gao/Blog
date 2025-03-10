@@ -11,9 +11,7 @@ title: >-
   home
 ---
 
-# My Recent Work
-
-# Explore The Topics
+# Explore Topics
 
 <div class="card-group row-cols-4" style="gap: 0px">
 
@@ -74,3 +72,18 @@ title: >-
 </div>
 
 </div>
+
+<!-- 
+## Recent Posts
+
+{% assign all_content = site.work | concat: site.fun | concat: site.life | concat: site.books %}
+{% assign sorted_content = all_content | sort: 'date' | reverse %}
+{% assign recent_content = sorted_content | slice: 0, 5 %}
+
+<ul style="list-style: none outside; padding: 0;">
+{% for item in recent_content %}
+    <li>  <a href="{{ item.url }}">{{ item.title }}</a>  
+    </li>
+{% endfor %}
+</ul>
+-->
