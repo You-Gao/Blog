@@ -1,0 +1,28 @@
+---
+layout: null
+---
+
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Aggregated Feed</title>
+  <link href="{{ site.url }}/feed/aggregated.atom" rel="self"/>
+  <link href="{{ site.url }}"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <author>
+    <name>{{ site.author.name }}</name>
+    <email>{{ site.author.email }}</email>
+  </author>
+
+  {% assign all_posts = site.books | concat: site.fun | concat: site.life | concat: site.work %}
+  {% assign all_posts = all_posts | sort: 'date' %}  <!-- Sort by date -->
+  
+  {% for post in all_posts %}
+    <entry>
+      <title>{{ post.title }}</title>
+      <link href="{{ site.url }}{{ post.url }}"/>
+      <id>{{ site.url }}{{ post.url }}</id>
+      <updated>{{ post.date | date_to_xmlschema }}</updated>
+      <summary>{{ post.excerpt }}</summary>
+    </entry>
+  {% endfor %}
+</feed>

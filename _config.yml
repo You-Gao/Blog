@@ -1,4 +1,4 @@
-name: you's blog
+xml name: you's blog
 title: false
 
 description: >- # this means to ignore newlines until "baseurl:"
@@ -10,12 +10,13 @@ github_username:  You-Gao
 
 author: You Gao
 website: https://www.yougao.dev/
+xml: https://blog.yougao.dev/feed.xml/
 email: mail@yougao.dev
 
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
-
+  - jekyll-feed
 collections:
   books:
     output: true
