@@ -1,7 +1,7 @@
 ---
 categories:       blog
 date:             2025-01-01
-description:  >-
+description: >-
   the commoning of innovation
 lang:             en
 last_modified_at: 2025-01-01

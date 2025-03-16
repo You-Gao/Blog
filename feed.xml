@@ -1,9 +1,9 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="assets/rss.xsl" type="text/xsl"?>
+<?xml-stylesheet href="/assets/rss.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>feed.xml</title>
+  <title>you's blog</title> 
   <link href="{{ site.url }}/feed.xml" rel="self"/>
   <link href="{{ site.url }}"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
@@ -11,23 +11,18 @@
     <name>{{ site.author.name }}</name>
     <email>{{ site.author.email }}</email>
   </author>
-  <entry>
-    <title>Sample Post Title</title>
-    <link href="https://example.com/sample-post"/>
-    <id>https://example.com/sample-post</id>
-    <updated>2025-03-15T12:00:00Z</updated>
-    <summary>This is a sample summary of the post content. It provides a brief overview of what the post is about.</summary>
-  </entry>
+  
   {% assign all_posts = site.books | concat: site.fun | concat: site.life | concat: site.work %}
-  {% assign all_posts = all_posts | sort: 'date' %}  <!-- Sort by date -->
+  {% assign all_posts = all_posts | sort: 'date' %}
+  {% assign all_posts = all_posts | reverse %}
 
   {% for post in all_posts %}
     <entry>
       <title>{{ post.title }}</title>
       <link href="{{ site.url }}{{ post.url }}"/>
       <id>{{ site.url }}{{ post.url }}</id>
-      <updated>{{ post.date | date_to_xmlschema }}</updated>
-      <summary>{{ post.excerpt }}</summary>
+      <updated>{{ post.date }}</updated>
+      <summary>{{ post.description }}</summary>
     </entry>
   {% endfor %}
 

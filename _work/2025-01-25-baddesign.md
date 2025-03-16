@@ -1,7 +1,7 @@
 ---
 categories:       blog
 date:             2025-01-26
-description:  >-
+description: >-
  why you should find joy in dealing with bad design
 lang:             en
 last_modified_at: 2025-01-26

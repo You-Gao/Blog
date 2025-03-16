@@ -33,8 +33,8 @@
   </xsl:template>
 
   <xsl:template match="atom:feed">
-    <h1><xsl:value-of select="atom:title"/>'s Web Feed Preview</h1>
-    <p>This RSS feed provides the latest posts from <xsl:value-of select="atom:title"/>'s blog.
+    <h1><xsl:value-of select="atom:title"/> Feed Preview</h1>
+    <p>This RSS feed provides the latest posts from <xsl:value-of select="atom:title"/>.
 
     <a class="head_link" target="_blank">
       <xsl:attribute name="href">

@@ -1,7 +1,7 @@
 ---
 categories:       blog
 date:             2025-02-25
-description:  >-
+description:  >-
  complex systems
 lang:             en
 last_modified_at: 2025-02-25
