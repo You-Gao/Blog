@@ -9,7 +9,7 @@ layout:           style
 name: >-
  Software Entropy and Silver Bullets
 ---
-# Software Entropy and Silver Bullets
+# Software Entropy 
 
 I wanted to write this blog to define the necessary scope of software entropy and precisely what software entropy captures as a behavior of software. A lot of people learn about this concept throughout college or the workplace, but I feel that there isn't a clear enough distinction. This ends up leading to the common misconception that there really isn't anything to do for software entropy and that by some magic, a software codebase will decay into an incredible mess littered with arcane logic. I want to argue against this and make the distinction on what causes software entropy.
 

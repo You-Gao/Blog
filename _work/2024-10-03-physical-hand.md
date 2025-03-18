@@ -8,6 +8,7 @@ title: >-
 layout:           style
 name: >-
     Adam Smith's Physical Hand 
+comment: back to the gilded ages?
 ---
 
 # Adam Smith's Physical Hand
