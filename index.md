@@ -12,12 +12,36 @@ title: >-
 ---
 
 <div class="row justify-content-center">
-    <div class="col-10" style="max-height: 500px">
-        <img style="margin: auto;display: block; height: 100%;" src="https://picsum.photos/seed/picsum/1000/1000"/>
-    <div>
-    <p class="mt-1 mb-0" style="text-align: center;"> photo #0: nature.jpg </p>
-
+    <div class="col-10" style="max-height: 400px">
+        <img id="set-me" style="margin: auto;display: block; height: 100%;" src=""/>
+    </div>
+    <p class="mt-1 mb-0" style="text-align: center;"></p>
 </div>
+
+<script>
+  async function findDiv() {
+    const url = "{{ site.url }}/photos/" 
+    const response = await fetch(url)
+    const data = await response
+    
+    const html = await data.text()
+    const parser = new DOMParser()
+    const doc = parser.parseFromString(html, 'text/html')
+    const div = doc.getElementById('1')
+    
+    const img = div.getAttribute('data-path')
+    const imgElement = document.getElementById('set-me')
+    imgElement.src = img
+    
+    const name = div.querySelector('a').innerHTML
+    const num = div.getAttribute('data-max')
+    const pString = `Photo #${num}: ${name}`
+    const p = document.querySelector('p')
+    p.innerHTML = pString
+  }
+
+  findDiv()
+</script>
 
 
 
