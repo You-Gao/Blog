@@ -8,8 +8,6 @@ last_modified_at: 2025-03-07
 layout:           post
 tags:
 - Fun
-title: >-
-    Eternal Sunshine of the Spotless Mind
 layout:           style
 name: >-
     Eternal Sunshine of the Spotless Mind
