@@ -3,7 +3,7 @@ I wanted a blog, this is the blog using jekyll and github pages.
 
 ## Frontmatter
 
----
+```
 date: most important, used for sorting when using liquid
 name: used to generate collection link
 comment: used to generate collection comment
@@ -16,9 +16,7 @@ jekyll seo
 title: used to set title otherwise defaults to file name
 description: used to set description of the page
 keywords: used to set keywords in head
-
-
----
+```
 
 ## Installation
 
