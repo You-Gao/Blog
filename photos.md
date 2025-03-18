@@ -1,15 +1,12 @@
 ---
-categories:       blog
-date:             2024-07-14
+date:             2025-03-17
 description:  >-
   working in the world...
-lang:             en
-last_modified_at: 2024-07-14
 layout:           style
 tags:
 title: >-
   work
-permalink: /work/
+permalink: /photos/
 ---
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote">
@@ -22,7 +19,7 @@ permalink: /work/
 
 
 <div class="container-lg" style="padding: 0;">
-    {% assign posts = site.work | reverse %}
+    {% assign posts = site.photos | reverse %}
     {% assign previous_year = "" %}
 
     {% for post in posts %}

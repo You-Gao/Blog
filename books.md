@@ -11,7 +11,6 @@ title: >-
   books
 permalink: /books/
 ---
----
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote">
     <p>The reading of good books is like a conversation with the best minds of past centuries.</p>

@@ -11,11 +11,9 @@ title: >-
   life
 permalink: /life/
 ---
----
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote">
-    <p>Today you are You, that is truer than true. 
-    <br/>There is no one alive who is Youer than You.</p>
+    <p>Today you are You, that is truer than true. There is no one alive who is Youer than You.</p>
     </blockquote>
     <figcaption class="blockquote-footer" style="font-size: 18px;">
     Dr. Seuss, <cite title="Source Title">Happy Birthday to You!</cite>

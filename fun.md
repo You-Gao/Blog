@@ -10,7 +10,6 @@ title: >-
   games
 permalink: /fun/
 ---
----
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote">
     <p> All are temporary worlds within the ordinary world.</p>

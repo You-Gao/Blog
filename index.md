@@ -11,8 +11,6 @@ title: >-
   home
 ---
 
----
-
 <div class="row justify-content-center">
     <div class="col-10" style="max-height: 500px">
         <img style="margin: auto;display: block; height: 100%; object-fit: scale-down" src="https://picsum.photos/seed/picsum/1000/1000"/>
