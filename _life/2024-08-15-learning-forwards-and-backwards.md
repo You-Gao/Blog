@@ -35,7 +35,7 @@ In many high-information systems, learning backward would be the primary way if 
 
 ## Citations
 
-Kolb, David A.. “Experiential Learning: Experience as the Source of Learning and Development.� (1983).
+Kolb, David A.. “Experiential Learning: Experience as the Source of Learning and Development. (1983).
 
 <br/>
 ---

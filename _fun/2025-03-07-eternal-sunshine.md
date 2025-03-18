@@ -2,11 +2,8 @@
 date:             2025-03-07
 description:  >-
   It's a good movie, a character analysis mostly
-layout:           post
-- Fun
 layout:           style
-name: >-
-    Eternal Sunshine of the Spotless Mind
+name: Eternal Sunshine of the Spotless Mind
 ---
 
 # Eternal Sunshine of the Spotless Mind

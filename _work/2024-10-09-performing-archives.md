@@ -28,7 +28,7 @@ Going back to my definition earlier, I wanted to give some clarifying examples o
 
 Taking a look at indigenous oral storytelling, it can be said that their stories contains many archives. Archives of Sky Women, Sweetgrass, and the Land. [^3] Not only that, indigenous modes of being open-up new archives by changing what valid sources of information are: the body, the land, the life.
 
-> "Breathe in its scent and you start to remember things you didn’t know you’d forgotten. Our elders say that ceremonies are the way we “remember to remember,�"
+> "Breathe in its scent and you start to remember things you didn’t know you’d forgotten. Our elders say that ceremonies are the way we “remember to remember""
 
 Mar de Vang's intervention into the state archives is an example of how "materials can conceive for many archives." She demonstrates how state documents were not a neutral archive of Hmong peoples but how the archives had another being as an archive of Hmong violence. Archive(s) shape from the things that are said and not said, found or forgotten, material and immaterial.
 

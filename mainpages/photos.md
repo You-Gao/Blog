@@ -35,7 +35,7 @@ permalink: /photos/
             <p class="mb-0 me-1" style="font-size: 15px; width: 50px;">{{ post.date | date: "%b %d" }}</p>
             <a href="{{ post.url }}">{{ post.name }}</a>
         </div>
-            <p class="mb-0">some review text here...</p>
+            <p class="mb-0">{{ post.comment }}</p>
       </div>
     {% endfor %}
 
