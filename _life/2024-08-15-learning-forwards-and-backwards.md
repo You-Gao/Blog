@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-08-15
 description:  >-
     The ways people learn and relate things.
-lang:             en
-last_modified_at: 2024-08-15
-tags:
-- Life
 title: >-
   Learning Forwards and Backwards
 layout:           style
@@ -40,7 +35,7 @@ In many high-information systems, learning backward would be the primary way if 
 
 ## Citations
 
-Kolb, David A.. “Experiential Learning: Experience as the Source of Learning and Development.” (1983).
+Kolb, David A.. “Experiential Learning: Experience as the Source of Learning and Development.� (1983).
 
 <br/>
 ---

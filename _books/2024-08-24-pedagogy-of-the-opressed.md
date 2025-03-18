@@ -1,11 +1,7 @@
 ---
-categories: blog
 date: 2024-08-24
 description: >-
   What it means to commit yourself to humanism.
-lang: en
-last_modified_at: 2024-08-24
-tags:
   - Book-Review
 title: >-
   Pedagogy of the Oppressed

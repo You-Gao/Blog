@@ -1,13 +1,8 @@
 ---
-categories:       blog
 date:             2024-08-30
 description:  >-
   A reflection on Guilty Gear Strive
-lang:             en
-last_modified_at: 2024-08-30
 layout:           post
-tags:
-- Game-Review
 title: >-
   Guilty Gear Strive
 layout:           style

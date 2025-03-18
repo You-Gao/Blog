@@ -5,9 +5,9 @@ I wanted a blog, this is the blog using jekyll and github pages.
 
 ---
 date: most important, used for sorting when using liquid
-layout: selects the template in _layouts
 name: used to generate collection link
 comment: used to generate collection comment
+layout: selects the template in _layouts
 
 photos
 img_location: used for hover and also for the src. (relative path from url) 

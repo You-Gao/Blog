@@ -1,13 +1,8 @@
 ---
-categories:       blog
 date:             2024-12-28
 description:  >-
     reflecting on my education
-lang:             en
-last_modified_at: 2024-12-28
 layout:           post
-tags:
-- Life
 title: >-
    Future Studies 
 layout:           style

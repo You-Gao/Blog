@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2025-01-01
 description: >-
   the commoning of innovation
-lang:             en
-last_modified_at: 2025-01-01
-tags:
-- Book-Review
 title: >-
   Democratizing Innovation
 layout: style

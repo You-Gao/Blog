@@ -1,13 +1,8 @@
 ---
-categories:       blog
 date:             2024-09-17
 description:  >-
   A reflection on Civ 6
-lang:             en
-last_modified_at: 2024-09-17
 layout:           post
-tags:
-- Game-Review
 title: >-
     Civilization 6
 layout:           style

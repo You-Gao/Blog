@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2025-01-01
 description:  >-
   my special super secret sauce
-lang:             en
-last_modified_at: 2025-01-01
-tags:
-- Life
 title: >-
   How to Find "Good" Business Books
 layout:           style

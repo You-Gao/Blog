@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-07-19
 description:  >-
   A reflection on "What Time is This Place?"
-lang:             en
-last_modified_at: 2024-07-19
-tags:
-- Book-Review
 title: >-
   What Time is This Place?
 layout:           style

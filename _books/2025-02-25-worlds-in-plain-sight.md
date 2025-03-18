@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2025-02-25
 description:  >-
  complex systems
-lang:             en
-last_modified_at: 2025-02-25
-tags:
-- Book-Review
 title: >-
  Worlds Hidden in Plain Sight
 layout: style

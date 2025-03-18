@@ -1,13 +1,8 @@
 ---
-categories:       blog
 date:             2024-07-21
 description:  >-
   Reflections on "A Philosophy of Software Design".
-lang:             en
-last_modified_at: 2024-07-21
 layout:           post
-tags:
-- Work
 title: >-
   A Philosophy of Software Design
 layout:           style

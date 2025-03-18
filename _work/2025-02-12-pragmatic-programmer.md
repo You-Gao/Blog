@@ -1,13 +1,8 @@
 ---
-categories:       blog
 date:             2025-02-12
 description:  >-
    idiosyncratic tips from a battered veteran 
-lang:             en
-last_modified_at: 2025-02-12
 layout:           post
-tags:
-- Work
 title: >-
     Pragmatic Prorammer
 layout:           style

@@ -1,13 +1,8 @@
 ---
-categories:       blog
 date:             2024-10-03
 description:  >-
     Moral bankruptcy in the gilded age.
-lang:             en
-last_modified_at: 2024-10-04
 layout:           post
-tags:
-- Work
 title: >-
     Adam Smith's Physical Hand
 layout:           style
@@ -121,7 +116,7 @@ What do you think of Bill Gates and the Bill Gates Foundation?
 
 ## Citations
 
-Carnegie, Andrew, and Edward C. Kirkland. “The Gospel of Wealth and Other Timely Essays, by Andrew Carnegie.” The Economic History Review, vol. 19, no. 1, Jan. 1966, p. 232. https://doi.org/10.2307/2592833.
+Carnegie, Andrew, and Edward C. Kirkland. “The Gospel of Wealth and Other Timely Essays, by Andrew Carnegie.� The Economic History Review, vol. 19, no. 1, Jan. 1966, p. 232. https://doi.org/10.2307/2592833.
 
 Heilbroner, Robert L. The Worldly Philosophers: The Lives, Times and Ideas of the Great Economic Thinkers. 1999, ci.nii.ac.jp/ncid/BA47266617. 
 

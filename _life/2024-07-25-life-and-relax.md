@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-07-25
 description:  >-
   What I do in my "free-time" or atleast off "work"
-lang:             en
-last_modified_at: 2024-07-25
-tags:
-- Life
 title: >-
   Life and Living
 layout:           style

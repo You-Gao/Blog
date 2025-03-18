@@ -1,13 +1,8 @@
 ---
-categories:       blog
 date:             2024-07-21
 description:  >-
   The recent Crowdstrike incident and insights.
-lang:             en
-last_modified_at: 2024-07-23
 layout:           post
-tags:
-- Work
 title: >-
   How Complex Systems Fail
 layout:           style

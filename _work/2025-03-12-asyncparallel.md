@@ -1,13 +1,8 @@
 ---
-categories:       blog
 date:             2025-03-13
 description:  >-
     my attempt at finally fully understanding these concepts
-lang:             en
-last_modified_at: 2025-03-13
 layout:           post
-tags:
-- Work
 title: >-
     async/parallel
 layout:           style

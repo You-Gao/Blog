@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-08-30
 description:  >-
     Reports from an exhibit I went to.
-lang:             en
-last_modified_at: 2024-08-30
-tags:
-- Life
 title: >-
   The Threat, The        
 layout:           style

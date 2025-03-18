@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-05-21
 description:  >-
   My introduction to investing and markets.
-lang:             en
-last_modified_at: 2024-08-21
-tags:
-- Book-Review
 title: >-
   A Random Walk Down Wall Street
 layout:           style

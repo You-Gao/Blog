@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-09-16
 description:  >-
     Blog for GDS 3010 Midterm
-lang:             en
-last_modified_at: 2024-09-16
-tags:
-- Life
 title: >-
     gentrification, cville, development, uva
 layout:           style
@@ -128,29 +123,29 @@ After reading a bit more on the Berkely situation, I found it funny how the hist
 
 ## Citations
 
-Cameron, Brian. “UVA And the History of Race: Property and Power.” UVA Today, 15 Mar. 2021, news.virginia.edu/content/uva-and-history-race-property-and-power. 
+Cameron, Brian. “UVA And the History of Race: Property and Power.� UVA Today, 15 Mar. 2021, news.virginia.edu/content/uva-and-history-race-property-and-power. 
 
 Charlottesville Archive. www2.iath.virginia.edu/schwartz/archive.html. 
 
 Charlottesville Archive-Texts. www2.iath.virginia.edu/schwartz/texts.html.
 
-DFID. “Growth: Building Jobs and Prosperity in Developing Countries.” 
+DFID. “Growth: Building Jobs and Prosperity in Developing Countries.� 
 
-Ghertner, D. Asher. 2015. “Why Gentrification Theory Fails in ‘Much of the World.’” City 19 (4): 552–63. doi:10.1080/13604813.2015.1051745.
+Ghertner, D. Asher. 2015. “Why Gentrification Theory Fails in ‘Much of the World.’� City 19 (4): 552–63. doi:10.1080/13604813.2015.1051745.
 
-Lipset, Seymour Martin. “Some Social Requisites of Democracy: Economic Development and Political Legitimacy.” American Political Science Review, vol. 53, no. 1, Mar. 1959, pp. 69–105. https://doi.org/10.2307/1951731.
+Lipset, Seymour Martin. “Some Social Requisites of Democracy: Economic Development and Political Legitimacy.� American Political Science Review, vol. 53, no. 1, Mar. 1959, pp. 69–105. https://doi.org/10.2307/1951731.
 
-“The Neo-Liberal University on JSTOR.” www.jstor.org. JSTOR, www.jstor.org/stable/40342886.
+“The Neo-Liberal University on JSTOR.� www.jstor.org. JSTOR, www.jstor.org/stable/40342886.
 
 Progress Timeline: Advancing Our Goals. strategicplan.virginia.edu/vision. 
 
-Rose, D. “Rethinking Gentrification: Beyond the Uneven Development of Marxist Urban Theory.” Environment and Planning D Society and Space, vol. 2, no. 1, Mar. 1984, pp. 47–74. https://doi.org/10.1068/d020047.
+Rose, D. “Rethinking Gentrification: Beyond the Uneven Development of Marxist Urban Theory.� Environment and Planning D Society and Space, vol. 2, no. 1, Mar. 1984, pp. 47–74. https://doi.org/10.1068/d020047.
 
-Roser, Max. “The Short History of Global Living Conditions and Why It Matters That We Know It.” Our World in Data, 19 Mar. 2024, ourworldindata.org/a-history-of-global-living-conditions?linkId=62571595.
+Roser, Max. “The Short History of Global Living Conditions and Why It Matters That We Know It.� Our World in Data, 19 Mar. 2024, ourworldindata.org/a-history-of-global-living-conditions?linkId=62571595.
 
 Sen, Amartya Kumar. Development as Freedom. 1999, ci.nii.ac.jp/ncid/BA43059927. 
 
-Smith, Neil. “Gentrification and the Rent Gap.” Annals of the Association of American Geographers, vol. 77, no. 3, Sept. 1987, pp. 462–65. https://doi.org/10.1111/j.1467-8306.1987.tb00171.x.
+Smith, Neil. “Gentrification and the Rent Gap.� Annals of the Association of American Geographers, vol. 77, no. 3, Sept. 1987, pp. 462–65. https://doi.org/10.1111/j.1467-8306.1987.tb00171.x.
 
 Urban Renewal, Vinegar Hill, 1960, Charlottesville Daily Progress Articles. edu.lva.virginia.gov/dbva/items/show/300.
 

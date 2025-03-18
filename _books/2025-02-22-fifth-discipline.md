@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2025-02-22
 description:  >-
   see the big picture charlie 
-lang:             en
-last_modified_at: 2024-12-28
-tags:
-- Book-Review
 title: >-
   The Fifth Discipline 
 layout: style

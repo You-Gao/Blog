@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-10-26
 description:  >-
   Phenomenological Reasons why Cartesian Dualism is popular
-lang:             en
-last_modified_at: 2024-10-27
-tags:
-- Book-Review
 title: >-
   Absent Body
 layout:           style

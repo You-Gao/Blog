@@ -1,12 +1,8 @@
 ---
-categories:       blog
 date:             2025-03-07
 description:  >-
   It's a good movie, a character analysis mostly
-lang:             en
-last_modified_at: 2025-03-07
 layout:           post
-tags:
 - Fun
 layout:           style
 name: >-

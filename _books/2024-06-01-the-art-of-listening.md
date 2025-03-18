@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-06-01
 description:  >-
   What does it mean to listen?
-lang:             en
-last_modified_at: 2024-09-19
-tags:
-- Book-Review
 title: >-
     The Art of Listening
 layout:           style

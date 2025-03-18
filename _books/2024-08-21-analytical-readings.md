@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-08-21
 description:  >-
   Enough is enough, I will train my logic muscles.
-lang:             en
-last_modified_at: 2024-08-21
-tags:
-- Book-Review
 title: >-
   Analytical Readings
 layout:           style

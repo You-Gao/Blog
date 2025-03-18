@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-05-18
 description:  >-
   From the founder of effective altruism, case studies in ethics.
-lang:             en
-last_modified_at: 2024-08-21
-tags:
-- Book-Review
 title: >-
   Living High and Letting Die
 layout:           style

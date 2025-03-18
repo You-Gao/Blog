@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-10-13
 description:  >-
     What makes a quote good?
-lang:             en
-last_modified_at: 2024-10-13
-tags:
-- Life
 title: >-
     Anatomy of a Quote
 layout:           style

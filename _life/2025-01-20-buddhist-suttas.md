@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2025-01-20
 description:  >-
   wisdom from eastern works
-lang:             en
-last_modified_at: 2025-01-26
-tags:
-- Life
 title: >-
   Buddhist Suttas
 layout:           style

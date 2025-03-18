@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-06-26
 description:  >-
   A phenomenology of sight.
-lang:             en
-last_modified_at: 2024-08-21
-tags:
-- Book-Review
 title: >-
   Ways of Seeing
 layout:           style

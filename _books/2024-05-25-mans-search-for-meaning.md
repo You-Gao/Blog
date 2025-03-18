@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-05-25
 description:  >-
   The psychology and experiences of the human condition.
-lang:             en
-last_modified_at: 2024-08-21
-tags:
-- Book-Review
 title: >-
   Man's Search for Meaning
 layout:           style

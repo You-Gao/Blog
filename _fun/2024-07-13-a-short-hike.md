@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-07-13
 description:  >-
   A reflection on "A Short Hike"
-lang:             en
-last_modified_at: 2024-07-14
-tags:
-- Game-Review
 title: >-
   "A Short Hike"
 layout:           style

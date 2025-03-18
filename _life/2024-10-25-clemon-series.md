@@ -1,13 +1,8 @@
 ---
-categories:       blog
 date:             2024-10-25
 description:  >-
     A commitment I will commit to hopefully.
-lang:             en
-last_modified_at: 2024-10-25
 layout:           post
-tags:
-- Life
 title: >-
     The Clemons Series
 layout:           style

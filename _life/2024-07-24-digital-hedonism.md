@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-07-24
 description:  >-
   Brain-rot, Doom-scrolling, and Skibidi Toilet. The cause of digital hedonism and things to do against it.
-lang:             en
-last_modified_at: 2024-07-24
-tags:
-- Life
 title: >-
   Digital Hedonism
 layout:           style

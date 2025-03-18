@@ -1,13 +1,8 @@
 ---
-categories:       blog
 date:             2024-07-21
 description:  >-
   The question of the 1970s answered today.
-lang:             en
-last_modified_at: 2024-07-21
 layout:           post
-tags:
-- Work
 title: >-
   MMM and DevOps
 layout:           style

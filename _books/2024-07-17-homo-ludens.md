@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-07-17
 description:  >-
   The history of the playing man.
-lang:             en
-last_modified_at: 2024-08-21
-tags:
-- Book-Review
 title: >-
   Homo Ludens
 layout:           style

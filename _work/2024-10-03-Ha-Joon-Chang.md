@@ -1,13 +1,8 @@
 ---
-categories:       blog
 date:             2024-10-03
 description:  >-
     My current role-model in the field of development studies.
-lang:             en
-last_modified_at: 2024-10-03
 layout:           post
-tags:
-- Work
 title: >-
     Ha-Joon Chang 
 layout:           style

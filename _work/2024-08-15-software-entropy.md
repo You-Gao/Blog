@@ -1,13 +1,8 @@
 ---
-categories:       blog
 date:             2024-08-15
 description:  >-
     Understanding what software entropy is.
-lang:             en
-last_modified_at: 2024-08-15
 layout:           post
-tags:
-- Work
 title: >-
  Software Entropy and Silver Bullets
 layout:           style

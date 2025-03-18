@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-09-23
 description:  >-
     Reports from an exhibit I went to.
-lang:             en
-last_modified_at: 2024-09-23
-tags:
-- Life
 title: >-
   Care and Violence: On Architectural Materials, Damage, and Repair        
 layout:           style

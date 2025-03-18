@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-08-15
 description:  >-
     Being out of sync with surroundings/society.
-lang:             en
-last_modified_at: 2024-08-15
-tags:
-- Life
 title: >-
   Environmental Dissonance
 layout:           style
@@ -29,9 +24,9 @@ I wanted to write on the idea of environmental dissonance because I have always 
 
 ## Citations
 
-Holt‐Lunstad, Julianne et al. “Loneliness and Social Isolation as Risk Factors for Mortality.” Perspectives on Psychological Science 10 (2015): 227 - 237.
+Holt�Lunstad, Julianne et al. “Loneliness and Social Isolation as Risk Factors for Mortality.� Perspectives on Psychological Science 10 (2015): 227 - 237.
 
-Touitou, Yvan et al. “Association between light at night, melatonin secretion, sleep deprivation, and the internal clock: Health impacts and mechanisms of circadian disruption.” Life Sciences 173 (2017): 94–106.
+Touitou, Yvan et al. “Association between light at night, melatonin secretion, sleep deprivation, and the internal clock: Health impacts and mechanisms of circadian disruption.� Life Sciences 173 (2017): 94–106.
 
 <br/>
 ---

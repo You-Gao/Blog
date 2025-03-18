@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-08-17
 description:  >-
   Looking at society from the viewpoint of theatre.
-lang:             en
-last_modified_at: 2024-08-17
-tags:
-- Book-Review
 title: >-
   The Presentation of Self in Everyday life
 layout:           style

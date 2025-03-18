@@ -1,12 +1,7 @@
 ---
-categories:       blog
 date:             2024-07-25
 description:  >-
     What your mind is doing when it wanders.
-lang:             en
-last_modified_at: 2024-07-25
-tags:
-- Life
 title: >-
   Mind Wandering
 layout:           style
