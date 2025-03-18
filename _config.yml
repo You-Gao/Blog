@@ -30,6 +30,9 @@ collections:
   work:
     output: true
     permalink: /work/:title/
+  photos:
+    output: true
+    permalink: /photos/:title/
 
 image:
   path: /assets/logo.png
