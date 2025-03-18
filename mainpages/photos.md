@@ -13,7 +13,7 @@ permalink: /photos/
     <p> To collect photographs is to collect the world. </p>
     </blockquote>
     <figcaption class="blockquote-footer" style="font-size: 18px;">
-    Susan Sontag, <cite title="Source Title">How We Think</cite>
+    Susan Sontag, <cite title="Source Title">On Photography</cite>
     </figcaption>
 </figure>
 
