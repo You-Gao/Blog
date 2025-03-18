@@ -8,6 +8,7 @@ title: >-
 layout:           style
 name: >-
     Civilization 6
+comment: time dissapears when playing this
 ---
 
 # Civilization 6

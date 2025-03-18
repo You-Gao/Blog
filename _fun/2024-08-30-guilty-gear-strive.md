@@ -8,6 +8,7 @@ title: >-
 layout:           style
 name: >-
   Guilty Gear Strive
+comment: quit after potemkin kara removal :(
 ---
 
 # **Guilty Gear Strive**

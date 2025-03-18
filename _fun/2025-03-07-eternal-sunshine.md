@@ -4,6 +4,7 @@ description:  >-
   It's a good movie, a character analysis mostly
 layout:           style
 name: Eternal Sunshine of the Spotless Mind
+comment: joel barish is a well written character
 ---
 
 # Eternal Sunshine of the Spotless Mind
@@ -11,7 +12,7 @@ name: Eternal Sunshine of the Spotless Mind
 The film that finally made me revamp this section to include everything that I find fun instead of games. What really drew me into writing about it and thinking I have something, is what I thought to myself in the first minute or two of the movie. Which was: "This Joel person and this Clementine person have met before. I think the plot here is that even after erasure, their internal feelings led them to Montauk Beach, as they were fated lovers". I was right, or at least somewhat correct, which gave me some confidence to keep going down this path. The main things I am writing about for this review are the two main characters, Joel and Clementine.
 
 
-## Joel Barish and His Journal
+## Joel Barish 
 
 Joel Barish is a complicated character to write; truly introspective characters are probably insanely hard to write, but I don't think that was the case for Joel Barish. He, to me, represents the living contradiction of *seemingly* "rational" people. Joel interprets himself through the "I" without realizing it speaks to his self-conception as someone who believes he is objective, when in reality, he is deeply subjective but unaware of it. 
 

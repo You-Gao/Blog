@@ -7,6 +7,7 @@ title: >-
 layout:           style
 name: >-
   A Short Hike
+comment: a well-made game
 ---
 
 # **A Short Hike**
