@@ -32,7 +32,7 @@ This paragraph is a bit of a tangent and can be skipped: Why was there minimal m
     </blockquote>
 </figure>
 
-I added "State of DevOps" to this review because, from the 21st century looking back, the DevOps movement can be contextualized as an attempt to solve the organizational, interpersonal, and technical problems posed by software development. Putting it into perspective, during Brooks' time, there weren't technologies or concepts like Version Control (Git), CI/CD, API Specifications, Agile methodologies, linters, and test environments—though there were some rudimentary equivalents. Software development and system design was only in it's infancy in those days. Now in the 21st century, the DevOps movement continues to address issues related to software engineering teams, architectural decisions, formal specifications, knowledge sharing, testing, uptime, and documentation.
+I added "State of DevOps" to this review because, from the 21st century looking back, the DevOps movement can be contextualized as an attempt to solve the organizational, interpersonal, and technical problems posed by software development. Putting it into perspective, during Brooks' time, there weren't technologies or concepts like Version Control (Git), CI/CD, API Specifications, Agile methodologies, linters, and test environments—though there were some rudimentary equivalents. Software development and system design was only in its infancy in those days. Now, in the 21st century, the DevOps movement continues to address issues related to software engineering teams, architectural decisions, formal specifications, knowledge sharing, testing, uptime, and documentation.
 
 ## Establish a Healthy Culture
 
@@ -111,7 +111,7 @@ Takeaway: If a person has to read all the methods of a repo in depth to understa
 
 Debugging and testing were even worse in the past than they are now. Brooks recounts spending hours setting up and tearing down build test tools for the OS system his team was developing in the 70s. Now, it takes a couple of seconds to run basic tests and maybe minutes to run more comprehensive ones. I went on a bit of a tangent, but it illustrates the increased flexibility and capabilities we have available to us now. Tools like Terraform or CloudFormation would be viewed as arcane magic to these early practitioners, but we have them now and should use them to increase the reliability of states.
 
-Takeaway: New tools are being built everyday to reduce accidental complexity. We should use them 
+Takeaway: New tools are being built every day to reduce accidental complexity. We should use them 
 
 Chapters:
 * CH 12: Sharp Tools

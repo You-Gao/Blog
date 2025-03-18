@@ -17,7 +17,7 @@ In exploring bad design, I will introduce a cast of characters: the engineer, th
 
 ## The Engineer
 
-The caricature of an engineer embodies the position of a realist, more so a naive realist. Objective truths govern the world to them, and these truths can be understood, measured, and applied through methods like engineering principles. There is nothing wrong at face value with this; it is very pragmatic to take this stance as most of the curriculum is about describing the world through mathematical formulas. However, it seems to be an insurmountable challenge to engineers when tasked with the creation of anything which requires value judgments.
+The caricature of an engineer embodies the position of a realist, more so a naive realist. Objective truths govern the world to them, and these truths can be understood, measured, and applied through methods like engineering principles. There is nothing wrong at face value with this; it is very pragmatic to take this stance as most of the curriculum is about describing the world through mathematical formulas. However, it seems to be an insurmountable challenge to engineers when tasked with the creation of anything that requires value judgments.
 
 To quote Steve Jobs:
 > "It's technology married with the liberal arts, married with the humanities, that yields the results that make our hearts sing."
