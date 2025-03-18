@@ -79,8 +79,12 @@ I get how people might be confused about me putting social interaction and narra
 
 With all that being said, Guilty Gear is a game that is fun for me, and I recognize when it is not fun, either. It's not fun when I am not playing for play purposes; instead, I am playing to win. Should you play Guilty Gear? Yes, if you have nothing better to do. It's a pretty great leisure time activity and better than a lot of other alternatives that take up a lot of time. A match is pretty quick, like 5 minutes max, to complete one.
 
-On another point, Guilty Gear made me reflect on the point of playing games. Often, it can lend itself to this individualistic point of winning above all else; this is a very bland way of understanding games, in my opinion. Fighting games are very different from the conception of winning in relation to something like chess. It provides a layer to the turn-based interaction and provides a stronger argument for the social nature of games. As chess has been solved via game theory and algorithms, fighting games, to an extent, haven't. The explanation for that is essentially the social aspect and complexities of this multivariable-multidimensional social calculus happening in the backdrop of a game.
+On another point, Guilty Gear made me reflect on the point of playing games. Often, it can lend itself to this individualistic point of winning above all else; this is a very bland way of understanding games, in my opinion. Fighting games are very different from the conception of winning in relation to something like chess. It provides a layer to the turn-based interaction and provides a stronger argument for the social nature of games. As chess has been solved via game theory and algorithms, fighting games, to an extent, haven't. The explanation for that could be the social aspect and complexities of this multivariable-multidimensional social calculus happening in the backdrop of a game[^1].
 
 <br/><br/>
 
 If you want to play the game: [https://www.guiltygear.com/ggst/en/](https://www.guiltygear.com/ggst/en/)
+
+<br/>
+---
+[^1]: This point only makes sense when you have experienced being hard-read 3 times in a row.

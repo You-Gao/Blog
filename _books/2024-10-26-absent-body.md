@@ -7,6 +7,7 @@ title: >-
 layout:           style
 name: >-
   Absent Body
+comment: https://www.youtube.com/watch?v=3BGvR4P4d40
 ---
 
 # Absent Body
@@ -15,7 +16,7 @@ name: >-
 
 What drew me to this book was the title. It was a simple title, it had an aesthetic to it, that of simplicity. I thought to myself: "The book is going to talk about embodied experience and against Descartes's *cogito ergo sum*." Because, in the 2020s, it is evident that we know what it means to be disembodied subjects. The sheer amount of caffeine humanity consumes and the rise of intentional "biohacking" to excavate every last drop of physic energy makes clear our experience in doing so.
 
-Drew Leder writes about this cultural moment, providing mainly insight with some critique of Cartesian dualism. He applies the phenomenological method to show why ontologically committing to Cartesian dualism makes "sense" for modern man while highlighting what is lost in the process. To do so, he pulls from key phenomenologists like Straus, Merleau-Ponty, Sartre, and, most interestingly, his training as a medical doctor to speak on and explore the body.[^1] The sum effect provides lucid, practical insights while beguiling the reader to reconsider the knowledge hierarchy of mind/body, brain/viscera.
+Drew Leder writes about this cultural moment, providing mainly insight with some critique of Cartesian dualism. He applies the phenomenological method to show why ontologically committing to Cartesian dualism makes "sense" for modern man while highlighting what is lost in the process[^5]. To do so, he pulls from key phenomenologists like Straus, Merleau-Ponty, Sartre, and, most interestingly, his training as a medical doctor to speak on and explore the body.[^1] The sum effect provides lucid, practical insights while beguiling the reader to reconsider the knowledge hierarchy of mind/body, brain/viscera.
 
 ## The Ecstatic Body
 
@@ -60,3 +61,4 @@ The body only appears to the mind when it dysfunctions. The end.
 [^2]: An interesting thing Polanyi's extrapolates is to say scientific knowledge "know-that" is also understood in relation to the tacit.
 [^3]: A logical positivist would hate neural networks.
 [^4]: There can be shared analysis, but it has to be subject first.
+[^5]: The phrase: "the absence of evidence is not the evidence of non-absence" applies here.

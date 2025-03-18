@@ -7,6 +7,7 @@ title: >-
 layout:           style
 name: >-
   Homo Ludens
+comment: not a book about video games
 ---
 
 

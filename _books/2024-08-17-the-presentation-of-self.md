@@ -17,13 +17,13 @@ name: >-
     </blockquote>
 </figure>
 
-A book that gives a theory and a perspective to look at the social world with. Given and acknowledging the problem of other minds, Goffman sets out to functionalize the ways the social self performs itself to others. In doing so, sociology receives the fun tool of dramaturgical analysis as a means to analyze social actors. 
+A book that gives a theory and a perspective to look at the social world with. Given and acknowledging the problem of other minds, Goffman sets out to functionalize the ways the social self performs itself to others. In doing so, sociology receives the tool of dramaturgical analysis as a means to analyze social actors[^1]. 
 
-The question I had and for other books related that speak upon the social self is simply: Why is there a need for performance?[^1] Language is a social technology used for communication and I can see how that may lend itself into being normative, but is there really any function in being reductive about the identities a person can take on? 
+The question I had for the book is simply: Why is there a need for performance?[^1] Language is a social technology used for communication and I can see how that may lend itself into being normative, but is there really any function in being reductive about the identities a person can take on? 
 
 ## Performance
 
-The idea of performance drawn out in this book is fairly simple. Playing the role that is socially expected of you whether that be the role of a professional role, gender, or student. These categories have well and specific expectations in actions and behaviors with it's medium being us humans. What philosophers and sociologists gain in analyzing performance is to draw out then these modes of being. This is the underlying idea of symbolic interactionism. 
+The idea of performance drawn out in this book is fairly simple. Playing the role that is socially expected of you whether that be the role of a professional, gender, or student. These categories have well and specific expectations in actions and behaviors with it's medium being us humans. What philosophers and sociologists gain in analyzing performance is to draw out then these modes of being. This is the underlying idea of symbolic interactionism. 
 
 ## Front and Backstage
 
@@ -57,3 +57,4 @@ Dolezal, L. (2012). Reconsidering the look in Sartre’s: Being and Nothingness.
 ---
 [^1]: I took it a class it answered some parts of this question.
 [^2]: Found a paper that covered these exact thoughts I had, but in more faithful depth to both positions. in citations.
+[^3]: Is this why people analyze wars as theaters?
