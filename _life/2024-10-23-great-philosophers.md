@@ -20,7 +20,7 @@ From Wikipedia, the Great Man Theory:
 > 
 > 1. Every great leader is born already possessing certain traits that will enable them to rise and lead on instinct.
 > 
-> 2. The need for them has to be great for these traits to then arise, allowing them to lead.
+> 2. The need for them has to be great for these traits to arise then, allowing them to lead.
 > 
 > This theory, and history, claims these great leaders as heroes that were able to rise against the odds to defeat rivals while inspiring followers along the way. Theorists say that these leaders were then born with a specific set of traits and attributes that make them ideal candidates for leadership and roles of authority and power. This theory relies then heavily on born rather than made, nature rather than nurture and cultivates the idea that those in power deserve to lead and shouldn't be questioned because they have the unique traits that make them suited for the position.
 
@@ -37,7 +37,7 @@ At the core of the quote is that when you encounter the ideas from a forgone tim
 
 This insight is the merit I see in poststructuralism. It allows translations from the past, specifically for these "great thinkers," to provide insight into the current world and generate more relevant theories. The breaks in clarity and understanding of these thinkers are not just you failing to understand what they said[^3]. The break itself opens up space to renegotiate meaning within the contemporary fabric. And to that, I say I cheers! Better to be "dumb" than an ideologue.
 
-*Editors Note: The reason I failed to grapple with this idea is because of my constant use of the word great. Think on this yourself. There is this sort of subtle/subversive linguistic object preference when we use the word great. Great usually denotes or qualifies for a singular noun. Which is directly orthogonal for the point I was trying to make in this blog. That is, what is great is actually the plurality of people behind the thinker.*
+*Editors Note: The reason I failed to grapple with this idea is because of my constant use of the word great. Think on this yourself. There is this sort of subtle/subversive linguistic object preference when we use the word great. Great usually denotes or qualifies for a singular noun. Which is directly orthogonal to the point I was trying to make in this blog. That is, what is great is actually the plurality of people behind the thinker.*
 
 I leave this section off with a quote from a rugby player:
 > These days people seek knowledge, not wisdom.
@@ -46,8 +46,8 @@ I leave this section off with a quote from a rugby player:
 
 The quiz was the catalyst for this post. It made me think back and connect these thoughts.
 
-Again from the book:
-> "As we’ve already suggested, this question of how someone who authors becomes an author (or how “author� changes from a verb to a noun) is intimately tied to the question of canonicity, which involves the list of accepted “great� works that are deemed worthy of continued scholarly attention. To be an author in the canonical sense is to be invested literally with author/ity, to be taken seriously and even revered for your accomplishments. Canonicity not only establishes “authority� through the designation of “genius� or “greatness,� it also establishes a particular relationship to authority, one based on honor and reverence as opposed to critical questioning and challenge."
+Again, from the book:
+> "As we’ve already suggested, this question of how someone who authors become an author (or how “author� changes from a verb to a noun) is intimately tied to the question of canonicity, which involves the list of accepted “great" works that are deemed worthy of continued scholarly attention. To be an author in the canonical sense is to be invested literally with author/ity, to be taken seriously and even revered for your accomplishments. Canonicity not only establishes “authority" through the designation of “genius" or “greatness", it also establishes a particular relationship to authority, one based on honor and reverence as opposed to critical questioning and challenge."
 
 What it means to be a "great" philosopher on the list is something heavily in contention. A question I asked myself throughout the entirety of the quiz was just why is this person considered "great"? From the above discussion, their ideas apparently have been seen to stand "the test of time," but I don't think that is it either. The reason some are there is seemingly as a mascot for the culture and social forces of the time. 
 
