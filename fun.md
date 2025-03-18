@@ -10,9 +10,7 @@ title: >-
   games
 permalink: /fun/
 ---
-
-<h1>Fun Stuff</h1>
-
+---
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote">
     <p> All are temporary worlds within the ordinary world.</p>
@@ -24,52 +22,24 @@ permalink: /fun/
 
 
 <div class="container-lg" style="padding: 0;">
-{% assign previousYear = '' %}
-{% assign previousMonth = '' %}
-{% assign sorted = site.fun | reverse %}
-{% for post in sorted %}
-  {% assign currentYear = post.date | date: '%Y' %}
-  {% assign currentMonth = post.date | date: '%B' %}
+    {% assign posts = site.fun | reverse %}
+    {% assign previous_year = "" %}
 
-  {% if previousYear != currentYear and previousYear != ''  %}
-    {% if previousMonth != '' %}
-      </ul>
-      </div>
+    {% for post in posts %}
+      {% assign current_year = post.date | date: "%Y" %}
+      
+      {% if current_year != previous_year %}
+        <h2>{{ current_year }}</h2>
+        {% assign previous_year = current_year %}
       {% endif %}
-    </div>
-    {% assign previousYear = currentYear %}
-    {% assign previousMonth = '' %}
-    <h2>{{ currentYear }}</h2>
-    <div class="row">
-  {% elsif previousYear != currentYear and previousYear == '' %}
-    {% assign previousYear = currentYear %}
-    {% assign previousMonth = '' %}
-    <h2 class="my-0">{{ currentYear }}</h2>
-    <div class="row">
-  {% endif %}
-  
-  {% if previousMonth != currentMonth and previousMonth != '' %}
-    </ul>
-    </div>
-    {% assign previousMonth = currentMonth %}
-    <div class="col-12 col-md-4">
-    <h3 class="my-2">{{ currentMonth }}:</h3>
-    <ul style="list-style-type: '- ';">
-    
-  {% elsif previousMonth != currentMonth and previousMonth == '' %}
-    {% assign previousMonth = currentMonth %}
-    <div class="col-12 col-md-4">
-    <h3 class="my-2">{{ currentMonth }}:</h3>
-    <ul style="list-style-type: '- ';">
-  {% endif %}
-  
-  <li><a href="{{ post.url | prepend: site.baseurl }}" style="font-size: 20px">{{ post.name }}</a></li>
-  {% if forloop.last %}
-    {% if previousMonth != '' %}
-    </ul>
-    </div>
-    </div> <!-- Close the last column -->
-    {% endif %}
-  {% endif %}
-{% endfor %}
+
+      <div class="d-flex justify-content-between">
+        <div class="d-flex align-items-center">
+            <p class="mb-0 me-1" style="font-size: 15px; width: 50px;">{{ post.date | date: "%b %d" }}</p>
+            <a href="{{ post.url }}">{{ post.name }}</a>
+        </div>
+            <p class="mb-0">some review text here...</p>
+      </div>
+    {% endfor %}
+
 </div>
