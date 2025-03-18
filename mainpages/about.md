@@ -17,12 +17,12 @@ permalink: /about/
 <div class="container-fluid" style="text-align: left;">
   <div class="row">
     <div class="col-sm-7" style="text-align: left;  margin-left: 0;">
-    <h2 style="margin-left: -10px; margin-top: 0px;"> potentially relevant information: </h2>
-    <ul>
+    <h2 id="info" style="margin-left: -10px; margin-top: 0px;"> potentially relevant information: </h2>
+    <ul id="info-list" style="list-style: lower-alpha">
     <li>i like to code and dawdle about. </li>
-    <li>i enjoy games, books, and living. </li>
     <li>getting my piece of paper in a year. </li>
-    <li>pretty big music and food guy as well. </li>
+    <li>i enjoy games, books, and living. </li>
+    <li>big music and food guy as well. </li>
     <li>more info on my <a href="https://yougao.dev/" target="_blank">main site.</a></li>
     </ul>
     </div>

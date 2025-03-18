@@ -21,12 +21,17 @@ Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for
 
 ## Player Mechanics:
 
-- **Moves:** Attack inputs are punch, kick, slash, heavy slash, and duster.
-- **Specials:** Inputs can be stringed together with movement keys to execute special moves.
-- **Supers:** Super special moves that require meter to use.
-- **Duster:** A high-risk input that launches the opponent for an air combo.
-- **RC (Roman Cancel):** Allows you to use meter to cancel a move, extend a combo, or slow the game down.
-- **Burst Cancel:** A "get off me" button that resets the game state to neutral.
+**Moves:** Attack inputs are punch, kick, slash, heavy slash, and duster.
+
+**Specials:** Inputs can be stringed together with movement keys to execute special moves.
+
+**Supers:** Super special moves that require meter to use.
+
+**Duster:** A high-risk input that launches the opponent for an air combo.
+
+**RC (Roman Cancel):** Allows you to use meter to cancel a move, extend a combo, or slow the game down.
+
+**Burst Cancel:** A "get off me" button that resets the game state to neutral.
 
 <div class="video-grid" style="margin-left: 10px  !important;">
 
@@ -49,23 +54,23 @@ Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for
 
 ## Game Mechanics:
 
-- **Matches -** Every match is a first to 2, where you need to reduce the life bar of the opponent to 0 twice to win. The only interesting portion of how this is set up and impacts a match is that the burst gauge carriers over between rounds, so if you used the burst, it might still be on cooldown the next round. For me, it functions as a reminder to be wary about the resources that I have and how I should utilize them to win not only the round but the match as well.
+**Matches -** Every match is a first to 2, where you need to reduce the life bar of the opponent to 0 twice to win. The only interesting portion of how this is set up and impacts a match is that the burst gauge carriers over between rounds, so if you used the burst, it might still be on cooldown the next round. For me, it functions as a reminder to be wary about the resources that I have and how I should utilize them to win not only the round but the match as well.
 
-- **Meter** **-** Each attack and move adds to the bar throughout the fight. It allows the player to execute supers and Roman cancels, which can be used in different ways to extend combos, deal more damage, mix-ups, and more. The meter bar, in a way, incentivizes interaction and is carefully used to balance the ways a player can gain an advantage or reset to neutral.
+**Meter** **-** Each attack and move adds to the bar throughout the fight. It allows the player to execute supers and Roman cancels, which can be used in different ways to extend combos, deal more damage, mix-ups, and more. The meter bar, in a way, incentivizes interaction and is carefully used to balance the ways a player can gain an advantage or reset to neutral.
 
-- **Wall Breaks -** Although not directly unique to Guilty Gear, the wall break mechanic adds a new layer of interaction when the opponent is in a corner. The only other popular fighting game that has this is Tekken? The mechanic adds something fresh to the traditional game of getting the opponent into the corner and performing mix-ups. Instead, the goal is to break the wall for extra damage in a combo and gain a meter bonus.
+**Wall Breaks -** Although not directly unique to Guilty Gear, the wall break mechanic adds a new layer of interaction when the opponent is in a corner. The only other popular fighting game that has this is Tekken? The mechanic adds something fresh to the traditional game of getting the opponent into the corner and performing mix-ups. Instead, the goal is to break the wall for extra damage in a combo and gain a meter bonus.
 
-- **Characters -** The cast of the game boasts a pretty diverse and comprehensive set of characters. In the fighting game genre, these character archetypes have been sort of "solved" in a sense for the game plan of the character: grappler, zoner, shoto, pixie, etc. But, it is also essential to recognize how it's not directly linear in a game plan, and, depending on match-ups, that would change. On top of this archetypal difference, each character has a unique set of tools, combo routes, and interactions that, when managed efficiently, give rise to a pretty deep expression of the player.
+**Characters -** The cast of the game boasts a pretty diverse and comprehensive set of characters. In the fighting game genre, these character archetypes have been sort of "solved" in a sense for the game plan of the character: grappler, zoner, shoto, pixie, etc. But, it is also essential to recognize how it's not directly linear in a game plan, and, depending on match-ups, that would change. On top of this archetypal difference, each character has a unique set of tools, combo routes, and interactions that, when managed efficiently, give rise to a pretty deep expression of the player.
 
 ## Themes and Player Experience:
 
-- **Social Interaction:** The reason I play Guilty Gear Strive is the social aspect. Going against another "real" player (until AI gets too advanced) makes me actually take the game seriously. It's serious insofar as we both sort of take on these characters' agencies and openly play. It’s not just about winning or losing; it’s about the encounter itself, the back-and-forth of skill, mind games, and adaptation.
+**Social Interaction:** The reason I play Guilty Gear Strive is the social aspect. Going against another "real" player (until AI gets too advanced) makes me actually take the game seriously. It's serious insofar as we both sort of take on these characters' agencies and openly play. It’s not just about winning or losing; it’s about the encounter itself, the back-and-forth of skill, mind games, and adaptation.
 
-- **Narrative:** Building on that point. For people that you go against online, especially after you hit Celestial floor, because you don't know specifically who the person you are against, there is this historical narrative of the other player. Over time, you create stories of triumph, defeat, and growth, as such because playstyles evolve even in the span of a match.
+**Narrative:** Building on that point. For people that you go against online, especially after you hit Celestial floor, because you don't know specifically who the person you are against, there is this historical narrative of the other player. Over time, you create stories of triumph, defeat, and growth, as such because playstyles evolve even in the span of a match.
 
-- **Competition:** In the end, though, there is that Suitsian aspect of the game where, in each match, there has to be a winner. Unconsciously and even consciously, there is that joy of winning; I just think when the unconscious resolve of winning takes over (* the more neurophysiological and psychological aspects), then the competition has been perverted.
+**Competition:** In the end, though, there is that Suitsian aspect of the game where, in each match, there has to be a winner. Unconsciously and even consciously, there is that joy of winning; I just think when the unconscious resolve of winning takes over (* the more neurophysiological and psychological aspects), then the competition has been perverted.
 
-- **Expression:** Each character lends itself to have skill and character expression. What is your playstyle, how does that playstyle change, how do you adapt, and etc. produces the dimension of expression through not only skill, but also personality.  
+**Expression:** Each character lends itself to have skill and character expression. What is your playstyle, how does that playstyle change, how do you adapt, and etc. produces the dimension of expression through not only skill, but also personality.  
 
 
 I get how people might be confused about me putting social interaction and narrative here. The idea is there are two ways people can go about playing games: The individualistic subject that plays to win or the community subject that plays to connect. After reflecting on games, I feel like they have so much more power as a connective medium than the former relation. While the thrill of competition is undeniable, the moments where I’ve deeply enjoyed the game is with others—whether through friendly banter, exchanging tips, or even just mutual respect after a hard-fought match.

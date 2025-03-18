@@ -113,8 +113,11 @@
         margin: auto;
         width: 100%;
         }
-    
 
+    #player-mechanics p {
+        margin-bottom: 0 !important;
+        }
+    
     /* Header and Footer */
     .nav-item {
         vertical-align: bottom;
@@ -181,12 +184,24 @@
         figcaption {
             margin-top: 10px !important;
         }
+        /* some random css */
         #navbar {
             margin-top: 0 !important;
         }
         .comment {
             display: none !important;
         }
+        hr {
+            margin-bottom: 0 !important;
+        }
+        #info {
+           display : none;
+        }
+        #info-list {
+            padding-left: .3em;
+        }
+
+
     }
 
     .cards:hover{
@@ -209,7 +224,7 @@
     font-size: 18px !important; /* Forcefully override */
     }
 
-</style>
+    </style>
 
 <body class="Site">
 {% include header.html %}
