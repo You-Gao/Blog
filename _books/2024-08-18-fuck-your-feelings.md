@@ -7,6 +7,7 @@ title: >-
 layout:           style
 name: >-
   F*ck Your Feelings
+comment: common grindset book
 ---
 
 # F*ck Your Feelings

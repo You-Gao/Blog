@@ -12,13 +12,13 @@ name: >-
 
 # Climate Archives and Performance
 
-I want to explore the archive of climate data and excavate its other names through film performances. I say excavate because performance allows you to reveal the different names of an archive by providing different vantage points. Depending on how you look at a collection of climate, the material data can conceive a plurality of archives. An ecological economist could see it as an archive of market failures, an environmental scientist could see it as an archive of the earth's climate, or a tin-foilist could see it as an archive of state lies. 
+I want to explore the archive of climate data and excavate its other names through film performances. I say excavate because performance allows you to reveal the different names of an archive by providing different vantage points. Depending on how you look at a climate collection, the material data can conceive a plurality of archives. An ecological economist could see it as an archive of market failures, an environmental scientist could see it as an archive of the earEarth'simate, or a tin-foilist could see it as an archive of state lies. 
 
-By theorizing about archives that way, I argue that performance then is a form of pedagogy. The performance gives the performer's viewpoint of the archive, which is achieved through materiality and how it invokes the memories of the archive. In my case, the film allows me to grapple with the archive's conception as just data and modify its name to be an archive of pressing problems. Given a time where the public sees data through a very static and empirical lens, it is important to show that climate data, in extension climate archives, are not simply the measurements of precision sensors but also deeply implicated in the political, the social, and the economic.
+By theorizing about archives that way, I argue that performance then is a form of pedagogy. The performance gives the performer's viewpoint of the archive, which is achieved through materiality and how it invokes the memories of the archive. In my case, the film allows me to grapple with the archive's conception as just data and modify its name to be an archive of pressing problems. Given a time where the public sees data through a very static and empirical lens, it is important to show that climate data, in extension climate archives, are not simply the measurements of precision sensors but also deeply implicated in the political, social, and economic.
 
 ## Performing Archives
 
-The most abstract but still functional definition of archives is any "concept" with a "history" in relation to material(s). That is, the fundamental pieces that make an archive are a memory function and a historical function, with material as its conduit whether it be practices, actions, or objects. [^6][^7] For example, the Ginkgo tree near the Chapel is a part of an archive of place. Whether that be UVA, Charlottesville, or the USA, the Ginkgo tree is a part of each archives of place. In my definition, I say materials and not bodies because, to me, an archive encapsulates a collection of usually extracted, externalized knowledge. Going back to Diana Taylor, she also wrote:[^1] 
+The most abstract but still functional definition of archives is any "concept" with a "history" in relation to material(s). That is, the fundamental pieces that make an archive are a memory function and a historical function, with material as its conduit, whether it be practices, actions, or objects. [^6][^7] For example, the Ginkgo tree near the Chapel is a part of an archive of place. Whether that be UVA, Charlottesville, or the USA, the Ginkgo tree is a part of each archives of place. In my definition, I say materials and not bodies because, to me, an archive encapsulates a collection of usually extracted, externalized knowledge. Going back to Diana Taylor, she also wrote:[^1] 
 
 > "The fact that archival memory succeeds in separating the source of ‘‘knowledge’’ from the knower—in time and/or space —leads to comments, such as de Certeau’s, that it is ‘‘expansionist’’ and ‘‘immunized against alterity’'"
 
@@ -26,7 +26,7 @@ The strongest implication from the definition is that there is a normalizing for
 
 Going back to my definition earlier, I wanted to give some clarifying examples of what I mean by: "any concept with a history." What that means is an archive is always an archive of something. And to reiterate another point: "Materials can conceive for many archives." For instance, archives can be related to collections of documents, artifacts, stories, or memories. But when considering what can be archived, even the concept of a nation, a community, or an event can be legitimately considered.[^2] However, not all concepts get memorialized, and not all materials are archived. 
 
-Taking a look at indigenous oral storytelling, it can be said that their stories contains many archives. Archives of Sky Women, Sweetgrass, and the Land. [^3] Not only that, indigenous modes of being open-up new archives by changing what valid sources of information are: the body, the land, the life.
+Taking a look at indigenous oral storytelling, it can be said that their stories contain many archives. Archives of Sky Women, Sweetgrass, and the Land. [^3] Not only that, Indigenous modes of being open up new archives by changing what valid sources of information are: the body, the land, the life.
 
 > "Breathe in its scent and you start to remember things you didn’t know you’d forgotten. Our elders say that ceremonies are the way we “remember to remember""
 
@@ -44,7 +44,7 @@ Film as a method works, providing additional information that contextualizes the
 
 ## Climate Discourse Needs Fresh Eyes 
 
-I chose NOAA and EM-DAT Climate Archives as it seems the world is once again coming to critical mass on the topic of climate change. The problem is the old narratives have not succeeded or "feasibly" brought us to a world where the climate isn't a looming problem. Narratives from green economists, scientific researchers, and most importantly, politicians; have not actually changed the way we relate to the climate.  Even though I have gone to an environmental governor school, I still roll my eyes when I see the CO2 chart, not to the data but to the political-economic discourse faced in the light of its implications. To counter such apathy, I look towards ecological film in particular, as it has the power to show something raw; bare nature is something that can't be refuted. Also, what time is better to do this work than now? The Sahara has been flooded. Mathematically improbable hurricanes are commonplace, and day after day during Summer, the Earth experiences record-breaking temperatures. If not now, when?
+I chose NOAA and EM-DAT Climate Archives as it seems the world is once again coming to critical mass on the topic of climate change. The problem is the old narratives have not succeeded or "feasibly" brought us to a world where the climate isn't a looming problem. Narratives from green economists, scientific researchers, and, most importantly, politicians have not actually changed the way we relate to the climate.  Even though I have gone to an environmental governor school, I still roll my eyes when I see the CO2 chart, not to the data but to the political-economic discourse faced in the light of its implications. To counter such apathy, I look towards ecological film in particular, as it has the power to show something raw; bare nature is something that can't be refuted. Also, what time is better to do this work than now? The Sahara has been flooded. Mathematically improbable hurricanes are commonplace, and day after day during Summer, the EarEarthperiences record-breaking temperatures. If not now, when?
 
 ## Conclusion/Justification
 
@@ -60,7 +60,7 @@ So, here is the short film experience I created:
 
 > This does not have to be graded
 
-One of the most important things I do whenever working with information is to ensure I am honest about what I'm displaying. I think back to a class I took at the School of Architecture: SARC 5400 - Data Visualization, particularly Tufte's principles of information integrity.[^5] The first five are about causality, relationships, multivariate ness, evidence, and what the question is. These principles can be mapped to doing information work in films, like considering what are the thematic objects, their relations, and the layered narratives, but the most vital element for me was documenting each clip. Going in and doing research to learn about the aftermath, not only what it was as a singular data point, helped ground the work.
+One of the most important things I do whenever working with information is to ensure I am honest about what I'm displaying. I think back to a class I took at the School of Architecture: SARC 5400 - Data Visualization, particularly Tufte's principles of information integrity.[^5] The first five are about causality, relationships, multivariate ness, evidence, and what the question is. These principles can be mapped to doing information work in films, like considering what the thematic objects, their relations, and the layered narratives are, but the most vital element for me was documenting each clip. Going in and doing research to learn about the aftermath, not only what it was as a singular data point, helped ground the work.
 
 I had to learn Davinci Resolve, but using the tools to create the video was easier than I thought it would have been.
 
@@ -72,11 +72,11 @@ The hardest thing I am currently facing in finishing the short film is the probl
 
 > I should probably write a blog for this and just link it.
 
-I treat ChatGPT as a more convenient Google search, but you always have to be skeptical of what it gives. Given the underlying stuff that constitutes AI and its current boundary of being unable to generate anything novel, I find it odd how people justify using it to produce for them. The reality is probably that I don't care about this task to do it. In a way, it makes sense, you could just throw in whatever you got from a Google search. In the coding context, that means skipping writing "boilerplate" code, which is valid, but educationally, just seems like a form of indifference. Also, it's plagiarism. Imagine training an AI on one blog post.
+I treat ChatGPT as a more convenient Google search, but you always have to be skeptical of what it gives. Given the underlying stuff that constitutes AI and its current boundary of being unable to generate anything novel, I find it odd how people justify using it to produce for them. The reality is probably that I don't care about this task to do it. In a way, it makes sense; you could just throw in whatever you got from a Google search. In the coding context, that means skipping writing "boilerplate" code, which is valid, but educationally, just seems like a form of indifference. Also, it's plagiarism. Imagine training an AI on one blog post.
 
 My workflow for thinking of new ideas usually follows this pattern:
 1. new idea!
-2. hey chatgpt, let's discuss this idea.
+2. hey, chatgpt, let's discuss this idea.
 3. semantic scholar to find current papers.
 4. reflect on the idea.
 5. synthesize or draw relations.
@@ -85,9 +85,9 @@ Before GPT, Step 2 was Google, but I found the point of GPT's ability to have se
 
 > There is a large category of facts in the world that are difficult to find, but easy to verify once you've found them.
 
-I mainly used it to do archival "research", like asking it extreme weather events before 1900. Post 1900 I had the EM-DAT to pull from and write scripts on. Even then I fact checked against https://premium.weatherweb.net/weather-in-history-1800-to-1849-ad/ which is a site that has human resources backing it.
+I mainly used it to do archival "research", like asking about extreme weather events before 1900. Post 1900, I had the EM-DAT to pull from and write scripts on. Even then, I fact-checked against https://premium.weatherweb.net/weather-in-history-1800-to-1849-ad/, which is a site that has human resources backing it.
 
-Other than that I did ask it some random questions I had on linguistics and repeat back the core concepts of my writing. I like making it summarize what I wrote because it acts as sort of a mirror.
+Other than that, I did ask it some random questions I had on linguistics and repeat back the core concepts of my writing. I like making it summarize what I wrote because it acts as sort of a mirror.
 
 ## Citations
 

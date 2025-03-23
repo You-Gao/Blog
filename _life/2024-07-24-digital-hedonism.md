@@ -7,6 +7,7 @@ title: >-
 layout:           style
 name: >-
   Digital Hedonism
+comment: my first post, wow its bad
 ---
 
 # Digital Hedonism

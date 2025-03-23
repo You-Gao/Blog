@@ -7,6 +7,7 @@ title: >-
 layout:           style
 name: >-  
     Anatomy of a Quote
+comment: anatomy of a ____ reference
 ---
 
 

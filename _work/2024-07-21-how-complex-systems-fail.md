@@ -8,6 +8,7 @@ title: >-
 layout:           style
 name: >-
   How Complex Systems Fail and Crowdstrike
+comment: it was regex in the kernel???
 ---
 
 # [How Complex Systems Fail](https://how.complexsystems.fail/)

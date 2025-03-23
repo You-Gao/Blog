@@ -14,7 +14,7 @@ name: >-
 
 The city of Charlottesville can be considered gentrified. But what does the term gentrified even mean at this point? We all hear it being thrown around as a pejorative against the historical and ongoing development of a place. The evocation of gentrification, or any pejorative really, usually comes with an ethical judgment and epistemic closure. Subsequently, we (or at least I) fail to trace out the viewpoints of the developers by casting them as essentially evil, but also, on the flip side, fail to understand the deep ways in which development affects the existing people.[^1][^2]
 
-Before going any further, this post was made for a midterm assignment for one of my classes. **However**, the goal of this post is for me to critically assess the histories and ongoing stories of development in Charlottesville. This blog post serves to help me address questions I have about the place I'm earning my degree and the institution's position within everything.
+Before going any further, this post was made for a midterm assignment for one of my classes. **However**, the goal of this post is for me to critically assess the histories and ongoing stories of development in Charlottesville. This blog post serves to help me address questions I have about the place where I'm earning my degree and the institution's position within everything.
 
 The questions I will go on to address in this blog are as follows:
 
@@ -25,7 +25,7 @@ The questions I will go on to address in this blog are as follows:
 
 Vinegar Hill is **the case** of inequitable development. It makes clear what I felt unease about when looking into the debate around gentrification: Who controls development? Who benefits from development? It is not just development as an overloaded term, but also taking a look at how politics plays out and the bodies that experience it.
 
-I want to start with what Vinegar Hill has been like in the 21st century. Taking a look down from the intersection connecting downtown, you can see a Staples, the Omni Hotel, and a U.S. Federal Building. Should this be called a success? The Omni does bring in a lot of tourists with money into Charlottesville, and it's being situated downtown only adds more to the economic solidification of the building. But what happened to the people? The 600 residents and 30 businesses.
+I want to start with what Vinegar Hill has been like in the 21st century. Taking a look down from the intersection connecting downtown, you can see a Staples, the Omni Hotel, and a U.S. Federal Building. Should this be called a success? The Omni does bring in a lot of tourists with money into Charlottesville, and it being situated downtown only adds more to the economic solidification of the building. But what happened to the people? The 600 residents and 30 businesses.
 
 <div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
     <img src="{{ 'assets/life/midterm/gmaps.png' | relative_url }}" class="" style="width: 40%; margin: 0 2.5%;">
@@ -43,7 +43,7 @@ In a 1960 transcript from *Charlottesville Daily Progress*, a local banker gave 
 
 <br/>
 
-Why not, instead of "correcting" Vinegar Hill by demolishing it, invest in Vinegar Hill? The answer to my question is racial politics and how it systematically limited economic access to Black people. The history of redlining and risk classification based on stereotypes were  levied against them to prevent any access to economic/financial instruments. In the case of Vinegar Hill, this was no different. Urban renewal meant the wholesale destruction of their properties and businesses for the development of White business owners. Urban renewal meant they were forced out of their homes and relocated to public housing without being compensated. Urban renewal was never for the Black community on Vinegar Hill.
+Why not, instead of "correcting" Vinegar Hill by demolishing it, invest in Vinegar Hill? The answer to my question is racial politics and how it systematically limited economic access to Black people. The history of redlining and risk classification based on stereotypes were levied against them to prevent any access to economic/financial instruments. In the case of Vinegar Hill, this was no different. Urban renewal meant the wholesale destruction of their properties and businesses for the development of White business owners. Urban renewal meant they were forced out of their homes and relocated to public housing without being compensated. Urban renewal was never for the Black community on Vinegar Hill.
 
 What I gathered from Vinegar Hill is what happens when there is an imbalance in development. What happened at Vinegar Hill is a story of inequitable development and gentrification. Where the inhabitants of a place had no say in the matter, no voice, and no real political power to state themselves. The case brought to light how inextricably politics is bound up with economics and has profound impacts on the ways politics can legitimize itself to do harm. The real kicker is when I found out how the land was taken: by eminent domain and White voters.
 
@@ -52,9 +52,9 @@ What I gathered from Vinegar Hill is what happens when there is an imbalance in 
     <img src="{{ 'assets/life/midterm/urb2.jpeg' | relative_url }}" class="" style="width: 40%; margin: 0 2.5%;">
 </div>
 
-5 years before the demolition actually occurred. A guy named Lipset wrote on **Social Prerequisites of Democracy**. Relating it with the case of Vinegar Hill made me wonder if the paper addressed race relations? From the viewpoint of the White developers, Democracy was working great. They had systems of economic development education, income equality, and an on-going project of urban renewal. On top of that, the people of Charlottesville was checking off the boxes for democratic values like civic engagement and legitimizing institutions. 
+5 years before the demolition actually occurred. A guy named Lipset wrote on **Social Prerequisites of Democracy**. Relating it with the case of Vinegar Hill made me wonder if the paper addressed race relations? From the viewpoint of the White developers, Democracy was working great. They had systems of economic development education, income equality, and an ongoing project of urban renewal. On top of that, the people of Charlottesville were checking off the boxes for democratic values like civic engagement and legitimizing institutions. 
 
-This same emphatic blind spot for those in power seems to remain at the forefront of modern development discourse. It makes sense though, because as the systematic structures and normalized beliefs become invisible, the only thing left to say is: "Why don't they just have it figured out like us?". It echoes a similar viewpoint from the DFID paper where they discovered inequality of assets affect the distribution of development, but had nothing to say on how the inequality came to be and how to concretely address it.
+This same emphatic blind spot for those in power seems to remain at the forefront of modern development discourse. It makes sense though, because as the systematic structures and normalized beliefs become invisible, the only thing left to say is: "Why don't they just have it figured out like us?". It echoes a similar viewpoint from the DFID paper, where they discovered inequality of assets affects the distribution of development but had nothing to say on how the inequality came to be and how to concretely address it.
 
 Closing up the Vinegar Hill section, I have a bit of hope as something egregious as this only occurs when you justify economic development **and** view a group as less than human / deserve zero social capital. I think the US has, at large, moved past the whole racism thing? Keeping this case study in mind, I want to turn towards the future and ongoing histories of development at UVA. Though the university is also haunted by its past involvements in similar displacement stories of Gospel Hill and Canada, I want to inspect the university in the present. What does it mean to attend a university that advertises human and political development but actively prides itself on having AAA bond ratings?
 
@@ -103,17 +103,17 @@ My own reflections on development after doing the case studies are as follows:
 - development as project (what is done): should be ethically goal committed
 - development as a study (ways to approach it): should be interdisciplinary
 
-The implication, then, is that I will involve everyone in the development process, continually evaluate the ends development is accomplishing, and openly take on different vantage points to view development.
+The implication, then, is that I will involve everyone in the development process, continually evaluate the ends development accomplishes, and openly consider different perspectives on development.
 
 ## Post Blog Reflections:
 
-> For grading purposes please ignore this section
+> For grading purposes, please ignore this section
 
-I keep reflecting more on this blog and want to rewrite or add pages of notes/edits. That's why I made this section so I don't... Anything new or interesting will be added here. 
+I keep reflecting more on this blog and want to rewrite or add pages of notes/edits. That's why I made this section, so I don't... Anything new or interesting will be added here. 
 
-I found an interesting video essay that aligned on a lot of the notes here. What they do different is highlight the "facile liberals"/"champagne marxists", NIMBYism (not-in-my-backyard), through using Berkeley as an example of how left-wing/progressive position holders can still reify class inequality, even willfully at times. The first 20-30 minutes or so focuses on critiques of gentrification as a term, its histories, and who it effects.
+I found an interesting video essay that aligned with a lot of the notes here. What they do different is highlight the "facile liberals"/"champagne marxists", NIMBYism (not-in-my-backyard), through using Berkeley as an example of how left-wing/progressive position holders can still reify class inequality, even willfully at times. The first 20-30 minutes or so focus on critiques of gentrification as a term, its history, and who it affects.
 
-After reading a bit more on the Berkely situation, I found it funny how the history of development at Berkely is the reverse from UVA's. Berkely first established itself there and attracted people to buy-up land surrounding it. Now they don't want the university to build more housing. UVA was not the "first to be here", but rather expanded through actively buying out land to expand. But in our case, building affordable housing does not absolve UVA history of acquiring the land.
+After reading more about the Berkely situation, I found it funny how the history of development at Berkely is the reverse of UVA's. Berkely first established itself there and attracted people to buy up land surrounding it. Now, they don't want the university to build more housing. UVA was not the "first to be here;" instead, it expanded by actively buying out land to develop. But in our case, building affordable housing does not absolve UVA of its history of acquiring the land.
 
 <iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/37lTnnsZgZI?si=ZZkwwp-jh2PgGDP6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

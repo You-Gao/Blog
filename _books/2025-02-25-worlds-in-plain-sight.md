@@ -19,7 +19,7 @@ The book itself is actually a collection of essays or papers written by research
 
 Don't worry.; I will make their definition clearer by reviewing some of the papers here, but complexity science doesn't try to forego logic or science itself. It just means they are more upfront with their assumptions and simulate rather than a-priori deduce their conclusions.
 
-## The Simply Complex: Trendy Buzzword or Emerging New Science?
+## Trendy Buzzword?
 
 > "And, to add a final touch of spice, all this hoopla often comes wrapped up in language vague enough to warm the heart of any continental philosopher."
 

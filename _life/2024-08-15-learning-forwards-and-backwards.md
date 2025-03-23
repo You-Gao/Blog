@@ -1,4 +1,4 @@
----
+-
 date:             2024-08-15
 description:  >-
     The ways people learn and relate things.
@@ -19,17 +19,17 @@ In Plato's Meno, there is a quote that goes:
  </blockquote>
 </figure>
 
-Theories on learning and gathering new facts about the world has been a pretty productive field of human thought. I am entering this world to summarize my position on how learning operates and the different perspectives a person can orient when needing to learn. Taking from the already popularized dichotomies of know-how vs. know-that, implicit vs explicit, and known unknown vs unknown unknowns. I will see if I can use those concepts to argue the ways in which we can gather knowledge on a topic and draw out where you would use a specific method of learning.[^1]
+Theories on learning and gathering new facts about the world have been a productive field of human thought. I am entering this world to summarize my position on how learning operates and the different perspectives a person can orient when needing to learn. Taking from the already popularized dichotomies of know-how vs. know-that, implicit vs explicit, and known unknown vs unknown unknowns. I will see if I can use those concepts to argue the ways in which we can gather knowledge on a topic and draw out where you would use a specific method of learning.[^1]
 
 ## Learning Forwards
 
-Before making the argument of learning backward, I need to address the question of how people pick up base knowledge. These are the minimum facts you need before going further in conceptual depth. Ideas such as Newton's Laws and many other laws would fall under the category. This is good because humanity has generated a corpus of empirical facts. So, initial learning begins textbooks, readings, and onwards until you have enough facts in relation to each other that cognitive models are created on topics.[^2]
+Before making the argument of learning backward, I need to address the question of how people pick up base knowledge. These are the minimum facts you need before going further in conceptual depth. Ideas such as Newton's Laws and many other laws would fall under the category. This approach is good because humanity has generated a corpus of empirical facts. So, initial learning begins with textbooks and readings and onwards until you have enough facts in relation to each other that cognitive models are created on topics.[^2]
 
 ## Learning Backwards
 
-Alas, after you have lived in the world and gathered a suite of ontologies, you can start learning by going backwards. My idea of learning backwards is adjacent to the concept of learning by analogy. For example: To teach someone how multithreading and async work, you likely wouldn't start immediately on sync mechanisms or thread spawning. I think the sane approach would be to give an analogy to working on a project and how people are able to work on different things simultaneously, as well as the scenarios where you need to wait for someone. It just seems more effective in conveying information as the models for interaction are already there. They could then "work backward" to understand the specific technical details of how multithreading is accomplished.
+Alas, after you have lived in the world and gathered a suite of ontologies, you can start learning by going backward. My idea of learning backward is adjacent to the concept of learning by analogy. For example, To teach someone how multithreading and async work, you likely wouldn't start immediately on sync mechanisms or thread spawning. The sane approach would be to give an analogy to working on a project and how people are able to work on different things simultaneously, as well as the scenarios where you need to wait for someone. It seems more effective in conveying information as the models for interaction are already there. They could then "work backward" to understand the specific technical details of how multithreading is accomplished.
 
-In many high-information systems, learning backward would be the primary way if you think you have pre-existing models that match the schemas you are trying to learn (which is the case most of the time). On the other hand, if you know nothing about the specifics of the system or how they relate to each other, then it will be an incredibly inefficient way to attempt to guess-working your way to ground truth/understanding. Take the example of trying to understand a watch. I know that the motors interact mechanically with each other in such a way that the parts within the watch move to keep track of time. If I were to open a watch up, I would be lost entirely because of how many intricate fine-tuned decisions were made in putting together the watch.[^3]
+In many high-information systems, learning backward would be the primary way if you think you have pre-existing models that match the schemas you are trying to learn (which is the case most of the time). On the other hand, if you know nothing about the specifics of the system or how they relate to each other, then it will be an incredibly inefficient way to attempt to guess your way to ground truth/understanding. Take the example of trying to understand a watch. I know that the motors interact mechanically with each other in such a way that the parts within the watch move to keep track of time. If I were to open a watch up, I would be lost entirely because of how many intricate fine-tuned decisions were made in putting together the watch.[^3]
 
 <br/>
 
