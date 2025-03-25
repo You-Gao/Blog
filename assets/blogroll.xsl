@@ -270,7 +270,7 @@
               </div>
 
               <div class="col-4 footer-col " style="font-size: 16px;">
-                <p>an archive of my thoughts on life</p>
+                <p>An archive of my thoughts.</p>
               </div>
             </div>
           </div>
