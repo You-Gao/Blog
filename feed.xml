@@ -14,7 +14,7 @@
   
   {% assign all_posts = site.books | concat: site.fun | concat: site.life | concat: site.work %}
   {% assign all_posts = all_posts | sort: 'date' | reverse %}
-  {% assign top_posts = all_posts | limit:5 %}
+  {% assign top_posts = all_posts | limit:10 %}
 
   {% for post in top_posts limit:10 %}
     <entry>

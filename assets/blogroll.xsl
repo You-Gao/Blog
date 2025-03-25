@@ -17,26 +17,27 @@
                 <meta name="generator" content="{head/generator}" />
                 <meta name="image" content="{head/image}" />
                 <meta name="urlPublic" content="{head/urlPublic}" />
-                <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
-                    rel="stylesheet"
-                    integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
-                    crossorigin="anonymous" type="text/css" />
-                <link href="/assets/normalize.css" rel="stylesheet" type="text/css" />
-                <link rel="icon" href="/assets/logo.png" type="image/icon type"></link>
-                <style type="text/css">
-                    .nav-item {
-                        vertical-align: bottom;
-                    }
+                <meta name="viewport" content="width=device-width, initial-scale=1" />
+          <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+            rel="stylesheet"
+            integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+            crossorigin="anonymous" type="text/css" />
+          <link href="/assets/normalize.css" rel="stylesheet" type="text/css" />
+          <link rel="icon" href="/assets/logo.png" type="image/icon type"></link>
+          <style type="text/css">
+              .nav-item {
+          vertical-align: bottom;
+      }
 
-                    .nav-link {
-                        color: black;
-                        vertical-align: bottom;
-                    }
+      .nav-link {
+          color: black;
+          vertical-align: bottom;
+      }
 
-                    .italic-link {
-                        font-style: italic;
-                    }
-                </style>
+      .italic-link {
+          font-style: italic;
+      } 
+      </style>
                 <script type="text/javascript">
                     document.addEventListener('DOMContentLoaded', function () {
                     const setTheme = (themeName) => {
