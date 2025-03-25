@@ -1,7 +1,7 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet href="/assets/rss.xsl" type="text/xsl"?>
+<?xml-stylesheet href="/assets/atom.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>you's blog</title> 
   <link href="{{ site.url }}/feed.xml" rel="self"/>
@@ -13,10 +13,10 @@
   </author>
   
   {% assign all_posts = site.books | concat: site.fun | concat: site.life | concat: site.work %}
-  {% assign all_posts = all_posts | sort: 'date' %}
-  {% assign all_posts = all_posts | reverse %}
+  {% assign all_posts = all_posts | sort: 'date' | reverse %}
+  {% assign top_posts = all_posts | limit:5 %}
 
-  {% for post in all_posts %}
+  {% for post in top_posts limit:5 %}
     <entry>
       <title>{{ post.title }}</title>
       <link href="{{ site.url }}{{ post.url }}"/>

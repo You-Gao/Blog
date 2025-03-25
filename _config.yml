@@ -1,5 +1,5 @@
 xml name: you's blog
-title: false
+title: you's blog
 
 description: >- 
   An archive of my thoughts.
@@ -17,6 +17,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+
 collections:
   books:
     output: true

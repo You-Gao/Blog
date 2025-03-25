@@ -28,15 +28,17 @@ permalink: /about/
     </div>
 
     <div class="col-sm-5" style="text-align: center;">
-    <img src=" {{ 'assets/home/bundled_me.jpg' | absolute_url}}" class="img-fluid" style="width: 300px;" alt="...">
+    <img src=" {{ 'assets/home/bundled_me.jpg' | absolute_url}}" class="img-fluid" style="width: 250px;" alt="...">
     </div>
   </div>
 </div>
 
 <h2>why are you writing?</h2>
 
-the reason why i started this blog was to have a place for dialogue with the world and myself; practice my hand at writing and reviewing to learn a bit more each week. the feature topics were chosen because i felt like they were interesting, perplexing, and that i could further explore the existing thoughts i had for them.
+the reason i started this blog was to explore the random thoughts that show up in my mind. for any blog post then, were written because they contained ideas which were interesting, perplexing maybe, usually existential, or funny; enough so that it warranted me spending time to write about it.
 
-what you will encounter in the blog are the perspectives and takes i have synthesized on those topics. and if i turn out to be a decent blogger, there is something tangible to takeaway. 
+<h2>motifs?</h2>
+
+the blog was categorized into motifs (fun, text, me, work, img) as they were things i frequently encounter throughout my life. within each motif you will find posts containing my reflections and perspectives on whatever idea i have decided to blabber about. and if i turn out to be a decent blogger, there is something tangible to takeaway. 
 
 enjoy the site, no matter how you have stumbled onto this crevice of the internet.

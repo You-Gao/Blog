@@ -1,0 +1,25 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/assets/blogroll.xsl" type="text/xsl"?>
+<opml version="2.0">
+  <head>
+    <title>you's blogroll</title>
+    <dateCreated>{{ site.time | date: "%a, %d %b %Y" }}</dateCreated>
+    <dateModified>{{ site.time | date: "%a, %d %b %Y" }}</dateModified>
+    <ownerName>{{ site.author.name }}</ownerName>
+    <ownerId>{{ site.url }}</ownerId>
+    <docs>http://opml.org/spec2.opml</docs>
+    <copyright>© {{ site.author.name }}, released under https://opensource.org/licenses/BSD-3-Clause</copyright>
+    <description>Blogroll</description>
+    <generator>Jekyll</generator>
+    <image>{{ site.url }}/assets/logo.png</image>
+    <urlPublic>{{ site.url }}/blogroll.opml</urlPublic>
+  </head>
+  <body>
+    <outline text="" title="my blogroll">
+      <outline text="my blog where i blog about stuff" title="you's blog" type="rss" xmlUrl="{{ site.url }}/feed.xml" htmlUrl="{{ site.url }}"/>
+      <outline text="a design-forward blog" title="interconnected" type="rss" xmlUrl="https://interconnected.org/home/feed" htmlUrl="https://interconnected.org/home/"/>
+    </outline>
+  </body>
+</opml>
