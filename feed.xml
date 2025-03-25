@@ -23,7 +23,6 @@
       <id>{{ site.url }}{{ post.url }}</id>
       <updated>{{ post.date }}</updated>
       <summary>{{ post.description }}</summary>
-      <description>{{ post.description }}</description>
       <content type="html">{{ post.content | xml_escape }}</content>
       <author>
         <name>{{ post.author }}</name>
