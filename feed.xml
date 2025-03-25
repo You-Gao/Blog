@@ -16,13 +16,18 @@
   {% assign all_posts = all_posts | sort: 'date' | reverse %}
   {% assign top_posts = all_posts | limit:5 %}
 
-  {% for post in top_posts limit:5 %}
+  {% for post in top_posts limit:10 %}
     <entry>
       <title>{{ post.title }}</title>
       <link href="{{ site.url }}{{ post.url }}"/>
       <id>{{ site.url }}{{ post.url }}</id>
       <updated>{{ post.date }}</updated>
       <summary>{{ post.description }}</summary>
+      <content type="html">{{ post.content | xml_escape }}</content>
+      <author>
+        <name>{{ post.author }}</name>
+        <email>{{ post.email }}</email>
+      </author>
     </entry>
   {% endfor %}
 
