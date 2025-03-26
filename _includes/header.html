@@ -40,7 +40,7 @@
             const themeStyle = document.getElementById('theme-style');
             const toggleIcon = document.getElementById('toggle-icon');
             themeStyle.href = '/assets/' + themeName + '.css';
-            toggleIcon.src = '/assets/' + themeName + '.png';
+            toggleIcon.src = '/assets/' + themeName + '.webp';
             localStorage.setItem('theme', themeName);
         };
 
@@ -59,7 +59,7 @@
         };
 
         const currentTheme = localStorage.getItem('theme') || 'normalize';
-        const srcPath = '/assets/' + currentTheme + '.png';
+        const srcPath = '/assets/' + currentTheme + '.webp';
 
         const button = document.createElement('div');
         button.id = 'night-mode-toggle';

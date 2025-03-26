@@ -17,7 +17,7 @@
           integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
           crossorigin="anonymous" type="text/css" />
         <link href="/assets/normalize.css" rel="stylesheet" type="text/css" />
-        <link rel="icon" href="/assets/logo.png" type="image/icon type"></link>
+        <link rel="icon" href="/assets/logo.webp" type="image/icon type"></link>
         <style type="text/css">
              .nav-item {
         vertical-align: bottom;
@@ -42,7 +42,7 @@
 
               const toggleIcon = document.getElementById('toggle-icon'); // Select the image element
               if (toggleIcon) {
-                toggleIcon.src = '/assets/' + themeName + '.png'; // Update the image source dynamically
+                toggleIcon.src = '/assets/' + themeName + '.webp'; // Update the image source dynamically
               }
             };
 
@@ -66,7 +66,7 @@
 
             const img = document.createElement('img');
             img.id = 'toggle-icon';
-            img.src = '/assets/' + currentTheme + '.png'; // Set the default image source
+            img.src = '/assets/' + currentTheme + '.webp'; // Set the default image source
             img.alt = 'Night Mode';
             img.style.width = sizeStyle.width;
             img.style.height = sizeStyle.height;

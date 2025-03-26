@@ -4,7 +4,7 @@ dirs = os.listdir('.')
 
 def check_paragraphs(lines):
     for line in lines:
-        if len(line.split(". ")) > 6 and len(line) > 400:
+        if len(line.split(". ")) > 5 or len(line) > 400:
             print(f'Paragraph too long: {line}')
             return False
     return True
@@ -16,5 +16,5 @@ for dir in dirs:
                 with open(f'{dir}/{file}', 'r', errors='ignore') as f:
                     lines = f.readlines()
                     if not check_paragraphs(lines):
-                        print(f'Errors found in {file}')
+                        print(f'Errors found in {file}\n')
                 
