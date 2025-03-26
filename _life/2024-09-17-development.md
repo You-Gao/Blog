@@ -39,7 +39,7 @@ The 600 residents and 30 businesses inhabited Vinegar Hill in the 1900s. Archiva
 
 In a 1960 transcript from *Charlottesville Daily Progress*, a local banker gave his take on the proposal for urban renewal:
 
-> "Haden said, when asked what effect he thought the program would have on downtown Charlottesville, “I believe it will be helpful. As everybody knows, our business section of the city has been divided largely into two sections—the University section and the downtown section. This Vinegar Hill area has been all my life a very blighted area and it seems to me that if the situation is corrected, the whole business area of Charlottesville will be much helped."
+> "Haden said, when asked what effect he thought the program would have on downtown Charlottesville, "I believe it will be helpful. As everybody knows, our business section of the city has been divided largely into two sections-the University section and the downtown section. This Vinegar Hill area has been all my life a very blighted area and it seems to me that if the situation is corrected, the whole business area of Charlottesville will be much helped.""
 
 <br/>
 

@@ -31,7 +31,7 @@ The next section is just the collection of "red-flags" / anti-patterns the autho
 
 | Red Flag                                    | Description                                                                                                    | Page |
 |------------------------------------------|----------------------------------------------------------------------------------------------------------------|------|
-| Shallow Module                           | The interface for a class or method isn’t much simpler than its implementation.                                | 25, 110 |
+| Shallow Module                           | The interface for a class or method isn't much simpler than its implementation.                                | 25, 110 |
 | Information Leakage                      | A design decision is reflected in multiple modules.                                                             | 31   |
 | Temporal Decomposition                   | The code structure is based on the order in which operations are executed, not on information hiding.            | 32   |
 | Overexposure                             | An API forces callers to be aware of rarely used features in order to use commonly used features.                | 36   |
@@ -41,7 +41,7 @@ The next section is just the collection of "red-flags" / anti-patterns the autho
 | Conjoined Methods                        | Two methods have so many dependencies that it's hard to understand the implementation of one without the other.  | 72   |
 | Comment Repeats Code                     | All of the information in a comment is immediately obvious from the code next to the comment.                      | 104  |
 | Implementation Documentation Contaminates Interface | An interface comment describes implementation details not needed by users of the thing being documented.        | 114  |
-| Vague Name                               | The name of a variable or method is so imprecise that it doesn’t convey much useful information.                  | 123  |
+| Vague Name                               | The name of a variable or method is so imprecise that it doesn't convey much useful information.                  | 123  |
 | Hard to Pick Name                        | It is difficult to come up with a precise and intuitive name for an entity.                                      | 125  |
 | Hard to Describe                         | In order to be complete, the documentation for a variable or method must be long.                                | 131  |
 | Nonobvious Code                          | The behavior or meaning of a piece of code cannot be understood easily.                                           | 148  |

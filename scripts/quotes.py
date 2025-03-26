@@ -5,8 +5,8 @@ dirs = os.listdir('.')
 def check_quotes(lines):
     for line in lines:
         if line.startswith('>'):
-            if "\"" not in line:
-                print(f'No quotes in {line}')
+            if "“" in line or "”" in line:
+                print(f'Sus quotes in {line}')
                 return False
     return True
 

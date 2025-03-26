@@ -51,7 +51,7 @@ The easiest for last. Goffman seems to have developed the ideas set forth in Mea
 
 Brickell, C. (2005). Masculinities, performativity, and subversion. Men And Masculinities, 8(1), 24–43. https://doi.org/10.1177/1097184x03257515
 
-Dolezal, L. (2012). Reconsidering the look in Sartre’s: Being and Nothingness. Sartre Studies International, 18(1). https://doi.org/10.3167/ssi.2012.180102
+Dolezal, L. (2012). Reconsidering the look in Sartre's: Being and Nothingness. Sartre Studies International, 18(1). https://doi.org/10.3167/ssi.2012.180102
 
 <br/>
 ---

@@ -22,7 +22,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 
 **Character Control:** Players control the bird character using movement keys.
 
-**Jumping and Gliding:** Pressing 'Z' allows the character to jump, and holding the button lets the character glide. Players can also perform a freedive.
+**Jumping and Gliding:** Pressing 'Z' allows the character to jump, and holding the button lets the character glide. Players can also perform a free dive.
 
 **Item Usage:** Pressing 'X' with an equipped item allows the player to use the item.
 

@@ -35,9 +35,9 @@ On top of the discussion of vinyl production and its lifecycle, TenHoor also con
 
 The final slide asked the audience to consider what can be done about vinyl production, specifically for architects. Is self-regulation sufficient enough to halt the production of these materials? There is a worry that it follows the neoliberal paradigm. What about economically regulating vinyl? The concern is that there are so many ways the global supply chain can "combat" that. It's open-ended.
 
-## Seminar Notes
+## Seminar Notes???
 
-- food provisioning/securitty to look at the urban/rural relations
+- food provisioning/security to look at the urban/rural relations
 - food consumption biopolitics and markets  
 - vinyl floors and toxics in the home environment
 - is vinyl really that popular / toxic ?

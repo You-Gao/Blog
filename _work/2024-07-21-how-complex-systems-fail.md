@@ -35,7 +35,7 @@ My line of questioning here is to highlight the #2 point. Kernel and other drive
 
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote" style="font-size: 18px;">
-    <p>"Because overt failure requires multiple faults, there is no isolated ‘cause’ of an accident."</p>
+    <p>"Because overt failure requires multiple faults, there is no isolated 'cause' of an accident."</p>
     </blockquote>
 </figure>
 

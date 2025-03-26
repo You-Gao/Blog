@@ -36,10 +36,9 @@ The point of this section then was to accomplish one thing. That is demonstratin
 
 > "the Merleau-Pontian subject still bears a distant resemblance to its Cartesian predecessor, never fully fleshed out with bone and guts."
 
+Leder's medical training stands out in this chapter and addresses/gives name to some of my concerns regarding the viscera. He makes the distinction of interoception and exteroception, the former related to the visceral senses and the ladder focused on the traditional senses of sight, smell, taste, touch, sound. During the distinction he uses it to question why there is such little qualitative range for the viscera. The skin can be warm, hot, pricked, tickled, touched, pinched, cut, and many more. But, the viscera for comparison is limited and often stereotyped considering the wide range of "inputs" the visceral organs can interact with. 
 
-Leder's medical training stands out in this chapter and addresses/gives name to some of my concerns regarding theviscera. He makes the distinction of interoception and exteroception, the former related to the visceral senses and the ladder focused on the traditional senses of sight, smell, taste, touch, sound. During the distinction he uses it to question why there is such little qualitative range for the viscera. The skin can be warm, hot, pricked, tickled, touched, pinched, cut, and many more. But, the viscera for comparison is limited and often stereotypedconsidering the wide range of "inputs" the visceral organs can interact with. 
-
-Though, the reason why the viscera remains elusive is against not just because we don't priveledge the body as a form of knowledge, but because it evades us as the knowers. Leder highlights the biological make-up of most of the organs to highlight how they aren't wired up with the same amount of pain receptors as the external facing body does. This leads to a medical phenomenon called referred pain, where the causal location of pain is often spread out to different places in the viscera. Pain from heart attack localizes in the forearms. Stomach pains localizes in the back. Kidney pains can localize in the thighs. To make it even more complicated, some pain is just wholly ambiguous to the visceral regions. 
+Though, the reason why the viscera remains elusive is against not just because we don't privilege the body as a form of knowledge, but because it evades us as the knowers. Leder highlights the biological make-up of most of the organs to highlight how they aren't wired up with the same amount of pain receptors as the external facing body does. This leads to a medical phenomenon called referred pain, where the causal location of pain is often spread out to different places in the viscera. Pain from heart attack localizes in the forearms. Stomach pains localizes in the back. Kidney pains can localize in the thighs. To make it even more complicated, some pain is just wholly ambiguous to the visceral regions. 
 
 The viscera is in a way doubly private. Private to the self or "I" in the fact that it is within. Given pictures of your own organs, you would fail to recognize them as "yours". Private to "Others" as an inter-subjective means. For example, sensorimotors's inter-subjectivity are dependent on the shared actional fields all bodies have access to and relate with. I can see what you see, I can touch what you touch, I can hear what you hear, I can taste what you taste, I can smell what you smell. But, I am unable to feel what you feel viscerally. In Leder's word, the organ has no "projective field".
 
@@ -47,7 +46,7 @@ That troubles me because I picked up this book in an attempt to answer a questio
 
 Leder relates these same troubles to diagnosing visceral pains in medical practices:
 
-> "An experience of "tightness" in the chest could signal any a number of cardiac, respiratory, muscular, or even alimentary difficulties, given the imprecision of interoception." 
+> "An experience of 'tightness' in the chest could signal any a number of cardiac, respiratory, muscular, or even alimentary difficulties, given the imprecision of interoception." 
 
 ## The Dys-appearing Body
 

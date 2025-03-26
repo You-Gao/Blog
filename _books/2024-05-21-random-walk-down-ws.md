@@ -24,5 +24,5 @@ An introduction to the concepts of investing and the types of investing possible
 
 <br/>
 ---
-[^1]: See [keynesian beauty contest](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
-[^2]: Explains the current state of pokemon-card scalping.
+[^1]: See [Keynesian beauty contest](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
+[^2]: Explains the current state of Pokemon-card scalping.

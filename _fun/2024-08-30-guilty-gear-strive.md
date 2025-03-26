@@ -64,7 +64,7 @@ Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for
 
 ## Themes and Player Experience:
 
-**Social Interaction:** The reason I play Guilty Gear Strive is the social aspect. Going against another "real" player (until AI gets too advanced) makes me actually take the game seriously. It's serious insofar as we both sort of take on these characters' agencies and openly play. It’s not just about winning or losing; it’s about the encounter itself, the back-and-forth of skill, mind games, and adaptation.
+**Social Interaction:** The reason I play Guilty Gear Strive is the social aspect. Going against another "real" player (until AI gets too advanced) makes me actually take the game seriously. It's serious insofar as we both sort of take on these characters' agencies and openly play. It's not just about winning or losing; it's about the encounter itself, the back-and-forth of skill, mind games, and adaptation.
 
 **Narrative:** Building on that point. For people that you go against online, especially after you hit Celestial floor, because you don't know specifically who the person you are against, there is this historical narrative of the other player. Over time, you create stories of triumph, defeat, and growth, as such because playstyles evolve even in the span of a match.
 
@@ -73,7 +73,7 @@ Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for
 **Expression:** Each character lends itself to have skill and character expression. What is your playstyle, how does that playstyle change, how do you adapt, and etc. produces the dimension of expression through not only skill, but also personality.  
 
 
-I get how people might be confused about me putting social interaction and narrative here. The idea is there are two ways people can go about playing games: The individualistic subject that plays to win or the community subject that plays to connect. After reflecting on games, I feel like they have so much more power as a connective medium than the former relation. While the thrill of competition is undeniable, the moments where I’ve deeply enjoyed the game is with others—whether through friendly banter, exchanging tips, or even just mutual respect after a hard-fought match.
+I get how people might be confused about me putting social interaction and narrative here. The idea is there are two ways people can go about playing games: The individualistic subject that plays to win or the community subject that plays to connect. After reflecting on games, I feel like they have so much more power as a connective medium than the former relation. While the thrill of competition is undeniable, the moments where I've deeply enjoyed the game is with others—whether through friendly banter, exchanging tips, or even just mutual respect after a hard-fought match.
 
 ## Conclusion:
 

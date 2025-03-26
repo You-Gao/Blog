@@ -12,15 +12,15 @@ name: >-
 
 # Climate Archives and Performance
 
-I want to explore the archive of climate data and excavate its other names through film performances. I say excavate because performance allows you to reveal the different names of an archive by providing different vantage points. Depending on how you look at a climate collection, the material data can conceive a plurality of archives. An ecological economist could see it as an archive of market failures, an environmental scientist could see it as an archive of the earEarth'simate, or a tin-foilist could see it as an archive of state lies. 
+I want to explore the archive of climate data and excavate its other names through film performances. I say excavate because performance allows you to reveal the different names of an archive by providing different vantage points. Depending on how you look at a climate collection, the material data can conceive a plurality of archives. An ecological economist could see it as an archive of market failures, an environmental scientist could see it as an archive of the Earth's climate, or a tin-foilist could see it as an archive of state lies. 
 
 By theorizing about archives that way, I argue that performance then is a form of pedagogy. The performance gives the performer's viewpoint of the archive, which is achieved through materiality and how it invokes the memories of the archive. In my case, the film allows me to grapple with the archive's conception as just data and modify its name to be an archive of pressing problems. Given a time where the public sees data through a very static and empirical lens, it is important to show that climate data, in extension climate archives, are not simply the measurements of precision sensors but also deeply implicated in the political, social, and economic.
 
 ## Performing Archives
 
-The most abstract but still functional definition of archives is any "concept" with a "history" in relation to material(s). That is, the fundamental pieces that make an archive are a memory function and a historical function, with material as its conduit, whether it be practices, actions, or objects. [^6][^7] For example, the Ginkgo tree near the Chapel is a part of an archive of place. Whether that be UVA, Charlottesville, or the USA, the Ginkgo tree is a part of each archives of place. In my definition, I say materials and not bodies because, to me, an archive encapsulates a collection of usually extracted, externalized knowledge. Going back to Diana Taylor, she also wrote:[^1] 
+The most abstract but still functional definition of archives is any "concept" with a "history" in relation to material(s). That is, the fundamental pieces that make an archive are a memory function and a historical function, with material as its conduit, whether it be practices, actions, or objects.[^6][^7] For example, the Ginkgo tree near the Chapel is a part of an archive of place. Whether that be UVA, Charlottesville, or the USA, the Ginkgo tree is a part of each archives of place. In my definition, I say materials and not bodies because, to me, an archive encapsulates a collection of usually extracted, externalized knowledge. Going back to Diana Taylor, she also wrote:[^1] 
 
-> "The fact that archival memory succeeds in separating the source of ‘‘knowledge’’ from the knower—in time and/or space —leads to comments, such as de Certeau’s, that it is ‘‘expansionist’’ and ‘‘immunized against alterity’'"
+> "The fact that archival memory succeeds in separating the source of "knowledge" from the knower—in time and/or space —leads to comments, such as de Certeau's, that it is "expansionist" and "immunized against alterity''"
 
 The strongest implication from the definition is that there is a normalizing force in archives and archival knowledge. A lot of the readings we covered throughout the class talk about how the archives are misused as tools that legitimize narratives. Epistemological violence is a word often used when questioning an archive because of how they were shaped. Knowledge production, and especially storage of knowledge, is socially implicated. That is why we covered concepts like refugee epistemology, the repertoire, and visceral logics precisely because archives, for better or worse, are created and interfaced with by people. In asking and answering, "What is an archive?" I ask myself, "What are archives?" and from class, the answer is that archives have been historically/presently tools that legitimize and reify logics of ideological dogmatism.
 
@@ -28,7 +28,7 @@ Going back to my definition earlier, I wanted to give some clarifying examples o
 
 Taking a look at indigenous oral storytelling, it can be said that their stories contain many archives. Archives of Sky Women, Sweetgrass, and the Land. [^3] Not only that, Indigenous modes of being open up new archives by changing what valid sources of information are: the body, the land, the life.
 
-> "Breathe in its scent and you start to remember things you didn’t know you’d forgotten. Our elders say that ceremonies are the way we “remember to remember""
+> "Breathe in its scent and you start to remember things you didn't know you'd forgotten. Our elders say that ceremonies are the way we “remember to remember""
 
 Mar de Vang's intervention into the state archives is an example of how "materials can conceive for many archives." She demonstrates how state documents were not a neutral archive of Hmong peoples but how the archives had another being as an archive of Hmong violence. Archive(s) shape from the things that are said and not said, found or forgotten, material and immaterial.
 
@@ -44,7 +44,7 @@ Film as a method works, providing additional information that contextualizes the
 
 ## Climate Discourse Needs Fresh Eyes 
 
-I chose NOAA and EM-DAT Climate Archives as it seems the world is once again coming to critical mass on the topic of climate change. The problem is the old narratives have not succeeded or "feasibly" brought us to a world where the climate isn't a looming problem. Narratives from green economists, scientific researchers, and, most importantly, politicians have not actually changed the way we relate to the climate.  Even though I have gone to an environmental governor school, I still roll my eyes when I see the CO2 chart, not to the data but to the political-economic discourse faced in the light of its implications. To counter such apathy, I look towards ecological film in particular, as it has the power to show something raw; bare nature is something that can't be refuted. Also, what time is better to do this work than now? The Sahara has been flooded. Mathematically improbable hurricanes are commonplace, and day after day during Summer, the EarEarthperiences record-breaking temperatures. If not now, when?
+I chose NOAA and EM-DAT Climate Archives as it seems the world is once again coming to critical mass on the topic of climate change. The problem is the old narratives have not succeeded or "feasibly" brought us to a world where the climate isn't a looming problem. Narratives from green economists, scientific researchers, and, most importantly, politicians have not actually changed the way we relate to the climate.  Even though I have gone to an environmental governor school, I still roll my eyes when I see the CO2 chart, not to the data but to the political-economic discourse faced in the light of its implications. To counter such apathy, I look towards ecological film in particular, as it has the power to show something raw; bare nature is something that can't be refuted. Also, what time is better to do this work than now? The Sahara has been flooded. Mathematically improbable hurricanes are commonplace, and day after day during Summer, the record-breaking temperatures. If not now, when?
 
 ## Conclusion/Justification
 
@@ -93,7 +93,7 @@ Other than that, I did ask it some random questions I had on linguistics and rep
 
 AP Archives. (n.d.). https://www.youtube.com/@APArchive 
 
-Braiding sweetgrass: indigenous wisdom, scientific knowledge, and the teachings of plants. (2014). Choice Reviews Online, 51(10), 51–5594. https://doi.org/10.5860/choice.51-5594 
+Braiding sweetgrass: indigenous wisdom, scientific knowledge, and the teachings of plants. (2014). Choice Reviews Online, 51(10), 51-5594. https://doi.org/10.5860/choice.51-5594 
 
 British Pathe. (n.d.). https://www.youtube.com/@britishpathe Guha-Sapir, D., Below, R., & Hoyois, P. (2016). 
 

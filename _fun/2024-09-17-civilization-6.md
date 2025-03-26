@@ -65,7 +65,7 @@ Turn-based Games are complex. Before my first couple of games and tutorials, I w
 
 Besides the game itself, it actually made me reflect a lot on the nature of development. One of my majors besides Computer Science is Global Development Studies, which talks mainly about the economic and political systems set up to generate wealth. Civ follows the traditional modernization theories, which state that increases in technology and increases in industrialization are necessary for a nation to take off. Trade and dependencies on other nations are good as well because they are mutually beneficial to everyone. 
 
-In a way, it is like a liberalist utopia because there really is no downside to any of these upgrades besides the time put into developing nations. Alas, in the real world, there are significant side effects to technological and industrial development, which are distributed unequally. Even considering the utopia, there is something very anti-liberalist, which is that you decide to *cough* / plan the economy by determining what tiles work. The only thing your civlization would complain about is needing more amenities based on population size.
+In a way, it is like a liberalist utopia because there really is no downside to any of these upgrades besides the time put into developing nations. Alas, in the real world, there are significant side effects to technological and industrial development, which are distributed unequally. Even considering the utopia, there is something very anti-liberalist, which is that you decide to *cough* / plan the economy by determining what tiles work. The only thing your civilization would complain about is needing more amenities based on population size.
 
 Good game, should play 10/10.
 

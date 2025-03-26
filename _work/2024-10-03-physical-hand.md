@@ -43,7 +43,7 @@ This dogmatism is why I thought it'd be fun to examine what occurred during the 
 ## Rich Shenanigans
 ## Rich Shenanigans
 
-> "It was not only in their neglect of the fine processes of the law that the Americans outdid their European contemporaries; when they fought, they abandoned the gentleman’s rapier for the roughneck’s brass knuckles" (The Worldly Philosophers)
+> "It was not only in their neglect of the fine processes of the law that the Americans outdid their European contemporaries; when they fought, they abandoned the gentleman's rapier for the roughneck's brass knuckles" (The Worldly Philosophers)
 
 This section tells the many, almost absurd tales that went on during the age of riches and expansion.
 
