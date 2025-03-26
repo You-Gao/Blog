@@ -47,5 +47,5 @@ bundle exec jekyll serve
 ```
 
 ## License
-See the [LICENSE](LICENSE) file for details on the specific licenses on the blog code/content.
+See the [LICENSE](LICENSE.md) file for details on the specific licenses on the blog code/content.
 
