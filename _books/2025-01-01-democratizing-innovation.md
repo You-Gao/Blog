@@ -27,9 +27,10 @@ This monetization model was reasonably uncontroversial. You have a group of user
 
 The decision can be interpreted as Red Hat supplanting itself on top of the open-source community, similar to what Amazon did to ElasticSearch. In the end, though, it feels more complex than that. On the one hand, a case can be made that Red Hat being profitable is suitable for open-source because it means that user innovators can get paid explicitly for what they do by Red Hat. On the other hand, there is still the argument that this corporation's supplanting is a net negative to the ethos of the open-source community. 
 
+<img style="display: block; margin-left: auto; margin-right: auto" src="/assets/books/innovation/drawin.png"/>
+
 The answer Hippel gives is likely along the lines of this. Individual users are mainly unaffected aside from being suspect towards the profit motive and the ethos around "enterprising" the project. User firms are generally outraged because they now have to pay for either the license for RHEL or using CentOS Stream. Red Hat still offers services technical support, fixes, updates, and services while (*hopefully*) contributing back to the open-source ecosystem. The tension, however, lies in whether this compromise tips too far toward commercialization, risking the alienation of the very community that sustains open-source innovation [^5]. 
 
-<img style="display: block; margin-left: auto; margin-right: auto" src="/assets/books/innovation/drawin.png"/>
 
 ## Hashicorps Move to BSL
 
@@ -39,9 +40,10 @@ I thought that Hashicorp was acting like an open-source organization that held t
 
 One standard line against the model is highlighting that open-source is open-source, not free nor enterprise, and developing a model around profits is against that. The second one highlights the nature of an "open-source org" and if it is tenable as they are allowed to modify the licenses to the project in the future to make it proprietary. An interesting enough observation here is that drama only occurs due to the B2B-esque dealings of these firms and usually never at the user-user level[^6].
 
+<img style="display: block; margin-left: auto; margin-right: auto" src="https://imgs.xkcd.com/comics/dependency.png"/>
+
 My summary of understanding this debacle is found in two questions. The individual user asks why this project needs to be enterprise-level, and the firm user asks why I should pay for this "open-source" project. Enterprise Open Source is more of a CYA purchase than anything, akin to hiring consultants.
 
-<img style="display: block; margin-left: auto; margin-right: auto" src="https://imgs.xkcd.com/comics/dependency.png"/>
 
 ## Keeb Community
 

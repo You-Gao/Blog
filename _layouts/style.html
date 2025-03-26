@@ -23,13 +23,17 @@
 
 
 <style>
+    [class*="video-grid"], [class*="picture-grid"] {
+        margin-top: 2rem;
+        margin-bottom: 3rem;
+        } 
+    
     .video-grid {
         display: grid;
         grid-template-columns: repeat(2, 1fr); /* Keeps the 2-column layout */
         grid-column-gap: 10px; /* Adjusts the gap between columns (horizontal) */
         grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
         max-width: 1280px; /* Adjust based on your preference */
-        margin: auto; /* Center the grid horizontally */
         }
 
     .video-grid div {
@@ -48,7 +52,6 @@
         grid-column-gap: 10px; /* Adjusts the gap between columns (horizontal) */
         grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
         max-width: 500px; /* Adjust based on your preference */
-        margin: auto; /* Center the grid horizontally */
         align-items: center;
         justify-content: center;
         place-items: center;
@@ -70,7 +73,6 @@
         grid-column-gap: 75px; /* Adjusts the gap between columns (horizontal) */
         grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
         max-width: 500px; /* Adjust based on your preference */
-        margin: auto; /* Center the grid horizontally */
         align-items: center;
         justify-content: center;
         place-items: center;
@@ -92,7 +94,6 @@
         grid-column-gap: 25px; /* Adjusts the gap between columns (horizontal) */
         grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
         max-width: 900px; /* Adjust based on your preference */
-        margin: auto; /* Center the grid horizontally */
         align-items: center;
         justify-content: center;
         place-items: center;
@@ -107,11 +108,23 @@
         max-width: 230px;
         max-height: 230px;
         }
-    
+
+    body main img {
+        max-width: 100%;
+        max-height: 300px;
+        display: block;
+        height: auto;
+        margin-left:auto;
+        margin-right:auto;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        }
+
     .game_logo {
         display: block;
         margin: auto;
         width: 100%;
+        margin: 0;
         }
 
     #player-mechanics p {

@@ -69,14 +69,14 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 **Golden Feathers:** A crucial collectible in the game, golden feathers enhance the character's abilities, allowing for additional jumps or extended climbing. This item symbolizes growth and progression. As the player collects more of these feathers they feel the sense of dynamic growth through the enhanced capabilities granted and how those capabilities "unlock" more potential areas of the mountain to explore.
 
 **Mountain Top:** The game's main objective is to reach the peak of a tall mountain, initially inaccessible to the player. Collecting golden feathers grants more freedom of movement, enabling further exploration. The goal of getting the top sets a clear, but ephemeral measurement for the player's progress.
-<div class="picture-grid3" style="margin-bottom:10px;">
+<div class="picture-grid3" style="">
   <img src="{{ 'assets/games/a-short-hike/qg_climb.png' | relative_url }}" alt="Climb">
   <img src="{{ 'assets/games/a-short-hike/qg_fclimb.png' | relative_url }}" alt="FClimb">
   <img src="{{ 'assets/games/a-short-hike/qg_fsummit.png' | relative_url }}" alt="Summit"/>
 </div>
 
 **Mountain:** The mountain also serves as the general playing ground for the player with different mechanics scattered throughout it and hidden locations spread throughout. Throughout the play-time of the player whether they are set-out by NPCs or in search of chests, the mountain allows the player to orient themselves and set-out new micro goals.
-<div class="picture-grid3" style="margin-bottom:10px;">
+<div class="picture-grid3" style="">
   <img src="{{ 'assets/games/a-short-hike/qe_chest.png' | relative_url }}" alt="Chest">
   <img src="{{ 'assets/games/a-short-hike/qe_feather.png' | relative_url }}" alt="Feather">
   <img src="{{ 'assets/games/a-short-hike/qe_random.png' | relative_url }}" alt="Random"/>

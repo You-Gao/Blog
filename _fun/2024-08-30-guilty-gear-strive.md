@@ -33,7 +33,7 @@ Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for
 
 **Burst Cancel:** A "get off me" button that resets the game state to neutral.
 
-<div class="video-grid" style="margin-left: 10px  !important;">
+<div class="video-grid" style="">
 
 <div>
 <iframe width="400" height="315" src="https://www.youtube.com/embed/wQ58Vy3DffY?si=jxrj8lvxA_mwEhLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
