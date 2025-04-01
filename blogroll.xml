@@ -18,8 +18,17 @@
   </head>
   <body>
     <outline text="" title="my blogroll">
-      <outline text="my blog where i blog about stuff" title="you's blog" type="rss" xmlUrl="{{ site.url }}/feed.xml" htmlUrl="{{ site.url }}"/>
-      <outline text="a design-forward blog" title="interconnected" type="rss" xmlUrl="https://interconnected.org/home/feed" htmlUrl="https://interconnected.org/home/"/>
-    </outline>
+      <outline text="talks about ai and design" title="interconnected" type="rss" xmlUrl="https://interconnected.org/home/feed" htmlUrl="https://interconnected.org/home/"/>
+      <outline text="see below" title="cato institute" type="rss" xmlUrl="https://www.cato.org/rss/blog" htmlUrl="https://www.cato.org/blog"/>
+      <outline text="see above" title="dsa usa" type="rss" xmlUrl="https://www.dsausa.org/feed/" htmlUrl="https://www.dsausa.org/news/"/>
+      <outline text="random grabbag" title="3am magazine" type="rss" xmlUrl="https://3ammagazine.com/feed/" htmlUrl="https://3ammagazine.com/"/>
+      <outline text="i like the youtube channel" title="unsolicited advice" type="rss" xmlUrl="https://josephfolley.substack.com/feed.xml" htmlUrl="https://josephfolley.substack.com/"/>
+
+      <outline text="philosophy xkcd" title="existential comics" type="rss" xmlUrl="https://existentialcomics.com/rss.xml" htmlUrl="https://www.philosophytalk.org/"/>
+      <outline text="actual xkcd" title="xkcd" type="rss" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"/>
+      <outline text="boy and a tiger" title="calvin and hobbes" type="rss" xmlUrl="https://www.gocomics.com/calvinandhobbes/feed" htmlUrl="https://www.gocomics.com/calvinandhobbes/"/>
+      
+
+    </outline> 
   </body>
 </opml>
