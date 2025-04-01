@@ -4,7 +4,7 @@ description:  >-
     exploring ux design via "the indie web"
 layout:           post
 title: >-
-    Neocities & UX
+    Neocities and UX
 layout:           style
 name: >-
     Neocities & UX
