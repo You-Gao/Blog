@@ -23,11 +23,19 @@
       <outline text="see above" title="dsa usa" type="rss" xmlUrl="https://www.dsausa.org/feed/" htmlUrl="https://www.dsausa.org/news/"/>
       <outline text="random grabbag" title="3am magazine" type="rss" xmlUrl="https://3ammagazine.com/feed/" htmlUrl="https://3ammagazine.com/"/>
       <outline text="i like the youtube channel" title="unsolicited advice" type="rss" xmlUrl="https://josephfolley.substack.com/feed.xml" htmlUrl="https://josephfolley.substack.com/"/>
+      <outline text="'left' libertarian" title="bleeding heart libertarian" type="rss" xmlUrl="https://bleedingheartlibertarian.substack.com/feed/" htmlUrl="https://bleedingheartlibertarian.substack.com/"/>
+      <outline text="cool book review section" title="mac wright" type="rss" xmlUrl="https://www.macwright.com/rss.xml" htmlUrl="https://www.macwright.com/"/>
+      <outline text="added after tariffs 04/02/2025" title="the unpopulist" type="rss" xmlUrl="https://theunpopulist.net/feed/" htmlUrl="https://theunpopulist.net/"/>
 
       <outline text="philosophy xkcd" title="existential comics" type="rss" xmlUrl="https://existentialcomics.com/rss.xml" htmlUrl="https://www.philosophytalk.org/"/>
       <outline text="actual xkcd" title="xkcd" type="rss" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"/>
-      <outline text="boy and a tiger" title="calvin and hobbes" type="rss" xmlUrl="https://www.gocomics.com/calvinandhobbes/feed" htmlUrl="https://www.gocomics.com/calvinandhobbes/"/>
-      
+      <outline text="boy and a tiger" title="calvin and hobbes" type="rss" xmlUrl="https://www.comicsrss.com/rss/calvinandhobbes.rss" htmlUrl="https://www.gocomics.com/calvinandhobbes/"/>
+
+      <outline text="containers r us" title="hashicorp" type="rss" xmlUrl="https://www.hashicorp.com/blog/feed.xml" htmlUrl="https://www.hashicorp.com/blog/"/>
+      <outline text="makes me reflect on system design" title="aws architecture" type="rss" xmlUrl="https://aws.amazon.com/blogs/architecture/feed/" htmlUrl="https://aws.amazon.com/blogs/architecture/"/>
+      <outline text="google: a cloud platform?" title="google cloud" type="rss" xmlUrl="https://cloudblog.withgoogle.com/rss/" htmlUrl="https://cloud.google.com/blog/"/>\
+      <outline text="keeping up w/ azure" title="azure devops" type="rss" xmlUrl="https://devblogs.microsoft.com/devops/feed/" htmlUrl="https://devblogs.microsoft.com/devops/"/>
+      <outline text="cloud landscape" title="cncf" type="rss" xmlUrl="https://www.cncf.io/blog/feed/" htmlUrl="https://www.cncf.io/blog/"/>
 
     </outline> 
   </body>
