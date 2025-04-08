@@ -11,7 +11,7 @@ title: >-
   home
 ---
 
-<div class="row justify-content-center">
+<div class="row justify-content-center photo-container">
     <div class="col-10" style="max-height: 400px">
         <img id="set-me" style="margin: auto;display: block; max-width: 100%; max-height: 100%; object-fit: scale-down;" src=""/>
     </div>
