@@ -7,6 +7,8 @@ name: typography is fun
 comment: comic sans
 ---
 
-> Post inspired by "Thinking with Type" and "The Elements of Typographic Style"
+# typography is fun[^1]
 
-# typography is fun
+<br/>
+---
+[^1]: Post inspired by "Thinking with Type" and "The Elements of Typographic Style" 

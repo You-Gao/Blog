@@ -58,9 +58,11 @@ Closing up the Vinegar Hill section, I have a bit of hope as something egregious
 
 What does it mean to attend a school that sells bonds? It means that I, as a student, am a financial object for the university. To that extent, I am only a part of the economic calculus of UVA to grow. Really, I get a deep sense of anxiety as it's a pretty depressing line to go down. Because the implication is clear, a neoliberal university will only have to meet the status quo and maintain appearances in order for it to "survive." I'm not saying economics is not important; I'm saying that when it ends up subsuming everything else, then it might become a problem. It is clear that the university values the continuation of development, but it's mainly a question of to what end.
 
-Rehashing Sen's quote from Development as Freedoms:
+Rehashing a quote from Amartya Sen:
 
 > "The ends and means of development call for placing the perspective of ~~freedom~~ capital at the center of the stage."
+<figcaption class="blockquote-footer">Development as Freedoms</figcaption>
+
 
 Just reflecting on my own biases, I ask this question: Why is the pragmatic man viewed as better than the ivory tower man? They are both extreme cases. But one of them intuitively feels more good than the other. So which of the two does UVA produce, and for who? Currently, it would be no stretch of the imagination to say that universities produce for the sectors. This production story is being played out in real-time, with the trending majors correlating 1:1 with the trending jobs on the market. I mean, there is no hiding it: the goal of the university is to be economically and commercially practical. Not to argue for the ivory tower, but I think not everything should be pragmatic. The point of theory is that it can be made practical. Higher education should not be solely focused on pragmatics; it must also nurture creativity and intellectual curiosity, empowering students to question assumptions and drive meaningful social change beyond mere economic outcomes.
 
@@ -91,9 +93,8 @@ My own reflections on development after doing the case studies are as follows:
 
 The implication, then, is that I will involve everyone in the development process, continually evaluate the ends development accomplishes, and openly consider different perspectives on development.
 
-## Post Blog Reflections:
+## Post Blog Reflections[^6]:
 
-> For grading purposes, please ignore this section
 
 I keep reflecting more on this blog and want to rewrite or add pages of notes/edits. That's why I made this section, so I don't... Anything new or interesting will be added here. 
 
@@ -115,23 +116,23 @@ Charlottesville Archive. www2.iath.virginia.edu/schwartz/archive.html.
 
 Charlottesville Archive-Texts. www2.iath.virginia.edu/schwartz/texts.html.
 
-DFID. “Growth: Building Jobs and Prosperity in Developing Countries."
+DFID. "Growth: Building Jobs and Prosperity in Developing Countries."
 
-Ghertner, D. Asher. 2015. “Why Gentrification Theory Fails in ‘Much of the World.’" City 19 (4): 552–63. doi:10.1080/13604813.2015.1051745.
+Ghertner, D. Asher. 2015. "Why Gentrification Theory Fails in Much of the World." City 19 (4): 552–63. doi:10.1080/13604813.2015.1051745.
 
 Lipset, Seymour Martin. “Some Social Requisites of Democracy: Economic Development and Political Legitimacy." American Political Science Review, vol. 53, no. 1, Mar. 1959, pp. 69–105. https://doi.org/10.2307/1951731.
 
-“The Neo-Liberal University on JSTOR." www.jstor.org. JSTOR, www.jstor.org/stable/40342886.
+"The Neo-Liberal University on JSTOR." www.jstor.org. JSTOR, www.jstor.org/stable/40342886.
 
 Progress Timeline: Advancing Our Goals. strategicplan.virginia.edu/vision. 
 
-Rose, D. “Rethinking Gentrification: Beyond the Uneven Development of Marxist Urban Theory." Environment and Planning D Society and Space, vol. 2, no. 1, Mar. 1984, pp. 47–74. https://doi.org/10.1068/d020047.
+Rose, D. "Rethinking Gentrification: Beyond the Uneven Development of Marxist Urban Theory." Environment and Planning D Society and Space, vol. 2, no. 1, Mar. 1984, pp. 47–74. https://doi.org/10.1068/d020047.
 
-Roser, Max. “The Short History of Global Living Conditions and Why It Matters That We Know It." Our World in Data, 19 Mar. 2024, ourworldindata.org/a-history-of-global-living-conditions?linkId=62571595.
+Roser, Max. "The Short History of Global Living Conditions and Why It Matters That We Know It." Our World in Data, 19 Mar. 2024, ourworldindata.org/a-history-of-global-living-conditions?linkId=62571595.
 
 Sen, Amartya Kumar. Development as Freedom. 1999, ci.nii.ac.jp/ncid/BA43059927. 
 
-Smith, Neil. “Gentrification and the Rent Gap. Annals of the Association of American Geographers, vol. 77, no. 3, Sept. 1987, pp. 462–65. https://doi.org/10.1111/j.1467-8306.1987.tb00171.x.
+Smith, Neil. "Gentrification and the Rent Gap." Annals of the Association of American Geographers, vol. 77, no. 3, Sept. 1987, pp. 462–65. https://doi.org/10.1111/j.1467-8306.1987.tb00171.x.
 
 Urban Renewal, Vinegar Hill, 1960, Charlottesville Daily Progress Articles. edu.lva.virginia.gov/dbva/items/show/300.
 
@@ -139,9 +140,9 @@ Zuk, M., Bierbaum, A. H., Chapple, K., Gorska, K., & Loukaitou-Sideris, A. 2018.
 
 <br/>
 ---
-[1]: After reading some literature, I am conflicted about my interpretations of gentrification. There are 10+ different definitions, ways of measuring, and viewpoints on it, which makes it even more confusing.
+[^1]: After reading some literature, I am conflicted about my interpretations of gentrification. There are 10+ different definitions, ways of measuring, and viewpoints on it, which makes it even more confusing.
 [^2]: I'm glad I'm not crazy, doing some more reading. There have been many critiques against the broad field of gentrification theory due to the overloading of the term. For the purpose of this blog, my definition is just the existence of class/racial re/displacement. I say existence because it would be intellectually disingenuous for me to provide a definition that covers the processes of gentrification.
 [^3]: It's a pretty fatalistic ending to the paragraph, but I'm still hopeful.
 [^4]: My final takeaway on gentrification is that it's actually caused by speculation, not any physical environmental changes.
 [^5]: Vienna, Austria, the birthplace of Austrian Economics, has 80% social housing?
-
+[^6]: For grading purposes, please ignore this section

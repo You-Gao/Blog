@@ -28,7 +28,7 @@ Going back to my definition earlier, I wanted to give some clarifying examples o
 
 Taking a look at indigenous oral storytelling, it can be said that their stories contain many archives. Archives of Sky Women, Sweetgrass, and the Land. [^3] Not only that, Indigenous modes of being open up new archives by changing what valid sources of information are: the body, the land, the life.
 
-> "Breathe in its scent and you start to remember things you didn't know you'd forgotten. Our elders say that ceremonies are the way we “remember to remember""
+> "Breathe in its scent and you start to remember things you didn't know you'd forgotten. Our elders say that ceremonies are the way we “remember to remember"
 
 Mar de Vang's intervention into the state archives is an example of how "materials can conceive for many archives." She demonstrates how state documents were not a neutral archive of Hmong peoples but how the archives had another being as an archive of Hmong violence. Archive(s) shape from the things that are said and not said, found or forgotten, material and immaterial.
 
@@ -46,9 +46,7 @@ Film as a method works, providing additional information that contextualizes the
 
 I chose NOAA and EM-DAT Climate Archives as it seems the world is once again coming to critical mass on the topic of climate change. The problem is the old narratives have not succeeded or "feasibly" brought us to a world where the climate isn't a looming problem. Narratives from green economists, scientific researchers, and, most importantly, politicians have not actually changed the way we relate to the climate.  Even though I have gone to an environmental governor school, I still roll my eyes when I see the CO2 chart, not to the data but to the political-economic discourse faced in the light of its implications. To counter such apathy, I look towards ecological film in particular, as it has the power to show something raw; bare nature is something that can't be refuted. Also, what time is better to do this work than now? The Sahara has been flooded. Mathematically improbable hurricanes are commonplace, and day after day during Summer, the record-breaking temperatures. If not now, when?
 
-## Conclusion/Justification
-
-> To my teacher because, I was supposed to write this as a standard paper. Hope this is a good reason!
+## Conclusion/Justification[^6]
 
 Throughout the blog, I have talked about the nature of archives: what is and what are, the powers of performing and performance, and how they are connected to memory and materiality. In a traditional paper, I would continue to write and talk about the plentitude of ways **I can use** film performance to disrupt the normative conception of climatological archives. I would continue to speak on why performance **must be applied** to provide new insights into the archives. The thing I wouldn't **be doing** is actually **making** the film. 
 
@@ -57,8 +55,6 @@ So, here is the short film experience I created:
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/p5V4xtkkInU?si=h1NNtyVHf0hMtsgl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Creative Process
-
-> This does not have to be graded
 
 One of the most important things I do whenever working with information is to ensure I am honest about what I'm displaying. I think back to a class I took at the School of Architecture: SARC 5400 - Data Visualization, particularly Tufte's principles of information integrity.[^5] The first five are about causality, relationships, multivariate ness, evidence, and what the question is. These principles can be mapped to doing information work in films, like considering what the thematic objects, their relations, and the layered narratives are, but the most vital element for me was documenting each clip. Going in and doing research to learn about the aftermath, not only what it was as a singular data point, helped ground the work.
 
@@ -69,8 +65,6 @@ The beauty of creation lies in the journey, not just the end result. As I naviga
 The hardest thing I am currently facing in finishing the short film is the problem of scope. I originally set out to accomplish one task related to my definitions of archive and performance. That task is showing how the climate archives, particularly the ones invoked by scientists, has other names. Because if you only see climate records as an archive of climate (which is debated), you miss out on any other ways of experiencing or interfacing with the records. Latour would say you are othering yourself from the processes of knowledge creation.
 
 ## AI Usage
-
-> I should probably write a blog for this and just link it.
 
 I treat ChatGPT as a more convenient Google search, but you always have to be skeptical of what it gives. Given the underlying stuff that constitutes AI and its current boundary of being unable to generate anything novel, I find it odd how people justify using it to produce for them. The reality is probably that I don't care about this task to do it. In a way, it makes sense; you could just throw in whatever you got from a Google search. In the coding context, that means skipping writing "boilerplate" code, which is valid, but educationally, just seems like a form of indifference. Also, it's plagiarism. Imagine training an AI on one blog post.
 
@@ -83,7 +77,7 @@ My workflow for thinking of new ideas usually follows this pattern:
 
 Before GPT, Step 2 was Google, but I found the point of GPT's ability to have semantic similarities helpful in then going further on what to look up. I remember that for my Learning Forward and Backwards blog, the initial concept I had thought about randomly was ontological structures in a domain, and I was able to map that onto new knowledge, along with being able to create the initial constructs. I asked what theories were related to the concept I had thought up, and lo' and behold, I am not original. But, if I put that into Google search, I would not have found what I was looking for.
 
-> There is a large category of facts in the world that are difficult to find, but easy to verify once you've found them.
+> "There is a large category of facts in the world that are difficult to find, but easy to verify once you've found them." 
 
 I mainly used it to do archival "research", like asking about extreme weather events before 1900. Post 1900, I had the EM-DAT to pull from and write scripts on. Even then, I fact-checked against https://premium.weatherweb.net/weather-in-history-1800-to-1849-ad/, which is a site that has human resources backing it.
 
@@ -114,3 +108,4 @@ Taylor, D. (2003). The Archive and the Repertoire: Performing Cultural Memory in
 [^3]: I have to point out that even indigenous conceptions of the archives heavily challenges Western conceptions of them. As Sky Women and the land can be said to have knowledge, but the temporalities are more fractured and non-linear.
 [^4]: The additional information is information that is not "found" inside the archive.
 [^5]: My final project actually can be thought of as performing global archives as well: [link](https://blog.yougao.dev/assets/work/archives/annotated-drawing.pdf)
+[^6]:

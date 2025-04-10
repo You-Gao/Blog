@@ -11,9 +11,8 @@ name: >-
 comment: back to the gilded ages?
 ---
 
-> Post inspired by "The Worldly Philosophers"
 
-# Adam Smith's Physical Hand
+# Adam Smith's Physical Hand[^9]
 
 The Gilded Age is a period of American history we all heard about in middle school history class. We learned about the magnates, robber barons, journalists, state powers, and the worker exploitation that occurred. We have all seen the political cartoon where you have all the workers lifting fat magnates. However, we, as kids, were not really thinking about class consciousness or the operations of the political world.[^1] Which, alas, leads to today; I'm less of a kid now, and my attention has been turned back to these topics.
 
@@ -143,3 +142,4 @@ A lot of wikipedia
 [^6]: I remember a funny bit in a lecture that said a good way to make money is become a fraud journalist, report a company to the SEC, and then short the stock.
 [^7]: [https://www.reddit.com/r/wallstreetbets/comments/1935frs/is_it_insider_trading_if_i_bought_boeing_puts/](https://www.reddit.com/r/wallstreetbets/comments/1935frs/is_it_insider_trading_if_i_bought_boeing_puts/)
 [^8]: [https://www.businessinsider.com/journalists-and-sec-employees-stock-trading-2014-3](https://www.businessinsider.com/journalists-and-sec-employees-stock-trading-2014-3)
+[^9]: Post inspired by "The Worldly Philosophers"

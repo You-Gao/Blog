@@ -49,9 +49,8 @@ I don't think I did the greatest job in answering the question, so I will pose i
 
 The broader ethical question is: How should you be happy?
 
-## Practical Advice
+## Practical Advice[^1]
 
-> This was my very first blog, I ended up not liking how I wrote this section.
 
 - Simply just don't use the internet. Delete your social media apps. Go back to the real world.
     - I acknowledge the socio-economic effects that contribute to internet addiction and that might honestly be the most depressing thing about it.
@@ -85,3 +84,7 @@ Nguyen, C.T. (2018). ECHO CHAMBERS AND EPISTEMIC BUBBLES. Episteme, 17, 141-161.
 Jones, F., & Skinner, B.F. (2016). The Behavior of Organisms: An Experimental Analysis.
 
 Rescorla, R., & Wagner, A.R. (1972). A theory of Pavlovian conditioning: Variations in the effectiveness of reinforcement and nonreinforcement.
+
+<br/>
+---
+[^1]: This was my very first blog, I ended up not liking how I wrote this section.
