@@ -43,4 +43,4 @@ I don't know of any script typefaces that I like.
 [^2]: (I will answer it in the footnotes) In my deep-dive, I found that we only confer those fonts' meaning "after the fact." It's not because there are formal elements to Nerd font that make it "nerdy" but rather because Nerd font is fit for the task of representing code that it **is** "nerdy."
 [^3]: (I will also answer this) The answer here is yes, there is a "language" or a "formal" way to represent content. The important part here that I didn't pick up on is that the form really follows function. Just as math represents the concept of numbers, the same holds true about typography."
 [^4]: Interestingly enough, though, it follows much of the parallels of "time-frames" that were found in literature and art.
-{^5}: Serifs are overrated, IMO. They don't even help with legibility, so print legibility. I use a screen most of the time, so I might be biased.
+[^5]: Serifs are overrated, IMO. They don't even help with legibility, so print legibility. I use a screen most of the time, so I might be biased.
