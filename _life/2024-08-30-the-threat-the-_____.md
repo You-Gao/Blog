@@ -30,11 +30,3 @@ These actors walked around the exhibit and even outside it, reciting their speec
 Moving on to the actual structures of the exhibit. The outdoor portion on the terrace was this grass structure, with metallic objects like steel clamps, bricks, steel, and a hidden CCTV camera. As you might have guessed, the hidden CCTV camera was the more impactful part of the piece. It was only after I read the pamphlet that I realized all the other objects were collected from a Western state mental asylum. There was also another interesting piece, a PA system that was playing speech using an AI-cloned politician. 
 
 The inside portion of the exhibit was hosted in the gallery room. It features a ramp where you can walk up onto a platform and walk down onto a platform. On the ramp, there were objects like a mechanical contraption, riot gear, a brick wall, batons, and a cylinder. Since it was a platform, you could go under, and what was found there was a TV looping a video of water catching fire. I didn't really know what to make of the TV video, but it was nonetheless intriguing.
-
-## Seminar Notes
-
-Actors were performing in the exhibit with a double sense. The roles of the surveil and activists were also embodied during their performance in the histories of the archive. The archive, in this case, is the history of surveillance and the security state. 
-
-It critiques SIMILARLY the performance of the security state. It has implications for politics, ethics, the zoo, and bios. 
-
-The built environment reifies and materializes the security state, which has a lasting impact on the future of politics.

@@ -11,6 +11,8 @@ name: >-
 comment: back to the gilded ages?
 ---
 
+> Post inspired by "The Worldly Philosophers"
+
 # Adam Smith's Physical Hand
 
 The Gilded Age is a period of American history we all heard about in middle school history class. We learned about the magnates, robber barons, journalists, state powers, and the worker exploitation that occurred. We have all seen the political cartoon where you have all the workers lifting fat magnates. However, we, as kids, were not really thinking about class consciousness or the operations of the political world.[^1] Which, alas, leads to today; I'm less of a kid now, and my attention has been turned back to these topics.
@@ -34,16 +36,19 @@ Did any respectful economist sound the alarm? In an era we now view as having ma
 
 To really get a sense of the economic zeitgeist, look no further than Yale's 1st economist, William Graham Sumner. Here is a quote from his 1883 book "What Social Classes Owe to Each Other":
 
-> "Hence, those who today enjoy the most complete emancipation from the hardships of human life, and the greatest command over the conditions of existence, simply show us the best that man has yet been able to do. Can we all reach that standard by wishing for it? Can we all vote it to each other? If we pull down those who are most fortunate and successful, shall we not by that very act defeat our own object? (What Social Classes Owe to Each Other)"
+> "Hence, those who today enjoy the most complete emancipation from the hardships of human life, and the greatest command over the conditions of existence, simply show us the best that man has yet been able to do. Can we all reach that standard by wishing for it? Can we all vote it to each other? If we pull down those who are most fortunate and successful, shall we not by that very act defeat our own object?"
+<figcaption class="blockquote-footer">What Social Classes owe to Each Other</figcaption>
+
 
 There's already a clear undertone of Social Darwinism there.[^3] But it does make sense when you are considering the doctrine of liberalism. Free individual -> Free Markets -> Laissez Faire. So, really, who cares about the people that "failed"? It's the impersonal mechanisms of the market that suck for you but not for me. 
 
 This dogmatism is why I thought it'd be fun to examine what occurred during the Gilded Age in light of it. Stepping back a bit, there definitely were dissenters like Veblin and the like, but the dominating intellectual forces gravitated towards apathy and minutiae. I think I have made my point on economics' ability to make cruelty clear. I want to move on to the more visceral and narrative argument against indexing the soul towards the profit motive.
 
 ## Rich Shenanigans
-## Rich Shenanigans
 
-> "It was not only in their neglect of the fine processes of the law that the Americans outdid their European contemporaries; when they fought, they abandoned the gentleman's rapier for the roughneck's brass knuckles" (The Worldly Philosophers)
+> "It was not only in their neglect of the fine processes of the law that the Americans outdid their European contemporaries; when they fought, they abandoned the gentleman's rapier for the roughneck's brass knuckles"
+<figcaption class="blockquote-footer">The Worldly Philosophers</figcaption>
+
 
 This section tells the many, almost absurd tales that went on during the age of riches and expansion.
 
@@ -87,9 +92,11 @@ The investors were duped, and the magnates made out with a pretty hefty amount o
 
 ### An Excerpt from The Worldly Philosophers:
 
-The book actually gave me the idea to write this blog post, and this excerpt in particular was interesting:
+The book gave me the idea to write this blog post, particularly this excerpt:
 
-> "In this mêlée for industrial supremacy no quarter was asked and none given. Even dynamite had its uses, being employed to eliminate one particularly sticky competitor of the Standard Oil group, while less violent means, such as kidnapping, were remarkable more for their ingenuity than for their immorality. In 1881, when a great blizzard blew down the telegraph lines in New York, Jay Gould, the ruthless master of the money markets, was forced to send his orders to his broker by messenger. His enemies saw their chance and acted on it: they kidnapped the boy, substituted another of the same general physiognomy, and for several weeks Gould was dismayed to find that his moves were all somehow known to his adversaries in advance." (The Worldly Philosophers)
+> "In this mêlée for industrial supremacy no quarter was asked and none given. Even dynamite had its uses, being employed to eliminate one particularly sticky competitor of the Standard Oil group, while less violent means, such as kidnapping, were remarkable more for their ingenuity than for their immorality. In 1881, when a great blizzard blew down the telegraph lines in New York, Jay Gould, the ruthless master of the money markets, was forced to send his orders to his broker by messenger. His enemies saw their chance and acted on it: they kidnapped the boy, substituted another of the same general physiognomy, and for several weeks Gould was dismayed to find that his moves were all somehow known to his adversaries in advance."
+<figcaption class="blockquote-footer">The Worldly Philosophers</figcaption>
+
 
 ---
 
@@ -103,7 +110,8 @@ I spent most of my blog dunking on these magnates, but I want to highlight some 
 
 The most major blight on his record was the Homestead Strike that occurred under Carnegie's leadership. Workers wanted to organize into a union and demand fairer pay for the working conditions in the steel mills. The strike led to the state guard coming in and shutting down the strike. But here is the kicker: Carnegie was not officially leading at that time. He was off away in Scotland to oversee the construction of his castle. Henry Frick was put in charge, and Carnegie did distance himself from the violence but never said anything publicly. On an even more confusing note, Carnegie wrote "The Gospel of Wealth". A book which ran counter to Sumner's ideas and explicitly said this:
 
-> "Those who have greatly accumulated wealth have a duty to give back to society." (The Gospel of Wealth)
+> "Those who have greatly accumulated wealth have a duty to give back to society."
+<figcaption class="blockquote-footer">The Gospel of Wealth</figcaption>
 
 He was a man of his word, and Carnegie ended up donating 90% of his estate to public-facing institutions. I chose Carnegie because his story, to me, is the most compelling for capitalism. It seems that at the end of his life, Carnegie came to realize that the fundamental liberal doctrine of pursuing wealth was that it made humanity better off. This complex history is why it is hard to judge him as a historical figure. However, I think it is accurate to say that the sum whole of Carnegie's life, he was both a philanthropist and a robber baron.
 

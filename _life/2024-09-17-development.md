@@ -27,29 +27,25 @@ Vinegar Hill is **the case** of inequitable development. It makes clear what I 
 
 I want to start with what Vinegar Hill has been like in the 21st century. Taking a look down from the intersection connecting downtown, you can see a Staples, the Omni Hotel, and a U.S. Federal Building. Should this be called a success? The Omni does bring in a lot of tourists with money into Charlottesville, and it being situated downtown only adds more to the economic solidification of the building. But what happened to the people? The 600 residents and 30 businesses.
 
-<div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
-    <img src="{{ 'assets/life/midterm/gmaps.png' | relative_url }}" class="" style="width: 40%; margin: 0 2.5%;">
-    <img src="{{ 'assets/life/midterm/vinegar_hill.jpg' | relative_url }}" class="" style="width: 40%; margin: 0 2.5%;">
+<div style="text-align: center; margin-top: 30px; margin-bottom: 30px; display: flex; justify-content: space-around;">
+    <img src="{{ 'assets/life/midterm/gmaps.png' | relative_url }}" class="" style="width: 40%; margin: 0;">
+    <img src="{{ 'assets/life/midterm/vinegar_hill.jpg' | relative_url }}" class="" style="width: 40%; margin: 0;">
 </div>
 
 
 The 600 residents and 30 businesses inhabited Vinegar Hill in the 1900s. Archival information, which there is not a lot of, shows that the place was indeed vibrant and economically active (generated $1.6 million annually not sure if scaled for inflation). However, not everyone saw Vinegar Hill in such a light. Due to Vinegar Hill's adjacency to the downtown area, it got a lot of public attention and was constantly denounced as a "blighted" area. And yes, there were racial undertones to how Vinegar Hill was conceived of as a place and contributed to its excision from Charlottesville. 
 
-<br/>
-
 In a 1960 transcript from *Charlottesville Daily Progress*, a local banker gave his take on the proposal for urban renewal:
 
 > "Haden said, when asked what effect he thought the program would have on downtown Charlottesville, "I believe it will be helpful. As everybody knows, our business section of the city has been divided largely into two sections-the University section and the downtown section. This Vinegar Hill area has been all my life a very blighted area and it seems to me that if the situation is corrected, the whole business area of Charlottesville will be much helped.""
-
-<br/>
 
 Why not, instead of "correcting" Vinegar Hill by demolishing it, invest in Vinegar Hill? The answer to my question is racial politics and how it systematically limited economic access to Black people. The history of redlining and risk classification based on stereotypes were levied against them to prevent any access to economic/financial instruments. In the case of Vinegar Hill, this was no different. Urban renewal meant the wholesale destruction of their properties and businesses for the development of White business owners. Urban renewal meant they were forced out of their homes and relocated to public housing without being compensated. Urban renewal was never for the Black community on Vinegar Hill.
 
 What I gathered from Vinegar Hill is what happens when there is an imbalance in development. What happened at Vinegar Hill is a story of inequitable development and gentrification. Where the inhabitants of a place had no say in the matter, no voice, and no real political power to state themselves. The case brought to light how inextricably politics is bound up with economics and has profound impacts on the ways politics can legitimize itself to do harm. The real kicker is when I found out how the land was taken: by eminent domain and White voters.
 
-<div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
-    <img src="{{ 'assets/life/midterm/urb1.jpg' | relative_url }}" class="" style="width: 40%; margin: 0 2.5%;">
-    <img src="{{ 'assets/life/midterm/urb2.jpeg' | relative_url }}" class="" style="width: 40%; margin: 0 2.5%;">
+<div style="text-align: center; margin-top: 30px; margin-bottom: 30px; display: flex; justify-content: space-around;">
+    <img src="{{ 'assets/life/midterm/urb1.jpg' | relative_url }}" class="" style="width: 40%; margin: 0;">
+    <img src="{{ 'assets/life/midterm/urb2.jpeg' | relative_url }}" class="" style="width: 40%; margin: 0;">
 </div>
 
 5 years before the demolition actually occurred. A guy named Lipset wrote on **Social Prerequisites of Democracy**. Relating it with the case of Vinegar Hill made me wonder if the paper addressed race relations? From the viewpoint of the White developers, Democracy was working great. They had systems of economic development education, income equality, and an ongoing project of urban renewal. On top of that, the people of Charlottesville were checking off the boxes for democratic values like civic engagement and legitimizing institutions. 
@@ -62,29 +58,19 @@ Closing up the Vinegar Hill section, I have a bit of hope as something egregious
 
 What does it mean to attend a school that sells bonds? It means that I, as a student, am a financial object for the university. To that extent, I am only a part of the economic calculus of UVA to grow. Really, I get a deep sense of anxiety as it's a pretty depressing line to go down. Because the implication is clear, a neoliberal university will only have to meet the status quo and maintain appearances in order for it to "survive." I'm not saying economics is not important; I'm saying that when it ends up subsuming everything else, then it might become a problem. It is clear that the university values the continuation of development, but it's mainly a question of to what end.
 
-<br/>
-
 Rehashing Sen's quote from Development as Freedoms:
 
 > "The ends and means of development call for placing the perspective of ~~freedom~~ capital at the center of the stage."
 
-<br/>
-
 Just reflecting on my own biases, I ask this question: Why is the pragmatic man viewed as better than the ivory tower man? They are both extreme cases. But one of them intuitively feels more good than the other. So which of the two does UVA produce, and for who? Currently, it would be no stretch of the imagination to say that universities produce for the sectors. This production story is being played out in real-time, with the trending majors correlating 1:1 with the trending jobs on the market. I mean, there is no hiding it: the goal of the university is to be economically and commercially practical. Not to argue for the ivory tower, but I think not everything should be pragmatic. The point of theory is that it can be made practical. Higher education should not be solely focused on pragmatics; it must also nurture creativity and intellectual curiosity, empowering students to question assumptions and drive meaningful social change beyond mere economic outcomes.
-
-<br/>
 
 So when something like v is said for our 2030 plan; I'm extremely skeptical.
 
 > "In all this, we must never forget that our ultimate purpose, especially as a public university, is to serve the public through an unending and fearless search for truth and through our teaching, our research, and our health care." 
 
-<br/>
-
 Especially when it was prefaced with
 
 > "In 2030, universities will be judged in part by how well they are run and whether they are ethical institutions— whether they are great places to work and good partners with their surrounding communities; whether they are engines of economic growth; and whether they reach students, of any age or walk of life, who do not have the good fortune to enroll as full-time students. Attention will be paid to the return on investment, whether it is the investment that families make when paying tuition or the investment that legislatures make when allocating funds to support universities."
-
-<br/>
 
 Given my pessimism, but also seemingly wishful thinking for higher education, I want to make space for the future. Aren't we students bringing in these values and beliefs toward what we want from the university? The optimism here is that really the university does not have any choice but to play by these games of growing endowment funds, getting research grants, and practically teaching workable skills. I'm optimistic because we are the students that make up the institution! I think we have some say? Okay, I was motivated for a second, but it faded away. Why? Thinking back to Vinegar Hill when economic development was achieved through disregarding human/political dimensions, the same is happening here, just more subtle and less racist. UVA doesn't care as long as it gets paid.[^3]
 
@@ -92,9 +78,9 @@ Given my pessimism, but also seemingly wishful thinking for higher education, I 
 
 Despite everything I have said, I'm hopeful. Development as a project historically has, in my view, taken some wrong turns and often veering way off-course. The hard part in outright rejecting it is that there has been good that has come of it. Even if it required enslaved people or the many, many horrendous, inhumane, unethical steps here... I think this is why, in class, the question of if inequality is a problem is posed. At face value, yes. However, the output of colonialism was massive improvements in technologies, which has been shown in the data to have made "everyone" better off. Obviously, it is still a problem. But, there is a more profound truth to be teased out.
 
-<div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
-    <img src="{{ 'assets/life/midterm/life-expectancy.png' | relative_url }}" class="" style=" width: 42.5%; margin: 0 2.5%;">
-    <img src="{{ 'assets/life/midterm/global-vaccination-coverage.png' | relative_url }}" class="" style="width: 42.5%; margin: 0 2.5%;">
+<div style="text-align: center; margin-top: 30px; margin-bottom: 30px; display: flex; justify-content: space-around;">
+    <img src="{{ 'assets/life/midterm/life-expectancy.png' | relative_url }}" class="" style=" width: 42.5%; margin: 0;">
+    <img src="{{ 'assets/life/midterm/global-vaccination-coverage.png' | relative_url }}" class="" style="width: 42.5%; margin: 0;">
 </div>
 
 My own reflections on development after doing the case studies are as follows:
