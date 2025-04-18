@@ -13,7 +13,7 @@ My journey into photography started with a reversal I guess. I never really took
 
 I mean there were some merits to buying a film camera; I even got it at a discount ($50 for an Olympus OM-4[^2]). One of those merits is hard-headedly trying to understand the settings of a camera like lens, aperture, focus, shutter-speed and iso. The other is reading all the old **beautifully** designed manuals trying to figure out how to operate the film camera. These merits are all offset by the simple fact that you can't see the results of your photography until you get the film developed; which costs **a lot** for a college student.
 
-Anyways I recently go intrigued by it again as an art form so I wanted to share some current books and works about photography that will inform my future endeavors into the craft.
+I recently got intrigued with photography again so I wanted to share some current books and works about photography that will inform my future endeavors into the craft.
 
 ## books
 
