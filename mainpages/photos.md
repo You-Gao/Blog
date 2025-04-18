@@ -1,11 +1,11 @@
 ---
 date:             2025-03-17
 description:  >-
-  working in the world...
+  sharing pictures of my life
 layout:           style
 tags:
 title: >-
-  work
+  photos
 permalink: /photos/
 ---
 <figure class="container-lg" style="padding: 0;">
