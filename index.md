@@ -2,7 +2,7 @@
 categories:       blog
 date:             2024-07-14
 description:  >-
-  a very informative and super special blog.
+  abandon all hope, ye who enter here.
 lang:             en
 last_modified_at: 2024-07-14
 layout:           style
