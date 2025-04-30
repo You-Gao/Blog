@@ -12,13 +12,13 @@ comment: paper mario + hxh
 
 <img src="{{ 'assets/games/clair.png' | relative_url }}" alt="Logo" class="game_logo"/>
 
+## Intro
+
 Recently finished up with classes and found out my brother had an Xbox Game Pass subscription. Lo and behold, this game was recently released and was available via the game pass, so I decided to play it. And having completed the game, I'd have to agree with the 9/10 rating on both Steam and IGN. *Clair Obscur: Expedition 33* made me regain hope for triple-A game development as a segment of the game industry with the potential to create "good games".
 
 The game as a concept isn't necessarily novel. Especially the whole discussion of how "novel" the interactive turn-based combat system is, when Paper Mario did that on the N64. Nevertheless, no game development company has taken that turn-based combat system and put it in Unreal Engine. The developers saw this gap in the market for "a high-fidelity graphics turn-based RPG" and decided to craft the masterpiece that is *Clair Obscur: Expedition 33*[^1]. 
 
-## Gameplay Mechanics
-
-### Dodge & Parry
+## Dodge & Parry
 
 The combat system + the graphics make the entire game. The reason why an interactive turn-based system does so well is that it creates immersion. It rewards and encourages the player not to go on autopilot by adding an incentive to participate in each encounter. Well, unless you are playing on story mode and can face-tank everything, dodging, at minimum, is required to defeat most of the enemies. In contrast, with non-interactive turn-based games, it easily gets boring after you finish a build, and you mindlessly do the same rotation every battle.
 
@@ -26,7 +26,7 @@ Another point of praise is how "smooth" and good it feels to execute dodges and 
 
 My only critique of where this fails is largely a problem of level design more than anything. I call it "victory roading" the player, as an analogy to the long and repetitive battles before a story checkpoint, where it begins to feel like an endurance game rather than anything else. There is a specific segment of the game in which this occurs, and even this combat system falls victim to "victory roading". Due to the sheer amount of the same mobs you fight, it gets to the point where you have already memorized all their patterns and it becomes pretty banal clearing through them. Besides this critique, I'd give the combat system an S.
 
-### Character Builds
+## Character Builds
 
 The character build customization in *Clair Obscur: Expedition 33* is standard. Each of the playable characters gets different weapons, and each of the different weapons plays a role in building a path for the character, i.e., damage, support, and tank. Characters have attribute points to allocate per level, a skill tree to unlock new moves, and outfit customizations. 
 
