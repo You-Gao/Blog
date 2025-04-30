@@ -81,7 +81,7 @@ With all that being said, Guilty Gear is a game that is fun for me, and I recogn
 
 On another point, Guilty Gear made me reflect on the point of playing games. Often, it can lend itself to this individualistic point of winning above all else; this is a very bland way of understanding games, in my opinion. Fighting games are very different from the conception of winning in relation to something like chess. It provides a layer to the turn-based interaction and provides a stronger argument for the social nature of games. As chess has been solved via game theory and algorithms, fighting games, to an extent, haven't. The explanation for that could be the social aspect and complexities of this multivariable-multidimensional social calculus happening in the backdrop of a game[^1].
 
-<br/><br/>
+<br/>
 
 If you want to play the game: [https://www.guiltygear.com/ggst/en/](https://www.guiltygear.com/ggst/en/)
 
