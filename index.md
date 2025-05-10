@@ -35,9 +35,9 @@ title: >-
     
     const name = div.querySelector('a').innerHTML
     const num = div.getAttribute('data-max')
-    const pString = `Photo #${num}: ${name}`
+    const pString = `photo #${num}: ${name}`
     const p = document.querySelector('p')
-    p.innerHTML = pString
+    p.innerHTML = `<a href="{{ site.url }}/photos/${name}">${pString}</a>`;
   }
 
   findDiv()
