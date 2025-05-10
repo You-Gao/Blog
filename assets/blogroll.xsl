@@ -164,7 +164,7 @@
                       You Gao
                   </li>
                   <li><a href="/">yougao.dev</a></li>
-                  <li><a href="/blogroll.xml">blogroll</a></li>
+                  <li><a href="/blogroll.xml" style="background: lightgrey;">blogroll</a></li>
                 </ul>
               </div>
 
@@ -190,7 +190,7 @@
               </li>
 
               <li>
-                <a class="u-email" href="/feed.xml">
+                <a class="u-email" href="/feed.xml" >
                     <svg
                       width="16"
                       height="16"
