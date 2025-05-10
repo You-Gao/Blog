@@ -35,7 +35,7 @@ permalink: /about/
 
 <h2>why are you writing?</h2>
 
-the reason i started this blog was to explore the random thoughts that show up in my mind. for any blog post then, were written because they contained ideas which were interesting, perplexing maybe, usually existential, or funny; enough so that it warranted me spending time to write about it.
+the reason i started this blog was to explore the random thoughts i had in mind. for any blog post then, were written because they contained ideas which were interesting, perplexing maybe, usually existential, or funny; enough so that it warranted me spending time to write about it.
 
 <h2>motifs?</h2>
 

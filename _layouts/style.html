@@ -18,6 +18,7 @@
             const savedTheme = localStorage.getItem('theme') || 'normalize';
             document.write('<link id="theme-style" rel="stylesheet" href="/assets/' + savedTheme + '.css">');
         })();
+
     </script>
 </head>
 
@@ -258,7 +259,18 @@
 
 <section id="go-top">
     <a href="#top" role="button" aria-label="Scroll to top" 
-        title="Scroll to top" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+        title="Scroll to top" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;"
+        mouseover="() => {
+        const icon = document.querySelector('#go-top svg');
+        icon.style.transform = 'scale(1.2)';
+        icon.style.transition = 'transform 0.2s ease-in-out';
+        }"
+        mouseout="() => {
+        const icon = document.querySelector('#go-top svg');
+        icon.style.transform = 'scale(1)';
+        icon.style.transition = 'transform 0.2s ease-in-out';
+        }"
+        >
         <svg xmlns="http://www.w3.org/2000/svg" width="40" height="20" fill="#6c7086" class="bi bi-arrow-up"
             viewBox="0 0 16 16">
             <path fill-rule="evenodd"

@@ -74,5 +74,30 @@
 
         button.appendChild(img);
         document.getElementById('react-icon').appendChild(button);
+
+        setNavigation();
     });
+
+    function setNavigation() {
+        const currentUrl = window.location.href;
+        const firstSlashIndex = currentUrl.indexOf('/', currentUrl.indexOf('://') + 3);
+        const path = currentUrl.substring(firstSlashIndex);
+
+        if (path.startsWith('/fun')) {
+            document.querySelector('.nav-link[href="/fun"]').classList.add('active');
+        } else if (path.startsWith('/books')) {
+            document.querySelector('.nav-link[href="/books"]').classList.add('active');
+        } else if (path.startsWith('/life')) {
+            document.querySelector('.nav-link[href="/life"]').classList.add('active');
+        } else if (path.startsWith('/work')) {
+            document.querySelector('.nav-link[href="/work"]').classList.add('active');
+        } else if (path.startsWith('/photos')) {
+            document.querySelector('.nav-link[href="/photos"]').classList.add('active');
+        } else if (path.startsWith('/about')) {
+            document.querySelector('.navbar-brand[href="/about"]').classList.add('active');
+        } 
+        else {
+            document.querySelector('.navbar-brand[href="/"]').classList.add('active');
+        }
+    }
 </script>
