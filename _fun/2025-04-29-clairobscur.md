@@ -6,6 +6,9 @@ layout:           style
 name: >- 
     Clair Obscur: Expedition 33
 comment: paper mario + hxh
+
+title: >-
+    Clair Obscur: Expedition 33
 ---
 
 # Clair Obscur: Expedition 33
@@ -19,6 +22,8 @@ Recently finished up with classes and found out my brother had an Xbox Game Pass
 The game as a concept isn't necessarily novel. Especially the whole discussion of how "novel" the interactive turn-based combat system is, when Paper Mario did that on the N64. Nevertheless, no game development company has taken that turn-based combat system and put it in Unreal Engine. The developers saw this gap in the market for "a high-fidelity graphics turn-based RPG" and decided to craft the masterpiece that is *Clair Obscur: Expedition 33*[^1]. 
 
 ## Dodge & Parry
+
+<iframe class="my-3" width="100%" height="300" src="https://www.youtube.com/embed/YBMu9n49_S0?si=g6rS2QyYxQXxNVmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The combat system + the graphics make the entire game. The reason why an interactive turn-based system does so well is that it creates immersion. It rewards and encourages the player not to go on autopilot by adding an incentive to participate in each encounter. Well, unless you are playing on story mode and can face-tank everything, dodging, at minimum, is required to defeat most of the enemies. In contrast, with non-interactive turn-based games, it easily gets boring after you finish a build, and you mindlessly do the same rotation every battle.
 
