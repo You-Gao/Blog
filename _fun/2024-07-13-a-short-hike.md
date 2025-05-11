@@ -69,35 +69,16 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 **Golden Feathers:** A crucial collectible in the game, golden feathers enhance the character's abilities, allowing for additional jumps or extended climbing. This item symbolizes growth and progression. As the player collects more of these feathers they feel the sense of dynamic growth through the enhanced capabilities granted and how those capabilities "unlock" more potential areas of the mountain to explore.
 
 **Mountain Top:** The game's main objective is to reach the peak of a tall mountain, initially inaccessible to the player. Collecting golden feathers grants more freedom of movement, enabling further exploration. The goal of getting the top sets a clear, but ephemeral measurement for the player's progress.
-<div class="picture-grid3" style="">
-  <img src="{{ 'assets/games/a-short-hike/qg_climb.png' | relative_url }}" alt="Climb">
-  <img src="{{ 'assets/games/a-short-hike/qg_fclimb.png' | relative_url }}" alt="FClimb">
-  <img src="{{ 'assets/games/a-short-hike/qg_fsummit.png' | relative_url }}" alt="Summit"/>
-</div>
 
 **Mountain:** The mountain also serves as the general playing ground for the player with different mechanics scattered throughout it and hidden locations spread throughout. Throughout the play-time of the player whether they are set-out by NPCs or in search of chests, the mountain allows the player to orient themselves and set-out new micro goals.
-<div class="picture-grid3" style="">
-  <img src="{{ 'assets/games/a-short-hike/qe_chest.png' | relative_url }}" alt="Chest">
-  <img src="{{ 'assets/games/a-short-hike/qe_feather.png' | relative_url }}" alt="Feather">
-  <img src="{{ 'assets/games/a-short-hike/qe_random.png' | relative_url }}" alt="Random"/>
-</div>
 
 **NPCs**: In "A Short Hike," NPCs  provide the player with tasks that offer both growth and narrative depth. While the quests themselves grant golden feathers and encourage exploration, the NPC add a layer of storytelling and character development. 
-<div class="picture-grid3" style="margin-bottom:10px;">
-  <img src="{{ 'assets/games/a-short-hike/npc_frog.png' | relative_url }}" alt="aww hec">
-  <img src="{{ 'assets/games/a-short-hike/npc_duck.png' | relative_url }}" alt="howdy">
-  <img src="{{ 'assets/games/a-short-hike/npc_bill.png' | relative_url }}" alt="fisherman"/>
-</div>
 
 **Quests:** The main avenue for the player to collect more of the golden feathers is through completing quests given by NPCs scattered throughout the mountain. Each of these quests focuses on a unique aspect of the game while granting the player more feathers. The existence of these quests incentivizes the player to actively search for NPCs and enframe them in more to the world of "A Short Hike".
 
 **Chests:** Chests are scattered throughout the mountain and gives coins upon opening them. Coins are necessary to purchase more Golden Feather's so the existence of these chests incentivizes the player to explore and be more tuned in to their surroundings.
 
 **Mountain Top (Frozen):** At a specific altitude of the mountain, the golden feathers are frozen upon use and is replenished when the player gets to a warm zone (campfire or warm water). The mechanic goes on the create a sense of safety (players need to remember where they are) and challenge (sparingly use feathers), which generate two different dynamics: path-memorizing and skill progression.
-<div class="picture-grid2">
-  <img src="{{ 'assets/games/a-short-hike/f_pool.png' | relative_url }}" alt="Mountain Pool">
-  <img src="{{ 'assets/games/a-short-hike/f_fire.png' | relative_url }}" alt="Mountain Fire">
-</div>
 
 ## Design Choices:
 
@@ -132,7 +113,5 @@ With that said, the motivator missing for me is the people climbing along with m
 Here is a clip of the most memorable moment for me in "A Short Hike"
 
 <iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/KEJDFSUUzCo?si=__ZUXXb8rP5HVS-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<br/><br/>
 
 If you want to play the game: [https://ashorthike.com/](https://ashorthike.com/)

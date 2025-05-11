@@ -42,8 +42,6 @@ Lore, it's definitely important, with the design tying in with the story. Lowkey
 
 10/10 game.
 
-<br/>
-
 If you want to play the game: [https://www.expedition33.com/](https://www.expedition33.com/)
 
 

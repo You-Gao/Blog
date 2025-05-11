@@ -69,8 +69,6 @@ In a way, it is like a liberalist utopia because there really is no downside to 
 
 Good game, should play 10/10.
 
-<br/><br/>
-
 If you want to play the game: [https://civilization.2k.com/](https://civilization.2k.com/)
  
 <br/>
