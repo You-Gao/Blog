@@ -1,4 +1,4 @@
--
+---
 date:             2024-08-15
 description:  >-
     The ways people learn and relate things.
@@ -9,7 +9,7 @@ name: >-
   Learning Forwards and Backwards
 ---
 
-# Learning Forwards and Backwards
+# Learning Forwards and Backwards [^4]
 
 In Plato's Meno, there is a quote that goes:
 
@@ -42,3 +42,4 @@ Kolb, David A.. “Experiential Learning: Experience as the Source of Learning a
 [^1]: I ended up not using those dichotomies explicitly, but they can be found underpinning the context of learning
 [^2]: I'd like to go on a tangent for epistemic trust and truth, but I will save it
 [^3]: I found a paper to basically confirm the bias the things I wrote about; here is a [screenshot](https://blog.yougao.dev/assets/life/learning/snippet.png) of a section.
+[^4]: (5/13/2025) It is now that after learning more about cognitive science, I was getting at the same idea of Lakoff in "Metaphors We Live By" and our symbolic-semantic interpretations of the world.
