@@ -42,12 +42,14 @@
             const themeStyle = document.getElementById('theme-style');
             const toggleIcon = document.getElementById('toggle-icon');
             themeStyle.href = '/assets/' + themeName + '.css';
+            console.log('Theme changed to:', themeName);
             toggleIcon.src = '/assets/' + themeName + '.webp';
             localStorage.setItem('theme', themeName);
         };
 
         const handleClick = () => {
             const currentTheme = localStorage.getItem('theme') || 'normalize';
+            console.log('Current theme:', currentTheme);
             if (currentTheme === 'normalize') {
                 setTheme('normalize_invert');
             } else {
