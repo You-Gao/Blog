@@ -23,24 +23,26 @@
 
 
 <style>
+    /* CSS FOR GAME VIDEOS */
     .video-grid {
         display: grid;
-        grid-template-columns: repeat(2, 1fr); /* Keeps the 2-column layout */
-        grid-column-gap: 10px; /* Adjusts the gap between columns (horizontal) */
-        grid-row-gap: 0px; /* Reduces the gap between rows (vertical) */
-        max-width: 1280px; /* Adjust based on your preference */
+        grid-template-columns: repeat(2, 1fr); 
+        grid-column-gap: 10px; 
+        grid-row-gap: 0px;
+        max-width: 1280px; 
         }
 
     .video-grid div {
-        width: 100%; /* Adjust this to control the size */
-        margin: auto; /* Center the video in the div */
+        width: 100%; 
+        margin: auto; 
         }
 
     .video-grid video {
-        width: 100%; /* Makes video fill its container */
-        height: 100%; /* Maintains aspect ratio */
+        width: 100%; 
+        height: 100%;
         }
 
+    /* CSS FOR ALL IMAGES */
     body main img {
         max-width: 100%;
         max-height: 300px;
@@ -58,26 +60,26 @@
         width: 100%;
         margin: 0;
         }
-
-    #player-mechanics p {
-        margin-bottom: 0 !important;
-        }
     
-    /* Header and Footer */
-    .nav-item {
-        vertical-align: bottom;
-    }
-
-    .nav-link {
-        color: black;
-        vertical-align: bottom;
-    }
-
+    /* CSS OVERRIDES FOR BS5 HEADER AND FOOTER SECTIONS */
     .italic-link {
         font-style: italic;
     }
+
+    .nav-link {
+        transition: none;
+    }
     
+    /* CSS TO STRUCTURE THE PAGE */
     /* https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/ */
+    /* 
+    
+    Explanation: Set the body to a column flex container with a minimum height of 100vh.
+    The .Site class is the main container for all header, body, and footer content.
+    The min-height of 100vh ensures that the footer will always be at the bottom of the page, even if the content is short.
+    The .Site-content class contains the body content and is set to flex: 1, which allows it to grow and fill the available space.
+    */
+
     .Site {
         display: flex;
         min-height: 100vh;
@@ -88,39 +90,14 @@
         flex: 1;
     }
 
-    /* home page */
-    .cards{
-        transform: scale(0.9);
-        transition: all 0.2s ease;
-        cursor: pointer;
-    }
-    
 
-    .card-text {
-        font-size: 17px !important;
-    }
-
-
+    /* CSS FOR SMALLER SCREENS */
     @media (max-width: 768px) {
-
-        
-        .card-text {
-            font-size: 0px !important;
-        }
-        .card-title {
-            font-size: 30px !important;
-        }
-        .card-subtitle {
-            font-size: 20px !important;
-        }
         .col-md.hidden-lg-down.hidden-md-up {
             margin-left: -80px;
             display: flex;
         }
-        .cards {
-            flex-basis: 50%;
-            max-width: 50%;
-        }
+        
         .row-cols-4 {
             display: flex;
             justify-content: center;
@@ -131,6 +108,7 @@
         figcaption {
             margin-top: -5px !important;
         }
+
         /* some random css */
         #navbar {
             margin-top: 0 !important;
@@ -146,32 +124,16 @@
         }
     }
 
-    .cards:hover{
-    
-        box-shadow: 5px 4px 10px -2px #e9ecef;
-        transform: scale(1.01);
-    }
-
-    .card img {
-        height: 150px;
-        object-fit: fill; /* This ensures the image covers the area without distorting its aspect ratio */
-      }
-
     /* random changes i need */
     blockquote {
-    font-size: large !important; /* Forcefully override */
+    font-size: large !important; 
 	}
 
     .footnotes {
-    font-size: large !important; /* Forcefully override */
+    font-size: large !important; 
     }
 
-    .photo-container {
-        translate: 0 0;
-        margin-top: 50px;
-    }
-
-    .markdown-body ul {
+    .markdown-body ul { /* matches paragraphs margin */
         margin-bottom: 1.25rem !important;
     }
 
