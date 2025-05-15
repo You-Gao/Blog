@@ -39,12 +39,16 @@
                 var text;
 
                 if (header.tagName === 'H2' && header.innerHTML === '<br>') {
-                    header.remove();
-                    continue;
+                    // footnotes
+                    // add an id to the header
+                    header.id = 'footnotes';
+                    Item.href = '#' + header.id;
+                    Item.innerHTML = "╹━ Footnotes";
+                    Item.classList.add('nav-h2');
                 }
                 
                 if (header.innerText.length > 25) {
-                        text = header.innerText.substring(0, 25) + '...';
+                    text = header.innerText.substring(0, 25) + '...';
                 }
                 else {
                     text = header.innerText;
@@ -62,7 +66,7 @@
                     Time.classList.add('time');
                     List.appendChild(Time);
                 }
-                else if (header.tagName === 'H2') {
+                else if ((header.tagName === 'H2') && (header.innerHTML !== '<br>')) {
                     var Item = document.createElement('a');
                     Item.href = '#' + header.id;
                     Item.innerHTML = "╹━ "+ text;
@@ -112,8 +116,20 @@
         function matchScrolltoBlogNav() {
             var scrollPosition = window.scrollY || document.documentElement.scrollTop;
             var headers = document.querySelectorAll('.blog-nav a');
-            // reverse the order of headers
             headers = Array.from(headers).reverse();
+
+            var maxScroll = document.documentElement.scrollHeight - window.innerHeight;
+
+            if (scrollPosition >= maxScroll - 1) {
+                headers[0].style.textDecoration = 'underline dotted';
+                headers[0].style.textDecorationThickness = '2px';
+                headers[0].style.textDecorationOffset = '2px';
+                for (var i = 1; i < headers.length; i++) {
+                    headers[i].style.textDecoration = 'none';
+                }
+                return;
+            }
+
             for (var i = 0; i < headers.length; i++) {
                 var header = headers[i];
                 var headerPosition = document.querySelector(header.getAttribute('href')).getBoundingClientRect().top + window.scrollY;

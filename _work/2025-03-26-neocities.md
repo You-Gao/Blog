@@ -34,9 +34,9 @@ Performance is a vague term when it comes to UI/UX. What I mean by performance h
 
 ### Be Different
 
-Okay, yes, be different? So what? Of course creating a differentialbe UX experience requires you to be different, it's in the name! Here me out though, I say "Be Different" to illustrate a deeper point. Which is, in order to be different you have to fundamentally understand the technology you are working with and what is vaguely possible or not. This point is akin to artists as they produce art with different materials, canvases, and tools; each choice mattering importantly to the composition of the piece.
+Okay, yes, be different? So what? Of course creating a differentiable UX experience requires you to be different, it's in the name! Here me out though, I say "Be Different" to illustrate a deeper point. Which is, in order to be different you have to fundamentally understand the technology you are working with and what is vaguely possible or not. This point is akin to artists as they produce art with different materials, canvases, and tools; each choice mattering importantly to the composition of the piece.
 
-Throughout my deep-dive, I encountered sites made fully in WebGL, sites without any css, sites with just images, and generally sites which broke conventional design rules. Importantly, these pages did so by playing with the boundary of web-design in their own. Just like an artist selects oil paint over watercolor for a specific effect, a web designer who deeply understands HTML, CSS, JavaScript, and beyond(WASM) can make more deliberate design choices rather than just relying on templates or trends.
+Throughout my deep-dive, I encountered sites made fully in WebGL, sites without any css, sites with just images, and generally sites which broke conventional design rules. Importantly, these pages did so by playing with the boundary of web-design in their own. Just like an artist selects oil paint over watercolor for a specific effect, a web designer who deeply understands HTML, CSS, JavaScript, and beyond can make more deliberate design choices rather than just relying on templates or trends.
 
 
 ## Closing Thoughts
