@@ -5,18 +5,18 @@ dirs = os.listdir('.')
 def check_quotes(lines):
     AFTERQUOTE = False
     for line in lines:
-        if line.startswith('>'):
-            if not line.strip().endswith('"'):
-                print(f'Error: {line.strip()}')
-                return False
-            AFTERQUOTE = True
-        elif AFTERQUOTE:
-            # check if lines not a figcaption return false
-            if "figcaption" not in line:
-                print(f'Error: {line.strip()}')
-                return False
-            else:
-                AFTERQUOTE = False
+        # if line.startswith('>'):
+        #     if not line.strip().endswith('"'):
+        #         print(f'Error: {line.strip()}')
+        #         return False
+        #     AFTERQUOTE = True
+        # elif AFTERQUOTE:
+        #     # check if lines not a figcaption return false
+        #     if "figcaption" not in line:
+        #         print(f'Error: {line.strip()}')
+        #         return False
+        #     else:
+        #         AFTERQUOTE = False
         # if line.startswith('>'):
         #     if not line.strip().endswith('"'):
         #         print(f'Error: {line.strip()}')
@@ -27,6 +27,9 @@ def check_quotes(lines):
         # if line.endswith(':'):
         #     print(f'Error: {line.strip()}')
         #     return False
+        if ':' in line and line.strip().endswith(':'):
+            print(f'Error: {line.strip()}')
+            return False
            
     return True
 
