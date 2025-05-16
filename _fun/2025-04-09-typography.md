@@ -39,7 +39,7 @@ I don't know of any script typefaces that I like.
 
 <br/>
 ---
-[^1]: Post inspired by "Thinking with Type" and "The Elements of Typographic Style." 
+[^1]: Post inspired by "*Thinking with Type*" and "*The Elements of Typographic Style.*" 
 [^2]: (I will answer it in the footnotes) In my deep-dive, I found that we only confer those fonts' meaning "after the fact." It's not because there are formal elements to Nerd font that make it "*nerdy*" but rather because Nerd font is fit for the task of representing code that it **is** "*nerdy.*"
 [^3]: (I will also answer this) The answer here is yes, there is a "*language*" or a "*formal*" way to represent content. The important part here that I didn't pick up on is that the form really follows function. Just as math represents the concept of numbers, the same holds true about typography."
 [^4]: Interestingly enough, though, it follows much of the parallels of "*time-frames*" that were found in literature and art.

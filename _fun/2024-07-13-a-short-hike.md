@@ -1,7 +1,7 @@
 ---
 date:             2024-07-13
 description:  >-
-  A reflection on "A Short Hike"
+  A reflection on "*A Short Hike*"
 title: >-
   A Short Hike
 layout:           style
@@ -104,13 +104,13 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 
 ## Conclusion and Reflection:
 
-"A Short Hike" effectively blends simple mechanics with deep, meaningful themes. The journey up the mountain is a testament to the player's growth, mirroring real-life experiences of learning, exploration, and the satisfaction of achieving personal goals. Through its design, the game creates a fulfilling and introspective experience for the player.
+"*A Short Hike*" effectively blends simple mechanics with deep, meaningful themes. The journey up the mountain is a testament to the player's growth, mirroring real-life experiences of learning, exploration, and the satisfaction of achieving personal goals. Through its design, the game creates a fulfilling and introspective experience for the player.
 
 My own reflections on the game led me to the conclusion that I should go on a hike sometimes. Having thought about what a hike means to me, I realized that the only reason why I didn't go on hikes was because of my previous conceptions of them. I always thought of them like solo player stick-to-the-path adventures and the reward was the view. Not to discount that, but I wouldn't see myself hiking for that reason. Hiking for physical growth is another reason as well, but if that is the only thing, it's more efficient to hit the treadmill.
 
-With that said, the motivator missing for me is the people climbing along with me. In the actual world, a hiker wouldn't normally encounter a shady person dealing enhancements or in search of 15 seashells (hiking with micro-missions sounds cool). I've also heard from others that a hike might include going off the path and then getting lost to eventually find yourself at the scenic view. At the end of the day, what makes "A Short Hike" and could make real hikes are the people you go with. Because it's really about the people; climbing the mountain is only a goal.
+With that said, the motivator missing for me is the people climbing along with me. In the actual world, a hiker wouldn't normally encounter a shady person dealing enhancements or in search of 15 seashells (hiking with micro-missions sounds cool). I've also heard from others that a hike might include going off the path and then getting lost to eventually find yourself at the scenic view. At the end of the day, what makes "*A Short Hike*" and could make real hikes are the people you go with. Because it's really about the people; climbing the mountain is only a goal.
 
-Here is a clip of the most memorable moment for me in "A Short Hike"
+Here is a clip of the most memorable moment for me in "*A Short Hike*"
 
 <iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/KEJDFSUUzCo?si=__ZUXXb8rP5HVS-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

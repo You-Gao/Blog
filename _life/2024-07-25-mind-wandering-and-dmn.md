@@ -18,7 +18,7 @@ Yeah, I thought I would have written more, but I don't think I have more to say 
 - [Intentional vs. Unintentional Wandering](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5004739/)
     - Found that the DMN "*wandering*" can be both intentional or unintentional 
 - [DMN Promotes Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11047624/)     
-    - Found that the "resting network" helps with learning as well
+    - Found that the "*resting network*" helps with learning as well
 - [The Science of Mind-Wandering](https://pubmed.ncbi.nlm.nih.gov/25293689/) 
     - Comprehensive review of the topic (recommended if you want to read more) 
 

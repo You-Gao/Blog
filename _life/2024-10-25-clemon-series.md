@@ -50,4 +50,4 @@ The premise for this is simple: I get lost in an aisle and push the boundaries o
 [^2]: Reflecting before reading made me realize the order I "*consume*" the readings are important for my experience.
 [^3]: To sum it up, one must be well versed in Gadamer and Turing but also doubly disciplined in the theory of language and meanings. And the whole canon on linguistics, computation, data, philosophy. To rephrase, one must be good at the Derridean game and perform skeptically well at the positivist game.
 [^4]: For me, I read this book because I want to recognize when someone is committing sophistry or not.
-[^5]: I liked the section on Lisa and American Anti-intellectualism + "Thus Spoke Bart"
+[^5]: I liked the section on Lisa and American Anti-intellectualism + "*Thus Spoke Bart*"

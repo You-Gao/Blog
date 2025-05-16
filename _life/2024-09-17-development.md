@@ -50,7 +50,7 @@ What I gathered from Vinegar Hill is what happens when there is an imbalance in 
 
 5 years before the demolition actually occurred. A guy named Lipset wrote on **Social Prerequisites of Democracy**. Relating it with the case of Vinegar Hill made me wonder if the paper addressed race relations? From the viewpoint of the White developers, Democracy was working great. They had systems of economic development education, income equality, and an ongoing project of urban renewal. On top of that, the people of Charlottesville were checking off the boxes for democratic values like civic engagement and legitimizing institutions. 
 
-This same emphatic blind spot for those in power seems to remain at the forefront of modern development discourse. It makes sense though, because as the systematic structures and normalized beliefs become invisible, the only thing left to say is: "Why don't they just have it figured out like us?". It echoes a similar viewpoint from the DFID paper, where they discovered inequality of assets affects the distribution of development but had nothing to say on how the inequality came to be and how to concretely address it.
+This same emphatic blind spot for those in power seems to remain at the forefront of modern development discourse. It makes sense though, because as the systematic structures and normalized beliefs become invisible, the only thing left to say is: "*Why don't they just have it figured out like us?*". It echoes a similar viewpoint from the DFID paper, where they discovered inequality of assets affects the distribution of development but had nothing to say on how the inequality came to be and how to concretely address it.
 
 Closing up the Vinegar Hill section, I have a bit of hope as something egregious as this only occurs when you justify economic development **and** view a group as less than human / deserve zero social capital. I think the US has, at large, moved past the whole racism thing? Keeping this case study in mind, I want to turn towards the future and ongoing histories of development at UVA. Though the university is also haunted by its past involvements in similar displacement stories of Gospel Hill and Canada, I want to inspect the university in the present. What does it mean to attend a university that advertises human and political development but actively prides itself on having AAA bond ratings?
 
@@ -98,9 +98,9 @@ The implication, then, is that I will involve everyone in the development proces
 
 I keep reflecting more on this blog and want to rewrite or add pages of notes/edits. That's why I made this section, so I don't... Anything new or interesting will be added here. 
 
-I found an interesting video essay that aligned with a lot of the notes here. What they do different is highlight the "facile liberals"/"champagne marxists", NIMBYism (not-in-my-backyard), through using Berkeley as an example of how left-wing/progressive position holders can still reify class inequality, even willfully at times. The first 20-30 minutes or so focus on critiques of gentrification as a term, its history, and who it affects.
+I found an interesting video essay that aligned with a lot of the notes here. What they do different is highlight the "*facile liberals*"/"*champagne marxists*", NIMBYism (not-in-my-backyard), through using Berkeley as an example of how left-wing/progressive position holders can still reify class inequality, even willfully at times. The first 20-30 minutes or so focus on critiques of gentrification as a term, its history, and who it affects.
 
-After reading more about the Berkely situation, I found it funny how the history of development at Berkely is the reverse of UVA's. Berkely first established itself there and attracted people to buy up land surrounding it. Now, they don't want the university to build more housing. UVA was not the "first to be here;" instead, it expanded by actively buying out land to develop. But in our case, building affordable housing does not absolve UVA of its history of acquiring the land.
+After reading more about the Berkely situation, I found it funny how the history of development at Berkely is the reverse of UVA's. Berkely first established itself there and attracted people to buy up land surrounding it. Now, they don't want the university to build more housing. UVA was not the "*first to be here;*" instead, it expanded by actively buying out land to develop. But in our case, building affordable housing does not absolve UVA of its history of acquiring the land.
 
 <iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/37lTnnsZgZI?si=ZZkwwp-jh2PgGDP6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -116,23 +116,23 @@ Charlottesville Archive. www2.iath.virginia.edu/schwartz/archive.html.
 
 Charlottesville Archive-Texts. www2.iath.virginia.edu/schwartz/texts.html.
 
-DFID. "Growth: Building Jobs and Prosperity in Developing Countries."
+DFID. "*Growth: Building Jobs and Prosperity in Developing Countries.*"
 
-Ghertner, D. Asher. 2015. "Why Gentrification Theory Fails in Much of the World." City 19 (4): 552–63. doi:10.1080/13604813.2015.1051745.
+Ghertner, D. Asher. 2015. "*Why Gentrification Theory Fails in Much of the World.*" City 19 (4): 552–63. doi:10.1080/13604813.2015.1051745.
 
 Lipset, Seymour Martin. “Some Social Requisites of Democracy: Economic Development and Political Legitimacy." American Political Science Review, vol. 53, no. 1, Mar. 1959, pp. 69–105. https://doi.org/10.2307/1951731.
 
-"The Neo-Liberal University on JSTOR." www.jstor.org. JSTOR, www.jstor.org/stable/40342886.
+"*The Neo-Liberal University on JSTOR.*" www.jstor.org. JSTOR, www.jstor.org/stable/40342886.
 
 Progress Timeline: Advancing Our Goals. strategicplan.virginia.edu/vision. 
 
-Rose, D. "Rethinking Gentrification: Beyond the Uneven Development of Marxist Urban Theory." Environment and Planning D Society and Space, vol. 2, no. 1, Mar. 1984, pp. 47–74. https://doi.org/10.1068/d020047.
+Rose, D. "*Rethinking Gentrification: Beyond the Uneven Development of Marxist Urban Theory.*" Environment and Planning D Society and Space, vol. 2, no. 1, Mar. 1984, pp. 47–74. https://doi.org/10.1068/d020047.
 
-Roser, Max. "The Short History of Global Living Conditions and Why It Matters That We Know It." Our World in Data, 19 Mar. 2024, ourworldindata.org/a-history-of-global-living-conditions?linkId=62571595.
+Roser, Max. "*The Short History of Global Living Conditions and Why It Matters That We Know It.*" Our World in Data, 19 Mar. 2024, ourworldindata.org/a-history-of-global-living-conditions?linkId=62571595.
 
 Sen, Amartya Kumar. Development as Freedom. 1999, ci.nii.ac.jp/ncid/BA43059927. 
 
-Smith, Neil. "Gentrification and the Rent Gap." Annals of the Association of American Geographers, vol. 77, no. 3, Sept. 1987, pp. 462–65. https://doi.org/10.1111/j.1467-8306.1987.tb00171.x.
+Smith, Neil. "*Gentrification and the Rent Gap.*" Annals of the Association of American Geographers, vol. 77, no. 3, Sept. 1987, pp. 462–65. https://doi.org/10.1111/j.1467-8306.1987.tb00171.x.
 
 Urban Renewal, Vinegar Hill, 1960, Charlottesville Daily Progress Articles. edu.lva.virginia.gov/dbva/items/show/300.
 

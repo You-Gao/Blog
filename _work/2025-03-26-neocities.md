@@ -1,7 +1,7 @@
 ---
 date:             2025-03-26
 description:  >-
-    exploring ux design via "the indie web"
+    exploring ux design via "*the indie web*"
 layout:           post
 title: >-
     Neocities and UX
@@ -12,7 +12,7 @@ name: >-
 
 # Neocities & UX
 
-I went down the rabbit hole of exploring "the indie web" and "personal sites" via webrings; I think you should too. But that's not the point; this post is about me summarizing the insights I gained on web design, particularly UX design, from my adventure.
+I went down the rabbit hole of exploring "*the indie web*" and "*personal sites*" via webrings; I think you should too. But that's not the point; this post is about me summarizing the insights I gained on web design, particularly UX design, from my adventure.
 
 The reason why Neocities is such a compelling case study for UX design is precisely because the "site masters" don't have to design for the "*other*" as the site is meant to be a representation of the creator. This trait of the indie web is what I see as the core principle of UX, which is how to design an identity. UX in contrast with UI, as UI can be considered a relatively "*solved*" field in terms of best practices that have been optimized for user psychology[^1].
 
@@ -34,7 +34,7 @@ Performance is a vague term when it comes to UI/UX. What I mean by performance h
 
 ### Be Different
 
-Okay, yes, be different? So what? Of course, creating a differentiable UX experience requires you to be different, it's in the name! Here me out though, I say "Be Different" to illustrate a deeper point. Which is, in order to be different you have to fundamentally understand the technology you are working with and what is vaguely possible or not. This point is akin to artists as they produce art with different materials, canvases, and tools; each choice matters importantly to the composition of the piece.
+Okay, yes, be different? So what? Of course, creating a differentiable UX experience requires you to be different, it's in the name! Here me out though, I say "*Be Different*" to illustrate a deeper point. Which is, in order to be different you have to fundamentally understand the technology you are working with and what is vaguely possible or not. This point is akin to artists as they produce art with different materials, canvases, and tools; each choice matters importantly to the composition of the piece.
 
 Throughout my deep-dive, I encountered sites made fully in WebGL, sites without any css, sites with just images, and generally sites which broke conventional design rules. Importantly, these pages did so by playing with the boundary of web design in their own. Just like an artist selects oil paint over watercolor for a specific effect, a web designer who deeply understands HTML, CSS, JavaScript, and beyond can make more deliberate design choices rather than just relying on templates or trends.
 
@@ -48,6 +48,6 @@ Even though I wrote a blog on it, UX still feels a bit amorphous to me. My best 
 <br/>
 ---
 [^1]: The best practices I'm referring to is the idea of user stories -> "minimal clicks/intuitive flow" -> ui patterns.
-[^2]: Psychological experiments are "causally underpinned" by a phenomenological or a neurological explanation i.e. why changing a schema causes different qualia reports is either due to an intersubjective reason or a neuronal reason[^3].
+[^2]: Psychological experiments are "*causally underpinned*" by a phenomenological or a neurological explanation i.e. why changing a schema causes different qualia reports is either due to an intersubjective reason or a neuronal reason[^3].
 [^3]: Its similar to how say a statement (if rain -> plant growth) can be experimentally verified, but what is happening under the hood is that there's a hidden syllogism grounded in a theory of cellular biology[^4].
 [^4]: Another analogy is the difference between Thermodynamics and Statistical Mechanics.

@@ -40,7 +40,7 @@ Same thing as above occurred when revisiting some of Sartre's work in phenomenol
 
 ### Mead's Ideas:
 
-The easiest for last. Goffman seems to have developed the ideas set forth in Mead's "Mind, Self, and Society"
+The easiest for last. Goffman seems to have developed the ideas set forth in Mead's "*Mind, Self, and Society*"
 
 <br/>
 

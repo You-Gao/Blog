@@ -26,7 +26,7 @@ This paragraph is a bit of a tangent and can be skipped: Why was there minimal m
 > "The management of this complex craft will demand our best use of new languages and systems, our best adaptation of proven engineering management methods, liberal doses of common sense, and a God-given humility to recognize our fallibility and limitations."
 <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
 
-I added "State of DevOps" to this review because, from the 21st century looking back, the DevOps movement can be contextualized as an attempt to solve the organizational, interpersonal, and technical problems posed by software development. Putting it into perspective, during Brooks' time, there weren't technologies or concepts like Version Control (Git), CI/CD, API Specifications, Agile methodologies, linters, and test environments—though there were some rudimentary equivalents. Software development and system design was only in its infancy in those days. Now, in the 21st century, the DevOps movement continues to address issues related to software engineering teams, architectural decisions, formal specifications, knowledge sharing, testing, uptime, and documentation.
+I added "*State of DevOps*" to this review because, from the 21st century looking back, the DevOps movement can be contextualized as an attempt to solve the organizational, interpersonal, and technical problems posed by software development. Putting it into perspective, during Brooks' time, there weren't technologies or concepts like Version Control (Git), CI/CD, API Specifications, Agile methodologies, linters, and test environments—though there were some rudimentary equivalents. Software development and system design was only in its infancy in those days. Now, in the 21st century, the DevOps movement continues to address issues related to software engineering teams, architectural decisions, formal specifications, knowledge sharing, testing, uptime, and documentation.
 
 ## Establish a Healthy Culture
 
@@ -35,7 +35,7 @@ I added "State of DevOps" to this review because, from the 21st century looking 
 
 I don't have much to say on this part in relation to Mythical Man-Month. All I can say is that if people trust each other and work towards a common mission, along with good infrastructure, the company is set. Though maybe I can say a little, a lot of the organizational structures in the book definitely align with the common practices of today. Small and effective teams allow employees to work locally with more intentionality, and the hope is that the cascade will solidify company culture.
 
-Takeaway: Outside of having a company culture slide deck, there are very real organizational choices and practices for creating a "generative culture."
+Takeaway: Outside of having a company culture slide deck, there are very real organizational choices and practices for creating a "*generative culture.*"
 
 Chapters:
 

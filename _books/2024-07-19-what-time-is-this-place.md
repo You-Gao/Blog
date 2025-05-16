@@ -1,7 +1,7 @@
 ---
 date:             2024-07-19
 description:  >-
-  A reflection on "What Time is This Place?"
+  A reflection on "*What Time is This Place?*"
 title: >-
   What Time is This Place?
 layout:           style
@@ -22,7 +22,7 @@ We don't really experience time as if it were a clock or linearly as we think. A
 
 If I were to ask you to think about your childhood experiences, it would very much tend to be fragmented sections of key moments that you have kept as a part of that "*time.*" What experienced time is, then, seems to be a collection of long-term memories that can be drawn out by reflecting on past experiences. The relation of perceived change is the important part to state here. That change is what constructs the experience of time. The change within experiences, between experiences, and the present. 
 
-Another clarifying example is the common saying that "time speeds up when you are having fun!" It is said precisely because people are absorbed into whatever task they have, and they don't stop to attempt to perceive any changes within their environment to track time.[^1]
+Another clarifying example is the common saying that "*time speeds up when you are having fun!*" It is said precisely because people are absorbed into whatever task they have, and they don't stop to attempt to perceive any changes within their environment to track time.[^1]
 
 I'm not saying throw out your clock either because time is only experienced through the environment. There is a well-intended use of clock time for the synchronization of activities, and it drives the timing of those events, but all I'm saying is that the daily calendar doesn't dictate the experience of time. Going by yet another example is the common bureaucratic worker who does adhere to the calendar and solely changes places via calendar reminders. I would wager that their day passes all the same, with the time they clocked in and clocked out being one innocuous fog of time.
 

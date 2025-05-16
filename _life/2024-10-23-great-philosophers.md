@@ -1,16 +1,16 @@
 ---
 date:             2024-10-23
 description:  >-
-    Poststructuralism, History, and "Great Philosophers"
+    Poststructuralism, History, and "*Great Philosophers*"
 layout:           post
 title: >-
-    "Great Man Theory" and A Quiz
+    "*Great Man Theory*" and A Quiz
 layout:           style
 name: >-
-    "Great Man Theory" and A Quiz
+    "*Great Man Theory*" and A Quiz
 ---
 
-# "Great Man Theory" 
+# "*Great Man Theory*" 
 
 This blog came really from 3 distinct but related chains of thoughts and events over the past couple of days. The first was a teacher mentioning the "Great Man Theory," which finally gave a name to the thoughts I had on the historical canon of thinkers and how contemporaries view each epoch as intellectually led by the sole ideas of a peerless visionary. The second was my reflections on what the point of theory is and how I am supposed to even "*practice*" what it teaches. The third was a quiz I found and took this morning (October 23rd, 2024) on the supposedly top 100 greatest philosophers of our time. Here it is if you want to try: [https://www.sporcle.com/games/Almasa/100_Greatest_Philosophers](https://www.sporcle.com/games/Almasa/100_Greatest_Philosophers).[^7]
 
@@ -32,7 +32,7 @@ However, I'm not going at it in a way to just dunk and disregard any of the idea
 > "When your system breaks down, you see that the underlying structures of meaning (the contexts that render meaning) vary from place to place. The structures of meaning, like meaning itself, are not abstract or transcendental: The signified (the concept of breakfast, for example) is just as material (dependent on context for its meaning) as the signifier (“breakfast" in English or Frühstück in German); the seemingly abstract and universal grammar (what you’re ordering) is just as concrete and changeable as the sentence or word that refers to it."
 <figcaption class="blockquote-footer">The Theory Toolbox</figcaption>
 
-At the core of the quote is that when you encounter the ideas from a forgone time and react with ?????, it means that the meaning systems, signifier, signified, and referent, have drastically changed.[^4] For example, take Adam Smith's idea of the invisible hand. The idea of the invisible hand still has a profound impact on the cultural backbone of the markets and is one of its primary justifications. Signals from buyers and sellers coordinate an equilibrium where goods are priced "perfectly."[^2] To me, that idea has never been mapped out cleanly in the current context. Take now how buyers and sellers interact in the digital marketplace. What coordinates buyers and sellers are no longer the abstract forces but algorithms in so-called digital marketplaces. 
+At the core of the quote is that when you encounter the ideas from a forgone time and react with ?????, it means that the meaning systems, signifier, signified, and referent, have drastically changed.[^4] For example, take Adam Smith's idea of the invisible hand. The idea of the invisible hand still has a profound impact on the cultural backbone of the markets and is one of its primary justifications. Signals from buyers and sellers coordinate an equilibrium where goods are priced "*perfectly.*"[^2] To me, that idea has never been mapped out cleanly in the current context. Take now how buyers and sellers interact in the digital marketplace. What coordinates buyers and sellers are no longer the abstract forces but algorithms in so-called digital marketplaces. 
 
 This insight is the merit I see in poststructuralism. It allows translations from the past, specifically for these "great thinkers," to provide insight into the current world and generate more relevant theories. The breaks in clarity and understanding of these thinkers are not just you failing to understand what they said[^3]. The break itself opens up space to renegotiate meaning within the contemporary fabric. And to that, I say I cheers! Better to be "*dumb*" than an ideologue.
 
@@ -77,7 +77,7 @@ Wikipedia contributors. “Great Man Theory." Wikipedia, 21 Oct. 2024, en.wikipe
 <br/>
 ---
 [^1]: I find it interesting how the ways these theorists' theories have changed insofar as technology has restructured and reconfigured the very ways people interact. I look at Heidegger's concept of "enframing (Gestell)," specifically in technology, to quite literally "*box*" our worldview. Of course, not to be technologically deterministic, there is a clear tension between tool and being, being and tool.
-[^2]: Even then, the idea of the invisible hand in how it is applied to only people as economic beings ("homo economicus") is already pretty reductive.
+[^2]: Even then, the idea of the invisible hand in how it is applied to only people as economic beings ("*homo economicus*") is already pretty reductive.
 [^3]: Though, sometimes it definitely is.
 [^4]: It seems pretty meta to talk about what post-structuralism means
 [^5]: Adam Smith, Plato/Socrates are some that come to immediate mind

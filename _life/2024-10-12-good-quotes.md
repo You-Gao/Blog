@@ -42,5 +42,5 @@ I might've missed some other parts of the assemblage,[^2], but I hope I captured
 
 <br/>
 ---
-[^1]: One could argue that quotes are "timeless", but are they really if they are cherry-picked for the present?
+[^1]: One could argue that quotes are "*timeless*", but are they really if they are cherry-picked for the present?
 [^2]: I definitely did

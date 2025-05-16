@@ -107,7 +107,7 @@ Political corruption definitely happened, and there is so much documentation of 
 
 I spent most of my blog dunking on these magnates, but I want to highlight some of the good they have done in their lives. Some of these magnates went on to distribute their wealth to education. An example of two schools formed directly due to such substantial donations is Carnegie Mellon University and the University of Chicago (Rockefeller). Carnegie is a magnate who embodies the dilemma of philanthropists. Andrew Carnegie got rich off of the steel industry. He gained the same riches as his contemporaries did by exploiting the labor of workers, manipulating the market, lobbying for tariffs, and buying out competition.
 
-The most major blight on his record was the Homestead Strike that occurred under Carnegie's leadership. Workers wanted to organize into a union and demand fairer pay for the working conditions in the steel mills. The strike led to the state guard coming in and shutting down the strike. But here is the kicker: Carnegie was not officially leading at that time. He was off away in Scotland to oversee the construction of his castle. Henry Frick was put in charge, and Carnegie did distance himself from the violence but never said anything publicly. On an even more confusing note, Carnegie wrote "The Gospel of Wealth". A book which ran counter to Sumner's ideas and explicitly said this:
+The most major blight on his record was the Homestead Strike that occurred under Carnegie's leadership. Workers wanted to organize into a union and demand fairer pay for the working conditions in the steel mills. The strike led to the state guard coming in and shutting down the strike. But here is the kicker: Carnegie was not officially leading at that time. He was off away in Scotland to oversee the construction of his castle. Henry Frick was put in charge, and Carnegie did distance himself from the violence but never said anything publicly. On an even more confusing note, Carnegie wrote "*The Gospel of Wealth*". A book which ran counter to Sumner's ideas and explicitly said this:
 
 > "Those who have greatly accumulated wealth have a duty to give back to society."
 <figcaption class="blockquote-footer">The Gospel of Wealth</figcaption>
@@ -135,11 +135,11 @@ A lot of wikipedia
 <br/>
 ---
 [^1]: John Stuart Mill was a kid who did.
-[^2]: Adam Smith only wrote the words "invisible hand" once in the entirety of Wealth of Nations. The book that made Smith popular during his era was actually The Theory of Moral Sentiments. Adam Smith can then be said to be colloquially "rolling in his grave" whenever his ideas are brought up.
+[^2]: Adam Smith only wrote the words "*invisible hand*" once in the entirety of Wealth of Nations. The book that made Smith popular during his era was actually The Theory of Moral Sentiments. Adam Smith can then be said to be colloquially "*rolling in his grave*" whenever his ideas are brought up.
 [^3]: The more modern debate on this topic is the concept of meritocracy. Can you see the similarities?
 [^4]: This is an interesting case for nominal/real value, monetary theory, and the gold standard that I want to explore a bit more later.
 [^5]: It's kind of like if Jake Paul made a crypto scheme instead of Logan Paul.
 [^6]: I remember a funny bit in a lecture that said a good way to make money is become a fraud journalist, report a company to the SEC, and then short the stock.
 [^7]: [https://www.reddit.com/r/wallstreetbets/comments/1935frs/is_it_insider_trading_if_i_bought_boeing_puts/](https://www.reddit.com/r/wallstreetbets/comments/1935frs/is_it_insider_trading_if_i_bought_boeing_puts/)
 [^8]: [https://www.businessinsider.com/journalists-and-sec-employees-stock-trading-2014-3](https://www.businessinsider.com/journalists-and-sec-employees-stock-trading-2014-3)
-[^9]: Post inspired by "The Worldly Philosophers"
+[^9]: Post inspired by "*The Worldly Philosophers*"

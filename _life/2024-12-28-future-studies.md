@@ -13,11 +13,11 @@ name: >-
 
 # Future Studies
 
-New Year's, winter break, and staying home all day tends to make people reflect. I decided to spend that reflection on all the existential questions but also on what I want to study for the upcoming year. For some context on where I'm at, I am currently in my 3rd year of school and have run through the gauntlet of theory, algorithms, and low-level shenanigans. So there aren't any of the foundations left to go through, and it feels as if I have left the so-called "tutorial hell" [^1]. Quite literally, the only courses left to take for me are in the 4000s.
+New Year's, winter break, and staying home all day tends to make people reflect. I decided to spend that reflection on all the existential questions but also on what I want to study for the upcoming year. For some context on where I'm at, I am currently in my 3rd year of school and have run through the gauntlet of theory, algorithms, and low-level shenanigans. So there aren't any of the foundations left to go through, and it feels as if I have left the so-called "*tutorial hell*" [^1]. Quite literally, the only courses left to take for me are in the 4000s.
 
 Thinking back on this semester, having taken classes like compilers and security, I realize that my interest has shifted toward systems programming. That is systems programming in contrast with application programming. For example, application programming is using Node.js and knowing the APIs/quirks/idiosyncrasies of shipping out an app. On the flip side is writing Node.js, which requires knowledge of libuv, the V8 engine, jitting, comp arch, and so on [^2]. And it intuitively feels more fruitful to gain a deeper understanding of the ladder than the former. I'd try to understand what makes a framework rather than keep up with the greatest, latest, new JS framework.
 
-So the rest of the sections will just be me talking to myself, and the readers, of course, on why I chose that specific section, the subtopics of interest, and how potentially full of myself I might be to say, "I can just study that.".
+So the rest of the sections will just be me talking to myself, and the readers, of course, on why I chose that specific section, the subtopics of interest, and how potentially full of myself I might be to say, "*I can just study that.*".
 
 ## Operating Systems/Kernel Modules
 

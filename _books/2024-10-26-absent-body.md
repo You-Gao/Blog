@@ -66,4 +66,4 @@ The body only appears to the mind when it dysfunctions. The end.
 [^2]: An interesting thing Polanyi's extrapolates is to say scientific knowledge "*know-that*" is also understood in relation to the tacit.
 [^3]: A logical positivist would hate neural networks.
 [^4]: There can be shared analysis, but it has to be subject first.
-[^5]: The phrase: "the absence of evidence is not the evidence of non-absence" applies here.
+[^5]: The phrase: "*the absence of evidence is not the evidence of non-absence*" applies here.
