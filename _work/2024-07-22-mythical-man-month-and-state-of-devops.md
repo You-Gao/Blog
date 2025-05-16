@@ -61,7 +61,7 @@ Chapters:
 
 ## Faster Code Reviews
 
-> "Teams with faster code reviews have 50% higher software delivery performance. "
+> "**"Teams with faster code reviews have 50% higher software delivery performance. "**"
 <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
 
 Not to say for just removing the process of code reviews altogether, but these companies seem to have a way of performing the code review process quicker. I would imagine it is quicker due to having many experts on the team, but a point I want to reiterate from the book and also a common pain voiced today: Managers should have a semblance of technical depth, and Tech leads should have a semblance of managerial knowledge. Other than that, yeah, I mean, I guess quicker code reviews = quicker delivery times.

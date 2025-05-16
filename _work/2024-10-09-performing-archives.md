@@ -18,9 +18,9 @@ By theorizing about archives that way, I argue that performance then is a form o
 
 ## Performing Archives
 
-The most abstract but still functional definition of archives is any "concept" with a "history" in relation to material(s). That is, the fundamental pieces that make an archive are a memory function and a historical function, with material as its conduit, whether it be practices, actions, or objects.[^6][^7] For example, the Ginkgo tree near the Chapel is a part of an archive of place. Whether that be UVA, Charlottesville, or the USA, the Ginkgo tree is a part of each archives of place. In my definition, I say materials and not bodies because, to me, an archive encapsulates a collection of usually extracted, externalized knowledge. Going back to Diana Taylor, she also wrote:[^1] 
+The most abstract but still functional definition of archives is any "*concept*" with a "*history*" in relation to material(s). That is, the fundamental pieces that make an archive are a memory function and a historical function, with material as its conduit, whether it be practices, actions, or objects.[^6][^7] For example, the Ginkgo tree near the Chapel is a part of an archive of place. Whether that be UVA, Charlottesville, or the USA, the Ginkgo tree is a part of each archives of place. In my definition, I say materials and not bodies because, to me, an archive encapsulates a collection of usually extracted, externalized knowledge. Going back to Diana Taylor, she also wrote:[^1] 
 
-> "The fact that archival memory succeeds in separating the source of "knowledge" from the knower—in time and/or space —leads to comments, such as de Certeau's, that it is "expansionist" and "immunized against alterity''"
+> "The fact that archival memory succeeds in separating the source of "*knowledge*" from the knower—in time and/or space —leads to comments, such as de Certeau's, that it is "*expansionist*" and "immunized against alterity''"
 
 The strongest implication from the definition is that there is a normalizing force in archives and archival knowledge. A lot of the readings we covered throughout the class talk about how the archives are misused as tools that legitimize narratives. Epistemological violence is a word often used when questioning an archive because of how they were shaped. Knowledge production, and especially storage of knowledge, is socially implicated. That is why we covered concepts like refugee epistemology, the repertoire, and visceral logics precisely because archives, for better or worse, are created and interfaced with by people. In asking and answering, "What is an archive?" I ask myself, "What are archives?" and from class, the answer is that archives have been historically/presently tools that legitimize and reify logics of ideological dogmatism.
 
@@ -44,7 +44,7 @@ Film as a method works, providing additional information that contextualizes the
 
 ## Climate Discourse Needs Fresh Eyes 
 
-I chose NOAA and EM-DAT Climate Archives as it seems the world is once again coming to critical mass on the topic of climate change. The problem is the old narratives have not succeeded or "feasibly" brought us to a world where the climate isn't a looming problem. Narratives from green economists, scientific researchers, and, most importantly, politicians have not actually changed the way we relate to the climate.  Even though I have gone to an environmental governor school, I still roll my eyes when I see the CO2 chart, not to the data but to the political-economic discourse faced in the light of its implications. To counter such apathy, I look towards ecological film in particular, as it has the power to show something raw; bare nature is something that can't be refuted. Also, what time is better to do this work than now? The Sahara has been flooded. Mathematically improbable hurricanes are commonplace, and day after day during Summer, the record-breaking temperatures. If not now, when?
+I chose NOAA and EM-DAT Climate Archives as it seems the world is once again coming to critical mass on the topic of climate change. The problem is the old narratives have not succeeded or "*feasibly*" brought us to a world where the climate isn't a looming problem. Narratives from green economists, scientific researchers, and, most importantly, politicians have not actually changed the way we relate to the climate.  Even though I have gone to an environmental governor school, I still roll my eyes when I see the CO2 chart, not to the data but to the political-economic discourse faced in the light of its implications. To counter such apathy, I look towards ecological film in particular, as it has the power to show something raw; bare nature is something that can't be refuted. Also, what time is better to do this work than now? The Sahara has been flooded. Mathematically improbable hurricanes are commonplace, and day after day during Summer, the record-breaking temperatures. If not now, when?
 
 ## Conclusion/Justification[^6]
 
@@ -66,7 +66,7 @@ The hardest thing I am currently facing in finishing the short film is the probl
 
 ## AI Usage
 
-I treat ChatGPT as a more convenient Google search, but you always have to be skeptical of what it gives. Given the underlying stuff that constitutes AI and its current boundary of being unable to generate anything novel, I find it odd how people justify using it to produce for them. The reality is probably that I don't care about this task to do it. In a way, it makes sense; you could just throw in whatever you got from a Google search. In the coding context, that means skipping writing "boilerplate" code, which is valid, but educationally, just seems like a form of indifference. Also, it's plagiarism. Imagine training an AI on one blog post.
+I treat ChatGPT as a more convenient Google search, but you always have to be skeptical of what it gives. Given the underlying stuff that constitutes AI and its current boundary of being unable to generate anything novel, I find it odd how people justify using it to produce for them. The reality is probably that I don't care about this task to do it. In a way, it makes sense; you could just throw in whatever you got from a Google search. In the coding context, that means skipping writing "*boilerplate*" code, which is valid, but educationally, just seems like a form of indifference. Also, it's plagiarism. Imagine training an AI on one blog post.
 
 My workflow for thinking of new ideas usually follows this pattern:
 1. new idea!
@@ -106,6 +106,6 @@ Taylor, D. (2003). The Archive and the Repertoire: Performing Cultural Memory in
 [^1]: I find it funny because after going through half the course my own conception of an archive seems to have aligned with what the author wrote.
 [^2]: An archive of the US could our financial debts, memorials, there is a a lot of records. An archive of a major could be the alumni list. An archive of a date could be any memoria from it
 [^3]: I have to point out that even indigenous conceptions of the archives heavily challenges Western conceptions of them. As Sky Women and the land can be said to have knowledge, but the temporalities are more fractured and non-linear.
-[^4]: The additional information is information that is not "found" inside the archive.
+[^4]: The additional information is information that is not "*found*" inside the archive.
 [^5]: My final project actually can be thought of as performing global archives as well: [link](https://blog.yougao.dev/assets/work/archives/annotated-drawing.pdf)
 [^6]:

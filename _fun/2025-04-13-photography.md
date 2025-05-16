@@ -17,10 +17,10 @@ I recently got intrigued with photography again so I wanted to share some curren
 
 ## books
 
-### "theory"
+### "*theory*"
 
 * [Lectures on Digital Photography](https://sites.google.com/site/marclevoylectures/home?authuser=0): Comprehensive on the technical and mechanical inner-workings of the camera
-* [Camera Lucida](https://www.amazon.com/Camera-Lucida-Reflections-Roland-Barthes/dp/0374532338): Comprehensive on thinking about the meaning of photography, pulls a lot from historical thinkers as all "continentalists" do though.
+* [Camera Lucida](https://www.amazon.com/Camera-Lucida-Reflections-Roland-Barthes/dp/0374532338): Comprehensive on thinking about the meaning of photography, pulls a lot from historical thinkers as all "*continentalists*" do though.
 
 ### collections[^3]
 

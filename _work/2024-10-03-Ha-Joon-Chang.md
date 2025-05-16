@@ -15,7 +15,7 @@ name: >-
 
 I found him via a YouTube recording of a seminar titled: "Too much Maths, too little History: The problem of Economics". As a development studies student myself, I found his message/pedagogy/viewpoint very much resonated with how I wanted to approach the field as well. Obviously, acknowledging that he has been quite a success in development studies, I find myself looking towards Ha-joon's path as a way to shape my own path. 
 
-And I think finding such a role model that is grounded in "real" practices, especially if you are a university student, is beneficial. Because even if a professor claims the class to be "practical" or "grounded in reality," it really is never the case. Even if you are giving cases in the world and speaking of case studies, there is this sense that it will never be practical until YOU actually put it into practice. 
+And I think finding such a role model that is grounded in "*real*" practices, especially if you are a university student, is beneficial. Because even if a professor claims the class to be "*practical*" or "grounded in reality," it really is never the case. Even if you are giving cases in the world and speaking of case studies, there is this sense that it will never be practical until YOU actually put it into practice. 
 
 You know? What does supply/demand look like when you are interacting in the system? How are you cognizant of diminishing returns? In what avenues of your life do you practice Marxist, queer, postmodern, Schumpeterian, Hayekian, etc. etc., theory? These questions of praxis are what Ha-joon Chang tries to tackle. Thus, by cross-cutting against all the theoretical baggage, there is this human clarity given by Chang.[^1]
 

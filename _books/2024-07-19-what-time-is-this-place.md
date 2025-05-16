@@ -14,13 +14,13 @@ name: >-
 > "Everywhere there are signs of time."
 <figcaption class="blockquote-footer">What Time is This Place?</figcaption>
 
-Kevin Lynch, is an urban designer; he coined the term "wayfinding" and has worked on many interesting tidbits in his life. The book itself details how inhabitants of an environment experience time through environmental cues and how that translates to the larger picture of "rhythms of time." Its ideas made me piece together my thoughts about how we experience time more broadly. I eventually settled on a theory of experiencing time and focused on how we account for time and encounter or orient ourselves to time.
+Kevin Lynch, is an urban designer; he coined the term "*wayfinding*" and has worked on many interesting tidbits in his life. The book itself details how inhabitants of an environment experience time through environmental cues and how that translates to the larger picture of "rhythms of time." Its ideas made me piece together my thoughts about how we experience time more broadly. I eventually settled on a theory of experiencing time and focused on how we account for time and encounter or orient ourselves to time.
 
 ## Accounting Time[^2]
 
 We don't really experience time as if it were a clock or linearly as we think. And that effect can be described in the relationship between memory and experience. Memory as a neurological function itself always seems to be turned on and churning without stopping. Although there is a difference between short-term and long-term memory, the translation to experience itself is very much separate and immaterial.
 
-If I were to ask you to think about your childhood experiences, it would very much tend to be fragmented sections of key moments that you have kept as a part of that "time." What experienced time is, then, seems to be a collection of long-term memories that can be drawn out by reflecting on past experiences. The relation of perceived change is the important part to state here. That change is what constructs the experience of time. The change within experiences, between experiences, and the present. 
+If I were to ask you to think about your childhood experiences, it would very much tend to be fragmented sections of key moments that you have kept as a part of that "*time.*" What experienced time is, then, seems to be a collection of long-term memories that can be drawn out by reflecting on past experiences. The relation of perceived change is the important part to state here. That change is what constructs the experience of time. The change within experiences, between experiences, and the present. 
 
 Another clarifying example is the common saying that "time speeds up when you are having fun!" It is said precisely because people are absorbed into whatever task they have, and they don't stop to attempt to perceive any changes within their environment to track time.[^1]
 

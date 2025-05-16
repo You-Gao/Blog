@@ -31,11 +31,11 @@ A classic of the TBS (turn-based strategy genres) where you take on the job of a
 
 **Government Policies** - Specific unlocks and civilizations in the game give governor tiles which can be used to recruit a Governor to your city. Dynamically effects the game state due to how it sets or enhances the game-plan of a civilization.
 
-**Civic and Tech Trees** - Allows players to "invest" turns into unlocking specific technologies on the tree. Each of these technologies and civics is very dependent on the type of nation, civilization, ruler, and such. This adds yet another layer of dynamism in deciding what is the best path for the game-plan.
+**Civic and Tech Trees** - Allows players to "*invest*" turns into unlocking specific technologies on the tree. Each of these technologies and civics is very dependent on the type of nation, civilization, ruler, and such. This adds yet another layer of dynamism in deciding what is the best path for the game-plan.
 
 **Eureka** - Boost the tech tree when the player has met certain requirements, like making six farms or killing a barbarian. This is more of a micro dynamism that heavily coincides with the larger game plan.
 
-**Resources** (Faith, Gold, Culture, Science)—Counters that can be seen as being "incremented" and can be spent to further the game state. Gold is especially important in the early game as it can be used to always maximize the feedback loop of city growth. All of these resources end up as a way to win the game: science, war (gold), culture, and religion, which all lead to a score.
+**Resources** (Faith, Gold, Culture, Science)—Counters that can be seen as being "*incremented*" and can be spent to further the game state. Gold is especially important in the early game as it can be used to always maximize the feedback loop of city growth. All of these resources end up as a way to win the game: science, war (gold), culture, and religion, which all lead to a score.
 
 **City-states** - Separate cities around the map that grant the player's nation some benefits when you complete their nations or send envoys. Also, it dynamically impacts the game state as some of the bonuses can cause drastic growth via boosts to production or gold production.
 
@@ -53,9 +53,9 @@ A classic of the TBS (turn-based strategy genres) where you take on the job of a
 
 **Achievement** - I put achievement instead of winning because, in Civ, the absolute joy is seeing how you get from 1 settler and 1 warrior to this super advanced death-bot-producing nation. It isn't just seeing the victory screen, because if that were the case, I wouldn't have been playing Civ at all (Do people actually always play through to the end). An example I have from CPL (Civilizations Player League) is that most of the multiplayer ranked matches don't actually end in a win screen for a specific player. Instead, it is played until they get to a game state where everyone is satisfied, and then the score gets tallied.
 
-**Competition -** The warmongering path of beating everyone around you on all of the metrics. I put this underachievement because competition is the more negative framing of interaction in Civ, but really most FFA multiplayer lobbies are going for the achievement. You can play the game in a "have to beat everyone mindset," and it is an incentive. However, the "stronger" way of playing and actually achieving competition is seeing how you can mutually benefit others through trade and geopolitical agreements.
+**Competition -** The warmongering path of beating everyone around you on all of the metrics. I put this underachievement because competition is the more negative framing of interaction in Civ, but really most FFA multiplayer lobbies are going for the achievement. You can play the game in a "have to beat everyone mindset," and it is an incentive. However, the "*stronger*" way of playing and actually achieving competition is seeing how you can mutually benefit others through trade and geopolitical agreements.
 
-**Immersion** - If you want to experience what it was like for Teddy Roosevelt to build America starting from ancient times, then look no further because you can do that here in Civ. Besides the ability to play leaders, the game itself has many options to achieve "realism," like environmental effects and the different historically accurate routes to victory, like nuking the world as Gandhi.
+**Immersion** - If you want to experience what it was like for Teddy Roosevelt to build America starting from ancient times, then look no further because you can do that here in Civ. Besides the ability to play leaders, the game itself has many options to achieve "*realism,*" like environmental effects and the different historically accurate routes to victory, like nuking the world as Gandhi.
 
 **Social Interaction** - Some enjoy queuing up a Civ game by themselves against AI and playing it through. I am not one of them. Whenever I play Civ, it is usually in a lobby with other people or when I catch up with my friends on Discord. Given that case, I don't necessarily play to win but play for whichever win condition I think will be the most fun for everyone. That win condition basically involves playing towards what my ruler is designed towards and committing hard, which also makes it easier to talk while doing so.
 
@@ -75,4 +75,4 @@ If you want to play the game: [https://civilization.2k.com/](https://civilizatio
  
 <br/>
 ---
-[^1]: It was kind of awkward thinking of specifically player mechanics because for Turn-based Games you are just interacting w/ the main game mechanics. There isn't a single "body" to control, rather a system.
+[^1]: It was kind of awkward thinking of specifically player mechanics because for Turn-based Games you are just interacting w/ the main game mechanics. There isn't a single "*body*" to control, rather a system.

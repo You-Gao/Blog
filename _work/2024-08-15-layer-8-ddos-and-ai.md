@@ -21,7 +21,7 @@ Aside from the evilness of the act, how would a company even set up safeguards f
 
 What initially comes to mind is some basic heuristics that might be able to filter out some tickets, such as user metrics, captcha, and other behavioral characteristics. However, I'm not entirely sure that those heuristics would hold strong enough than the will for a bad actor to actively break them.
 
-Yeah, that's the end of the blog. I'm not too sure of any enduring strategies against this, but maybe you have some ideas. Open-source communities are facing the same problem due to bug bounties and other social incentives to make "helpful" commits (*cough* resume building), so hopefully, we find a feasible solution[^1].
+Yeah, that's the end of the blog. I'm not too sure of any enduring strategies against this, but maybe you have some ideas. Open-source communities are facing the same problem due to bug bounties and other social incentives to make "*helpful*" commits (*cough* resume building), so hopefully, we find a feasible solution[^1].
 
 Fun and depressing random note: Any "fake agent" or "bad faith actor" can be seen as a dos attack on society. It takes time and context to verify if something being put out is actually true or not.
 

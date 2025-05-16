@@ -1,7 +1,7 @@
 ---
 date:             2024-07-25
 description:  >-
-  What I do in my "free-time" or atleast off "work"
+  What I do in my "*free-time*" or atleast off "*work*"
 title: >-
   Life and Living
 layout:           style

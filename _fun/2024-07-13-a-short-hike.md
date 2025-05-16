@@ -66,7 +66,7 @@ The game begins with the player character, a bird, traveling in a car with Aunt 
 
 ## Game Mechanics:
 
-**Golden Feathers:** A crucial collectible in the game, golden feathers enhance the character's abilities, allowing for additional jumps or extended climbing. This item symbolizes growth and progression. As the player collects more of these feathers they feel the sense of dynamic growth through the enhanced capabilities granted and how those capabilities "unlock" more potential areas of the mountain to explore.
+**Golden Feathers:** A crucial collectible in the game, golden feathers enhance the character's abilities, allowing for additional jumps or extended climbing. This item symbolizes growth and progression. As the player collects more of these feathers they feel the sense of dynamic growth through the enhanced capabilities granted and how those capabilities "*unlock*" more potential areas of the mountain to explore.
 
 **Mountain Top:** The game's main objective is to reach the peak of a tall mountain, initially inaccessible to the player. Collecting golden feathers grants more freedom of movement, enabling further exploration. The goal of getting the top sets a clear, but ephemeral measurement for the player's progress.
 

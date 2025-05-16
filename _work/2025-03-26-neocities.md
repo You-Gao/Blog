@@ -14,17 +14,17 @@ name: >-
 
 I went down the rabbit hole of exploring "the indie web" and "personal sites" via webrings; I think you should too. But that's not the point; this post is about me summarizing the insights I gained on web design, particularly UX design, from my adventure.
 
-The reason why Neocities is such a compelling case study for UX design is precisely because the "site masters" don't have to design for the "other" as the site is meant to be a representation of the creator. This trait of the indie web is what I see as the core principle of UX, which is how to design an identity. UX in contrast with UI, as UI can be considered a relatively "solved" field in terms of best practices that have been optimized for user psychology[^1].
+The reason why Neocities is such a compelling case study for UX design is precisely because the "site masters" don't have to design for the "*other*" as the site is meant to be a representation of the creator. This trait of the indie web is what I see as the core principle of UX, which is how to design an identity. UX in contrast with UI, as UI can be considered a relatively "*solved*" field in terms of best practices that have been optimized for user psychology[^1].
 
-If UI is about user psychology, then UX is about user phenomenology[^2]. That is the more embodied and subjective way people interface with a specific design. The aspect that designers knowingly acknowledge has begun way long before the user even gets to the website. A "hard" problem whose solution might have to run counter to the "best practices", but if gotten right, awaits only glory.
+If UI is about user psychology, then UX is about user phenomenology[^2]. That is the more embodied and subjective way people interface with a specific design. The aspect that designers knowingly acknowledge has begun way long before the user even gets to the website. A "*hard*" problem whose solution might have to run counter to the "best practices", but if gotten right, awaits only glory.
 
 ## What I Learned
 
 ### UI Still Matters
 
-The point above, might be redundant, but even if you are designing for self-expression, some basic conceptual rules will still apply since people have to "visit" the site. One of the glaring problems is that a lot of these websites are not mobile-first at all. Another problem is that the UI of these sites is often extremely muddled, with the navbar having sometimes up to 10+ options.
+The point above, might be redundant, but even if you are designing for self-expression, some basic conceptual rules will still apply since people have to "*visit*" the site. One of the glaring problems is that a lot of these websites are not mobile-first at all. Another problem is that the UI of these sites is often extremely muddled, with the navbar having sometimes up to 10+ options.
 
-An important lesson learned here is not to try to do everything on the same domain. Splitting up some of these navigation options to their own "subpages" with their navigation hierarchy prevents including a lot of options in the UI. This rationale is why many websites with different functionalities split them up into subdomains in order to progressively disclose information as it's required.
+An important lesson learned here is not to try to do everything on the same domain. Splitting up some of these navigation options to their own "*subpages*" with their navigation hierarchy prevents including a lot of options in the UI. This rationale is why many websites with different functionalities split them up into subdomains in order to progressively disclose information as it's required.
 
 ### Performance is an Aesthetic
 

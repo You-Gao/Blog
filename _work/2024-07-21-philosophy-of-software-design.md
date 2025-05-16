@@ -19,9 +19,9 @@ I read this book because it was popular, and I'm glad I did. Something interesti
 
 The contents of the book itself are pretty good, but it is definitely aimed at beginner/junior developers (as myself) rather than experienced ones. A lot of the critiques that I could think of, and many others have said, are about what is not in the book itself. There are many other portions of the book that are really short, but the idea of the section seems important and warrants dedicating more than a page to it. The main culprit was how short the section on error handling was. It called out the importance of error handling and how the majority of software incidents are precisely due to faulty error handling but skipped elaborating on the techniques to do so.
 
-With that being said, a lot of the concepts in the book were assuringly the same concepts covered in the SWE courses I took at UVA. What was missing for me was there wasn't a discussion on broader software architecture, patterns, and teams, which invariably affect the design process. Ultimately, my takeaway was the realization that each layer of abstraction in software development involves a nuanced "dance" that gets consumed by the next layer up. Understanding and managing these interactions is crucial for effective design and implementation.
+With that being said, a lot of the concepts in the book were assuringly the same concepts covered in the SWE courses I took at UVA. What was missing for me was there wasn't a discussion on broader software architecture, patterns, and teams, which invariably affect the design process. Ultimately, my takeaway was the realization that each layer of abstraction in software development involves a nuanced "*dance*" that gets consumed by the next layer up. Understanding and managing these interactions is crucial for effective design and implementation.
 
-The next section is just the collection of "red-flags" / anti-patterns the author has experienced before.
+The next section is just the collection of "*red-flags*" / anti-patterns the author has experienced before.
 
 ## Main Red Flags
 

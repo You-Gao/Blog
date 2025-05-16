@@ -20,7 +20,7 @@ The Gilded Age is a period of American history we all heard about in middle scho
 The title of this blog, then, is a two-part investigation into the moral bankruptcy during the Gilded Age and the use of economic doctrine to justify/strengthen those positions of power. Adam Smith's concept of the invisible hand becomes physical. That is, the economic and market mechanisms divined by the invisible hand are no longer abstract and beautiful. It has been cast out of the garden and is now in the hands of us humans. I look back to the Gilded Age as a case study precisely because it was a point in time when economic dogmatism was at its peak and its effects most destructive.
 
 
-Some would say I'm cherry-picking or misconstruing the "true" power of economics, and to that, I say maybe I am.[^2] But what's important is my agenda, which is that positivist mathematical economics is sadly not free from human fallibility (a year ago, I definitely wanted it to be). I want to start considering again the political part of economics, which was dropped at the turn of the 19th century in favor of what we have today in the 21st century.
+Some would say I'm cherry-picking or misconstruing the "*true*" power of economics, and to that, I say maybe I am.[^2] But what's important is my agenda, which is that positivist mathematical economics is sadly not free from human fallibility (a year ago, I definitely wanted it to be). I want to start considering again the political part of economics, which was dropped at the turn of the 19th century in favor of what we have today in the 21st century.
 
 
 ## Economists in the Gilded Age 
@@ -101,7 +101,7 @@ The book gave me the idea to write this blog post, particularly this excerpt:
 
 ### Political Corruption:
 
-Political corruption definitely happened, and there is so much documentation of these events happening. I'm being intellectually lazy by not showing these, but please don't be intellectually dishonest in saying political corruption was not a thing. I added this section more so to highlight the double standard that exists in the practical liberal framework. Economics can impact politics through bribing, buyouts, and super PACs, while politics have clearly nothing to do with economics to the extent that they should uphold "fundamental" rights.
+Political corruption definitely happened, and there is so much documentation of these events happening. I'm being intellectually lazy by not showing these, but please don't be intellectually dishonest in saying political corruption was not a thing. I added this section more so to highlight the double standard that exists in the practical liberal framework. Economics can impact politics through bribing, buyouts, and super PACs, while politics have clearly nothing to do with economics to the extent that they should uphold "*fundamental*" rights.
 
 ## Philanthropists or Robber Barons
 

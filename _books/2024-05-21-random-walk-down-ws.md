@@ -21,7 +21,7 @@ comment: r/wallstreetbets
 > "Never buy anything from someone who is out of breath."
 <figcaption class="blockquote-footer">A Random Walk Down Wall Street</figcaption>
 
-An introduction to the concepts of investing and the types of investing possible. So when you want to understand the sudden rise of tech-stocks that seem to be motivated by "hype" in the short-term, then take a look at the castle-in-the-sky theory of value[^1][^2]. On the flip-side, you have the firm-foundation theory of value, where the valuation of some stock will always be the underlying economic fundamentals of the company. I'm not an economist, so the book was a fun introduction to those concepts to further build upon in understanding economics.
+An introduction to the concepts of investing and the types of investing possible. So when you want to understand the sudden rise of tech-stocks that seem to be motivated by "*hype*" in the short-term, then take a look at the castle-in-the-sky theory of value[^1][^2]. On the flip-side, you have the firm-foundation theory of value, where the valuation of some stock will always be the underlying economic fundamentals of the company. I'm not an economist, so the book was a fun introduction to those concepts to further build upon in understanding economics.
 
 <br/>
 ---

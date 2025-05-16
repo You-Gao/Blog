@@ -27,7 +27,7 @@ As vinyl production produces a LOT of chemicals, it has long-term impacts on the
 
 On top of the discussion of vinyl production and its lifecycle, TenHoor also considered the human behind the production process. Taking a look at the bodies involved in vinyl production shows again another story of exploitation. The workers creating vinyl end up being exposed to a whole swath of harmful chemicals. Their socioeconomic background is usually low-income, and they are migrants who are subject to labor exploitation. The lecture also brings up the more egregious case of how forced labor in the Uyghur region produces ~20% of vinyl coming out of China.
 
-The final slide asked the audience to consider what can be done about vinyl production, specifically for architects. Is self-regulation sufficient enough to halt the production of these materials? There is a worry that it follows the neoliberal paradigm. What about economically regulating vinyl? The concern is that there are so many ways the global supply chain can "combat" that. It's open-ended.
+The final slide asked the audience to consider what can be done about vinyl production, specifically for architects. Is self-regulation sufficient enough to halt the production of these materials? There is a worry that it follows the neoliberal paradigm. What about economically regulating vinyl? The concern is that there are so many ways the global supply chain can "*combat*" that. It's open-ended.
 
 <br/>
 ---

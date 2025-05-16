@@ -17,7 +17,7 @@ comment: quit after potemkin kara removal :(
 
 ## Introduction:
 
-Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for $50. It's a cult classic fighting game series made by Daisuke Ishiwatari and is highly praised for what it has given to the fighting game community. Although it does get a lot of flack for being "scrubby," I think it makes the game accessible. There is a high-skill ceiling but also a low-skill floor. The quick match system in the game also makes skill-based matchmaking bearable. I personally have 300+ hours on it, all on one character, so here is my reflection after playing that much.
+Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for $50. It's a cult classic fighting game series made by Daisuke Ishiwatari and is highly praised for what it has given to the fighting game community. Although it does get a lot of flack for being "*scrubby,*" I think it makes the game accessible. There is a high-skill ceiling but also a low-skill floor. The quick match system in the game also makes skill-based matchmaking bearable. I personally have 300+ hours on it, all on one character, so here is my reflection after playing that much.
 
 ## Player Mechanics:
 
@@ -60,11 +60,11 @@ Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for
 
 **Wall Breaks -** Although not directly unique to Guilty Gear, the wall break mechanic adds a new layer of interaction when the opponent is in a corner. The only other popular fighting game that has this is Tekken? The mechanic adds something fresh to the traditional game of getting the opponent into the corner and performing mix-ups. Instead, the goal is to break the wall for extra damage in a combo and gain a meter bonus.
 
-**Characters -** The cast of the game boasts a pretty diverse and comprehensive set of characters. In the fighting game genre, these character archetypes have been sort of "solved" in a sense for the game plan of the character: grappler, zoner, shoto, pixie, etc. But, it is also essential to recognize how it's not directly linear in a game plan, and, depending on match-ups, that would change. On top of this archetypal difference, each character has a unique set of tools, combo routes, and interactions that, when managed efficiently, give rise to a pretty deep expression of the player.
+**Characters -** The cast of the game boasts a pretty diverse and comprehensive set of characters. In the fighting game genre, these character archetypes have been sort of "*solved*" in a sense for the game plan of the character: grappler, zoner, shoto, pixie, etc. But, it is also essential to recognize how it's not directly linear in a game plan, and, depending on match-ups, that would change. On top of this archetypal difference, each character has a unique set of tools, combo routes, and interactions that, when managed efficiently, give rise to a pretty deep expression of the player.
 
 ## Themes and Player Experience:
 
-**Social Interaction:** The reason I play Guilty Gear Strive is the social aspect. Going against another "real" player (until AI gets too advanced) makes me actually take the game seriously. It's serious insofar as we both sort of take on these characters' agencies and openly play. It's not just about winning or losing; it's about the encounter itself, the back-and-forth of skill, mind games, and adaptation.
+**Social Interaction:** The reason I play Guilty Gear Strive is the social aspect. Going against another "*real*" player (until AI gets too advanced) makes me actually take the game seriously. It's serious insofar as we both sort of take on these characters' agencies and openly play. It's not just about winning or losing; it's about the encounter itself, the back-and-forth of skill, mind games, and adaptation.
 
 **Narrative:** Building on that point. For people that you go against online, especially after you hit Celestial floor, because you don't know specifically who the person you are against, there is this historical narrative of the other player. Over time, you create stories of triumph, defeat, and growth, as such because playstyles evolve even in the span of a match.
 

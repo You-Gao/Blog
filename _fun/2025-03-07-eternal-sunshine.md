@@ -15,9 +15,9 @@ The film that finally made me revamp this section to include everything that I f
 
 ## Joel Barish 
 
-Joel Barish is a complicated character to write; truly introspective characters are probably insanely hard to write, but I don't think that was the case for Joel Barish. He, to me, represents the living contradiction of *seemingly* "rational" people. Joel interprets himself through the "I" without realizing it speaks to his self-conception as someone who believes he is objective, when in reality, he is deeply subjective but unaware of it. 
+Joel Barish is a complicated character to write; truly introspective characters are probably insanely hard to write, but I don't think that was the case for Joel Barish. He, to me, represents the living contradiction of *seemingly* "*rational*" people. Joel interprets himself through the "*I*" without realizing it speaks to his self-conception as someone who believes he is objective, when in reality, he is deeply subjective but unaware of it. 
 
-The key point being we as spectators have a direct vantage point to this like rationalizing why he went to Montauk, assuming Clementine "screwing" other people, and most importantly the journal. The journal as a narrative device was a key tool to illustrate Joel as a character. Because; just as Clementine's visceral reactions protrude outwards, Joel's recedes inwards. In order to then demonstrate that to the audience, you need a sort of reflective device, which is found in the journal.  
+The key point being we as spectators have a direct vantage point to this like rationalizing why he went to Montauk, assuming Clementine "*screwing*" other people, and most importantly the journal. The journal as a narrative device was a key tool to illustrate Joel as a character. Because; just as Clementine's visceral reactions protrude outwards, Joel's recedes inwards. In order to then demonstrate that to the audience, you need a sort of reflective device, which is found in the journal.  
 
 However, I want to drive the claim that this journal and Joel's interaction with it isn't "real introspection". It simply acts as an eye or ear for these visceral reactions. That is, he sees and interprets an image of himself, the world, and others, but never seems to understand the agency doing so, and he ends up constructing the world he lives in from that angle. He records his emotions and perceptions, but rather than using them to understand himself, he passively constructs his reality through them [^1].
 
@@ -35,4 +35,4 @@ The existence of this friction is why I came to the conclusion that the ending o
 
 <br/>
 ---
-[^1]: rationalization dne introspection, you're in your head but you don't "see" yourself. similar to Sarte's bad faith.
+[^1]: rationalization dne introspection, you're in your head but you don't "*see*" yourself. similar to Sarte's bad faith.

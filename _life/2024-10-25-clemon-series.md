@@ -34,7 +34,7 @@ The premise for this is simple: I get lost in an aisle and push the boundaries o
 
 ## B.127.C // B.132.D 
 1. All Else Is Bondage - COMPLETED: **interesting** essays on eastern metaphysics and wu wei 
-2. The Enigma of I-consciousness - DROPPED: a comparative analysis of the "self"
+2. The Enigma of I-consciousness - DROPPED: a comparative analysis of the "*self*"
 3. Indian Philosophy A-Z - SKIMMED: I enjoy these viewpoints of the world
 4. Li Zhi, Confucianism and desire - DROPPED: The book doesn't interest me anymore
 5. Neo-Confucianism : metaphysics, mind, and morality - SKIMMED: historical chinese philosophers
@@ -47,7 +47,7 @@ The premise for this is simple: I get lost in an aisle and push the boundaries o
 <br/>
 ---
 [^1]: Hopefully, I figure out what the call codes mean.
-[^2]: Reflecting before reading made me realize the order I "consume" the readings are important for my experience.
+[^2]: Reflecting before reading made me realize the order I "*consume*" the readings are important for my experience.
 [^3]: To sum it up, one must be well versed in Gadamer and Turing but also doubly disciplined in the theory of language and meanings. And the whole canon on linguistics, computation, data, philosophy. To rephrase, one must be good at the Derridean game and perform skeptically well at the positivist game.
 [^4]: For me, I read this book because I want to recognize when someone is committing sophistry or not.
 [^5]: I liked the section on Lisa and American Anti-intellectualism + "Thus Spoke Bart"

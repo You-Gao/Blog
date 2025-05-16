@@ -13,7 +13,7 @@ name: >-
 
 # async parallel
 
-No one really teaches programming within an async parallel frame. The problem is that most "good" applications or services are event-driven. That is because they are long-lasting and should not be a program just running a while-loop. The further problem is that it's a pretty amorphous topic with vague definitions, etc. Even worse, each language implements it differently, from coroutines to thread pools and beyond.
+No one really teaches programming within an async parallel frame. The problem is that most "*good*" applications or services are event-driven. That is because they are long-lasting and should not be a program just running a while-loop. The further problem is that it's a pretty amorphous topic with vague definitions, etc. Even worse, each language implements it differently, from coroutines to thread pools and beyond.
 
 I made this post not to talk about it because I am definitely not qualified. I made it as a meta-post of resources for understanding async and parallel behavior of programs. It's a collection of rabbit holes, other blog posts, and documentation into understanding how to use this coding paradigm *rightish*[^2].
 
