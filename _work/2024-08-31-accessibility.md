@@ -12,12 +12,6 @@ name: >-
 
 # Digital Accessibility
 
-<figure class="container-lg" style="padding: 0;">
-    <blockquote class="blockquote" style="font-size: 18px;">
-    <a href="https://digitalaccessibility.virginia.edu/non-text-element-accessibility-enhancing-digital-content-all-users-august-30">https://digitalaccessibility.virginia.edu/non-text-element-accessibility-enhancing-digital-content-all-users-august-30</a>
-    </blockquote>
-</figure>
-
 The workshop was delivered via presentation. The presenter went through some slides and talked about the different non-text elements available and deciding on which ones should have alt-text, but also when the alt-text should be applied.
 
 ## Reflection
@@ -30,7 +24,7 @@ Besides what I learned about digital accessibility, I want to make the case that
 
 Going off that, I want to list technologies that were made to address accessibility but have been used by everyone. Speech technology (car GPS, search results), e-books, and closed captions are a small grouping of the wide variety of everyday technology we gained from addressing accessibility. Just as the wheelchair door button saves you in moments when you are carrying things or extremely tired, practical accessibility implementations may help all users of the internet.
 
-As I researched the topic more, I became disheartened. I knew it was not a major focus because the category of "disabled" is necessarily marginal to a business. That's why modern disability studies have pushed the term temporary able-bodied against the dichotomy of able vs. disabled. Anyway, accessibility is cool, but there is also a reason why it's not focused on, but should that be the case? 
+As I researched the topic more, I became disheartened. I knew it was not a major focus because the category of "disabled" is necessarily marginal to a business. That's why modern disability studies have pushed the term temporary able-bodied against the dichotomy of able vs. disabled. Anyway, accessibility is cool, but there is also a reason why it's not focused on, but should that be the case?
 
 <br/>
 

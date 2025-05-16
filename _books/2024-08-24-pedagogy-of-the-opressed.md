@@ -13,6 +13,7 @@ name: >-
 # Pedagogy of the Oppressed
 
 > "At the point of encounter there are neither utter ignorant muses nor perfect sages; there are only people who are attempting, together, to learn more than they now know."
+<figcaption class="blockquote-footer">Pedagogy of the Oppressed</figcaption>
 
 The book delivers a clear critique of how forms of instruction solidify the position of the oppressor against the oppressed. What Freire does after delivering the critique is providing moves forward to _Conscientization_ through the use of a dialogic and praxis.
 

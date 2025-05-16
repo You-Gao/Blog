@@ -3,16 +3,16 @@ date:             2024-07-13
 description:  >-
   A reflection on "A Short Hike"
 title: >-
-  "A Short Hike"
+  A Short Hike
 layout:           style
 name: >-
   A Short Hike
 comment: a well-made game
 ---
 
-# **A Short Hike**
+# A Short Hike
 
-<img src="{{ 'assets/games/a-short-hike/game_logo.png' | relative_url }}" alt="Logo" class="game_logo"/>
+<img src="{{ 'assets/games/a-short-hike/game_logo.jpg' | relative_url }}" alt="Logo" class="game_logo"/>
 
 
 ## Introduction and Setting:

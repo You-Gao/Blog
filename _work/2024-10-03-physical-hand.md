@@ -33,10 +33,10 @@ Did any respectful economist sound the alarm? In an era we now view as having ma
 - The people who made it to the top were just better market competitors.
 - People have the right to use their money however they want to.
 
-To really get a sense of the economic zeitgeist, look no further than Yale's 1st economist, William Graham Sumner. Here is a quote from his 1883 book "What Social Classes Owe to Each Other":
+To really get a sense of the economic zeitgeist, look no further than Yale's 1st economist, William Graham Sumner. 
 
 > "Hence, those who today enjoy the most complete emancipation from the hardships of human life, and the greatest command over the conditions of existence, simply show us the best that man has yet been able to do. Can we all reach that standard by wishing for it? Can we all vote it to each other? If we pull down those who are most fortunate and successful, shall we not by that very act defeat our own object?"
-<figcaption class="blockquote-footer">What Social Classes owe to Each Other</figcaption>
+<figcaption class="blockquote-footer">What Social Classes Owe to Each Other</figcaption>
 
 
 There's already a clear undertone of Social Darwinism there.[^3] But it does make sense when you are considering the doctrine of liberalism. Free individual -> Free Markets -> Laissez Faire. So, really, who cares about the people that "failed"? It's the impersonal mechanisms of the market that suck for you but not for me. 

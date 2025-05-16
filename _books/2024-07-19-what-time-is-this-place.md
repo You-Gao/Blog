@@ -12,35 +12,11 @@ name: >-
 # What Time is This Place?
 
 > "Everywhere there are signs of time."
-
-<div class="container-fluid px-2" style="text-align: left;  margin-left: -5px; margin-top: -25px;">
-<div class="row">
-
-<div class="col-md">
-<h3 >Introduction</h3>
+<figcaption class="blockquote-footer">What Time is This Place?</figcaption>
 
 Kevin Lynch, is an urban designer; he coined the term "wayfinding" and has worked on many interesting tidbits in his life. The book itself details how inhabitants of an environment experience time through environmental cues and how that translates to the larger picture of "rhythms of time." Its ideas made me piece together my thoughts about how we experience time more broadly. I eventually settled on a theory of experiencing time and focused on how we account for time and encounter or orient ourselves to time.
 
-</div>
-
-<div class="col-md-4" style="text-align: left;  margin-left: 0;">
-<img src="">
-
-<h3 style="margin-left: 0px; margin-top: 2px;">Further Exploration</h3>
-<ul>
-    <li>Theory of Relativity</li>
-    <li>Biological Basis of Time and Place</li>
-    <li>Reports from Amnesiacs</li>
-    <li>Reports from Eidetic People</li>
-    <li><i>Memento</i> and <i>Groundhog Day</i></li>
-</ul>
-</div>
-
-
-</div>
-</div>
-
-## Accounting Time
+## Accounting Time[^2]
 
 We don't really experience time as if it were a clock or linearly as we think. And that effect can be described in the relationship between memory and experience. Memory as a neurological function itself always seems to be turned on and churning without stopping. Although there is a difference between short-term and long-term memory, the translation to experience itself is very much separate and immaterial.
 
@@ -122,5 +98,5 @@ Lynch, K. A. (1972). What time is this place.
 <br/>
 ---
 [^1]: It is often a phenomenon for me that even though I look at the time on my computer, I only realize time has passed when my room begins to get dark after hours of play.
-
+[^2]: Ask any old person how fast time passes for them.
 

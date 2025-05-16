@@ -13,6 +13,7 @@ name: >-
 # The Fifth Discipline
 
 > "In the long run, the only sustainable source of competitive advantage is your organization's ability to learn faster than its competition."
+<figcaption class="blockquote-footer">The Fifth Discipline</figcaption>
 
 The book, seen as a ground-breaking work for other, is seen as a bit too schizophrenic for me. The problem being, Senge has a lot of ground to cover in too short of an amount of pages. As a reader, I can see the general goal, introduce the core concepts of "systems-thinking" then apply them to the multi-factored nature of different business domains. 
 
@@ -29,5 +30,3 @@ Now that I'm thinking about it, chaos theory is another term for the same thing.
 Anyways, if you want to learn more, this lecture by the Santa Fe Institute is interesting.
 
 <iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/JR93X7xK05o?si=Mah-Vwxr8nzkDU2W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-

@@ -11,13 +11,8 @@ name: >-
 
 # Learning Forwards and Backwards [^4]
 
-In Plato's Meno, there is a quote that goes:
-
-<figure class="container-lg my-6" style="padding: 0;">
- <blockquote class="blockquote" style="font-size: 18px;">
- <p>  "For if you believe, as I do, that all learning is but recollection, then it follows that learning is not a matter of getting new information but of remembering what the soul already knows." </p>
- </blockquote>
-</figure>
+> "For if you believe, as I do, that all learning is but recollection, then it follows that learning is not a matter of getting new information but of remembering what the soul already knows."
+<figcaption class="blockquote-footer">Plato's Meno</figcaption>
 
 Theories on learning and gathering new facts about the world have been a productive field of human thought. I am entering this world to summarize my position on how learning operates and the different perspectives a person can orient when needing to learn. Taking from the already popularized dichotomies of know-how vs. know-that, implicit vs explicit, and known unknown vs unknown unknowns. I will see if I can use those concepts to argue the ways in which we can gather knowledge on a topic and draw out where you would use a specific method of learning.[^1]
 

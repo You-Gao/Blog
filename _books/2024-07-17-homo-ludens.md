@@ -20,6 +20,7 @@ comment: not a book about video games
 # Homo Ludens
 
 > "All are temporary worlds within the ordinary world, dedicated to the performance of an act apart."
+<figcaption class="blockquote-footer">Homo Ludens</figcaption>
 
 I play and review games; I've done the play part more; The book is about play and a famous book on play at that; so much so that I felt obligated in reading the book as it related to my experiences on play. The title of the book "homo ludens" refer to conceiving of humanity as playing beings and Huizinga goes on to show how it extends into the realm of society by examining the nature of play. In doing so, Huizinga demonstrates how religion, law, and society are in a form *sub sudi luci* (under guise of a game).
 

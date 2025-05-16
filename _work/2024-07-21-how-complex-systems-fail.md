@@ -17,11 +17,8 @@ In light of the recent IT outage caused by Crowdstrike and the ironic timing of 
 
 ## [2.](https://how.complexsystems.fail/#2) Complex systems are heavily and successfully defended against failure
 
-<figure class="container-lg" style="padding: 0;">
-    <blockquote class="blockquote" style="font-size: 18px;">
-    <p>"The high consequences of failure lead over time to the construction of multiple layers of defense against failure."</p>
-    </blockquote>
-</figure>
+> "The high consequences of failure lead over time to the construction of multiple layers of defense against failure."
+<figcaption class="blockquote-footer">Robert Cook</figcaption>
 
 My first question was: How did the build-test pipeline even let this occur? Surely any changes made would have been build and tested in the different Windows OS versions it supports so it doesn't crash. Right? Doing some digging in forums, it seems to be that it wasn't a build error that occurred but instead caused by faulty error handling for deserialization (of course). The current theory is the CSAgent.sys failed to handle malformed files or they pushed the nulled C...32.sys.
 
@@ -33,18 +30,16 @@ My line of questioning here is to highlight the #2 point. Kernel and other drive
 
 ## [7.](https://how.complexsystems.fail/#7) Post-accident attribution to a 'root cause' is fundamentally wrong
 
-<figure class="container-lg" style="padding: 0;">
-    <blockquote class="blockquote" style="font-size: 18px;">
-    <p>"Because overt failure requires multiple faults, there is no isolated 'cause' of an accident."</p>
-    </blockquote>
-</figure>
+> "Because overt failure requires multiple faults, there is no isolated 'cause' of an accident."
+<figcaption class="blockquote-footer">Robert Cook</figcaption>
 
 I think this is the best mindset going forward, off-course some heads will roll due to the nature of the incident. Still, fundamentally I still believe the higher processes and systems were more likely to be the fault. In other words, the software developer inherited the system defects rather than injected them. I won't speculate on this because the facts of the matter are not entirely clear either.
+
 ## Conclusion
 
-1.  Write more tests and faithfully validate the states of your software.
-2.  Edge cases are very real, but they go uncaught.
-3.  I'm interesting in seeing how litigation goes for this.
+1. Write more tests and faithfully validate the states of your software.
+2. Edge cases are very real, but they go uncaught.
+3. I'm interesting in seeing how litigation goes for this.
 
 
 <iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/bLHL75H_VEM?si=0Oy8artPhcsKbiCS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

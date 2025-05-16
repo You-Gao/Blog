@@ -13,6 +13,7 @@ comment: common grindset book
 # F*ck Your Feelings
 
 > "Your life is perfectly designed for the results you're currently getting."
+<figcaption class="blockquote-footer">F*ck Your Feelings</figcaption>
 
 It is a pretty dull and off-putting book to those with knowledge of introductory psychology, neuroscience, and sociology concepts. I would say it works as a motivational book more than anything. It had some excellent factoids from stuff in the literature, but it is interwoven with pseudo-scientific interpretations, which makes it more challenging to read through than adding any value. 
 

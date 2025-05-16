@@ -19,6 +19,7 @@ name: >-
 # Ways of Seeing
 
 > "The relation between what we see and what we know is never settled."
+<figcaption class="blockquote-footer">Ways of Seeing</figcaption>
 
 Picked up this book, because I wanted to understand object recognition.[^1] In essence what the quote means is the ways in which we see (view the world, receive visual stimuli) and what we know (the signs and signifiers imbued with meaning) are never stable nor comprehensive of the thing (person, object, other). Berger goes through in explaining this effect through analyzing art, pictures, and their meanings. The subsequent concept of perspective phenomenology that he delivers is powerful because it conceptualizes the project of phenomenology; at least for me; as the process of coming into understanding the nature of human inter-subjectivity.
 

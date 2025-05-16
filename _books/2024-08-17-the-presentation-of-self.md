@@ -11,11 +11,8 @@ name: >-
 
 # The Presentation of Self in Everyday life
 
-<figure class="container-lg" style="padding: 0;">
-    <blockquote class="blockquote" style="font-size: 18px;">
-    <p>"To use a different imagery, the very obligation and profitability of appearing always in a steady moral light, of being a socialized character, forces us to be the sort of person who is practiced in the ways of the stage."</p>
-    </blockquote>
-</figure>
+> "To use a different imagery, the very obligation and profitability of appearing always in a steady moral light, of being a socialized character, forces us to be the sort of person who is practiced in the ways of the stage."
+<figcaption class="blockquote-footer">The Presentation of Self in Everyday Life</figcaption>
 
 A book that gives a theory and a perspective to look at the social world with. Given and acknowledging the problem of other minds, Goffman sets out to functionalize the ways the social self performs itself to others. In doing so, sociology receives the tool of dramaturgical analysis as a means to analyze social actors[^1]. 
 
