@@ -18,8 +18,8 @@
   </head>
   <body>
         <outline text="" title="my blogroll">
-            <outline text="similar design 'eye' as me" type="rss" xmlURL="https://longest.voyage/index.xml" htmlUrl="https://longest.voyage/"/>
-            <outline text="'random thoughts on tech, life, design etc.'" type="rss" xmlURL="https://manuelmoreale.com/feed/rss" htmlUrl="http://manuelmoreale.com/"/>
+            <outline text="similar design 'eye' as me" type="rss" title="longest voyage" xmlURL="https://longest.voyage/index.xml" htmlUrl="https://longest.voyage/"/>
+            <outline text="'random thoughts on tech, life, design etc.'" title="manuel moreale" type="rss" xmlURL="https://manuelmoreale.com/feed/rss" htmlUrl="http://manuelmoreale.com/"/>
       <outline text="is mostly math, some life advice" title="terence tao" type="rss" xmlUrl="https://terrytao.wordpress.com/feed/" htmlUrl="https://terrytao.wordpress.com/"/>
       <outline text="talks about ai and design" title="interconnected" type="rss" xmlUrl="https://interconnected.org/home/feed" htmlUrl="https://interconnected.org/home/"/>
       <outline text="i like the youtube channel" title="unsolicited advice" type="rss" xmlUrl="https://josephfolley.substack.com/feed.xml" htmlUrl="https://josephfolley.substack.com/"/>
