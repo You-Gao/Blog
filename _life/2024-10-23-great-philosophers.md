@@ -1,13 +1,13 @@
 ---
 date:             2024-10-23
 description:  >-
-    Poststructuralism, History, and "*Great Philosophers*"
+    Poststructuralism, History, and "Great Philosophers"
 layout:           post
 title: >-
-    "*Great Man Theory*" and A Quiz
+    "Great Man Theory" and A Quiz
 layout:           style
 name: >-
-    "*Great Man Theory*" and A Quiz
+    "Great Man Theory" and A Quiz
 ---
 
 # "*Great Man Theory*" 

@@ -3,10 +3,10 @@ date:             2025-01-01
 description:  >-
   my special super secret sauce
 title: >-
-  How to Find "*Good*" Business Books
+  How to Find "Good" Business Books
 layout:           style
 name: >-
-  How to Find "*Good*" Business Books
+  How to Find "Good" Business Books
 ---
 
 # How to Find "*Good*" Business Books
