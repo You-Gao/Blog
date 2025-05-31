@@ -12,7 +12,7 @@ name: >-
 
 # 4-5 Ways to Center a <div>
 
-The ultimate test of a web-dev's skill is centering a div, I will demonstrate such mastery here.
+I thought it would be a fun exercise, so here it is.
 
 ## 'position: absolute' + 'transform' + 'top/left: 50%'
 
