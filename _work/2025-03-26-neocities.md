@@ -1,7 +1,7 @@
 ---
 date:             2025-03-26
 description:  >-
-    exploring ux design via "*the indie web*"
+    exploring ux design via "the indie web"
 layout:           post
 title: >-
     Neocities and UX

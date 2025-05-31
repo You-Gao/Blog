@@ -4,13 +4,13 @@ description:  >-
     pro web-dev intern
 layout:           post
 title: >-
-    How To Center a <div>
+    How To Center a div
 layout:           style
 name: >-
-    4-5 Ways to Center a <div>
+    4-5 Ways to Center a div
 ---
 
-# 4-5 Ways to Center a <div>
+# 4-5 Ways to Center a div
 
 I thought it would be a fun exercise, so here it is.
 
