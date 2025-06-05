@@ -16,9 +16,13 @@ The workshop was delivered via presentation. The presenter went through some sli
 
 ## Reflection
 
-Recently, I took a workshop on digital accessibility. I always wanted to learn more about accessibility as it is often neglected because **most** people who use the internet are all non-disabled. This mindset towards accessibility, in fact, heavily impacts the ways in which people make the internet and strays from the point that the internet should be usable for all. From the workshop itself, we were taught about the general non-text element functions in HTML to enable screen readers. These were the standard set of aria labels, fig captions, and headers. 
+Recently, I took a workshop on digital accessibility. I always wanted to learn more about accessibility as it is often neglected because **most** people who use the internet are all non-disabled. This mindset towards accessibility, in fact, heavily impacts the ways in which people make the internet and strays from the point that the internet should be usable for all. 
 
-What was interesting in particular is that there are design patterns set in place to make the screen reader parse the HTML better. I was kind of glad that even though digital accessibility is heavily neglected, some work is still being done to make the internet marginally better. An example was placing an image in a div with the aria-text saying: please go to header x for more information. Then, the header would contain the actual text for the image. Doing some of my own research, there could be better solutions out there as well, with updates to aria-label.
+From the workshop itself, we were taught about the general non-text element functions in HTML to enable screen readers. These were the standard set of aria labels, fig captions, and headers. 
+
+What was interesting in particular is that there are design patterns set in place to make the screen reader parse the HTML better. I was kind of glad that even though digital accessibility is heavily neglected, some work is still being done to make the internet marginally better. 
+
+An example was placing an image in a div with the aria-text saying: please go to header x for more information. Then, the header would contain the actual text for the image. Doing some of my own research, there could be better solutions out there as well, with updates to aria-label.
 
 Besides what I learned about digital accessibility, I want to make the case that designing digital accessibility and building it on the internet will benefit everyone, not only those who are not temporarily non-disabled. Accessibility and usability are mutually beneficial concepts. 
 

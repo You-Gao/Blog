@@ -63,9 +63,11 @@ A classic of the TBS (turn-based strategy genres) where you take on the job of a
 
 Turn-based Games are complex. Before my first couple of games and tutorials, I was not thinking about how to pump out settlers in hand with the civilization tech with 50% settler production. But alas, I am now correctly scouting for the city-state and doing the trade-off calculation for my culture tempo in relation to my game plan. I am even placing down the markers to plan where my districts should be placed so they have the maximum local tile bonuses. It is a dark, dark path to enjoying the game.
 
-Besides the game itself, it actually made me reflect a lot on the nature of development. One of my majors besides Computer Science is Global Development Studies, which talks mainly about the economic and political systems set up to generate wealth. Civ follows the traditional modernization theories, which state that increases in technology and increases in industrialization are necessary for a nation to take off. Trade and dependencies on other nations are good as well because they are mutually beneficial to everyone. 
+Besides the game itself, it actually made me reflect a lot on the nature of development. Myy major besides Computer Science is Global Development Studies, which mainly covers economic and political systems. Civ, then, is interesting as a simulation. It illustrates that increases in technology and increases in industrialization are necessary for a nation to grow. Trade and dependencies on other nations are good as well because they are mutually beneficial to everyone. 
 
-In a way, it is like a liberalist utopia because there really is no downside to any of these upgrades besides the time put into developing nations. Alas, in the real world, there are significant side effects to technological and industrial development, which are distributed unequally. Even considering the utopia, there is something very anti-liberalist, which is that you decide to *cough* / plan the economy by determining what tiles work. The only thing your civilization would complain about is needing more amenities based on population size.
+In a way, it is like a libertarian utopia because there really is no downside to any of these upgrades besides the time put into developing nations. Alas, in the real world, there are significant side effects to technological and industrial development, which are distributed unequally. 
+
+Even considering the utopia, there is something very anti-libertarian, which is that you, as a player, decide to *cough* *plan* the economy by determining what tiles work. The only thing your civilization would complain about is needing more amenities based on population size.
 
 Good game, should play 10/10.
 

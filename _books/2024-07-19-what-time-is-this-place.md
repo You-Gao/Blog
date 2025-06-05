@@ -14,7 +14,7 @@ name: >-
 > "Everywhere there are signs of time."
 <figcaption class="blockquote-footer">What Time is This Place?</figcaption>
 
-Kevin Lynch, is an urban designer; he coined the term "*wayfinding*" and has worked on many interesting tidbits in his life. The book itself details how inhabitants of an environment experience time through environmental cues and how that translates to the larger picture of "rhythms of time." Its ideas made me piece together my thoughts about how we experience time more broadly. I eventually settled on a theory of experiencing time and focused on how we account for time and encounter or orient ourselves to time.
+Kevin Lynch, is an urban designer; he coined the term "*wayfinding*" and has worked on many interesting tidbits in his life. The book itself details how inhabitants of an environment experience time through environmental cues and how that translates to the larger picture of "*rhythms of time.*" Its ideas made me piece together my thoughts about how we experience time more broadly. 
 
 ## Accounting Time[^2]
 
@@ -36,50 +36,6 @@ It is a notion of time to take because it means that you can experience time thr
 ## Discounting Time
 
 If you somewhat agree with what I have said in the previous sections and take it semi-seriously, then let me leave you with some practical advice. A lot of people since the beginning of time have been discounting it. What people don't realize is that it doesn't matter if you have 70, 50, 40, or even 1 year of your life left to live. Because if it is spent with eyes closed, you haven't experienced any of the time at all. So really, do your best intentionally spend time to make memories, experience new things, and, if you do it right, at the end of time you will feel full. -- The alternative is that as you grow older, time moves faster and faster, because you have settled down into the routine.
-
-## Index (From My Notes)
-  <table>
-      <thead>
-          <tr>
-              <th>Concept</th>
-              <th>Definition</th>
-          </tr>
-      </thead>
-      <tbody>
-          <tr>
-              <td>Environmental Time</td>
-              <td>time is captured within the surrounding objects and stimuli</td>
-          </tr>
-          <tr>
-              <td>Historical Preservation</td>
-              <td>the remembrance of the past that contextualizes the present</td>
-          </tr>
-          <tr>
-              <td>Time Symbols</td>
-              <td>there are a variety of stimuli representations for time (audio, visual, sensor, etc.)</td>
-          </tr>
-          <tr>
-              <td>Time in Place</td>
-              <td>the perception of a specific moment tied to experiences: are people there, train present, ball dropped, etc.</td>
-          </tr>
-          <tr>
-              <td>Temporal Modifications</td>
-              <td>the idea that when you change a schedule the physical space has to be adapted</td>
-          </tr>
-          <tr>
-              <td>Temporal Depth</td>
-              <td>the depth of time (history) experienced in a place</td>
-          </tr>
-          <tr>
-              <td>Temporal Rhythms</td>
-              <td>time is perceived through recurring patterns of human activity</td>
-          </tr>
-          <tr>
-              <td>Place Experience</td>
-              <td>how a city transitions and changes throughout the walk</td>
-          </tr>
-      </tbody>
-  </table>
 
 <br/>
 

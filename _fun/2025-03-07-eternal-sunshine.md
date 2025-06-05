@@ -9,15 +9,23 @@ comment: joel barish is a well written character
 
 # Eternal Sunshine of the Spotless Mind
 
-The film that finally made me revamp this section to include everything that I find fun instead of games. What really drew me into writing about it and thinking I have something, is what I thought to myself in the first minute or two of the movie. Which was: "*This Joel person and this Clementine person have met before. I think the plot here is that even after erasure, their internal feelings led them to Montauk Beach, as they were fated lovers*". I was right, or at least somewhat correct, which gave me some confidence to keep going down this path. The main things I am writing about for this review are the two main characters, Joel and Clementine.
+The film that finally made me revamp this section to include everything that I find fun instead of games. What really drew me into writing about it and thinking I have something, is what I thought to myself in the first minute or two of the movie. 
+
+Which was: "*This Joel person and this Clementine person have met before. I think the plot here is that even after erasure, their internal feelings led them to Montauk Beach, as they were fated lovers*".
+
+I was right, or at least somewhat correct, which gave me some confidence to keep going down this path. The main things I am writing about for this review are the two main characters, Joel and Clementine.
 
 <iframe class="my-3" width="100%" height="300" src="https://www.youtube.com/embed/07-QBnEkgXU?si=5mebUcKVR7Ey0y2q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Joel Barish 
 
-Joel Barish is a complicated character to write; truly introspective characters are probably insanely hard to write, but I don't think that was the case for Joel Barish. He, to me, represents the living contradiction of *seemingly* "*rational*" people. Joel interprets himself through the "*I*" without realizing it speaks to his self-conception as someone who believes he is objective, when in reality, he is deeply subjective but unaware of it. 
+Joel Barish is a complicated character to write; truly introspective characters are probably insanely hard to write, but I don't think that was the case for Joel Barish. He, to me, represents the living contradiction of *seemingly* "*rational*" people. 
 
-The key point being we as spectators have a direct vantage point to this like rationalizing why he went to Montauk, assuming Clementine "*screwing*" other people, and most importantly the journal. The journal as a narrative device was a key tool to illustrate Joel as a character. Because; just as Clementine's visceral reactions protrude outwards, Joel's recedes inwards. In order to then demonstrate that to the audience, you need a sort of reflective device, which is found in the journal.  
+Joel interprets himself through the "*I*" without realizing it speaks to his self-conception as someone who believes he is objective, when in reality, he is deeply subjective but unaware of it. 
+
+The key point being we as spectators have a direct vantage point to this like rationalizing why he went to Montauk, assuming Clementine "*screwing*" other people, and most importantly the journal. The journal as a narrative device was a key tool to illustrate Joel as a character. 
+
+Because; just as Clementine's visceral reactions protrude outwards, Joel's recedes inwards. In order to then demonstrate that to the audience, you need a sort of reflective device, which is found in the journal.  
 
 However, I want to drive the claim that this journal and Joel's interaction with it isn't "*real introspection*". It simply acts as an eye or ear for these visceral reactions. That is, he sees and interprets an image of himself, the world, and others, but never seems to understand the agency doing so, and he ends up constructing the world he lives in from that angle. He records his emotions and perceptions, but rather than using them to understand himself, he passively constructs his reality through them [^1].
 

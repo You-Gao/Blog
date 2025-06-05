@@ -39,7 +39,9 @@ In a 1960 transcript from *Charlottesville Daily Progress*, a local banker gave 
 
 > "Haden said, when asked what effect he thought the program would have on downtown Charlottesville, "I believe it will be helpful. As everybody knows, our business section of the city has been divided largely into two sections-the University section and the downtown section. This Vinegar Hill area has been all my life a very blighted area and it seems to me that if the situation is corrected, the whole business area of Charlottesville will be much helped.""
 
-Why not, instead of "*correcting*" Vinegar Hill by demolishing it, invest in Vinegar Hill? The answer to my question is racial politics and how it systematically limited economic access to Black people. The history of redlining and risk classification based on stereotypes were levied against them to prevent any access to economic/financial instruments. In the case of Vinegar Hill, this was no different. Urban renewal meant the wholesale destruction of their properties and businesses for the development of White business owners. Urban renewal meant they were forced out of their homes and relocated to public housing without being compensated. Urban renewal was never for the Black community on Vinegar Hill.
+Why not, instead of "*correcting*" Vinegar Hill by demolishing it, invest in Vinegar Hill? The answer to my question is racial politics and how it systematically limited economic access to Black people. The history of redlining and risk classification based on stereotypes were levied against them to prevent any access to economic/financial instruments. 
+
+In the case of Vinegar Hill, this was no different. Urban renewal meant the wholesale destruction of their properties and businesses for the development of White business owners. Urban renewal meant they were forced out of their homes and relocated to public housing without being compensated. Urban renewal was never for the Black community on Vinegar Hill.
 
 What I gathered from Vinegar Hill is what happens when there is an imbalance in development. What happened at Vinegar Hill is a story of inequitable development and gentrification. Where the inhabitants of a place had no say in the matter, no voice, and no real political power to state themselves. The case brought to light how inextricably politics is bound up with economics and has profound impacts on the ways politics can legitimize itself to do harm. The real kicker is when I found out how the land was taken: by eminent domain and White voters.
 
@@ -64,7 +66,9 @@ Rehashing a quote from Amartya Sen:
 <figcaption class="blockquote-footer">Development as Freedoms</figcaption>
 
 
-Just reflecting on my own biases, I ask this question: Why is the pragmatic man viewed as better than the ivory tower man? They are both extreme cases. But one of them intuitively feels more good than the other. So which of the two does UVA produce, and for who? Currently, it would be no stretch of the imagination to say that universities produce for the sectors. This production story is being played out in real-time, with the trending majors correlating 1:1 with the trending jobs on the market. I mean, there is no hiding it: the goal of the university is to be economically and commercially practical. Not to argue for the ivory tower, but I think not everything should be pragmatic. The point of theory is that it can be made practical. Higher education should not be solely focused on pragmatics; it must also nurture creativity and intellectual curiosity, empowering students to question assumptions and drive meaningful social change beyond mere economic outcomes.
+Just reflecting on my own biases, I ask this question: Why is the pragmatic man viewed as better than the ivory tower man? They are both extreme cases. But one of them intuitively feels more good than the other. So which of the two does UVA produce, and for who? Currently, it would be no stretch of the imagination to say that universities produce for the sectors. This production story is being played out in real-time, with the trending majors correlating 1:1 with the trending jobs on the market.
+
+I mean, there is no hiding it: the goal of the university is to be economically and commercially practical. Not to argue for the ivory tower, but I think not everything should be pragmatic. The point of theory is that it can be made practical. Higher education should not be solely focused on pragmatics; it must also nurture creativity and intellectual curiosity, empowering students to question assumptions and drive meaningful social change beyond mere economic outcomes.
 
 So when something like v is said for our 2030 plan; I'm extremely skeptical.
 
@@ -78,7 +82,9 @@ Given my pessimism, but also seemingly wishful thinking for higher education, I 
 
 ## What I Think of Development
 
-Despite everything I have said, I'm hopeful. Development as a project historically has, in my view, taken some wrong turns and often veering way off-course. The hard part in outright rejecting it is that there has been good that has come of it. Even if it required enslaved people or the many, many horrendous, inhumane, unethical steps here... I think this is why, in class, the question of if inequality is a problem is posed. At face value, yes. However, the output of colonialism was massive improvements in technologies, which has been shown in the data to have made "*everyone*" better off. Obviously, it is still a problem. But, there is a more profound truth to be teased out.
+Despite everything I have said, I'm hopeful. Development as a project historically has, in my view, taken some wrong turns and often veering way off-course. The hard part in outright rejecting it is that there has been good that has come of it. Even if it required enslaved people or the many, many horrendous, inhumane, unethical steps here... 
+
+I think this is why, in class, the question of if inequality is a problem is posed. At face value, yes. However, the output of colonialism was massive improvements in technologies, which has been shown in the data to have made "*everyone*" better off. Obviously, it is still a problem. But, there is a more profound truth to be teased out.
 
 <div style="text-align: center; margin-top: 30px; margin-bottom: 30px; display: flex; justify-content: space-around;">
     <img src="{{ 'assets/life/midterm/life-expectancy.png' | relative_url }}" class="" style=" width: 42.5%; margin: 0;">

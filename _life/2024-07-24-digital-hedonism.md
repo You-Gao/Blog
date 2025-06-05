@@ -16,7 +16,9 @@ comment: my first post, wow its bad
   <iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/L8csN-ci3Yk?si=ADXqqsxQjTOxFQ9R&amp;start=41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-Yeah, it has gotten pretty bad. Even when I try to stay aware and moderate myself, I get to the point where I am still unconsciously attracted to my phone (pretty bad...).  The thing is, even if you know why the internet works and go into it with a certain mindset, there are larger unconscious psychological processes that can and are exploited to drive more usage. So, the point of this blog is to look into why the internet is so powerful and how that relates to living life intentionally. To do so, I will be taking a look into Dark Patterns (UI/UX) and Psychology.
+Yeah, it has gotten pretty bad. Even when I try to stay aware and moderate myself, I get to the point where I am still unconsciously attracted to my phone (pretty bad...). 
+
+The thing is, even if you know why the internet works and go into it with a certain mindset, there are larger unconscious psychological processes that can and are exploited to drive more usage. So, the point of this blog is to look into why the internet is so powerful and how that relates to living life intentionally. To do so, I will be taking a look into Dark Patterns (UI/UX) and Psychology.
 
 ## Dark Patterns
 
@@ -33,7 +35,9 @@ All of those patterns above prey on the same thing: short-term dopamine rewards�
 
 What is dangerous here is that the two forms of conditioning easily synergize and consistently utilize each other to trap the user further. The even more dubious part of this is how algorithms play into analyzing and furthering the content feedback loop by exploiting cognitive biases for continuing user engagement. I mean, Autoscroll would be useless if it was just purely random content being recommended, wouldn't it? 
 
-Such is the foundation of digital hedonism and leads to being lost in the short-term dopamine playground of the internet. The best thing you can do is recognize it when it occurs and stop it there. Still, even if you know the larger systematic patterns, you will need to be mindful of what dopamine levers are specifically being utilized. Some common ones online are gambling (variable rewards), sexual content, social interaction, achievement, and novelty. Something I'd like to highlight again is that these dopamine levers are not inherently bad; they turn bad when it is intentionally used to realize a goal that's not yours.
+Such is the foundation of digital hedonism and leads to being lost in the short-term dopamine playground of the internet. The best thing you can do is recognize it when it occurs and stop it there. 
+
+Still, even if you know the larger systematic patterns, you will need to be mindful of what dopamine levers are specifically being utilized. Some common ones online are gambling (variable rewards), sexual content, social interaction, achievement, and novelty. Something I'd like to highlight again is that these dopamine levers are not inherently bad; they turn bad when it is intentionally used to realize a goal that's not yours.
 
 ## Internet Addicts vs. Drug Addicts?
 
@@ -43,7 +47,9 @@ That's why I wrote this blog in the first place: because the mechanisms and dark
 
 Moreover, I would argue that the effects of internet addicts are more detrimental to the foundations of society than drug addicts. I'm not trying to downplay drug addicts, but I want to try and make the case that internet addiction is very real and just as dangerous if not more than, other stigmatized forms of addiction. There is already a lot of literature on the dangers of filter bubbles and echo chambers. The internet preys on the social aspect of humanity via the confirmation bias effect. 
 
-The implications: people get addicted to tribalism -> people don't truthfully hear each other out or have meaningful discourse -> democracy does not function. On sexual content online, I mean, come on, does anything more need to be said? I will leave the heavy literature on the psychological, social, and ethical implications in the citations for that. On novelty online, It has gotten pretty bad that the term brain-rot had to be invented in order to really capture the extent of it. I'm not saying that my generation did not have our fair share of that; it just has gotten pretty worse from my perspective. 
+The implications: people get addicted to tribalism -> people don't truthfully hear each other out or have meaningful discourse -> democracy does not function. On sexual content online, I mean, come on, does anything more need to be said?
+
+I will leave the heavy literature on the psychological, social, and ethical implications in the citations for that. On novelty online, It has gotten pretty bad that the term brain-rot had to be invented in order to really capture the extent of it. I'm not saying that my generation did not have our fair share of that; it just has gotten pretty worse from my perspective. 
 
 I don't think I did the greatest job in answering the question, so I will pose it again for you: Are internet and drug addicts any different?
 
@@ -87,4 +93,4 @@ Rescorla, R., & Wagner, A.R. (1972). A theory of Pavlovian conditioning: Variati
 
 <br/>
 ---
-[^1]: This was my very first blog, I ended up not liking how I wrote this section.
+[^1]: This was my very first blog, this section formatting makes me cringe now. I keep it as a reminder of how much my blog structure has changed.

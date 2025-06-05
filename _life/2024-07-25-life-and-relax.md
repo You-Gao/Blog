@@ -17,7 +17,9 @@ I made this reflection on what I do when I'm not working deeply. In my childhood
 
 ## Living
 
-Suppose work is the means to an end (still can serve a larger goal), then I see living life as an end in itself (still can be goal-oriented). For me, work is a matter of duty to society and humanity, whereas living exists for my values. And reflecting on my values made me think back to an experience I had for a side-project w/ a CS Professor who was really into value-based living. There was some wisdom in that, and I still have my notes from the retreat, but the main thing I took away was to realize my three key values were learning, growth, and openness. [^1] 
+Suppose work is the means to an end (still can serve a larger goal), then I see living life as an end in itself (still can be goal-oriented). For me, work is a matter of duty to society and humanity, whereas living exists for my values.
+
+Reflecting on my values made me think back to an experience I had for a side-project w/ a CS Professor who was really into value-based living. There was some wisdom in that, and I still have my notes from the retreat, but the main thing I took away was to realize my three key values were learning, growth, and openness. [^1] 
 
 How does that lead me to organize my daily activities to fit those values?
 

@@ -12,7 +12,7 @@ name: >-
 
 # "*Great Man Theory*" 
 
-This blog came really from 3 distinct but related chains of thoughts and events over the past couple of days. The first was a teacher mentioning the "Great Man Theory," which finally gave a name to the thoughts I had on the historical canon of thinkers and how contemporaries view each epoch as intellectually led by the sole ideas of a peerless visionary. The second was my reflections on what the point of theory is and how I am supposed to even "*practice*" what it teaches. The third was a quiz I found and took this morning (October 23rd, 2024) on the supposedly top 100 greatest philosophers of our time. Here it is if you want to try: [https://www.sporcle.com/games/Almasa/100_Greatest_Philosophers](https://www.sporcle.com/games/Almasa/100_Greatest_Philosophers).[^7]
+This blog came really from 3 distinct but related chains of thoughts and events over the past couple of days. The first was a teacher mentioning the "*Great Man Theory,*" which finally gave a name to the thoughts I had on the historical canon of thinkers and how contemporaries view each epoch as intellectually led by the sole ideas of a peerless visionary. The second was my reflections on what the point of theory is and how I am supposed to even "*practice*" what it teaches. The third was a quiz I found and took this morning (October 23rd, 2024) on the supposedly top 100 greatest philosophers of our time. Here it is if you want to try: [https://www.sporcle.com/games/Almasa/100_Greatest_Philosophers](https://www.sporcle.com/games/Almasa/100_Greatest_Philosophers).[^7]
 
 > "1. Every great leader is born already possessing certain traits that will enable them to rise and lead on instinct."
 <figcaption class="blockquote-footer">Wikipedia (The Source of All True Knowledge)</figcaption>
@@ -25,16 +25,24 @@ This blog came really from 3 distinct but related chains of thoughts and events 
 
 ## Poststructuralism and The Theory Toolbox
 
-I want to use the Poststructuralist framework to demonstrate how the peerless visionaries might be peer**less** visionaries and can be more apt to be called "the slaves of history" than anything else. That whatever we prescribe as "*great*" minds are caught up in the contemporary social, cultural, and political fabrics which are negotiated day-to-day. That the list of the top 100 greatest philosophers will definitely change, not even through a new edition of luminaries, but rather simply through a shift of the zeitgeist. 
+I want to use the Poststructuralist framework to demonstrate how the peerless visionaries might be peer**less** visionaries and can be more apt to be called "the slaves of history" than anything else.
 
-However, I'm not going at it in a way to just dunk and disregard any of the ideas, questions, and methods provided by any of these thinkers. After all, I myself, believe some of these developed and exposited ideas. What I want to do with the framework is the work of translating them to the contemporary moment. Adam Smith's pin factory has become autonomous. Marx's class distinctions have greatly changed. Bentham's panopticon has become digital. Camus's absurd is now found in the endless stream of information. Nietzsche's ubermensch is now the cyborg.[^1]
+That whatever we prescribe as "*great*" minds are caught up in the contemporary social, cultural, and political fabrics which are negotiated day-to-day.
+
+That the list of the top 100 greatest philosophers will definitely change, not even through a new edition of luminaries, but rather simply through a shift of the zeitgeist. 
+
+However, I'm not going at it in a way to just dunk and disregard any of the ideas, questions, and methods provided by any of these thinkers. After all, I myself, believe some of these developed and exposited ideas. What I want to do with the framework is the work of translating them to the contemporary moment.
+
+Adam Smith's pin factory has become autonomous. Marx's class distinctions have greatly changed. Bentham's panopticon has become digital. Camus's absurd is now found in the endless stream of information. Nietzsche's ubermensch is now the cyborg.[^1]
 
 > "When your system breaks down, you see that the underlying structures of meaning (the contexts that render meaning) vary from place to place. The structures of meaning, like meaning itself, are not abstract or transcendental: The signified (the concept of breakfast, for example) is just as material (dependent on context for its meaning) as the signifier (“breakfast" in English or Frühstück in German); the seemingly abstract and universal grammar (what you’re ordering) is just as concrete and changeable as the sentence or word that refers to it."
 <figcaption class="blockquote-footer">The Theory Toolbox</figcaption>
 
-At the core of the quote is that when you encounter the ideas from a forgone time and react with ?????, it means that the meaning systems, signifier, signified, and referent, have drastically changed.[^4] For example, take Adam Smith's idea of the invisible hand. The idea of the invisible hand still has a profound impact on the cultural backbone of the markets and is one of its primary justifications. Signals from buyers and sellers coordinate an equilibrium where goods are priced "*perfectly.*"[^2] To me, that idea has never been mapped out cleanly in the current context. Take now how buyers and sellers interact in the digital marketplace. What coordinates buyers and sellers are no longer the abstract forces but algorithms in so-called digital marketplaces. 
+At the core of the quote is that when you encounter the ideas from a forgone time and react with ?????, it means that the meaning systems, signifier, signified, and referent, have drastically changed.[^4] For example, take Adam Smith's idea of the invisible hand. 
 
-This insight is the merit I see in poststructuralism. It allows translations from the past, specifically for these "great thinkers," to provide insight into the current world and generate more relevant theories. The breaks in clarity and understanding of these thinkers are not just you failing to understand what they said[^3]. The break itself opens up space to renegotiate meaning within the contemporary fabric. And to that, I say I cheers! Better to be "*dumb*" than an ideologue.
+The idea of the invisible hand still has a profound impact on the cultural backbone of the markets and is one of its primary justifications. Signals from buyers and sellers coordinate an equilibrium where goods are priced "*perfectly.*"[^2] To me, that idea has never been mapped out cleanly in the current context. Take now how buyers and sellers interact in the digital marketplace. What coordinates buyers and sellers are no longer the abstract forces but algorithms in so-called digital marketplaces. 
+
+This insight is the merit I see in poststructuralism. It allows translations from the past, specifically for these "*great thinkers,*" to provide insight into the current world and generate more relevant theories. The breaks in clarity and understanding of these thinkers are not just you failing to understand what they said[^3]. The break itself opens up space to renegotiate meaning within the contemporary fabric. And to that, I say I cheers! Better to be "*dumb*" than an ideologue.
 
 *Editors Note: The reason I failed to grapple with this idea is because of my constant use of the word great. Think on this yourself. There is this sort of subtle/subversive linguistic object preference when we use the word great. Great usually denotes or qualifies for a singular noun. Which is directly orthogonal to the point I was trying to make in this blog. That is, what is great is actually the plurality of people behind the thinker.*
 
@@ -51,7 +59,9 @@ The quiz was the catalyst for this post. It made me think back and connect these
 
 What it means to be a "*great*" philosopher on the list is something heavily in contention. A question I asked myself throughout the entirety of the quiz was just why is this person considered "*great*"? From the above discussion, their ideas apparently have been seen to stand "the test of time," but I don't think that is it either. The reason some are there is seemingly as a mascot for the culture and social forces of the time. 
 
-That is why I alluded to some of these thinkers as "slaves to history," as they are cherry-picked and interpreted for a hegemonic narrative instead of fundamentally grappling with the theories purported by them.[^5] But, I see this in myself as well. I view some of the philosophers up there as "*Great.*" Their ideas have a profound relevance in the world and how **I view** it. Again, **BUT**, the point of the blog was to highlight that we shouldn't view any of them as peerless and, along with that, also consider why we view them as great in the first place.
+That is why I alluded to some of these thinkers as "slaves to history," as they are cherry-picked and interpreted for a hegemonic narrative instead of fundamentally grappling with the theories purported by them[^5]. But, I see this in myself as well. 
+
+I view some of the philosophers up there as "*Great.*" Their ideas have a profound relevance in the world and how **I view** it. Again, **BUT**, the point of the blog was to highlight that we shouldn't view any of them as peerless and, along with that, also consider why we view them as great in the first place.
 
 If Newton hadn't found calculus, Leibniz would have been on his tail, but let's also not treat either of them as intellectual idols.
 

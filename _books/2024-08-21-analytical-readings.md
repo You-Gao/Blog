@@ -25,6 +25,8 @@ After, stumbling my way through reasons and persons. Albeit I did try to read th
 
 2025-02-22: I FAILED terribly at this challenge.
 
+2025-04-06: It's just not interesting to me, but maybe one day...
+
 <br/>
 ---
 [^1]: 8/22 (12:00 AM) - I tried to tackle Tractatus and On Sense and Reference, my head is spinning a bit.

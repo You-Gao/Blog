@@ -19,9 +19,13 @@ Google defines it as follows: "Software entropy is a term used to describe the n
 
 ## Complexity and Entropy
 
-Borrowing from the concepts of accidental and essential complexity. Software entropy would be classified under the former. For example, the code that got the rocket to the moon dealt with essential complexity, such as the calculations and controls needed to navigate the rocket ship accurately, and accidental complexity, such as the coordination and maintenance of software development. In my reflections, the two are similarly related to software entropy in the realm of design abstractions. You can have a wrong design choice for the essential complexity or accidental complexity when implementing and communicating the abstraction.
+Borrowing from the concepts of accidental and essential complexity. Software entropy would be classified under the former. For example, the code that got the rocket to the moon dealt with essential complexity, such as the calculations and controls needed to navigate the rocket ship accurately, and accidental complexity, such as the coordination and maintenance of software development. 
 
-The point is that software entropy should be understood as not a magical deterioration of software code. Then, the solution becomes clearer. The solution really is to follow the practices set out to minimize accidental complexity. After a project has hashed out the domain/essential complexity of the topic, there is already a suite of contextual best practices, whether it is a long-standing company or a newly-born start-up. However, in the end, everyone hates following best practices because we forget the future is just about the horizon.
+In my reflections, the two are similarly related to software entropy in the realm of design abstractions. You can have a wrong design choice for the essential complexity or accidental complexity when implementing and communicating the abstraction.
+
+The point is that software entropy should be understood as not a magical deterioration of software code. Then, the solution becomes clearer. The solution really is to follow the practices set out to minimize accidental complexity.
+
+After a project has hashed out the domain/essential complexity of the topic, there is already a suite of contextual best practices, whether it is a long-standing company or a newly-born start-up. However, in the end, everyone hates following best practices because we forget the future is just about the horizon.
 
 To oversimplify: good design + good code + good documentation = no software entropy.
 
