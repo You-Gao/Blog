@@ -89,8 +89,9 @@
                     class="navbar navbar-expand-lg navbar-light container-md px-1 py-0 mb-0 mt-4">
                     <div
                         class="container-fluid align-text-bottom justify-content-start align-items-end mb-0">
-                        <a class="navbar-brand h1 mb-0" style="margin-top: 3px;" href="/">you
-                            gao</a>
+                        <a class="navbar-brand h1 mb-0" style="margin-top: 3px;" href="/">
+                            u高
+                            </a>
                         <a class="navbar-brand h2 mb-0" href="/about"
                             style="margin-right:0; margin-left:0px; margin-top:10px;">(about you)</a>
                         <div class="">
@@ -109,7 +110,7 @@
                                     <a class="nav-link h2 my-1" href="/fun">fun</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link h2 my-1" href="/books">text</a>
+                                    <a class="nav-link h2 my-1" href="/books">books</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link h2 my-1" href="/life">me</a>

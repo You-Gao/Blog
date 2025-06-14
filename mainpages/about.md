@@ -39,7 +39,7 @@ the reason i started this blog was to explore the random thoughts i had in mind.
 
 ## motifs?
 
-the blog was categorized into motifs (fun, text, me, work, img) as they were things i frequently encounter throughout my life. within each motif you will find posts containing my reflections and perspectives on whatever idea i have decided to blabber about. and if i turn out to be a decent blogger, there is something tangible to takeaway. 
+the blog was categorized into motifs (fun, books, me, work, img) as they were things i frequently encounter throughout my life. within each motif you will find posts containing my reflections and perspectives on whatever idea i have decided to blabber about. and if i turn out to be a decent blogger, there is something tangible to takeaway. 
 
 enjoy the site, no matter how you have stumbled onto this crevice of the internet.
 
