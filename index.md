@@ -46,20 +46,19 @@ title: >-
 async function findDiv() {
     const url = "{{ site.url }}/photos/" 
     const response = await fetch(url)
-    const data = await response
 
-    const html = await data.text()
+    const html = await response.text()
     const parser = new DOMParser()
     const doc = parser.parseFromString(html, 'text/html')
-    const div = doc.getElementById('1')
+    const div = doc.getElementById('1') /* tagged in liquid */
 
     const img = div.getAttribute('data-path')
     const imgElement = document.getElementById('set-me')
     imgElement.src = img
 
-    const name = div.querySelector('a').innerHTML
+    const name = div.querySelector('a').innerHTML /* always selects the 1st a */
     const num = div.getAttribute('data-max')
-    const pString = `photo #${num}: ${name}`
+    const pString = `img #${num}: ${name}`
     const p = document.querySelector('p')
     p.innerHTML = `<a href="{{ site.url }}/photos/${name}">${pString}</a>`;
 }

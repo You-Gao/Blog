@@ -10,7 +10,7 @@ permalink: /photos/
 ---
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote">
-    <p> To collect photographs is to collect the world. </p>
+    <p>"To collect photographs is to collect the world."</p>
     </blockquote>
     <figcaption class="blockquote-footer" style="font-size: 18px;">
     Susan Sontag, <cite title="Source Title">On Photography</cite>

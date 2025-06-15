@@ -18,6 +18,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-minifier
+
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
 
 collections:
   books:

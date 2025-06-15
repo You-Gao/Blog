@@ -13,10 +13,10 @@ permalink: /work/
 ---
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote">
-    <p> We do not learn from experience... we learn from reflecting on experience.</p>
+        <p>"Learn what is to be taken seriously and laugh at the rest."</p>
     </blockquote>
     <figcaption class="blockquote-footer" style="font-size: 18px;">
-    John Dewey, <cite title="Source Title">How We Think</cite>
+    Herman Hesse, <cite title="Source Title">Steppenwolf</cite>
     </figcaption>
 </figure>
 

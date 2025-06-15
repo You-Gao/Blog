@@ -12,10 +12,10 @@ permalink: /fun/
 ---
 <figure class="container-lg" style="padding: 0;">
     <blockquote class="blockquote">
-    <p> All are temporary worlds within the ordinary world.</p>
+    <p>"The more stuff you love the happier you will be"</p>
     </blockquote>
     <figcaption class="blockquote-footer" style="font-size: 18px;">
-    Johan Huizinga,  <cite title="Source Title"> Homo Ludens: A Study of the Play-Element in Culture</cite>
+    Ross Gay,  <cite title="Source Title"> The Book of Delights</cite>
     </figcaption>
 </figure>
 
