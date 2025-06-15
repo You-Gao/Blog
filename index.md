@@ -12,35 +12,33 @@ title: >-
 ---
 
 <section class="row pt-1">
-    <div class="col-sm-6 col-12" >
-    <div style="max-height: 200px; overflow-y: scroll; overflow-x: scroll;">
-        <h3 style="margin-top:0px;margin-bottom:0px;">Posts for {{ 'now' | date: '%B %Y' }}:</h3>
-        <ul style="list-style:cjk-ideographic;">
-            {% assign all_posts = site.books | concat: site.fun | concat: site.life | concat: site.work %}
-            {% assign current_month = 'now' | date: '%m' %}
-            {% assign current_year = 'now' | date: '%Y' %}
-            {% for post in all_posts %}
+    <div class="col-md-6 col-12" >
+        <div style="max-height: 200px; overflow-y: scroll; overflow-x: scroll;">
+            <h3 style="margin-top:0px;margin-bottom:0px;">Posts for {{ 'now' | date: '%B %Y' }}:</h3>
+            <ul style="list-style:cjk-ideographic;">
+                {% assign all_posts = site.books | concat: site.fun | concat: site.life | concat: site.work %}
+                {% assign current_month = 'now' | date: '%m' %}
+                {% assign current_year = 'now' | date: '%Y' %}
+                {% for post in all_posts %}
                 {% assign post_month = post.date | date: '%m' %}
                 {% assign post_year = post.date | date: '%Y' %}
                 {% if post_month == current_month and post_year == current_year %}
                 <li><a href="{{ site.url }}{{ post.url }}">{{ post.name }}</a></li>
                 {% endif %}
-            {% endfor %}
-        </ul>
-    </div>
+                {% endfor %}
+            </ul>
+        </div>
 
-        <h3>Quote of the Month:</h3>
-        <blockquote>The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.</blockquote>
+        <h3 style="margin-bottom:5px;">Quote of the Month:</h3>
+        <blockquote>Success does not consist in never making mistakes but in never making the same one a second time.</blockquote>
         <figcaption class="blockquote-footer" style="font-size: 18px;">
-            some guy
+            George Bernard Shaw
         </figcaption>
     </div>
 
-
-
-        <div class="photo-container col-12 col-sm-6">
+    <div id="photo-homepage" class="photo-container col-12 col-md-6">
         <img id="set-me" src=""/>
-<p class="mt-1 mb-0" style="text-align: center;"></p>
+        <p class="mt-1 mb-0" style="text-align: center;"></p>
     </div>
 </section>
 

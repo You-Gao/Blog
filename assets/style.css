@@ -167,6 +167,9 @@ The .Site-content class contains the body content and is set to flex: 1, which a
     #info-list {
         padding-left: .3em;
     }
+    #photo-homepage {
+        margin-top: 20px;
+    }
 }
 
 /* random changes i need mainly sets font sizes to match body */
