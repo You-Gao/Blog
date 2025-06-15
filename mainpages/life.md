@@ -20,7 +20,7 @@ permalink: /life/
     </figcaption>
 </figure>
 
-<div class="container-lg" style="padding: 0;">
+<div class="container-lg bloglist" style="padding: 0;">
     {% assign posts = site.life | reverse %}
     {% assign previous_year = "" %}
 

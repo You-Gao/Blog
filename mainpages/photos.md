@@ -18,7 +18,7 @@ permalink: /photos/
 </figure>
 
 
-<div class="container-lg" style="padding: 0;">
+<div class="container-lg bloglist" style="padding: 0;">
     {% assign posts = site.photos | reverse %}
     {% assign previous_year = "" %}
     {% assign count = 1 %}
