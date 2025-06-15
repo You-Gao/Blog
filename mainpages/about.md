@@ -28,7 +28,7 @@ permalink: /about/
     </div>
 
     <div class="col-sm-5" style="text-align: center;">
-    <img src=" {{ 'assets/home/bundled_me.jpg' | absolute_url}}" class="img-fluid" style="width: 250px;" alt="...">
+    <img src=" {{ 'assets/home/bundled_me.jpg' | absolute_url}}" class="img-fluid" alt="...">
     </div>
   </div>
 </div>

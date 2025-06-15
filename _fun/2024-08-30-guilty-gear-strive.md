@@ -36,19 +36,19 @@ Guilty Gear Strive is a pretty popular game with a lot of purchases on Steam for
 <div class="video-grid" style="">
 
 <div>
-<iframe width="400" height="315" src="https://www.youtube.com/embed/wQ58Vy3DffY?si=jxrj8lvxA_mwEhLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/wQ58Vy3DffY?si=jxrj8lvxA_mwEhLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
   <div>
-    <iframe width="400" height="315" src="https://www.youtube.com/embed/0a2ODmxbkLQ?si=dVG-TuP3FRDqqHrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe src="https://www.youtube.com/embed/0a2ODmxbkLQ?si=dVG-TuP3FRDqqHrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 
   <div>
-<iframe width="400" height="315" src="https://www.youtube.com/embed/9I0o8UtmQT4?si=wrRLSc0qyu4kjZqB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/9I0o8UtmQT4?si=wrRLSc0qyu4kjZqB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   </div>
 
 <div>
-<iframe width="400" height="315" src="https://www.youtube.com/embed/V-oLfRI7uxU?si=NBpe1yJNh74T1Xe3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/V-oLfRI7uxU?si=NBpe1yJNh74T1Xe3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 </div>
 
