@@ -1,13 +1,13 @@
-<section style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
+<section id="toolbar" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
     <div style="display: flex; align-items: center; justify-content: flex-end; padding-left: 10px;">
         <div id="react-icon" class="item">
         </div>
 
-        <svg xmlns="http://www.w3.org/2000/svg" width="30" height="20" fill="#6c7086" class="bi bi-arrow-up item"
+        <svg id="arrow" xmlns="http://www.w3.org/2000/svg" fill="#6c7086" class="bi bi-arrow-up item"
             viewBox="0 0 16 16" role="button" aria-label="scroll to top" title="Scroll to top"
             onclick="window.scrollTo({top: 0, behavior: 'smooth'});"
-            onmouseover="this.style.transform = 'scale(1.2)'; this.style.transition = 'transform 0.2s ease-in-out';"
-            onmouseout="this.style.transform = 'scale(1)'; this.style.transition = 'transform 0.2s ease-in-out';"
+            onmouseover="this.style.transform = 'scale(1)'; this.style.transition = 'transform 0.2s ease-in-out';"
+            onmouseout="this.style.transform = 'scale(.8)'; this.style.transition = 'transform 0.2s ease-in-out';"
         >
             <path fill-rule="evenodd"
                 d="M8 15a.5.5 0 0 0 .5-.5V2.707l3.146 3.147a.5.5 0 0 0 .708-.708l-4-4a.5.5 0 0 0-.708 0l-4 4a.5.5 0 1 0 .708.708L7.5 2.707V14.5a.5.5 0 0 0 .5.5" />
@@ -36,11 +36,6 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     };
 
-    const sizeStyle = {
-        width: '30px',
-        height: '30px'
-    };
-
     const currentTheme = localStorage.getItem('theme') || 'normalize';
     const srcPath = '/assets/' + currentTheme + '.webp';
 
@@ -52,8 +47,6 @@ document.addEventListener('DOMContentLoaded', function() {
     img.id = 'toggle-icon';
     img.src = srcPath;
     img.alt = 'Night Mode';
-    img.style.width = sizeStyle.width;
-    img.style.height = sizeStyle.height;
 
     button.appendChild(img);
     document.getElementById('react-icon').appendChild(button);
@@ -83,4 +76,4 @@ function setNavigation() {
         document.querySelector('.navbar-brand[href="/"]').classList.add('active');
     }
 }
-    </script>
+</script>

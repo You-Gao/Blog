@@ -11,113 +11,60 @@ title: >-
   home
 ---
 
-<div class="row justify-content-center photo-container">
-    <div class="col-10" style="max-height: 400px">
-        <img id="set-me" style="margin: auto;display: block; max-width: 100%; max-height: 100%; object-fit: scale-down;" src=""/>
+<section class="row pt-1">
+    <div class="col-sm-6 col-12" >
+    <div style="max-height: 200px; overflow-y: scroll; overflow-x: scroll;">
+        <h3 style="margin-top:0px;margin-bottom:0px;">Posts for {{ 'now' | date: '%B %Y' }}:</h3>
+        <ul style="list-style:cjk-ideographic;">
+            {% assign all_posts = site.books | concat: site.fun | concat: site.life | concat: site.work %}
+            {% assign current_month = 'now' | date: '%m' %}
+            {% assign current_year = 'now' | date: '%Y' %}
+            {% for post in all_posts %}
+                {% assign post_month = post.date | date: '%m' %}
+                {% assign post_year = post.date | date: '%Y' %}
+                {% if post_month == current_month and post_year == current_year %}
+                <li><a href="{{ site.url }}{{ post.url }}">{{ post.name }}</a></li>
+                {% endif %}
+            {% endfor %}
+        </ul>
     </div>
-    <p class="mt-1 mb-0" style="text-align: center;"></p>
-</div>
+
+        <h3>Quote of the Month:</h3>
+        <blockquote>The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.</blockquote>
+        <figcaption class="blockquote-footer" style="font-size: 18px;">
+            some guy
+        </figcaption>
+    </div>
+
+
+
+        <div class="photo-container col-12 col-sm-6">
+        <img id="set-me" src=""/>
+<p class="mt-1 mb-0" style="text-align: center;"></p>
+    </div>
+</section>
 
 <script>
-  async function findDiv() {
+async function findDiv() {
     const url = "{{ site.url }}/photos/" 
     const response = await fetch(url)
     const data = await response
-    
+
     const html = await data.text()
     const parser = new DOMParser()
     const doc = parser.parseFromString(html, 'text/html')
     const div = doc.getElementById('1')
-    
+
     const img = div.getAttribute('data-path')
     const imgElement = document.getElementById('set-me')
     imgElement.src = img
-    
+
     const name = div.querySelector('a').innerHTML
     const num = div.getAttribute('data-max')
     const pString = `photo #${num}: ${name}`
     const p = document.querySelector('p')
     p.innerHTML = `<a href="{{ site.url }}/photos/${name}">${pString}</a>`;
-  }
+}
 
-  findDiv()
+findDiv()
 </script>
-
-
-
-<!--# Explore Topics-->
-<!---->
-<!--<div class="card-group row-cols-4" style="gap: 0px">-->
-<!---->
-<!--<div class="cards" href="{{'/fun' | relative_url}}">-->
-<!--<div class="col" style="height: 100%;">-->
-<!--  <div class="card" style="width: 100%; height: 100%;">-->
-<!--    <img src=" {{ 'assets/home/dad.jpg' | absolute_url}}" class="card-img-top" alt="...">-->
-<!--      <div class="card-body">-->
-<!--        <h5 class="card-title">Fun</h5>-->
-<!--        <h6 class="card-subtitle mb-2 text-muted">entertainment+</h6>-->
-<!--        <p class="card-text">Movies, games, comics, and other fun things in life.</p>-->
-<!--        <a href="{{'/fun' | relative_url}}" class="stretched-link"></a>-->
-<!--      </div>-->
-<!--  </div>-->
-<!--</div>-->
-<!--</div>-->
-<!---->
-<!--<div class="cards">-->
-<!--<div class="col" style="height: 100%;">-->
-<!--  <div class="card" style="width: 100%; height: 100%;">-->
-<!--    <img src="{{ 'assets/home/read.png' | absolute_url}}" class="card-img-top" alt="...">-->
-<!--      <div class="card-body my-0">-->
-<!--        <h5 class="card-title">Books</h5>-->
-<!--        <h6 class="card-subtitle mb-2 text-muted">reading books</h6>-->
-<!--        <p class="card-text">Summaries of the books I read along with commentary.</p>-->
-<!--        <a href="{{'/books' | relative_url}}" class="stretched-link"></a>-->
-<!--      </div>-->
-<!--  </div>-->
-<!--</div>-->
-<!--</div>-->
-<!---->
-<!--<div class="cards">-->
-<!--<div class="col" style="height: 100%;">-->
-<!--  <div class="card" style="width: 100%; height: 100%;">-->
-<!--      <img src="{{ 'assets/home/grow.png' | absolute_url }}" class="card-img-top" alt="...">-->
-<!--      <div class="card-body">-->
-<!--        <h5 class="card-title">Life</h5>-->
-<!--        <h6 class="card-subtitle mb-2 text-muted">my growth stocks</h6>-->
-<!--        <p class="card-text">A personal Q&A section for myself. A practice in being open and aware.</p>-->
-<!--        <a href="{{'/life' | relative_url}}" class="stretched-link"></a>-->
-<!--      </div>-->
-<!--  </div>-->
-<!--</div>-->
-<!--</div>-->
-<!---->
-<!--<div class="cards">-->
-<!--<div class="col" style="height: 100%;">-->
-<!--  <div class="card" style="width: 100%; height: 100%;">-->
-<!--      <img src="{{ 'assets/home/computer.jpg' | absolute_url}}" class="card-img-top" alt="...">-->
-<!--      <div class="card-body">-->
-<!--        <h5 class="card-title">Work</h5>-->
-<!--        <h6 class="card-subtitle mb-2 text-muted">avg it experience</h6>-->
-<!--        <p class="card-text">Things about computer science and the job.</p>-->
-<!--        <a href="{{'/work' | relative_url}}" class="stretched-link"></a>-->
-<!--      </div>-->
-<!--  </div>-->
-<!--</div>-->
-<!--</div>-->
-<!---->
-<!--</div>-->
-<!---->
-<!-- 
-## Recent Posts
-
-{% assign all_content = site.work | concat: site.fun | concat: site.life | concat: site.books %}
-{% assign sorted_content = all_content | sort: 'date' | reverse %}
-{% assign recent_content = sorted_content | slice: 0, 5 %}
-
-<ul style="list-style: none outside; padding: 0;">
-{% for item in recent_content %}
-    <li>  <a href="{{ item.url }}">{{ item.title }}</a>  
-    </li>
-{% endfor %}
-</ul>
--->
