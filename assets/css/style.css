@@ -1,0 +1,192 @@
+/* CSS FOR TOOLBAR */
+#toolbar .item img {
+    width: 40px;
+    height: 40px;
+}
+#toolbar .item {
+    width: 40px;
+    height: 40px;
+}
+
+#toolbar #arrow {
+    transform: scale(.8);
+}
+
+/* CSS FOR BLOG NAVIGATION COMPONENT */
+.time {
+    font-size: .72em;
+    margin-left: .5em;
+    margin-bottom: .25em;
+    color: #6c7086;
+    display: block;
+}
+.blog-nav a {
+    color: #6c7086;
+    text-decoration: none;
+    font-weight: 400;
+    display: block;
+}
+.blog-nav a a {
+    display: contents;
+}
+.blog-nav div .nav-h1 {
+    font-size: .81em;
+    margin-left: .5em;
+    display: block;
+}
+.nav-h2 {
+    font-size: .72em;
+    margin-left: .59em;
+    display: block;
+}
+.nav-h3 {
+    font-size: .63em;
+    margin-left: 1.5em;
+    display: block;
+}
+.nav-h4 {
+    font-size: .54em;
+    margin-left: 3em;
+    display: block;
+}
+
+/* CSS FOR GAME VIDEOS */
+.video-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    grid-column-gap: 10px; 
+    grid-row-gap: 0px;
+    max-width: 100%;
+}
+
+.video-grid div {
+    width: 100%; 
+    margin: auto; 
+}
+
+.video-grid video {
+    width: 100%; 
+    height: 100%;
+}
+
+iframe {
+    width: 100%;
+    height: 300px;
+}
+
+/* CSS FOR ALL IMAGES */
+body main .photo-container img {
+    margin: auto;
+    margin-bottom: 10px;
+    display: block;
+    max-width: 100%;
+    max-height: 400px;
+    object-fit: scale-down;
+}
+body main img {
+    max-width: 100%;
+    max-height: 300px;
+    display: block;
+    height: auto;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.game_logo {
+    display: block;
+    margin: auto;
+    width: 100%;
+    margin: 0;
+}
+
+/* CSS OVERRIDES FOR BS5 HEADER AND FOOTER SECTIONS */
+.italic-link {
+    font-style: italic;
+}
+
+.nav-link {
+    transition: none;
+}
+
+/* CSS FOR main_pages */
+.date {
+    font-size: 15px;
+    width: 55px;
+    text-align: right;
+}
+
+.title {
+    flex: 1; /* prevents pushing date in */
+}
+
+/* CSS TO STRUCTURE THE PAGE */
+/* https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/ */
+/* 
+
+Explanation: Set the body to a column flex container with a minimum height of 100vh.
+The .Site class is the main container for all header, body, and footer content.
+The min-height of 100vh ensures that the footer will always be at the bottom of the page, even if the content is short.
+The .Site-content class contains the body content and is set to flex: 1, which allows it to grow and fill the available space.
+*/
+
+.Site {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.Site-content {
+    flex: 1;
+}
+
+
+/* CSS TO HIDE BLOGNAV AT 1000px */
+@media (max-width: 1000px) {
+    .blog-nav {
+        display: none;
+    }
+}
+
+/* CSS FOR SMALLER SCREENS */
+@media (max-width: 768px) {
+    figcaption p {
+        margin-bottom: 0px;
+    }
+    #navbar {
+        margin-top: 0 !important;
+    }
+    #version {
+        display: none !important;
+    }
+    .comment { /* comments in the browsing area */
+        display: none !important;
+    }
+    #info { /* about me div */
+    }
+    #info-list {
+        padding-left: .3em;
+    }
+    #photo-homepage {
+        margin-top: 20px;
+    }
+}
+
+/* random changes i need mainly sets font sizes to match body */
+blockquote {
+    font-size: large !important; 
+}
+
+.footnotes {
+    font-size: large !important; 
+}
+
+.markdown-body ul { /* matches paragraphs margin */
+    margin-bottom: 1.25rem !important;
+}
+
+figcaption {
+    font-size: .8em !important;
+}
+
