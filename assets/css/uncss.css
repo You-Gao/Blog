@@ -16,27 +16,6 @@
 	}
 }
 
-body {
-	margin: 0;
-	font-family: var(--bs-body-font-family);
-	font-size: var(--bs-body-font-size);
-	font-weight: var(--bs-body-font-weight);
-	line-height: var(--bs-body-line-height);
-	color: var(--bs-body-color);
-	text-align: var(--bs-body-text-align);
-	background-color: var(--bs-body-bg);
-	-webkit-text-size-adjust: 100%;
-	-webkit-tap-highlight-color: transparent
-}
-
-hr {
-	margin: 1rem 0;
-	color: inherit;
-	border: 0;
-	border-top: var(--bs-border-width) solid;
-	opacity: .25
-}
-
 .h1,.h2,h1,h2,h3 {
 	margin-top: 0;
 	margin-bottom: .5rem;
@@ -45,49 +24,11 @@ hr {
 	color: var(--bs-heading-color)
 }
 
-.h1,h1 {
-	font-size: calc(1.375rem + 1.5vw)
-}
-
-@media (min-width:1200px) {
-	.h1,h1 {
-		font-size: 2.5rem
-	}
-}
-
-.h2,h2 {
-	font-size: calc(1.325rem + .9vw)
-}
-
-@media (min-width:1200px) {
-	.h2,h2 {
-		font-size: 2rem
-	}
-}
-
-h3 {
-	font-size: calc(1.3rem + .6vw)
-}
-
-@media (min-width:1200px) {
-	h3 {
-		font-size: 1.75rem
-	}
-}
-
 p {
 	margin-top: 0;
 	margin-bottom: 1rem
 }
 
-ol,ul {
-	padding-left: 2rem
-}
-
-ol,ul {
-	margin-top: 0;
-	margin-bottom: 1rem
-}
 
 blockquote {
 	margin: 0 0 1rem
@@ -170,11 +111,6 @@ button:focus:not(:focus-visible) {
 
 iframe {
 	border: 0
-}
-
-.blockquote {
-	margin-bottom: 1rem;
-	font-size: 1.25rem
 }
 
 .blockquote>:last-child {
@@ -294,10 +230,6 @@ iframe {
 	}
 }
 
-:not(.btn-check)+.btn:active:focus-visible {
-	box-shadow: var(--bs-btn-focus-box-shadow)
-}
-
 .nav-link {
 	display: block;
 	padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
@@ -313,21 +245,6 @@ iframe {
 	.nav-link {
 		transition: none
 	}
-}
-
-.nav-link:focus,.nav-link:hover {
-	color: var(--bs-nav-link-hover-color)
-}
-
-.nav-link:focus-visible {
-	outline: 0;
-	box-shadow: 0 0 0 .25rem rgba(13,110,253,.25)
-}
-
-.nav-link:disabled {
-	color: var(--bs-nav-link-disabled-color);
-	pointer-events: none;
-	cursor: default
 }
 
 .navbar {
@@ -376,10 +293,6 @@ iframe {
 	white-space: nowrap
 }
 
-.navbar-brand:focus,.navbar-brand:hover {
-	color: var(--bs-navbar-brand-hover-color)
-}
-
 @media (min-width:992px) {
 	.navbar-expand-lg {
 		flex-wrap: nowrap;
@@ -420,16 +333,6 @@ iframe {
 	margin-bottom: .25rem!important
 }
 
-.my-2 {
-	margin-top: .5rem!important;
-	margin-bottom: .5rem!important
-}
-
-.my-3 {
-	margin-top: 1rem!important;
-	margin-bottom: 1rem!important
-}
-
 .mt-1 {
 	margin-top: .25rem!important
 }
@@ -446,21 +349,6 @@ iframe {
 	margin-bottom: 0!important
 }
 
-.px-1 {
-	padding-right: .25rem!important;
-	padding-left: .25rem!important
-}
-
-.px-2 {
-	padding-right: .5rem!important;
-	padding-left: .5rem!important
-}
-
-.px-3 {
-	padding-right: 1rem!important;
-	padding-left: 1rem!important
-}
-
 .py-0 {
 	padding-top: 0!important;
 	padding-bottom: 0!important
@@ -469,11 +357,6 @@ iframe {
 .pt-1 {
 	padding-top: .25rem!important
 }
-
-.active {
-	background: lightgrey;
-}
-
 
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 
@@ -494,8 +377,9 @@ p {
 
 body {
 	margin: 0;
-	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-	font-size: large;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    line-height: 1.5;
+    font-weight: 400;
 }
 
 figcaption,figure,footer,main,nav,section {
@@ -541,12 +425,6 @@ figure {
 	margin: 1em 40px
 }
 
-hr {
-	box-sizing: content-box;
-	height: 0;
-	overflow: visible
-}
-
 ::-webkit-input-placeholder {
 	color: inherit;
 	opacity: .54
@@ -555,10 +433,6 @@ hr {
 ::-webkit-file-upload-button {
 	-webkit-appearance: button;
 	font: inherit
-}
-
-* {
-	box-sizing: border-box
 }
 
 a {
@@ -580,61 +454,9 @@ hr {
 	overflow: hidden;
 	background: 0 0;
 	border: 0;
-	border-bottom: 1px solid black
-}
-
-hr::before {
-	display: table;
-	content: ""
-}
-
-hr::after {
-	display: table;
-	clear: both;
-	content: ""
-}
-
-h1 {
-	font-size: 32px;
-	font-weight: 700
-}
-
-h2 {
-	font-size: 24px;
-	font-weight: 700
-}
-
-h3 {
-	font-size: 20px;
-	font-weight: 700
-}
-
-p {
-	margin-top: 0;
-	margin-bottom: 10px
-}
-
-blockquote {
-	margin: 0
-}
-
-ol,ul {
-	padding-left: 0;
-	margin-top: 0;
-	margin-bottom: 0
-}
-
-.flex-row {
-	flex-direction: row!important
-}
-
-.mb-0 {
-	margin-bottom: 0!important
-}
-
-.my-1 {
-	margin-top: 4px!important;
-	margin-bottom: 4px!important
+	border-bottom: 1px solid black;
+	box-sizing: content-box;
+	overflow: visible;
 }
 
 .my-2 {
@@ -672,21 +494,12 @@ ol,ul {
 }
 
 .h2 {
-	font-size: 22px!important
+	font-size: 1.4rem;
 }
 
 @media (min-width:768px) {
 	.h2 {
-		font-size: 24px!important
-	}
-}
-
-.h1,.h2 {
-	font-weight: 500!important
-}
-
-.d-flex {
-	display: flex!important
+		font-size: 1.4rem;	}
 }
 
 .container-md {
@@ -696,38 +509,25 @@ ol,ul {
 }
 
 .container-lg {
+    padding: 0;
 	max-width: 1012px;
 	margin-right: auto;
 	margin-left: auto
 }
 
-.col-2 {
-	width: 16.6666666667%
+blockquote {
+	margin: 0
 }
 
-.col-4 {
-	width: 33.3333333333%
+ol, ul {
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
-.col-12 {
-	width: 100%
-}
-
-@media (min-width:768px) {
-	.col-md-4 {
-		width: 33.3333333333%
-	}
-
-	.col-md-6 {
-		width: 50%
-	}
-}
-
-.markdown-body {
-	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-	font-size: large;
-	line-height: 1.5;
-	word-wrap: break-word
+h4,h5,h6 {
+	margin-top: 0;
+	margin-bottom: 0
 }
 
 .markdown-body::before {
@@ -762,28 +562,8 @@ ol,ul {
 	border: 0
 }
 
-.markdown-body blockquote {
-	padding: 0 1em;
-	color: #6a737d;
-	border-left: .25em solid #dfe2e5
-}
-
-.markdown-body blockquote>:first-child {
-	margin-top: 0
-}
-
-.markdown-body blockquote>:last-child {
-	margin-bottom: 0
-}
-
-
-
 .markdown-body ol,.markdown-body ul {
 	padding-left: 2em
-}
-
-.markdown-body li {
-	word-wrap: break-all
 }
 
 .markdown-body li>p {
@@ -794,15 +574,23 @@ ol,ul {
 	margin-top: .25em
 }
 
-h1,h2,h3,h4,h5,h6 {
-	margin-top: 0;
+.markdown-body blockquote {
+	padding: 0 1em;
+	color: #6a737d;
+	border-left: .3em solid #dfe2e5
+}
+
+.markdown-body blockquote>:first-child {
+	margin-top: 0
+}
+
+.markdown-body blockquote>:last-child {
 	margin-bottom: 0
 }
 
 .markdown-body h1,.markdown-body h2,.markdown-body h3 {
 	margin-top: 24px;
 	margin-bottom: 16px;
-	font-weight: 700;
 	line-height: 1.25
 }
 
@@ -820,8 +608,11 @@ h1,h2,h3,h4,h5,h6 {
 	font-size: 1.25em;
 	font-weight: 550;
 }
+
 .markdown-body {
 	font-size: medium;
+	line-height: 1.5;
+	word-wrap: break-word
 }
 
 @media (min-width:768px) {

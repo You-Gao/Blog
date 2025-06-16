@@ -28,14 +28,13 @@ title: >-
                 {% endfor %}
             </ul>
         </div>
-
         <h3 style="margin-bottom:5px;">Quote of the Month:</h3>
-        <blockquote>Success does not consist in never making mistakes but in never making the same one a second time.</blockquote>
-        <figcaption class="blockquote-footer" style="font-size: 18px;">
-            George Bernard Shaw
-        </figcaption>
+        <blockquote>Success does not consist in never making mistakes but in never making the same one a second time.
+            <figcaption class="blockquote-footer"> 
+                George Bernard Shaw
+            </figcaption>
+        </blockquote>
     </div>
-
     <div id="photo-homepage" class="photo-container col-12 col-md-6">
         <img id="set-me" src=""/>
         <p class="mt-1 mb-0" style="text-align: center;"></p>

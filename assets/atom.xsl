@@ -12,12 +12,10 @@
                 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
                 <title>web feed | <xsl:value-of
                     select="atom:feed/atom:title" /></title>
-                <link href="/assets/css/style.min.css" rel="stylesheet"
+                <link href="/assets/css/combined.min.css" rel="stylesheet"
                     type="text/css" />
-                <link href="/assets/css/uncss.min.css" rel="stylesheet" type="text/css" />
                 <link rel="icon" href="/assets/logo.webp" type="image/icon type"></link>
                 <link id="blank" type="text/css"></link>
-
                 <script type="text/javascript">
                     var theme = localStorage.getItem('theme');
                     var themeHref = theme === "normalize_invert"
