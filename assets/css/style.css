@@ -24,12 +24,12 @@
 	font-size: 0.72em;
 	margin-left: 0.5em;
 	margin-bottom: 0.25em;
-	color: #6c7086;
+	color: grey;
 	display: block
 }
 
 .blog-nav a {
-	color: #6c7086;
+	color: grey;
 	text-decoration: none;
 	font-weight: 400;
 	display: block
@@ -113,10 +113,6 @@ body main img {
 	font-style: italic
 }
 
-.nav-link {
-	transition: none
-}
-
 .date {
 	font-size: 15px!important;
 	width: 55px;
@@ -160,18 +156,47 @@ body main img {
 		display: none !important
 	}
 
-	#info {
-	}
-
-	#info-list {
-		padding-left: 0.3em
-	}
-
 	#photo-homepage {
 		margin-top: 20px
 	}
 }
 
 .active {
-	background: lightgrey;
+	background: #eeeeee;
+    color: grey!important;
+}
+
+a {
+	color: #0366d6;
+	text-decoration: none;
+    position: relative; 
+    text-decoration: none; 
+    overflow: hidden; 
+}
+
+a::before {
+    content: ''; 
+    position: absolute; 
+    top: 0; 
+    width: 0%; 
+    height: 100%; 
+    background: lightgrey; 
+    transition: width 0.5s ease; 
+    z-index: -1; 
+}
+
+a:hover::before {
+    width: 100%;
+}
+
+.title:hover {
+    color: #65a9f5;
+}
+
+.nav-link:hover {
+    color: grey;
+}
+
+.navbar-brand:hover {
+    color: grey;
 }

@@ -49,15 +49,6 @@ sup {
 	top: -.5em
 }
 
-a {
-	color: rgba(var(--bs-link-color-rgb),var(--bs-link-opacity,1));
-	text-decoration: underline
-}
-
-a:hover {
-	--bs-link-color-rgb: var(--bs-link-hover-color-rgb)
-}
-
 figure {
 	margin: 0 0 1rem
 }
@@ -121,7 +112,7 @@ iframe {
 	margin-top: -1rem;
 	margin-bottom: 1rem;
 	font-size: .875em;
-	color: #6c757d
+	color: grey;
 }
 
 .blockquote-footer::before {
@@ -250,10 +241,6 @@ iframe {
 .navbar {
 	--bs-navbar-padding-x: 0;
 	--bs-navbar-padding-y: 0.5rem;
-	--bs-navbar-color: rgba(var(--bs-emphasis-color-rgb), 0.65);
-	--bs-navbar-hover-color: rgba(var(--bs-emphasis-color-rgb), 0.8);
-	--bs-navbar-disabled-color: rgba(var(--bs-emphasis-color-rgb), 0.3);
-	--bs-navbar-active-color: rgba(var(--bs-emphasis-color-rgb), 1);
 	--bs-navbar-brand-padding-y: 0.3125rem;
 	--bs-navbar-brand-margin-end: 1rem;
 	--bs-navbar-brand-font-size: 1.25rem;
@@ -267,7 +254,6 @@ iframe {
 	--bs-navbar-toggler-border-color: rgba(var(--bs-emphasis-color-rgb), 0.15);
 	--bs-navbar-toggler-border-radius: var(--bs-border-radius);
 	--bs-navbar-toggler-focus-width: 0.25rem;
-	--bs-navbar-toggler-transition: box-shadow 0.15s ease-in-out;
 	position: relative;
 	display: flex;
 	flex-wrap: wrap;
@@ -435,15 +421,6 @@ figure {
 	font: inherit
 }
 
-a {
-	color: #0366d6;
-	text-decoration: none
-}
-
-a:hover {
-	text-decoration: underline
-}
-
 strong {
 	font-weight: 600
 }
@@ -453,8 +430,7 @@ hr {
 	margin: 15px 0;
 	overflow: hidden;
 	background: 0 0;
-	border: 0;
-	border-bottom: 1px solid black;
+	border-bottom: 1px solid grey;
 	box-sizing: content-box;
 	overflow: visible;
 }
@@ -576,8 +552,8 @@ h4,h5,h6 {
 
 .markdown-body blockquote {
 	padding: 0 1em;
-	color: #6a737d;
-	border-left: .3em solid #dfe2e5
+	color: 	grey;
+    border-left: .3em solid #eeeeee;
 }
 
 .markdown-body blockquote>:first-child {
@@ -612,11 +588,179 @@ h4,h5,h6 {
 .markdown-body {
 	font-size: medium;
 	line-height: 1.5;
-	word-wrap: break-word
+	word-wrap: break-word;
 }
 
 @media (min-width:768px) {
 	.markdown-body {
 		font-size: large;
 	}
+}
+
+#footnotes {
+	border-bottom: 1px dotted;
+}
+
+.bloglist h2 {
+	margin-bottom: .25em !important;
+}
+
+#toolbar .item img {
+	width: 40px;
+	height: 40px
+}
+
+#toolbar .item {
+	width: 40px;
+	height: 40px
+}
+
+#toolbar #arrow {
+	transform: scale(.8)
+}
+
+.time {
+	font-size: 0.72em;
+	margin-left: 0.5em;
+	margin-bottom: 0.25em;
+	color: #eeeeee;
+	display: block
+}
+
+.blog-nav a {
+	color: #eeeeee;
+	text-decoration: none;
+	font-weight: 400;
+	display: block
+}
+
+.blog-nav a a {
+	display: contents
+}
+
+.blog-nav div .nav-h1 {
+	font-size: 0.81em;
+	margin-left: 0.5em;
+	display: block
+}
+
+.nav-h2 {
+	font-size: 0.72em;
+	margin-left: 0.59em;
+	display: block
+}
+
+.nav-h3 {
+	font-size: 0.63em;
+	margin-left: 1.5em;
+	display: block
+}
+
+.nav-h4 {
+	font-size: 0.54em;
+	margin-left: 3em;
+	display: block
+}
+
+.video-grid {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	grid-column-gap: 10px;
+	grid-row-gap: 0;
+	max-width: 100%
+}
+
+.video-grid div {
+	width: 100%;
+	margin: auto
+}
+
+.video-grid video {
+	width: 100%;
+	height: 100%
+}
+
+iframe {
+	width: 100%;
+	height: 300px
+}
+
+body main .photo-container img {
+	margin: auto auto 10px;
+	display: block;
+	max-width: 100%;
+	max-height: 400px;
+	object-fit: scale-down
+}
+
+body main img {
+	max-width: 100%;
+	max-height: 300px;
+	display: block;
+	height: auto;
+	margin: 2rem auto
+}
+
+.game_logo {
+	display: block;
+	margin: auto;
+	width: 100%;
+	margin: 0
+}
+
+.italic-link {
+	font-style: italic
+}
+
+.date {
+	font-size: 15px!important;
+	width: 55px;
+	text-align: right
+}
+
+.title {
+	flex: 1
+}
+
+.Site {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column
+}
+
+.Site-content {
+	flex: 1
+}
+
+@media (max-width: 1000px) {
+	.blog-nav {
+		display: none
+	}
+}
+
+@media (max-width: 768px) {
+	figcaption p {
+		margin-bottom: 0
+	}
+
+	#navbar {
+		margin-top: 0 !important
+	}
+
+	#version {
+		display: none !important
+	}
+
+	.comment {
+		display: none !important
+	}
+
+	#photo-homepage {
+		margin-top: 20px
+	}
+}
+
+.active {
+	background: #eeeeee;
+    color: grey!important;
 }

@@ -1,0 +1,34 @@
+a {
+	color: #0366d6;
+	text-decoration: none;
+    position: relative; 
+    text-decoration: none; 
+    overflow: hidden; 
+}
+
+a::before {
+    content: ''; 
+    position: absolute; 
+    top: 0; 
+    width: 0%; 
+    height: 100%; 
+    background: #eeeeee; 
+    transition: width 0.5s ease; 
+    z-index: -1; 
+}
+
+a:hover::before {
+    width: 100%;
+}
+
+.title:hover {
+    color: #65a9f5;
+}
+
+.nav-link:hover {
+    color: grey;
+}
+
+.navbar-brand:hover {
+    color: grey;
+}

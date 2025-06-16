@@ -1,10 +1,15 @@
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
+a::before {
+    background: rgb(49, 50, 68);
+}
+
 hr {
 	border-bottom: 1px solid grey;
 }
 
 .active {
-	background: rgb(49, 50, 68);
+	background: #6c7086;
+    color: #e0e7ff!important;
 }
 
 .navbar-brand {
@@ -12,24 +17,16 @@ hr {
 }
 
 .nav-link {
-	color: #bac2de!important
+	color: #bac2de
 }
 
 .markdown-body blockquote {
-	color: #6c7086!important;
-	border-left: 5px solid #6c7086!important
+	color: #e0e7ff!important;
+	border-left: 5px solid #6c7086;
 }
 
 .blockquote-footer {
-	color: #6c7086!important
-}
-
-.navbar-brand:hover {
-	color: #cdd6f4!important
-}
-
-.nav-item a:hover {
-	color: #cdd6f4!important
+	color: #e0e7ff!important
 }
 
 .text-muted {
@@ -43,4 +40,24 @@ body {
 
 h1,h2,h3,h4,h5,h6 {
 	color: #cdd6f4;
+}
+
+.title:hover {
+    color: #65a9f5;
+}
+
+.nav-link:hover {
+    color: #e0e7ff!important;
+}
+
+.navbar-brand:hover {
+    color: #e0e7ff!important;
+}
+
+.markdown-body hr {
+    background-color: #e0e7ff!important;
+}
+
+.blog-nav a,.time {
+    color: #e0e7ff!important;
 }
