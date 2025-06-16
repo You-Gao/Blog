@@ -29,8 +29,8 @@ enjoy the site, no matter how you have stumbled onto this crevice of the interne
 ## should you blog?
 
 there are existing lists of online sources for this, but i thought it'd be fun to compile my own:
-* [mini essays to learn](https://www.youtube.com/watch?v=hi8meiPUt84)
-* [start making cool shit](https://www.youtube.com/watch?v=QXf10rw_dqo&pp=ygUObWFrZSBjb29sIHNoaXTSBwkJ3gkBhyohjO8%3D)
-* [brain dumps](https://btxx.org/posts/dump/)
+- [mini essays to learn](https://www.youtube.com/watch?v=hi8meiPUt84)
+- [start making cool shit](https://www.youtube.com/watch?v=QXf10rw_dqo&pp=ygUObWFrZSBjb29sIHNoaXTSBwkJ3gkBhyohjO8%3D)
+- [brain dumps](https://btxx.org/posts/dump/)
 
 

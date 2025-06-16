@@ -60,7 +60,7 @@ async function findDiv() {
     const num = div.getAttribute('data-max')
     const pString = `img #${num}: ${name}`
     const p = document.querySelector('p')
-    p.innerHTML = `<a href="{{ site.url }}/photos/${name}">${pString}</a>`;
+    p.innerHTML = `<a href="{{ site.url }}/photos/${name.replace(/ /g, '-')}">${pString}</a>`;
 }
 
 findDiv()

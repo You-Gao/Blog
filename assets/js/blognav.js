@@ -57,13 +57,13 @@
                 }
 
                 Item.addEventListener('mouseover', function () {
-                    if (this.style.textDecorationStyle === 'dotted') {
+                    if (this.style.textDecorationThickness === '2px') {
                         return;
                     }
                     this.style.textDecoration = 'underline';
                 });
                 Item.addEventListener('mouseout', function () {
-                    if (this.style.textDecorationStyle === 'dotted') {
+                    if (this.style.textDecorationThickness === '2px') {
                         return;
                     }
                     this.style.textDecoration = 'none';
@@ -91,6 +91,9 @@ function calculateTimeToRead() {
     return time;
 }
 function matchScrolltoBlogNav() {
+    if (!document.querySelector('h1')) {
+        return;
+    }
     var scrollPosition = window.scrollY || document.documentElement.scrollTop;
     var headers = document.querySelectorAll('.blog-nav a');
     headers = Array.from(headers).reverse();
@@ -98,7 +101,7 @@ function matchScrolltoBlogNav() {
     var maxScroll = document.documentElement.scrollHeight - window.innerHeight;
 
     if (scrollPosition >= maxScroll - 1) {
-        headers[0].style.textDecoration = 'underline dotted';
+        headers[0].style.textDecoration = 'underline';
         headers[0].style.textDecorationThickness = '2px';
         headers[0].style.textDecorationOffset = '2px';
         for (var i = 1; i < headers.length; i++) {
@@ -117,7 +120,7 @@ function matchScrolltoBlogNav() {
         }
 
         else if (scrollPosition + 1 > headerPosition) {
-            header.style.textDecoration = 'underline dotted';
+            header.style.textDecoration = 'underline';
             header.style.textDecorationThickness = '2px';
             header.style.textDecorationOffset = '2px';
             for (var j = i + 1; j < headers.length; j++) {
