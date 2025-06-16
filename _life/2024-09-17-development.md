@@ -26,12 +26,10 @@ The questions I will go on to address in this blog are as follows:
 Vinegar Hill is **the case** of inequitable development. It makes clear what I felt unease about when looking into the debate around gentrification: Who controls development? Who benefits from development? It is not just development as an overloaded term, but also taking a look at how politics plays out and the bodies that experience it.
 
 I want to start with what Vinegar Hill has been like in the 21st century. Taking a look down from the intersection connecting downtown, you can see a Staples, the Omni Hotel, and a U.S. Federal Building. Should this be called a success? The Omni does bring in a lot of tourists with money into Charlottesville, and it being situated downtown only adds more to the economic solidification of the building. But what happened to the people? The 600 residents and 30 businesses.
-
-<div style="text-align: center; margin-top: 30px; margin-bottom: 30px; display: flex; justify-content: space-around;">
-    <img src="{{ 'assets/life/midterm/gmaps.png' | relative_url }}" class="" style="width: 40%; margin: 0;">
-    <img src="{{ 'assets/life/midterm/vinegar_hill.jpg' | relative_url }}" class="" style="width: 40%; margin: 0;">
+<div class="video-grid">
+<img src="{{ 'assets/life/midterm/gmaps.png' | relative_url }}" class=""/>
+<img src="{{ 'assets/life/midterm/vinegar_hill.jpg' | relative_url }}" class=""/>
 </div>
-
 
 The 600 residents and 30 businesses inhabited Vinegar Hill in the 1900s. Archival information, which there is not a lot of, shows that the place was indeed vibrant and economically active (generated $1.6 million annually not sure if scaled for inflation). However, not everyone saw Vinegar Hill in such a light. Due to Vinegar Hill's adjacency to the downtown area, it got a lot of public attention and was constantly denounced as a "*blighted*" area. And yes, there were racial undertones to how Vinegar Hill was conceived of as a place and contributed to its excision from Charlottesville. 
 

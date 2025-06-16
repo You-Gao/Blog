@@ -64,8 +64,12 @@ function setNavigation() {
     } else if (path.startsWith('/photos')) {
         document.querySelector('.nav-link[href="/photos"]').classList.add('active');
     } else if (path.startsWith('/about')) {
-        document.querySelector('.navbar-brand[href="/about"]').classList.add('active');
+        document.querySelector('.about').classList.add('active');
     } 
+    else if (path.startsWith('/now')) {
+        document.querySelector('.now').classList.add('active');
+    } 
+
     else {
         document.querySelector('.navbar-brand[href="/"]').classList.add('active');
     }

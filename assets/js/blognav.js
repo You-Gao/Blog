@@ -112,7 +112,8 @@ function matchScrolltoBlogNav() {
 
     for (var i = 0; i < headers.length; i++) {
         var header = headers[i];
-        var headerPosition = document.querySelector(header.getAttribute('href')).getBoundingClientRect().top + window.scrollY;
+        var headerPosition = document.querySelector('[id="' + header.getAttribute('href').substring(1) + '"]').getBoundingClientRect().top + window.scrollY;
+
 
         if (scrollPosition + 1 < headerPosition) {
             header.style.textDecoration = 'none';
