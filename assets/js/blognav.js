@@ -106,17 +106,7 @@ function matchScrolltoBlogNav() {
 
     var maxScroll = document.documentElement.scrollHeight - window.innerHeight;
 
-    // if (scrollPosition >= maxScroll - 1) {
-    //     headers[0].style.textDecoration = 'underline';
-    //     headers[0].style.textDecorationThickness = '2px';
-    //     headers[0].style.textDecorationOffset = '2px';
-    //     for (var i = 1; i < headers.length; i++) {
-    //         headers[i].style.textDecoration = 'none';
-    //     }
-    //     return;
-    // }
-    //
-    for (var i = 0; i < headers.length; i++) {
+   for (var i = 0; i < headers.length; i++) {
         var header = headers[i];
         var headerPosition = document.querySelector('[id="' + header.getAttribute('href').substring(1) + '"]').getBoundingClientRect().top + window.scrollY;
 
@@ -141,6 +131,9 @@ window.addEventListener('DOMContentLoaded', function () {
     generateBlogNav();
 });
 window.addEventListener('scroll', function () {
+    if (window.innerWidth < 1000) {
+        return;
+    }
     matchScrolltoBlogNav();
     var blogNav = document.querySelector('.blog-nav');
     if (blogNav) {
@@ -157,10 +150,7 @@ window.addEventListener('scroll', function () {
 });
 window.addEventListener('resize', function () {
     var blogNav = document.querySelector('.blog-nav');
-    // if screen < 1200px remove scroll event but not display none
-    if (window.innerWidth < 1200) {
-        window.removeEventListener('scroll', matchScrolltoBlogNav);
-    }
+
     if (blogNav) {
         var x;
         x = document.querySelector('.markdown-body').getBoundingClientRect().left;

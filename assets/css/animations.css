@@ -4,6 +4,7 @@ a {
     position: relative; 
     text-decoration: none; 
     overflow: hidden; 
+    display: inline-flex;
 }
 
 a::before {
@@ -19,6 +20,10 @@ a::before {
 
 a:hover::before {
     width: 100%;
+}
+
+.blog-nav a:hover::before {
+    width: 90%;
 }
 
 .title:hover {

@@ -20,7 +20,7 @@
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
                 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-                <link href="/assets/css/combined.min.css" rel="stylesheet" type="text/css" />
+                <link href="/assets/css/combined.css" rel="stylesheet" type="text/css" />
                 <link rel="icon" href="/assets/logo.webp" type="image/icon type"></link>
                 <link id="blank" type="text/css"></link>
 
@@ -102,12 +102,12 @@
                         </ul>
                     </div>
                     <div id="version" class="col-6" style="text-align: end;">
-                        version: 3.1.2
+                        version: null 
                     </div>
                 </div>
             </nav>
                 <main>
-                    <section class="container-md px-3 my-2 markdown-body">
+                    <section class="container-md px-3 markdown-body">
                         <hr />
                         <section>
                             <blockquote class="my-5">

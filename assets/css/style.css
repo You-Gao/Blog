@@ -159,44 +159,17 @@ body main img {
 	#photo-homepage {
 		margin-top: 20px
 	}
+
+    #qotm {
+        margin-top: 5px
+    }
+
+    .navbar-brand {
+        margin-right: 8px!important;
+    }
 }
 
 .active {
 	background: #eeeeee;
     color: grey!important;
-}
-
-a {
-	color: #0366d6;
-	text-decoration: none;
-    position: relative; 
-    text-decoration: none; 
-    overflow: hidden; 
-}
-
-a::before {
-    content: ''; 
-    position: absolute; 
-    top: 0; 
-    width: 0%; 
-    height: 100%; 
-    background: lightgrey; 
-    transition: width 0.5s ease; 
-    z-index: -1; 
-}
-
-a:hover::before {
-    width: 100%;
-}
-
-.title:hover {
-    color: #65a9f5;
-}
-
-.nav-link:hover {
-    color: grey;
-}
-
-.navbar-brand:hover {
-    color: grey;
 }

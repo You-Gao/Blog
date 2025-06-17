@@ -28,7 +28,7 @@ title: >-
                 {% endfor %}
             </ul>
         </div>
-        <h3 style="margin-bottom:5px;">Quote of the Month:</h3>
+        <h3 id="qotm" style="margin-bottom:5px;">Quote of the Month:</h3>
         <blockquote>"Success does not consist in never making mistakes but in never making the same one a second time."
             <figcaption class="blockquote-footer"> 
                 George Bernard Shaw
