@@ -31,8 +31,8 @@ permalink: /photos/
       {% endif %}
       <div id = {{ count }} data-max={{ max_index }} data-path="{{ post.img_location }}" class="d-flex justify-content-between">
         <div class="d-flex align-items-center">
-            <p class="mb-0 me-2" style="font-size: 15px; width: 50px;text-align:right;">{{ post.date | date: "%b %d" }}</p>
-            <a href="{{ post.url }}">{{ post.name }}</a>
+            <p class="mb-0 me-2 date">{{ post.date | date: "%b %d" }}</p>
+            <a class="title" href="{{ post.url }}">{{ post.name }}</a>
         </div>
             <p class="mb-0 comment" style="font-size: 15px;align-self: center;">{{ post.comment }}</p>
       </div>

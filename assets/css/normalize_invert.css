@@ -1,6 +1,6 @@
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 a::before {
-    background: rgb(49, 50, 68);
+    background: #6c7086;
 }
 
 hr {
@@ -10,6 +10,10 @@ hr {
 .active {
 	background: #6c7086;
     color: #e0e7ff!important;
+}
+
+.active a {
+    color: #65a9f5;
 }
 
 .navbar-brand {
@@ -46,6 +50,10 @@ h1,h2,h3,h4,h5,h6 {
     color: #65a9f5;
 }
 
+a:hover {
+    color: #65a9f5;
+}
+
 .nav-link:hover {
     color: #e0e7ff!important;
 }
@@ -58,6 +66,11 @@ h1,h2,h3,h4,h5,h6 {
     background-color: #e0e7ff!important;
 }
 
+hr {
+    border-bottom: solid 1px #e0e7ff!important;
+}
+
 .blog-nav a,.time {
     color: #e0e7ff!important;
 }
+

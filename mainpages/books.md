@@ -13,7 +13,7 @@ permalink: /books/
 ---
 <figure class="container-lg">
     <blockquote class="blockquote">
-    <p>"The reading of good books is a conversation with the best minds of past centuries."</p>
+    <p>"The reading of good books is like a conversation with the best minds of past centuries."</p>
     <figcaption class="blockquote-footer">
     Rene Descartes, <cite title="Source Title">Meditations on First Philosophy</cite>
     </figcaption>
