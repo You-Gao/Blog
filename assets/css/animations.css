@@ -23,6 +23,7 @@ a:hover::before {
 }
 
 .blog-nav a:hover::before {
+    color: grey;
     width: 90%;
 }
 
@@ -40,4 +41,8 @@ a:hover::before {
 
 a:hover {
     color: blue;
+}
+
+.blog-nav a:hover {
+    color: grey;
 }

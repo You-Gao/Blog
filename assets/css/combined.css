@@ -835,3 +835,7 @@ a:hover::before {
 a:hover {
     color: blue;
 }
+
+.blog-nav a:hover {
+    color: grey;
+}
