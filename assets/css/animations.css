@@ -26,14 +26,18 @@ a:hover::before {
     width: 90%;
 }
 
-.title:hover {
-    color: #65a9f5;
-}
-
 .nav-link:hover {
     color: grey;
 }
 
 .navbar-brand:hover {
     color: grey;
+}
+
+.title:hover {
+    color: blue;
+}
+
+a:hover {
+    color: blue;
 }

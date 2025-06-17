@@ -173,3 +173,7 @@ body main img {
 	background: #eeeeee;
     color: grey!important;
 }
+
+.active a {
+    color: blue;
+}

@@ -363,7 +363,7 @@ p {
 
 body {
 	margin: 0;
-	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    font-family: system-ui;
     line-height: 1.5;
     font-weight: 400;
 }
@@ -567,7 +567,7 @@ h4,h5,h6 {
 }
 
 .markdown-body h1,.markdown-body h2,.markdown-body h3 {
-	margin-top: 24px;
+	margin-top: 12px;
 	margin-bottom: 16px;
 	line-height: 1.25
 }
@@ -575,6 +575,7 @@ h4,h5,h6 {
 .markdown-body h1 {
 	font-size: 1.77em;
 	font-weight: 600;
+    width: 85%;
 }
 
 .markdown-body h2 {
@@ -600,8 +601,16 @@ h4,h5,h6 {
     .markdown-body hr {
         margin-bottom: 24px;
     }
+    .markdown-body h1, .markdown-body h2, .markdown-body h3 {
+        margin-top: 24px;
+        width: fit-content;
+    }
 }
 
+em {
+    font-family: monospace;
+    color: grey;
+}
 
 #footnotes {
 	border-bottom: 1px dotted;
@@ -779,10 +788,15 @@ body main img {
     color: grey!important;
 }
 
+.active a {
+    color: blue;
+}
+
 a {
 	color: #0366d6;
 	text-decoration: none;
     position: relative; 
+    text-decoration: none; 
     overflow: hidden; 
     display: inline-flex;
 }
@@ -802,8 +816,8 @@ a:hover::before {
     width: 100%;
 }
 
-.title:hover {
-    color: #65a9f5;
+.blog-nav a:hover::before {
+    width: 90%;
 }
 
 .nav-link:hover {
@@ -814,15 +828,10 @@ a:hover::before {
     color: grey;
 }
 
-em {
-    font-family: monospace;
-
-    color: #e0e7ff;color: grey;
+.title:hover {
+    color: blue;
 }
 
-
-.blog-nav a:hover::before {
-    width: 90%;
+a:hover {
+    color: blue;
 }
-
-

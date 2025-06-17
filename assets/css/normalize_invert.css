@@ -1,79 +1,78 @@
-/*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
-a::before {
-    background: #6c7086;
-}
-
-hr {
-	border-bottom: 1px solid grey;
-}
-
-.active {
-	background: #6c7086;
-    color: #e0e7ff!important;
-}
-
-.active a {
-    color: #65a9f5;
-}
-
-.navbar-brand {
-	color: #bac2de
-}
-
-.nav-link {
-	color: #bac2de
-}
-
-.markdown-body blockquote {
-	color: #e0e7ff!important;
-	border-left: 5px solid #6c7086;
-}
-
-.blockquote-footer {
-	color: #e0e7ff!important
-}
-
-.text-muted {
-	color: #6c7086!important
+:root {
+  --mocha-bg: #11111b;
+  --mocha-text: #cdd6f4;
+  --mocha-subtext: #a6adc8;
+  --mocha-highlight: #6c7086;
+  --mocha-link: #b4befe;
 }
 
 body {
-	color: #cdd6f4;
-	background-color: #11111b
+	color: var(--mocha-text);
+	background-color: var(--mocha-bg);
+}
+
+.navbar-brand {
+	color: var(--mocha-text)!important;
+}
+
+.nav-link {
+	color: var(--mocha-text)!important;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	color: #cdd6f4;
+	color: var(--mocha-text);
 }
 
-.title:hover {
-    color: #65a9f5;
+a::before {
+    background: var(--mocha-highlight);
 }
 
-a:hover {
-    color: #65a9f5;
+.markdown-body blockquote {
+	color: var(--mocha-subtext)!important;
+	border-left: 5px solid var(--mocha-highlight);
+}
+
+.blockquote-footer {
+	color: var(--mocha-subtext)!important
 }
 
 .nav-link:hover {
-    color: #e0e7ff!important;
+    color: var(--mocha-subtext)!important;
 }
 
 .navbar-brand:hover {
-    color: #e0e7ff!important;
+    color: var(--mocha-subtext)!important;
 }
 
 .markdown-body hr {
-    background-color: #e0e7ff!important;
+    background-color: var(--mocha-subtext)!important;
 }
 
 hr {
-    border-bottom: solid 1px #e0e7ff!important;
+    border-bottom: solid 1px var(--mocha-subtext)!important;
 }
 
 .blog-nav a,.time {
-    color: #e0e7ff!important;
+    color: var(--mocha-subtext);
 }
 
 em {
-    color: #e0e7ff;
+    color: var(--mocha-subtext);
+}
+
+.active {
+	background: var(--mocha-highlight);
+    color: var(--mocha-subtext)!important;
+}
+
+.active a {
+    color: var(--mocha-link);
+}
+
+a:hover {
+    color: var(--mocha-link);
+}
+
+.title:hover {
+    color: var(--mocha-link);
 }
