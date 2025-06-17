@@ -19,7 +19,7 @@ name: >-
 # Ways of Seeing
 
 > "The relation between what we see and what we know is never settled."
-<figcaption class="blockquote-footer">Ways of Seeing</figcaption>
+> <figcaption class="blockquote-footer">Ways of Seeing</figcaption>
 
 Picked up this book, because I wanted to understand object recognition.[^1] In essence what the quote means is the ways in which we see (view the world, receive visual stimuli) and what we know (the signs and signifiers imbued with meaning) are never stable nor comprehensive of the thing (person, object, other).
 

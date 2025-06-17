@@ -15,13 +15,13 @@ name: >-
 This blog came really from 3 distinct but related chains of thoughts and events over the past couple of days. The first was a teacher mentioning the "*Great Man Theory,*" which finally gave a name to the thoughts I had on the historical canon of thinkers and how contemporaries view each epoch as intellectually led by the sole ideas of a peerless visionary. The second was my reflections on what the point of theory is and how I am supposed to even "*practice*" what it teaches. The third was a quiz I found and took this morning (October 23rd, 2024) on the supposedly top 100 greatest philosophers of our time. Here it is if you want to try: [https://www.sporcle.com/games/Almasa/100_Greatest_Philosophers](https://www.sporcle.com/games/Almasa/100_Greatest_Philosophers).[^7]
 
 > "1. Every great leader is born already possessing certain traits that will enable them to rise and lead on instinct."
-<figcaption class="blockquote-footer">Wikipedia (The Source of All True Knowledge)</figcaption>
+> <figcaption class="blockquote-footer">Wikipedia (The Source of All True Knowledge)</figcaption>
 
 > "2. The need for them has to be great for these traits to arise then, allowing them to lead."
-<figcaption class="blockquote-footer">Wikipedia (The Source of All True Knowledge)</figcaption>
+> <figcaption class="blockquote-footer">Wikipedia (The Source of All True Knowledge)</figcaption>
 
 > "This theory, and history, claims these great leaders as heroes that were able to rise against the odds to defeat rivals while inspiring followers along the way. Theorists say that these leaders were then born with a specific set of traits and attributes that make them ideal candidates for leadership and roles of authority and power. This theory relies then heavily on born rather than made, nature rather than nurture and cultivates the idea that those in power deserve to lead and shouldn't be questioned because they have the unique traits that make them suited for the position."
-<figcaption class="blockquote-footer">Wikipedia (The Source of All True Knowledge)</figcaption>
+> <figcaption class="blockquote-footer">Wikipedia (The Source of All True Knowledge)</figcaption>
 
 ## Poststructuralism and The Theory Toolbox
 
@@ -36,7 +36,7 @@ However, I'm not going at it in a way to just dunk and disregard any of the idea
 Adam Smith's pin factory has become autonomous. Marx's class distinctions have greatly changed. Bentham's panopticon has become digital. Camus's absurd is now found in the endless stream of information. Nietzsche's ubermensch is now the cyborg.[^1]
 
 > "When your system breaks down, you see that the underlying structures of meaning (the contexts that render meaning) vary from place to place. The structures of meaning, like meaning itself, are not abstract or transcendental: The signified (the concept of breakfast, for example) is just as material (dependent on context for its meaning) as the signifier (“breakfast" in English or Frühstück in German); the seemingly abstract and universal grammar (what you’re ordering) is just as concrete and changeable as the sentence or word that refers to it."
-<figcaption class="blockquote-footer">The Theory Toolbox</figcaption>
+> <figcaption class="blockquote-footer">The Theory Toolbox</figcaption>
 
 At the core of the quote is that when you encounter the ideas from a forgone time and react with ?????, it means that the meaning systems, signifier, signified, and referent, have drastically changed.[^4] For example, take Adam Smith's idea of the invisible hand. 
 
@@ -47,14 +47,14 @@ This insight is the merit I see in poststructuralism. It allows translations fro
 *Editors Note: The reason I failed to grapple with this idea is because of my constant use of the word great. Think on this yourself. There is this sort of subtle/subversive linguistic object preference when we use the word great. Great usually denotes or qualifies for a singular noun. Which is directly orthogonal to the point I was trying to make in this blog. That is, what is great is actually the plurality of people behind the thinker.*
 
 > "These days people seek knowledge, not wisdom."
-<figcaption class="blockquote-footer">Anonymous Rugby Player</figcaption>
+> <figcaption class="blockquote-footer">Anonymous Rugby Player</figcaption>
 
 ## 100 Great Philosophers Quiz
 
 The quiz was the catalyst for this post. It made me think back and connect these thoughts.
 
 > "As we’ve already suggested, this question of how someone who authors become an author (or how “author" changes from a verb to a noun) is intimately tied to the question of canonicity, which involves the list of accepted “great" works that are deemed worthy of continued scholarly attention. To be an author in the canonical sense is to be invested literally with author/ity, to be taken seriously and even revered for your accomplishments. Canonicity not only establishes “authority" through the designation of “genius" or “greatness", it also establishes a particular relationship to authority, one based on honor and reverence as opposed to critical questioning and challenge."
-<figcaption class="blockquote-footer">The Theory Toolbox</figcaption>
+> <figcaption class="blockquote-footer">The Theory Toolbox</figcaption>
 
 
 What it means to be a "*great*" philosopher on the list is something heavily in contention. A question I asked myself throughout the entirety of the quiz was just why is this person considered "*great*"? From the above discussion, their ideas apparently have been seen to stand "the test of time," but I don't think that is it either. The reason some are there is seemingly as a mascot for the culture and social forces of the time. 
@@ -72,7 +72,7 @@ A point I feel like I failed to make because it was lost in asking, "How do we a
 However, a question I asked myself was, "Then what is the agency of the individual? Doesn't it seem obvious that individuals produce knowledge through hypothesis, through experience, and through thinking (positivism, empiricism, and rationalism)? [^6] But, this is not a contradiction because what social constructivism says is that it increasingly values the agency of personal subjects and their perspectives. People have the agency to think, reason, and discover, but their ideas are part of an ongoing conversation with the social world around them.
 
 >"If I have seen further, it is by standing on the shoulders of giants,"[^8]
-<figcaption class="blockquote-footer">Newton</figcaption>
+> <figcaption class="blockquote-footer">Newton</figcaption>
 
 
 <br/>

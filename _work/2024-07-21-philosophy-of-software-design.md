@@ -13,7 +13,7 @@ name: >-
 # A Philosophy of Software Design
 
 > "These concepts may not immediately identify the best design, but you can use them to compare design alternatives and guide your exploration of the design space."
-<figcaption class="blockquote-footer">A Philosophy of Software Design</figcaption>
+> <figcaption class="blockquote-footer">A Philosophy of Software Design</figcaption>
 
 I read this book because it was popular, and I'm glad I did. Something interesting is that before reading it, I heard it was compared to being the better version of "*Clean Code.*" After reading it, the comparisons are pretty accurate. The book acts more like Socratic dialogue, whereas Clean Code feels way more dogmatic about what it has to say about software design. The contents of the book essentially help you contextually understand when and where to write "*clean code.*" Looking at "*Clean Code,*" it promotes strictly adhering to SOLID, DRY, YAGNI, etc., which leads to classitis and misses out on the broader architectural and design choices that influence software design. So, if you are considering picking one of the books, I suggest you get the more updated one.
 

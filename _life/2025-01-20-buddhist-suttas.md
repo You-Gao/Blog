@@ -28,7 +28,7 @@ At first read, I interpreted it as talking about a sort of mind-privileging, esp
 The interpretation then highlights something important about the nature of consciousness and self-reflection. *The Arrow* is simply advocating for the skill of mindfulness, self-reflection, and non-reactivity. As with Buddhist teaching in general, the Sutta highlights the false dichotomy of the mind and shows how the conscious self is interdependent on the visceral/unconscious self. When the Sutta speaks on the noble saying:
 
 > "Sensing a feeling of pleasure, he senses it disjoined from it. Sensing a feeling of pain, he senses it disjoined from it. Sensing a feeling of neither pleasure nor pain, he senses it disjoined from it."
-<figcaption class="blockquote-footer">Sallattha Sutta (SN 36:6)</figcaption>
+> <figcaption class="blockquote-footer">Sallattha Sutta (SN 36:6)</figcaption>
 
 The **it** here refers to the conscious self and the "*disjoined-ness*" being on the gap between the conscious self and the sort-of imagined self. 
 

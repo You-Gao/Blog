@@ -18,7 +18,7 @@ name: >-
 # Man's Search for Meaning
 
 > "Those who have a 'why' to live, can bear with almost any 'how'."
-<figcaption class="blockquote-footer">Man's Search for Meaning</figcaption>
+> <figcaption class="blockquote-footer">Man's Search for Meaning</figcaption>
 
 Everyone knows the quote but not the book where it came from. Frankl delivers his accounts of living within concentration camps alongside his theory of living through cruelness while maintaining hope. He posits that suffering is universal, but the ways in which people will cope with that truth and persevere is fundamentally what Frankl wants to give us. 
 

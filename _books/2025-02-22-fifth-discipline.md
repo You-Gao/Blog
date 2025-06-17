@@ -13,7 +13,7 @@ name: >-
 # The Fifth Discipline
 
 > "In the long run, the only sustainable source of competitive advantage is your organization's ability to learn faster than its competition."
-<figcaption class="blockquote-footer">The Fifth Discipline</figcaption>
+> <figcaption class="blockquote-footer">The Fifth Discipline</figcaption>
 
 The book, seen as a ground-breaking work for other, is seen as a bit too schizophrenic for me. The problem being, Senge has a lot of ground to cover in too short of an amount of pages. As a reader, I can see the general goal, introduce the core concepts of "*systems-thinking*" then apply them to the multi-factored nature of different business domains. 
 

@@ -18,7 +18,7 @@ name: >-
 # The Art of Listening
 
 > "and, actually, every human being is the hero of a drama"
-<figcaption class="blockquote-footer">The Art of Listening</figcaption>
+> <figcaption class="blockquote-footer">The Art of Listening</figcaption>
 
 Fromm has good ideas. I'm not a Fromm scholar in particular, but having read some of his previous works like "*The Escape from Freedom*" and "*The Art of Loving,*" it made me seek out some more of his works, which ended up being the Art of Listening.
 

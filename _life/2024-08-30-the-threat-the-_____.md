@@ -18,7 +18,7 @@ Literally, the attendees are part of the exhibit. And that was part of the inten
 Now that I have described the exhibit, you might ask, "*How did it work?*" "*What were the pieces?*" I can describe the broader details no better than what they have on their website.
 
 > "Site-responsive, public, and multimodal, The Threat, The rescripts object, action, site, sound, and text using tactics from a range of theatrical, architectural, and activist traditions to grapple with the legacies and artifacts of the security state and to disrupt popular securitarian narratives circulated as pretext for state violence."
-<figcaption class="blockquote-footer">The Threat The ____</figcaption>
+> <figcaption class="blockquote-footer">The Threat The ____</figcaption>
 
 But what did they mean by all the different modes of interaction? How were they actually accomplished? Now that is what I can tell you. The exhibit is open to the public and contains various interactive elements, ranging from mechanical to digital pieces. The exhibit has indoor and outdoor areas, which productively adds to the point that in these different environments, you still could be surveilled. Then there were the actors—yes, there were hired actors!—who were reciting politically charged scripts that called for some form of social instability.
 

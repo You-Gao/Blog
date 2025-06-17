@@ -61,7 +61,7 @@ What does it mean to attend a school that sells bonds? It means that I, as a stu
 Rehashing a quote from Amartya Sen:
 
 > "The ends and means of development call for placing the perspective of ~~freedom~~ capital at the center of the stage."
-<figcaption class="blockquote-footer">Development as Freedoms</figcaption>
+> <figcaption class="blockquote-footer">Development as Freedoms</figcaption>
 
 
 Just reflecting on my own biases, I ask this question: Why is the pragmatic man viewed as better than the ivory tower man? They are both extreme cases. But one of them intuitively feels more good than the other. So which of the two does UVA produce, and for who? Currently, it would be no stretch of the imagination to say that universities produce for the sectors. This production story is being played out in real-time, with the trending majors correlating 1:1 with the trending jobs on the market.

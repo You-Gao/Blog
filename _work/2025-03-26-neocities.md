@@ -41,7 +41,7 @@ Throughout my deep-dive, I encountered sites made fully in WebGL, sites without 
 ## Closing Thoughts
 
 > "A good UI makes a site easy to use, but a good UX makes a site worth remembering"
-<figcaption class="blockquote-footer">me</figcaption>
+> <figcaption class="blockquote-footer">me</figcaption>
 
 Even though I wrote a blog on it, UX still feels a bit amorphous to me. My best interpretation is that UI is lintable and UX is more semantic. UX captures more than just the UI structure that is guided by common patterns. If anyone out there has a better conception, please do tell.
 

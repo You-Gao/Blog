@@ -13,7 +13,7 @@ name: >-
 # The Mythical Man-Month
 
 > "For many, the joys far outweigh the woes, and for them the remainder of this book will attempt to lay some boardwalks across the tar."
-<figcaption class="blockquote-footer">The Mythical Man-Month</figcaption>
+> <figcaption class="blockquote-footer">The Mythical Man-Month</figcaption>
 
 Mythical Man-Month as a book is solid, and what really makes it good (at least for me) is how strongly the ideas put out in the book have stood the test of time. Fred Brooks, the author of the book, provides us with the wisdom he has gathered over the years leading major software projects in the 1970s.
 
@@ -30,7 +30,7 @@ Most of the current DevOps best practices just seem to be pretty innocuous, thou
 # [State of DevOps 2023 Report](https://services.google.com/fh/files/misc/2023_final_report_sodr.pdf)
 
 > "The management of this complex craft will demand our best use of new languages and systems, our best adaptation of proven engineering management methods, liberal doses of common sense, and a God-given humility to recognize our fallibility and limitations."
-<figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
+> <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
 
 I added "*State of DevOps*" to this review because, from the 21st century looking back, the DevOps movement can be contextualized as an attempt to solve the organizational, interpersonal, and technical problems posed by software development. Putting it into perspective, during Brooks' time, there weren't technologies or concepts like Version Control (Git), CI/CD, API Specifications, Agile methodologies, linters, and test environments—though there were some rudimentary equivalents. 
 
@@ -39,7 +39,7 @@ Software development and system design was only in its infancy in those days. No
 ## Establish a Healthy Culture
 
 > "Teams with generative cultures have 30% higher organizational performance"
-<figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
+> <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
 
 I don't have much to say on this part in relation to Mythical Man-Month. All I can say is that if people trust each other and work towards a common mission, along with good infrastructure, the company is set. 
 
@@ -57,7 +57,7 @@ Chapters:
 ## Build With User in Mind
 
 > "Teams that focus on the user have 40% higher organizational performance."
-<figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
+> <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
 
 My theory on why companies have higher organizational performance by focusing on UX is that they get more formalized specifications, requirements, and abstractions before developing new features. 
 
@@ -74,7 +74,7 @@ Chapters:
 ## Faster Code Reviews
 
 > "**"Teams with faster code reviews have 50% higher software delivery performance. "**"
-<figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
+> <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
 
 Not to say for just removing the process of code reviews altogether, but these companies seem to have a way of performing the code review process quicker. I would imagine it is quicker due to having many experts on the team, but a point I want to reiterate from the book and also a common pain voiced today: Managers should have a semblance of technical depth, and Tech leads should have a semblance of managerial knowledge. Other than that, yeah, I mean, I guess quicker code reviews = quicker delivery times.
 
@@ -87,7 +87,7 @@ Chapters:
 ## Amplify Technical Capabilities with Quality Documentation
 
 > "Trunk-based development, for example, is estimated to have 12.8x more impact on organizational performance when high-quality documentation is in place relative to low-quality documentation."
-<figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
+> <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
 
 The point of these docs is to communicate the larger architectural decisions about parts of the codebase. This is usually not what is done or well-maintained which leads to a common perception that docs are meaningless and provide no value in the development lifecycle. 
 
@@ -103,7 +103,7 @@ Takeaway: If a person has to read all the methods of a repo in depth to understa
 ## Increase Infrastructure Flexibility w/ Cloud
 
 > "Using a public cloud, for example, leads to a 22% increase in infrastructure flexibility relative to not using the cloud."
-<figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
+> <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
 
 Debugging and testing were even worse in the past than they are now. Brooks recounts spending hours setting up and tearing down build test tools for the OS system his team was developing in the 70s. Now, it takes a couple of seconds to run basic tests and maybe minutes to run more comprehensive ones.
 

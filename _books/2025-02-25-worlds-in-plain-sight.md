@@ -12,7 +12,7 @@ name: >-
 # Worlds Hidden in Plain Sight
 
 > "But the way in which complex phenomena are hidden, beyond masking by space and time, is through nonlinearity, randomness, collective dynamics, hierarchy, and emergence—a deck of attributes that have proved ill-suited to our intuitive and augmented abilities to grasp and to comprehend."
-<figcaption class="blockquote-footer">Worlds Hidden in Plain Sight</figcaption>
+> <figcaption class="blockquote-footer">Worlds Hidden in Plain Sight</figcaption>
 
 I've always had a curiosity for phenomena that could not be explained by conventional facts or models about the world. This disposition of mine is also why I take so much interest in the field of systems thinking and further decided to read *Worlds Hidden in Plain Sight*[^1]. 
 
@@ -23,7 +23,7 @@ Don't worry.; I will make their definition clearer by reviewing some of the pape
 ## Trendy Buzzword?
 
 > "And, to add a final touch of spice, all this hoopla often comes wrapped up in language vague enough to warm the heart of any continental philosopher."
-<figcaption class="blockquote-footer">Worlds Hidden in Plain Sight</figcaption>
+> <figcaption class="blockquote-footer">Worlds Hidden in Plain Sight</figcaption>
 
 The words Casti referencing were *adaptive* behavior, *chaotic* dynamics, *massively parallel* computation, *self-organization*, and *emergence*. All of these do, in fact, have some legible meaning, but their definitions are often left pretty lofty without any formalization; hence, they warm the hearts of continental philosophers. 
 
@@ -32,7 +32,7 @@ So, how can we endow those terms with some conceptual clarity? He doesn't...
 ## Learning How to Control Complex Systems
 
 > "To control a nonlinear dynamical system, an algorithm must embody a model for the system: that is, the way in which the algorithm processes information must mirror the way that the system processes information."
-<figcaption class="blockquote-footer">Worlds Hidden in Plain Sight</figcaption>
+> <figcaption class="blockquote-footer">Worlds Hidden in Plain Sight</figcaption>
 
 Given the above discussion, what are the numerical methods then for this methodology or paradigm of investigating the world? What is left if traditional hypothesis testing, statistical analysis, and the newly fashioned gauntlet of machine learning techniques are to be discarded? The answer to that is a surprisingly cohesive set of options to choose from.
 

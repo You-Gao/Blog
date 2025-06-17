@@ -18,7 +18,7 @@ In light of the recent IT outage caused by Crowdstrike and the ironic timing of 
 ## [2.](https://how.complexsystems.fail/#2) Complex systems are heavily and successfully defended against failure
 
 > "The high consequences of failure lead over time to the construction of multiple layers of defense against failure."
-<figcaption class="blockquote-footer">Robert Cook</figcaption>
+> <figcaption class="blockquote-footer">Robert Cook</figcaption>
 
 My first question was: How did the build-test pipeline even let this occur? Surely any changes made would have been build and tested in the different Windows OS versions it supports so it doesn't crash. Right? 
 
@@ -35,7 +35,7 @@ My line of questioning here is to highlight the #2 point. Kernel and other drive
 ## [7.](https://how.complexsystems.fail/#7) Post-accident attribution to a 'root cause' is fundamentally wrong
 
 > "Because overt failure requires multiple faults, there is no isolated 'cause' of an accident."
-<figcaption class="blockquote-footer">Robert Cook</figcaption>
+> <figcaption class="blockquote-footer">Robert Cook</figcaption>
 
 I think this is the best mindset going forward, off-course some heads will roll due to the nature of the incident. Still, fundamentally I believe the higher processes and systems were more likely to be the fault. In other words, the software developer inherited the system defects rather than injected them. I won't speculate on this because the facts of the matter are not entirely clear either.
 

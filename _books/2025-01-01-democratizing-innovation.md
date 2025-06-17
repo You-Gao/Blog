@@ -12,7 +12,7 @@ name: >-
 # Democratizing Innovation
 
 > "Users that innovate can develop exactly what they want, rather than relying on manufacturers to act as their (often very imperfect) agents."
-<figcaption class="blockquote-footer">Democratizing Innovation</figcaption>
+> <figcaption class="blockquote-footer">Democratizing Innovation</figcaption>
 
 The quote is the central thesis of the book. Hippel here is writing against the dominant narrative of R&D, a narrative that supposes the core of innovation lies in the operation of manufacturing firms that produce and construct goods. Users in this story have no innovative power outside of voicing their needs or commanding their Capital on the market. 
 
@@ -29,7 +29,7 @@ Ironically enough, when Hippel is discussing manufacturer firms and ways to work
 They have gone to the side of being a manufacturer instead of a user firm, and has been described as "*egregiously bastardizing open-source contributors by profiting off of their efforts*"[^4]. But going back to when Hippel wrote this text, he highlighted how Red Hat as a firm dealt with monetizing open-source with respect to providing technical support for the project.
 
 >  "(3) Manufacturers may sell products or services that are complementary to user-developed innovations."
-<figcaption class="blockquote-footer">Democratizing Innovation</figcaption>
+> <figcaption class="blockquote-footer">Democratizing Innovation</figcaption>
 
 This monetization model was reasonably uncontroversial. You have a group of users contributing to an OS for the use of each other without any care for funding. Then you have Red Hat that takes this OS and contributes to it as well, but also says: "*If anyone wants to support, you can get it from us.*" 
 
@@ -67,7 +67,7 @@ The mechanical keyboard community, shortened keeb, is an example that immediatel
 The manufacturer's role here is to take the user-developed innovations in the keyboard community and do what they do with economies of scale to produce the base parts of kits that the users purchase. This story is what happened in the keyboard space. Manufacturers are following the rules Hippel as set out:
 
 > "(1) Manufacturers may produce user-developed innovations for general commercial sale and/or offer a custom manufacturing service to specific users. (2) Manufacturers may sell kits of product-design tools and/or "product platforms" to ease users' innovation-related tasks."
-<figcaption class="blockquote-footer">Democratizing Innovation</figcaption>
+> <figcaption class="blockquote-footer">Democratizing Innovation</figcaption>
 
 Many popular keyboard manufacturers, like DROP or KBDFans, sell fully functional keyboards themselves, but they mainly rose due to their manufacturing of keyboard kits. The design of these keyboard parts and of "*what*" to build is largely left up to the community innovators to generate. 
 
@@ -84,7 +84,7 @@ The case study that throws a monkey wrench into Hipell's theory. It doesn't seem
 My theory behind it uses Hippel's highlight of software's unique characteristics of transactive and production costs; It's practically speaking 0. In contrast with the semiconductor industry, the barrier to entry is so much higher that users cannot innovate. Apple or any hobbyist does not have access to billions of dollars to innovate on chip manufacturing at their whim.  
 
 > "Freedom from manufacturer involvement is possible because information products can be "*produced*" and distributed by users essentially for free on the web (Kollock 1999). In contrast, the production and diffusion of physical products involve activities with significant economies of scale."
-<figcaption class="blockquote-footer">Democratizing Innovation</figcaption>
+> <figcaption class="blockquote-footer">Democratizing Innovation</figcaption>
 
 ## Conclusion
 

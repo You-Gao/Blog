@@ -13,7 +13,7 @@ comment: https://www.youtube.com/watch?v=3BGvR4P4d40
 # Absent Body
 
 > "That organ with which I perform my labor, eat my food, caress my loved ones, yet remains a stranger to me. This strangeness is even more pronounced in the case of the internal organs. I would surely be unable to recognize the look of my own heart, though my very life depends upon its function."
-<figcaption class="blockquote-footer">Absent Body</figcaption>
+> <figcaption class="blockquote-footer">Absent Body</figcaption>
 
 What drew me to this book was the title. It was a simple title, it had an aesthetic to it, that of simplicity. I thought to myself: "The book is going to talk about embodied experience and against Descartes's *cogito ergo sum*." Because, in the 2020s, it is evident that we know what it means to be disembodied subjects. The sheer amount of caffeine humanity consumes and the rise of intentional "*biohacking*" to excavate every last drop of energy makes clear our experience in doing so.
 
@@ -24,12 +24,12 @@ To do so, he pulls from key phenomenologists like Straus, Merleau-Ponty, Sartre,
 ## The Ecstatic Body
 
 > "It is thus possible to state a general principle: insofar as I perceive through an organ, it necessarily recedes from the perceptual field it dis-closes. I do not smell my nasal tissue, hear my ear, or taste my taste buds."
-<figcaption class="blockquote-footer">Absent Body</figcaption>
+> <figcaption class="blockquote-footer">Absent Body</figcaption>
 
 The ecstatic body makes more sense when considering the second lesser known definition of **ecstatic: involving and experience of mystic self-transcendence.** Leder talks on the experiencing body and our sensory apparatuses, dubbed as sensorimotors:
 
 > "The surface is where self meets what is other than self."
-<figcaption class="blockquote-footer">Absent Body</figcaption>
+> <figcaption class="blockquote-footer">Absent Body</figcaption>
 
 The chapter is essentially a summary of previous work related to theorizing about the employment of perception, the limits of perceptions, and some idiosyncrasies related to perception. Leder starts off with introducing the idea of the **null point: a baseline orientation or reference point from which experiences or actions are gauged.**
 
@@ -44,7 +44,7 @@ The point of this section, then, was to accomplish one thing. That is demonstrat
 ## The Recessive Body
 
 > "the Merleau-Pontian subject still bears a distant resemblance to its Cartesian predecessor, never fully fleshed out with bone and guts."
-<figcaption class="blockquote-footer">Absent Body</figcaption>
+> <figcaption class="blockquote-footer">Absent Body</figcaption>
 
 Leder's medical training stands out in this chapter and addresses/gives name to some of my concerns regarding the viscera. He makes the distinction of interoception and exteroception, the former related to the visceral senses and the latter focused on the traditional senses of sight, smell, taste, touch, sound. 
 
@@ -61,12 +61,12 @@ That troubles me because I picked up this book in an attempt to answer a questio
 Leder relates these same troubles to diagnosing visceral pains in medical practices:
 
 > "An experience of 'tightness' in the chest could signal any a number of cardiac, respiratory, muscular, or even alimentary difficulties, given the imprecision of interoception." 
-<figcaption class="blockquote-footer">Absent Body</figcaption>
+> <figcaption class="blockquote-footer">Absent Body</figcaption>
 
 ## The Dys-appearing Body
 
 > "It is as if the pain were ever born anew, although nothing whatsoever has changed."
-<figcaption class="blockquote-footer">Absent Body</figcaption>
+> <figcaption class="blockquote-footer">Absent Body</figcaption>
 
 The body only appears to the mind when it dysfunctions. The end.
 

@@ -2,43 +2,23 @@ import os
 
 dirs = os.listdir('.')
 
-def check_quotes(lines):
-    AFTERQUOTE = False
-    for line in lines:
-        # if line.startswith('>'):
-        #     if not line.strip().endswith('"'):
-        #         print(f'Error: {line.strip()}')
-        #         return False
-        #     AFTERQUOTE = True
-        # elif AFTERQUOTE:
-        #     # check if lines not a figcaption return false
-        #     if "figcaption" not in line:
-        #         print(f'Error: {line.strip()}')
-        #         return False
-        #     else:
-        #         AFTERQUOTE = False
-        # if line.startswith('>'):
-        #     if not line.strip().endswith('"'):
-        #         print(f'Error: {line.strip()}')
-        #         return False
-        # if '<blockquote' in line and not 'figcaption' in line and not 'color: red;' in line:
-        #     print(f'Error: {line.strip()}')
-        #     return False 
-        # if line.endswith(':'):
-        #     print(f'Error: {line.strip()}')
-        #     return False
-        if ':' in line and line.strip().endswith(':'):
-            print(f'Error: {line.strip()}')
-            return False
-           
-    return True
+def write_figcaption(file_name, lines):
+    with open(file_name, 'w') as f:
+        for line in lines:
+            if "<figcaption" in line:
+                print("figcaption in line")
+                f.write("> "+ line)
+                continue
+            f.write(line)
+    f.close()
+    return False
 
 for dir in dirs:
     if dir.startswith('_') and os.path.isdir(dir):
         for file in os.listdir(dir):
             if file.endswith('.md'):
+                file_name = f'{dir}/{file}'
                 with open(f'{dir}/{file}', 'r', errors='ignore') as f:
                     lines = f.readlines()
-                    if not check_quotes(lines):
-                        print(f'Errors found in {file}')
-                
+                    write_figcaption(file_name, lines)
+                f.close()

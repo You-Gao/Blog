@@ -20,13 +20,13 @@ My .bashrc contains a script to print out a quote, among other things, when I fi
 To give an idea of what they look like:
 
 > "It's not about how hard you can hit; it's about how hard you can get hit and keep moving forward."
-<figcaption class="blockquote-footer">Rocky</figcaption>
+> <figcaption class="blockquote-footer">Rocky</figcaption>
 
 > "To see things in the seed, that is genius."
-<figcaption class="blockquote-footer">Lao Tzu</figcaption>
+> <figcaption class="blockquote-footer">Lao Tzu</figcaption>
 
 > "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigour of the mind."
-<figcaption class="blockquote-footer">Leonardo da Vinci</figcaption>
+> <figcaption class="blockquote-footer">Leonardo da Vinci</figcaption>
 
 At first thought, I saw three broad categories under which a "*good*" quote could fall: motivational, insightful, and reflective. Sort of like the primary "*substance*" of a quote, what the "good stuff" is in a quote. Then, you have the linguistic structure, which relies on the rhetorical skills of the quotee, such as how many words it uses, how it flows, etc. Another key factor in a good quote is the writer. It may be wrong, but who the person is and is not definitely adds weight to the quote. 
 

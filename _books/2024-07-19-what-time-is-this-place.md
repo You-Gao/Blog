@@ -12,7 +12,7 @@ name: >-
 # What Time is This Place?
 
 > "Everywhere there are signs of time."
-<figcaption class="blockquote-footer">What Time is This Place?</figcaption>
+> <figcaption class="blockquote-footer">What Time is This Place?</figcaption>
 
 Kevin Lynch, is an urban designer; he coined the term "*wayfinding*" and has worked on many interesting tidbits in his life. The book itself details how inhabitants of an environment experience time through environmental cues and how that translates to the larger picture of "*rhythms of time.*" Its ideas made me piece together my thoughts about how we experience time more broadly. 
 

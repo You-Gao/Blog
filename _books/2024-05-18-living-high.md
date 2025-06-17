@@ -18,7 +18,7 @@ name: >-
 # Living High and Letting Die
 
 > "If you'd contributed $100 to one of UNICEF's most efficient lifesaving programs a couple of months ago, this month there'd be over thirty fewer children who, instead of painfully dying soon, would live reasonably long lives."
-<figcaption class="blockquote-footer">Living High and Letting Die</figcaption>
+> <figcaption class="blockquote-footer">Living High and Letting Die</figcaption>
 
 
 I took away two concepts from Singer's work on critiquing moral intuitions and challenging the way people have reasoned on ethics. One is social distance: the idea that how far removed a person geographically or mentally reduces the urgency / need in performing moral calculus. The second is something Singer argues for not only in ethical decisions, but also the broader social decisions as well, which is epistemic responsibility. That we all have the duty to ensure that one's beliefs, knowledge, and understanding are well-founded, justified, and based on reliable evidence.
