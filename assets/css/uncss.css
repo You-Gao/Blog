@@ -38,17 +38,6 @@ strong {
 	font-weight: bolder
 }
 
-sup {
-	position: relative;
-	font-size: .75em;
-	line-height: 0;
-	vertical-align: baseline
-}
-
-sup {
-	top: -.5em
-}
-
 figure {
 	margin: 0 0 1rem
 }
@@ -390,7 +379,7 @@ strong {
 
 sup {
 	font-size: 75%;
-	line-height: 0;
+	line-height: 1;
 	position: relative;
 	vertical-align: baseline
 }
@@ -575,7 +564,7 @@ h4,h5,h6 {
 .markdown-body h1 {
 	font-size: 1.77em;
 	font-weight: 600;
-    width: 85%;
+    width: 80%;
 }
 
 .markdown-body h2 {
@@ -612,3 +601,12 @@ em {
     color: grey;
 }
 
+code {
+    background: lightgrey;
+    text-wrap: auto;
+    display: inline;
+}
+
+.highlighter-rouge {
+    background: lightgrey;
+}

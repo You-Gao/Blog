@@ -41,7 +41,7 @@ strong {
 sup {
 	position: relative;
 	font-size: .75em;
-	line-height: 0;
+	line-height: 1;
 	vertical-align: baseline
 }
 
@@ -388,17 +388,6 @@ strong {
 	font-weight: 400
 }
 
-sup {
-	font-size: 75%;
-	line-height: 0;
-	position: relative;
-	vertical-align: baseline
-}
-
-sup {
-	top: -.5em
-}
-
 img {
 	border-style: none
 }
@@ -575,7 +564,7 @@ h4,h5,h6 {
 .markdown-body h1 {
 	font-size: 1.77em;
 	font-weight: 600;
-    width: 85%;
+    width: 80%;
 }
 
 .markdown-body h2 {
@@ -614,6 +603,7 @@ em {
 
 #footnotes {
 	border-bottom: 1px dotted;
+    width: 100%;
 }
 
 .bloglist h2 {
@@ -838,4 +828,13 @@ a:hover {
 
 .blog-nav a:hover {
     color: grey;
+}
+
+code {
+    text-wrap: auto;
+    display: unset;
+}
+
+.highlighter-rouge {
+    background: lightgrey;
 }

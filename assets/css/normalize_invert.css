@@ -80,3 +80,7 @@ a:hover {
 .title:hover {
     color: var(--mocha-link);
 }
+
+.highlighter-rouge {
+    background: var(--mocha-highlight);
+}

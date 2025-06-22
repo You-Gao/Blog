@@ -9,9 +9,9 @@ comment: comic sans
 
 # typography is fun[^1]
 
-I recently went down the rabbit hole that is typography, specifically the formal elements of typography and how that affects the meaning. Questions like why does Nerd font look so "*nerdy*" or why does Comic Sans look so "*goofy.*" 
+I recently went down the rabbit hole that is typography, specifically the formal elements of typography affects the meaning. Questions like why does Nerd font look so "*nerdy*" or why does Comic Sans look so "*goofy.*"
 
-I won't answer that in this post directly, but I wanted to give context to my guiding questions down this rabbit hole[^2]. Like how there is a "*language*" to data visualization in relation to quantity, I wondered if there was a "*language*" in typography in relation to textual form[^3].
+I won't answer that in this post directly, but I wanted to give context to my guiding questions down this rabbit hole[^2]. Just as there is a "*language*" to data visualization, I wondered if there was a "*language*" in typography in relation to textual form[^3].
 
 In doing so, I made some delightful discoveries. The reason why Nerd fonts have been deemed "*nerdy*" is because they are monospace sans-serif typefaces. Monospace typefaces have been historically used in coding applications because they allow clear spacing between letters, which heavily affects the readability of a codebase. 
 
@@ -43,8 +43,8 @@ I don't know of any script typefaces that I like.
 
 <br/>
 ---
-[^1]: Post inspired by "*Thinking with Type*" and "*The Elements of Typographic Style.*" 
-[^2]: (I will answer it in the footnotes) In my deep-dive, I found that we only confer those fonts' meaning "after the fact." It's not because there are formal elements to Nerd font that make it "*nerdy*" but rather because Nerd font is fit for the task of representing code that its "*nerdy.*"
-[^3]: (I will also answer this) The answer here is yes, there is a "*language*" or a "*formal*" way to represent content. The important part here that I didn't pick up on is that the form really follows function. Just as math represents the concept of numbers, the same holds true about typography.
+[^1]: Post inspired by *Thinking with Type* and *The Elements of Typographic Style.*
+[^2]: (I will answer it in the footnotes) In my deep-dive, I found that we only confer those fonts' meaning "after the fact." It's not because there are formal elements to Nerd font that make it "*nerdy*" but rather because Nerd font is fit for the task of representing code which makes it "*nerdy.*"
+[^3]: (I will also answer this) The answer here is yes, there is a "*language*" or a "*formal*" way to represent content. The important part here is that the form really does follow function. Just as math represents the concept of numbers, the same holds true about typography for "*readability in place.*"
 [^4]: Interestingly enough, though, it follows much of the parallels of "*time-frames*" that were found in literature and art.
 [^5]: Serifs are overrated, IMO. They don't even help with legibility, so print legibility. I use a screen most of the time, so I might be biased.
