@@ -3,10 +3,10 @@ date:             2025-06-23
 description:  >-
     collateralized door dash debt obligations
 title: >-
-    Why Do Artworks Need Titiles?
+    Why Do Artworks Need Titles?
 layout:           style
 name: >-
-    Why Do Artworks Need Titiles?
+    Why Do Artworks Need Titles?
 comment: art interpretation is weird
 ---
 
