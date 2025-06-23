@@ -6,7 +6,7 @@ layout: style
 
 title: aquarium visit
 description: >-
-    This particular section of all aquariums is my favorite part. I've always wanted to have a house underwater, althought now as an adult I understand how economically infeasible that is and how hard it would be getting out of bed.
+    This particular section of all aquariums is my favorite part. I've always wanted to have a house underwater, although now, as an adult, I understand how economically infeasible that is and how hard it would be to get out of bed.
 
 img_location: /assets/photos/4.jpg
 ---

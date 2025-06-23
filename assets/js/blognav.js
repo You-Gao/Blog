@@ -26,6 +26,7 @@ function generateBlogNav() {
         }
 
         text = header.innerHTML.replace(/<sup>.*?<\/sup>/g, '');
+        text = text.replace(/<a[^>]*>(.*?)<\/a>/g, '$1');
             
         if (text.length > 20) {
             text = text.substring(0, 20) + '...';
