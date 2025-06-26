@@ -1,7 +1,7 @@
 ---
 date:             2024-07-21
 description:  >-
-  Reflections on "*A Philosophy of Software Design*".
+  Reflections on "A Philosophy of Software Design".
 layout:           post
 title: >-
   A Philosophy of Software Design
@@ -15,17 +15,13 @@ name: >-
 > "These concepts may not immediately identify the best design, but you can use them to compare design alternatives and guide your exploration of the design space."
 > <figcaption class="blockquote-footer">A Philosophy of Software Design</figcaption>
 
-I read this book because it was popular, and I'm glad I did. Something interesting is that before reading it, I heard it was compared to being the better version of "*Clean Code.*" After reading it, the comparisons are pretty accurate. The book acts more like Socratic dialogue, whereas Clean Code feels way more dogmatic about what it has to say about software design. The contents of the book essentially help you contextually understand when and where to write "*clean code.*" Looking at "*Clean Code,*" it promotes strictly adhering to SOLID, DRY, YAGNI, etc., which leads to classitis and misses out on the broader architectural and design choices that influence software design. So, if you are considering picking one of the books, I suggest you get the more updated one.
+I read this book because it was popular, and I'm glad I did. After reading it, the comparisons are pretty accurate. The contents of the book itself are pretty good, but it is definitely aimed at beginner or junior developers rather than experienced ones. A lot of the critiques that I could think of, and many others have said, are about what is not in the book itself. 
 
-The contents of the book itself are pretty good, but it is definitely aimed at beginner/junior developers (as myself) rather than experienced ones. A lot of the critiques that I could think of, and many others have said, are about what is not in the book itself. There are many other portions of the book that are really short, but the idea of the section seems important and warrants dedicating more than a page to it. 
+There are many other portions of the book that are quite short, but the idea presented in the section seems important and warrants dedicating more than a page to it. 
 
 The main culprit was how short the section on error handling was. It called out the importance of error handling and how the majority of software incidents are precisely due to faulty error handling but skipped elaborating on the techniques to do so.
 
-With that being said, a lot of the concepts in the book were assuringly the same concepts covered in the SWE courses I took at UVA. What was missing for me was there wasn't a discussion on broader software architecture, patterns, and teams, which invariably affect the design process. 
-
-Ultimately, my takeaway was the realization that each layer of abstraction in software development involves a nuanced "*dance*" that gets consumed by the next layer up. Understanding and managing these interactions is crucial for effective design and implementation.
-
-The next section is just the collection of "*red-flags*" / anti-patterns the author has experienced before.
+With that being said, a lot of the concepts in the book were reassuringly the same concepts covered in the courses I took at UVA. What was missing for me was there wasn't a discussion on broader software architecture, patterns, and culture, which invariably affect the software design process. 
 
 ## Main Red Flags
 

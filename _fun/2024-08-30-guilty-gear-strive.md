@@ -15,13 +15,13 @@ comment: quit after potemkin kara removal :(
 
 <img src="{{ 'assets/games/ggst/header.jpg' | relative_url }}" alt="Logo" class="game_logo"/>
 
-## Introduction:
+## Introduction
 
 *Guilty Gear Strive* is a pretty popular game that has sold well on Steam, especially with a price-point of $50. It's a part of the cult classic fighting game series made by Daisuke Ishiwatari and is highly praised for what it has given to the fighting game community. 
 
 Although it does get a lot of flack for being "*scrubby*", I think it makes the game accessible. There is a high-skill ceiling and a low-skill floor. The quick match system in the game also makes skill-based matchmaking bearable. I personally have 500+ hours on it, all on one character, so here are my thoughts after playing that much.
 
-## Player Mechanics:
+## Player Mechanics
 
 * **Moves:** ```UIJKL``` are binds for slash, heavy slash, punch, kick, dust.
 * **Specials:** Inputs like ```236P``` are used to perform specials.
@@ -49,7 +49,7 @@ Although it does get a lot of flack for being "*scrubby*", I think it makes the 
 </div>
 </div>
 
-## Game Mechanics:
+## Game Mechanics
 
 **Matches:** Every match is a first to 2, where you need to reduce the life bar of the opponent to 0 twice to win. The only interesting portion of how this is set up and impacts a match is burst gauge management, as that carries over between rounds.
 
@@ -61,7 +61,7 @@ Although it does get a lot of flack for being "*scrubby*", I think it makes the 
 
 On top of this archetypal difference, each character has a unique set of tools, combo routes, and interactions that, when managed efficiently, give rise to a pretty deep expression of the player.
 
-## Themes and Player Experience:
+## Themes and Player Experience
 
 **Social Interaction:** The reason I play *Guilty Gear Strive* is the social aspect. Going against another "*real*" player---until AI gets too advanced---makes me actually take the game seriously. It's not just about winning or losing; it's about the encounter itself, the back-and-forth of skill, mind games, and adaptation.
 
@@ -78,7 +78,7 @@ I get how people might be confused about me putting social interaction and narra
 
 After reflecting on games, I feel like they have so much more power as a connective medium than the former conception. While the thrill of competition is undeniable, the moments where I've deeply enjoyed games are with others, whether through friendly banter, exchanging tips, or even just mutual respect after a hard-fought match.
 
-## Conclusion:
+## Conclusion
 
 With all that being said, *Guilty Gear* is a game that is fun for me, and I recognize when it is not fun. It's not fun when I am not playing to play, and winning has become my sole objective. Should you play *Guilty Gear*? Yes, if you have nothing better to do. It's a pretty great leisure time activity and better than a lot of other alternatives that take up a lot of time. A match is pretty quick, like 5 minutes max, to complete one.
 
