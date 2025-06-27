@@ -13,7 +13,9 @@ name: >-
 
 # Future Studies
 
-New Year's, winter break, and staying home all day tends to make people reflect. I decided to spend that reflection on all the existential questions but also on what I want to study for the upcoming year. For some context on where I'm at, I am currently in my 3rd year of school and have run through the gauntlet of theory, algorithms, and low-level shenanigans. So there aren't any of the foundations left to go through, and it feels as if I have left the so-called "*tutorial hell*" [^1]. Quite literally, the only courses left to take for me are in the 4000s.
+New Year's, winter break, and staying home all day tends to make people reflect. I decided to spend that reflection on all the existential questions but also on what I want to study for the upcoming year.
+
+For some context on where I'm at, I am currently in my 3rd year of college and have run through the gauntlet of theory, algorithms, and low-level shenanigans. So there aren't any of the foundations left to go through, and it feels as if I have left the so-called "*tutorial hell*" [^1]. Quite literally, the only courses left to take for me are in the 4000s.
 
 Thinking back on this semester, having taken classes like compilers and security, I realize that my interest has shifted toward systems programming. That is systems programming in contrast with application programming. For example, application programming is using Node.js and knowing the APIs/quirks/idiosyncrasies of shipping out an app. 
 
@@ -29,7 +31,7 @@ Reasonably enough, any sane person doesn't need to go beyond the 123 fds; each p
 
 The aside to all this then is dedicating some time to understanding this hardware/software fuzziness along with the data structures utilized by the kernel. Conceptually, it's just interesting how you have this special program dubbed the kernel that fundamentally interacts with the peripheries to schedule more programs to be run.
 
-The ante is upped when you realize the kernel can handle asynchronous programs, so we can run **2** Google Chromes at once, but also have the coordinate itself with multiple cores to do tasks in parallel. These are pretty interesting and cool things that I got basic conceptual clarity for but not implementation clarity for.
+The ante is upped when you realize the kernel can handle asynchronous programs, so we can run **2** Google Chromes at once but also have the coordinate itself with multiple cores to do tasks in parallel. These are pretty interesting and cool things that I got basic conceptual clarity for but not implementation clarity for.
 
 ## Distributed Systems
 
@@ -39,7 +41,7 @@ One piece[^3] of this is deeply understanding the networking stack and the OSI l
 
 However, the goal here is not to be surface-level about it. I want to learn past the usage of tools of the trade and how to build the tools of the trade. The goal really here is to try and do this bottom-up for the insight and fun of it. I mean, there already is a plethora of tools out there for doing something like this. 
 
-Still, I feel like just learning how to utilize, say, AWS tooling to slap on NGINX on top of an Ingress via CloudFormation templates for a Kubernetes service gimps understanding in the end. So instead, I say go at it with Docker. Go pull the Moby repo and learn how it uses UNIX namespaces/cgroups to set up process isolation or how its networking all maps out.
+Still, I feel like just learning how to utilize, say, AWS tooling to slap on NGINX on top of an Ingress via CloudFormation templates for a Kubernetes service gimps understanding in the end. Instead, I say go at it with Docker. Go pull the Moby repo and learn how it uses UNIX namespaces/cgroups to set up process isolation or how its networking all maps out.
 
 ## Algorithms and Math
 
@@ -48,5 +50,5 @@ I am not a smart person if that's measured in novel math skills. I have hilariou
 <br/>
 ---
 [^1]: Probably disingenuous to call foundational cs thinking and knowledge tutorial hell, but hey.
-[^2]: i.e. how Node.js redirects logs to term instead of F12 console in a browser.
-[^3]: The one piece is real.
+[^2]: i.e., how Node.js redirects logs to term instead of F12 console in a browser.
+[^3]: The one-piece is real.

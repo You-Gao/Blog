@@ -9,16 +9,20 @@ name: >-
   Learning Forwards and Backwards
 ---
 
-# Learning Forwards and Backwards [^4]
+# Learning Forwards and Backwards[^4]
 
 > "For if you believe, as I do, that all learning is but recollection, then it follows that learning is not a matter of getting new information but of remembering what the soul already knows."
 > <figcaption class="blockquote-footer">Plato's Meno</figcaption>
 
-Theories on learning and gathering new facts about the world have been a productive field of human thought. I am entering this world to summarize my position on how learning operates and the different perspectives a person can orient when needing to learn. Taking from the already popularized dichotomies of know-how vs. know-that, implicit vs explicit, and known unknown vs unknown unknowns. I will see if I can use those concepts to argue the ways in which we can gather knowledge on a topic and draw out where you would use a specific method of learning.[^1]
+Theories on learning and gathering new facts about the world have been a productive field of human thought. I am entering this world to summarize my position on how learning operates and the different perspectives a person can orient when needing to learn. 
+
+Taking from the already popularized dichotomies of "***know-how vs. know-that, implicit vs explicit, and known unknown vs unknown unknowns.***" I will see if I can use those concepts to argue the ways in which we can gather knowledge on a topic and draw out where you would use a specific method of learning.[^1]
 
 ## Learning Forwards
 
-Before making the argument of learning backward, I need to address the question of how people pick up base knowledge. These are the minimum facts you need before going further in conceptual depth. Ideas such as Newton's Laws and many other laws would fall under the category. This approach is good because humanity has generated a corpus of empirical facts. So, initial learning begins with textbooks and readings and onwards until you have enough facts in relation to each other that cognitive models are created on topics.[^2]
+Before making the argument of learning backward, I need to address the question of how people pick up base knowledge. These are the minimum facts you need before going further in conceptual depth. Ideas such as Newton's Laws and many other laws would fall under the category. 
+
+This approach is good because humanity has generated a corpus of empirical facts. So, initial learning begins with textbooks and readings and onwards until you have enough facts in relation to each other that cognitive models are created on topics.[^2]
 
 ## Learning Backwards
 
@@ -36,11 +40,11 @@ Take the example of trying to understand a watch. I know that the motors interac
 
 ## Citations
 
-Kolb, David A.. “Experiential Learning: Experience as the Source of Learning and Development. (1983).
+Kolb, David A. "Experiential Learning: Experience as the Source of Learning and Development. (1983).
 
 <br/>
 ---
 [^1]: I ended up not using those dichotomies explicitly, but they can be found underpinning the context of learning
 [^2]: I'd like to go on a tangent for epistemic trust and truth, but I will save it
-[^3]: I found a paper to basically confirm the bias the things I wrote about; here is a [screenshot](https://blog.yougao.dev/assets/life/learning/snippet.png) of a section.
-[^4]: (5/13/2025) It is now that after learning more about cognitive science, I was getting at the same idea of Lakoff in "*Metaphors We Live By*" and our symbolic-semantic interpretations of the world.
+[^3]: I found a paper to basically confirm the bias of the things I wrote about; here is a [screenshot](https://blog.yougao.dev/assets/life/learning/snippet.png) of a section.
+[^4]: (5/13/2025) It is now that after learning more about cognitive science, I was getting at the same idea as Lakoff in "*Metaphors We Live By*" and our symbolic-semantic interpretations of the world.

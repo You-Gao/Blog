@@ -11,11 +11,15 @@ name: >-
 
 # How to Find "*Good*" Business Books
 
-As it is the day after New Year, I reflected on my reading journey and became so *deeply* afflicted[^1] by the fact that I haven't read a share of good business books. But there was another problem. The field of business is different than the books related to the term "*business,*" which are usually written in appeal to the "*pop-business*" audience. That is the current literature that you get when searching top business books on Amazon discusses the practical virtues of a business person, the surface-level psychology (probably on the "grindset"), and broad organizational "stuff". There is good content there, but it felt like there was something off; no way business as a field is just this.
+As it is the day after New Year, I reflected on my reading journey and became so *deeply* afflicted[^1] by the fact that I haven't read a share of good business books. But there was another problem. The field of business is different than the books related to the term "*business,*" which are usually written in appeal to the "*pop-business*" audience. 
 
-Based on my intuition, I decided to do some research on if business was more than that. The answer is yes. Business as a field is so much more than the books people tout or advertise with the sort of 3D rendered, really visually uninteresting book covers[^2]. Business as a field also covers topics like the theory of institutional actors (firms, markets, consumers, etc.), organizational efficiency, market analysis, ethics, and probably more. 
+That is the current literature that you get when searching top business books on Amazon that discusses the practical virtues of a business person, the surface-level psychology (probably on the "grindset"), and broad organizational "stuff." There is good content there, but it felt like there was something off; no way business as a field is just this.
 
-However, the critique here is that you would be better off studying to be an economist, sociologist/anthropologist, or even philosopher as the "*good*" books: *The Theory of Industrial Organization*, *Democratizing Innovation*, *Organizational Culture and Leadership*, and so on is never assigned in an undergraduate business degree; maybe an MBA. The most you would engage with these books is having their ideas referenced in HBR articles the professor assigns, and that is a shame.
+Based on my intuition, I decided to do some research on if business was more than that. The answer is yes. Business as a field is so much more than the books people tout or advertise with the sort of 3D rendered, really visually uninteresting book covers[^2]. 
+
+Business as a field also covers topics like the theory of institutional actors (firms, markets, consumers, etc.), organizational efficiency, market analysis, ethics, and probably more. 
+
+However, the critique here is that you would be better off studying to be an economist, sociologist/anthropologist, or even entrepreneur as the "*good*" books: *The Theory of Industrial Organization*, *Democratizing Innovation*, *Organizational Culture and Leadership*, and so on are never assigned in an undergraduate business degree; maybe an MBA. The most you would engage with these books is having their ideas referenced in HBR articles the professor assigns, and that is a shame.
 
 ## The GBB Metric
 
@@ -27,4 +31,4 @@ For example, *Thinking Fast and Slow* would be ~50,000/500,000, which is two mag
 <br/>
 ---
 [^1]: Sarcastic, but not really either.
-[^2]: I chose this rather then doing the coloring books angle.
+[^2]: I chose this rather than doing the coloring book angle.
