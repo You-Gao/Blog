@@ -744,6 +744,10 @@ body main img {
 }
 
 @media (max-width: 768px) {
+    .markdown-body hr {
+        height: .15em;
+    }
+
 	figcaption p {
 		margin-bottom: 0
 	}
@@ -800,6 +804,10 @@ a::before {
     background: #eeeeee; 
     transition: width 0.5s ease; 
     z-index: -1; 
+}
+
+.footnotes a {
+    display: contents;
 }
 
 a:hover::before {

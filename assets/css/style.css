@@ -168,6 +168,10 @@ body main img {
     .navbar-brand {
         margin-right: 8px!important;
     }
+
+    .markdown-body hr {
+        height: .15em;
+    }
 }
 
 .active {

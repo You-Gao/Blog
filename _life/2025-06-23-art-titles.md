@@ -1,7 +1,7 @@
 ---
 date:             2025-06-23
 description:  >-
-    collateralized door dash debt obligations
+    I don't get modern art.
 title: >-
     Why Do Artworks Need Titles?
 layout:           style
