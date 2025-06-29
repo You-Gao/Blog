@@ -9,7 +9,6 @@ name: >-
   The Fifth Discipline 
 ---
 
-
 # The Fifth Discipline
 
 > "In the long run, the only sustainable source of competitive advantage is your organization's ability to learn faster than its competition."
@@ -23,9 +22,11 @@ But the pedagogical lucidity is simply lost in the flood of anecdotes and contex
 
 ## Systems Thinking 
 
-Gestalt thinking, systems thinking, arrows/loopy diagrams, complexity science, or "*big-picture*" thinking; Whatever you call it, the core tenets backing this methodology are these supposed facts. The world is incomprehensibly complex; time is linear, but processes are non-linear, and formal logic can not express these models of the world. Famous examples of this are widespread in pop science, like the butterfly effect or less known predator-prey dynamics in ecological systems.
+Gestalt thinking, systems thinking, arrows/loopy diagrams, complexity science, or "*big-picture*" thinking; Whatever you call it, the core tenets backing this methodology are these supposed facts:
 
-Now that I'm thinking about it, chaos theory is another term for the same thing. However, in chaos theory, they are more thinking about dealing with a model error rather than expressing a model. They aren't too interested in formulating dynamical equations for non-linear systems but rather in the error due to different initial conditions. 
+1. The world is incomprehensibly complex.
+2. Time is linear, but processes are non-linear.
+3. Formal or "*purely*" mathematical logic can not express it.
 
 Anyways, if you want to learn more, this lecture by the Santa Fe Institute is interesting.
 

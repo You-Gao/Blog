@@ -26,7 +26,7 @@ It does. Interestingly, though, it didn't cover the likes of GitHub [^2]. It cov
 
 Ironically enough, when Hippel is discussing manufacturer firms and ways to work with user innovation in software, he points to Red Hat Enterprise Linux, which, after 13 or so years, has been acquired by IBM and stirred up quite a lot of controversy. 
 
-They have gone to the side of being a manufacturer instead of a user firm, and has been described as "*egregiously bastardizing open-source contributors by profiting off of their efforts*"[^4]. But going back to when Hippel wrote this text, he highlighted how Red Hat as a firm dealt with monetizing open-source with respect to providing technical support for the project.
+They have gone to the side of being a manufacturer instead of a user firm and have been described as "*egregiously bastardizing open-source contributors by profiting off of their efforts*"[^4]. But going back to when Hippel wrote this text, he highlighted how Red Hat as a firm dealt with monetizing open-source with respect to providing technical support for the project.
 
 >  "(3) Manufacturers may sell products or services that are complementary to user-developed innovations."
 > <figcaption class="blockquote-footer">Democratizing Innovation</figcaption>
@@ -47,9 +47,9 @@ Red Hat still offers services technical support, fixes, updates, and services wh
 
 ## Hashicorps Move to BSL
 
-The story here is that the tooling under Hashicorp was deemed "*open-source*", much like Vagrant before Hashicorp was created as an entity. The users or user firms were able to openly commit to the source code of any of the Hashicorp tools like Terraform, Helm, Consul, etc. T
+The story here is that the tooling under Hashicorp was deemed "*open-source*," much like Vagrant before Hashicorp was created as an entity. The users or user firms were able to openly commit to the source code of any of the Hashicorp tools like Terraform, Helm, Consul, etc.
 
-he backlash occurred when they tried to shift over to a BSL license, which meant that their status was now more of a manufacturer than an open-source community. It follows a similar pattern to the whole open-source -> enterprise edition firm. This incompatibility stems from the conversion of user innovation to a firm status, creating a contradiction of the general open-source ethos. 
+The backlash occurred when they tried to shift over to a BSL license, which meant that their status was now more of a manufacturer than an open-source community. It follows a similar pattern to the whole open-source -> enterprise edition firm. This incompatibility stems from the conversion of user innovation to a firm status, creating a contradiction of the general open-source ethos. 
 
 I thought that Hashicorp was acting like an open-source organization that held these projects without the goal of profiting from them. But really, why is this open-source enterprise business model causing so much drama? 
 
@@ -57,7 +57,7 @@ Similar to RHEL, the developer firms contribute to the open-source and benefit f
 
 <img style="display: block; margin-left: auto; margin-right: auto" src="https://imgs.xkcd.com/comics/dependency.png"/>
 
-My summary of understanding this debacle is found in two questions. The individual user asks why this project needs to be enterprise-level, and the firm user asks why I should pay for this "*open-source*" project. Enterprise Open Source is more of a CYA purchase than anything, akin to hiring consultants.
+My summary of understanding this debacle is found in two questions. The individual user asks why this project needs to be enterprise-level, and the firm user asks why I should pay for this "*open-source*" project. Enterprise Open Source is more of a CYA purchase than anything akin to hiring consultants.
 
 
 ## Keeb Community
@@ -92,17 +92,17 @@ Hippel gives us an insight into the nature of production in information products
 
 I mean, really, looking at the history of open-source and software products in general, they have always ended up being democratized. UNIX became proprietary, and Stallman et al. went out to develop their own POSIX-compliant code base. LibreOffice being made as an open-source version of Microsoft Office. The list of FOSS has gotten to the point that you really don't need to pay for any user-based software.
 
-There was less discussion on noneconomic extrinsic motivators than I had wanted. Still, given the fact that the capital economy is how we coordinate social welfare, it would have to be/been 100% academic suicide to tack on the point that open-source software could be "*socialist*" or perjoratively "*communist*". A discussion on the institutional actors doesn't need to inquire into that. 
+There was less discussion on noneconomic extrinsic motivators than I had wanted. Still, given the fact that the capital economy is how we coordinate social welfare, it would have to be/been 100% academic suicide to tack on the point that open-source software could be "*socialist*" or pejoratively "*communist*." A discussion on the institutional actors doesn't need to inquire into that. 
 
-I do like that aspect when discussing the more behavioral aspects of institutional actors, the behavior of firms, or "*business entities*". But still, there is the undeniable existence of an ideological ethos that divides user-firm innovators and user innovators, along with their propensity to share.
+I do like that aspect when discussing the more behavioral aspects of institutional actors, the behavior of firms, or "*business entities*." But still, there is the undeniable existence of an ideological ethos that divides user-firm innovators and user innovators, along with their propensity to share.
 
-In the end, this all hearken backs to a controversial distinction: free or open source?
+In the end, this all hearkens back to a controversial distinction: free or open source?
 
 <br/>
 ---
 [^1]: Sarcastic, but not really either.
 [^2]: I mean, the book was written in 2005.
-[^3]: AWS precisely arose from its user-firm innovating at Amazon (the bookstore firm) and then becoming the manufacturer (the web service firm).
+[^3]: AWS precisely arose from its user firm innovating at Amazon (the bookstore firm) and then becoming the manufacturer (the web service firm).
 [^4]: This is being dramatic; CentOS Stream isn't that bad, honestly.
 [^5]: When a company uses its contributions as leverage to restrict access, it often triggers a backlash that encourages decentralization and diversification.
-[^6]: One is that employee churn/documentation is really important towards the innovated product.
+[^6]: One is that employee churn/documentation is really important for the innovative product.

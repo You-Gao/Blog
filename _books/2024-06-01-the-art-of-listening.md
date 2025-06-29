@@ -20,10 +20,14 @@ name: >-
 > "and, actually, every human being is the hero of a drama"
 > <figcaption class="blockquote-footer">The Art of Listening</figcaption>
 
-Fromm has good ideas. I'm not a Fromm scholar in particular, but having read some of his previous works like "*The Escape from Freedom*" and "*The Art of Loving,*" it made me seek out some more of his works, which ended up being the Art of Listening.
+Fromm has good ideas. I'm not a Fromm scholar in particular, but having read some of his previous works like *The Escape from Freedom* and *The Art of Loving,* made me seek out some more of his works, which ended up being *The Art of Listening*.
 
-The book itself is a collection of talks and seminars Fromm did later on in his career, which arose from his own reflections on psychoanalysis and the insights he gathered from helping people psychologically.
+The book itself is a collection of talks and seminars Fromm did later on in his career, which arose from his own reflections on psychoanalysis and the insights he gathered from practicing the craft.
 
-What Fromm reflects upon deeply as a psychoanalyst is the root cause of neurosis, or in modern terms, mental illness. The key wisdom nugget from the book that I appreciated is on the structural environmental causes of neurosis. Using the French term Mal du siècle (sickness of the century), Fromm asks if we are all sick.
+What Fromm reflects upon deeply as a psychoanalyst---and the "*field*" as a whole---is the root cause of "*neurosis,*" or in modern terms, "*mental illness.*" 
 
-He also goes on to ask if the structure and ways of being in modern (neoliberal) society cause neurosis in everyone. Is the use of illness then, even valid? And these are good questions to ask because, as we live our day to day without questioning the ways we relate to each other and the world, we further deepen our current modes as the only with no alternative. But as Fromm highlighted, such is the power of norms, and no one is sick if everyone is sick.
+The nugget of wisdom I found interesting was the discussion of structural causes of neurosis. Using the French term Mal du siècle (sickness of the century), Fromm asks if we are all sick.
+
+He goes on to ask if the structure and ways of "*being*" in modern society cause neurosis in everyone. Is the use of the term "*illness,*" then, even valid?
+
+ These are good questions to ask because, as we live our day-to-day without questioning the ways we relate to each other and the world, we further deepen our current modes as the only ones with no alternative. As Fromm highlighted, such is the power of norms, and no one is sick if everyone is sick.

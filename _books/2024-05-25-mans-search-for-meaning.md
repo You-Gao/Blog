@@ -20,6 +20,8 @@ name: >-
 > "Those who have a 'why' to live, can bear with almost any 'how'."
 > <figcaption class="blockquote-footer">Man's Search for Meaning</figcaption>
 
-Everyone knows the quote but not the book where it came from. Frankl delivers his accounts of living within concentration camps alongside his theory of living through cruelness while maintaining hope. He posits that suffering is universal, but the ways in which people will cope with that truth and persevere is fundamentally what Frankl wants to give us. 
+Everyone knows the quote but not the book where it came from. Frankl gives his account of living within concentration camps. He reflects on his encounters with those who lived or died and comparatively found a difference---"*hope.*" 
 
-Frankl's logotherapy then, is a specific method to humanism, where it's goal is to uplift human spirituality. From Frankl, there are also many of thinkers who have followed the spiritual humanism and wrote their philosophies in such a way to value the human. Nietzsche's "*will to power*", Bergson's "*vitality*", Husserl's "*Lebenswelt*", Laozi's "*Tao*", and such conceptions aim to highlight the agency of the individual.
+He posits that suffering is universal, but the ways in which people will cope with that truth and persevere is what makes humanity "*strong.*"
+
+Frankl's logotherapy, then, is "*humanism,*" where its goal is to uplift human spirituality. Before Frankl, many thinkers echoed the same truths in their own philosophies. Nietzsche's "*will to power*," Bergson's "*vitality*," Husserl's "*Lebenswelt*," and Laozi's "*Tao*,". All of which asks us to recognize the power in being able to create our own "*meaning*."

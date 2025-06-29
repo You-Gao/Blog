@@ -9,11 +9,9 @@ name: >-
   Analytical Readings
 ---
 
-# Analytical Reading List
+# Analytical Reading List[^1][^2][^3]
 
-[^1] [^2] [^3]
-
-After, stumbling my way through reasons and persons. Albeit I did try to read through it with a headache. I am making my list that I plan to finish by next semester of college for myself that covers logical thinking. Without further ado here is the smorgasbord of books I WILL read through:
+After, stumbling my way through *Reasons and Persons.* Albeit I did try to read through it with a headache. I am making my list that I plan to finish by next semester of college for myself that covers logical thinking. Without further ado here is the smorgasbord of books I WILL read through:
 
 * Philosophical Investigations
 * Language, Truth, and Logic
@@ -23,6 +21,7 @@ After, stumbling my way through reasons and persons. Albeit I did try to read th
 * On What There is
 * Theory of Syntax
 
+## Notes
 2025-02-22: I FAILED terribly at this challenge.
 
 2025-04-06: It's just not interesting to me, but maybe one day...
