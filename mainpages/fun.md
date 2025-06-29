@@ -12,7 +12,7 @@ permalink: /fun/
 ---
 <figure class="container-lg">
     <blockquote class="blockquote">
-    <p>"The more stuff you love the happier you will be"</p>
+    <p>"The more stuff you love the happier you will be."</p>
     <figcaption class="blockquote-footer"> 
     Ross Gay,  <cite title="Source Title"> The Book of Delights</cite>
     </figcaption>

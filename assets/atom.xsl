@@ -177,7 +177,7 @@
                         <xsl:value-of select="atom:id" />
                     </xsl:attribute>
                     <xsl:value-of select="atom:title" />
-                </a> : 
+                </a>: 
                 <xsl:value-of select="atom:summary" disable-output-escaping="yes" />
  
             </h4>
