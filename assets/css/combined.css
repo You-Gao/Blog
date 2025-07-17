@@ -810,6 +810,10 @@ a::before {
     display: contents;
 }
 
+.footnotes .reversefootnote {
+    display: inline;
+}
+
 a:hover::before {
     width: 100%;
 }

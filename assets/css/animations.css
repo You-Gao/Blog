@@ -11,6 +11,10 @@ a {
     display: contents;
 }
 
+.footnotes .reversefootnote {
+    display: inline;
+}
+
 a::before {
     content: ''; 
     position: absolute; 
