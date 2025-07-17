@@ -29,9 +29,9 @@ title: >-
             </ul>
         </div>
         <h3 id="qotm" style="margin-bottom:5px;">Quote of the Month:</h3>
-        <blockquote>"Success does not consist in never making mistakes but in never making the same one a second time."
+        <blockquote>"Good morning, and in case I don't see ya, good afternoon, good evening, and good night."
             <figcaption class="blockquote-footer"> 
-                George Bernard Shaw
+                Truman
             </figcaption>
         </blockquote>
     </div>
