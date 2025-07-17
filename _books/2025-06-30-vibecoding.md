@@ -85,7 +85,7 @@ There is a disclaimer though, and a rather lucid one. Which is the fact that hav
 It's not like debugging as skill is going to go away; I, for one think it will now be the most important skill. And to do debugging you actually need to know the syntax and a conceptual understanding of the language. So yes, AI is coming, but I still believe it is a *tad-bit* overhyped.
 
 > "You can teach a physicist finance, but you can't teach a finance person physics."
-> <figcaption class="blockquote-footer">Ben Simons</figcaption>
+> <figcaption class="blockquote-footer">Jim Simons</figcaption>
 
 <br/>
 ---

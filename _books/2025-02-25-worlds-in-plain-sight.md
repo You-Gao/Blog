@@ -18,7 +18,7 @@ I've always had a curiosity for phenomena that could not be explained by convent
 
 The book itself is a collection of essays or papers written by research members associated loosely with the Santa Fe Institute. All of them deal with widely different topics like biology, economics, politics, physics, ecology, art, etc. etc., and the list goes on. What they all have to do in common is that they approach it with the methods of the so-called "*complexity science.*" The defining feature is that their methods break from the sort of neo-Kantian piecing of the world in favor of something... well, complex.
 
-Don't worry.; I will make their definition clearer by reviewing some of the papers here, but complexity science doesn't try to forego logic or science itself. It just means they are more upfront with their assumptions and mostly simulate rather than a-priori deduce their conclusions.
+Don't worry; I will make their definition clearer by reviewing some of the papers here, but complexity science doesn't try to forego logic or science itself. It just means they are more upfront with their assumptions and mostly simulate rather than a-priori deduce their conclusions.
 
 ## Trendy Buzzword?
 
