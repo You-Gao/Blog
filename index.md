@@ -29,9 +29,8 @@ title: >-
             </ul>
         </div>
         <h3 id="qotm" style="margin-bottom:5px;">Quote of the Month:</h3>
-        <blockquote>"Good morning, and in case I don't see ya, good afternoon, good evening, and good night."
-            <figcaption class="blockquote-footer"> 
-                Truman
+        <blockquote>"Real eyes, Realize, Real Lies."           <figcaption class="blockquote-footer"> 
+                some slam poet's basement
             </figcaption>
         </blockquote>
     </div>
@@ -43,7 +42,7 @@ title: >-
 
 <script>
 async function findDiv() {
-    const url = "{{ site.url }}/photos/" 
+    const url = "{{ site.baseurl }}/photos/" 
     const response = await fetch(url)
 
     const html = await response.text()
