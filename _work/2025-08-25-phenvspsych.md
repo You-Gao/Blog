@@ -14,8 +14,10 @@ comment: PvP
 # phenomenology vs. psychology?
 
 > "Phenomenology: A philosophy or method of inquiry based on the premise that reality consists of objects and events as they are perceived or understood in human consciousness and not of anything independent of human consciousness."
+> <figcaption class="blockquote-footer">Wikipedia</figcaption>
 
 > "Psychology: The science that deals with mental processes and behavior."
+> <figcaption class="blockquote-footer">Wikipedia</figcaption>
 
 Both of the studies have to do with the mind and our cognitive/perceptive systems. What differentiates the two and where do we see differences in their approach to producing knowledge about human experience? The best bet I have in answering this is looking at design and when designers use either of them to inform "*good design*"
 
