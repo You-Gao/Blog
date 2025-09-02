@@ -8,7 +8,7 @@ title: >-
 layout:           style
 name: >-
     phenomenology vs. psychology?
-comment: a rabbit-hole
+comment: PvP
 ---
 
 # phenomenology vs. psychology?
