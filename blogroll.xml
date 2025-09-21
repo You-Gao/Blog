@@ -17,9 +17,10 @@
     <urlPublic>{{ site.url }}/blogroll.opml</urlPublic>
   </head>
   <body>
+ 
         <outline text="" title="my blogroll">
             <outline text="interesting..." type="rss" title="Notes from the Circus" xmlURL="https://www.notesfromthecircus.com/feed.xml" htmlUrl="https://www.notesfromthecircus.com/"/>
-            <outline text="similar design 'eye' as me" type="rss" title="longest voyage" xmlURL="https://longest.voyage/index.xml" htmlUrl="https://longest.voyage/"/>
+            <outline text="i like the design" type="rss" title="longest voyage" xmlURL="https://longest.voyage/index.xml" htmlUrl="https://longest.voyage/"/>
             <outline text="'random thoughts on tech, life, design etc.'" title="manuel moreale" type="rss" xmlURL="https://manuelmoreale.com/feed/rss" htmlUrl="http://manuelmoreale.com/"/>
       <outline text="is mostly math, some life advice" title="terence tao" type="rss" xmlUrl="https://terrytao.wordpress.com/feed/" htmlUrl="https://terrytao.wordpress.com/"/>
       <outline text="talks about ai and design" title="interconnected" type="rss" xmlUrl="https://interconnected.org/home/feed" htmlUrl="https://interconnected.org/home/"/>
@@ -28,8 +29,8 @@
       <outline text="cool book review section" title="mac wright" type="rss" xmlUrl="https://www.macwright.com/rss.xml" htmlUrl="https://www.macwright.com/"/>
       <outline text="philosophy xkcd" title="existential comics" type="rss" xmlUrl="https://existentialcomics.com/rss.xml" htmlUrl="https://www.philosophytalk.org/"/>
       <outline text="actual xkcd" title="xkcd" type="rss" xmlUrl="https://xkcd.com/rss.xml" htmlUrl="https://xkcd.com/"/>
-      <outline text="boy and a tiger" title="calvin and hobbes" type="rss" xmlUrl="https://www.comicsrss.com/rss/calvinandhobbes.rss" htmlUrl="https://www.gocomics.com/calvinandhobbes/"/>
-      <outline text="a 'loved' enterprise" title="hashicorp" type="rss" xmlUrl="https://www.hashicorp.com/blog/feed.xml" htmlUrl="https://www.hashicorp.com/blog/"/>
+      <outline text="boy and a tiger (deprecated)" title="calvin and hobbes" type="rss" xmlUrl="https://www.comicsrss.com/rss/calvinandhobbes.rss" htmlUrl="https://www.gocomics.com/calvinandhobbes/"/>
+      <outline text="work" title="hashicorp" type="rss" xmlUrl="https://www.hashicorp.com/blog/feed.xml" htmlUrl="https://www.hashicorp.com/blog/"/>
       <outline text="makes me reflect on system design" title="aws architecture" type="rss" xmlUrl="https://aws.amazon.com/blogs/architecture/feed/" htmlUrl="https://aws.amazon.com/blogs/architecture/"/>
       <outline text="google: a cloud platform?" title="google cloud" type="rss" xmlUrl="https://cloudblog.withgoogle.com/rss/" htmlUrl="https://cloud.google.com/blog/"/>\
       <outline text="keeping up w/ azure" title="azure devops" type="rss" xmlUrl="https://devblogs.microsoft.com/devops/feed/" htmlUrl="https://devblogs.microsoft.com/devops/"/>

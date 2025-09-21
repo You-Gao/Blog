@@ -807,7 +807,7 @@ a::before {
 }
 
 .footnotes a {
-    display: contents;
+    display: inline;
 }
 
 .footnotes .reversefootnote {

@@ -29,8 +29,8 @@ title: >-
             </ul>
         </div>
         <h3 id="qotm" style="margin-bottom:5px;">Quote of the Month:</h3>
-        <blockquote>"Real eyes, Realize, Real Lies."           <figcaption class="blockquote-footer"> 
-                some slam poet's basement
+        <blockquote>"Learning is intrinsically difficult because the reexamination of basic assumptions temporarily destabilizes our cognitive and interpersonal world, releasing large quantities of basic anxiety."           <figcaption class="blockquote-footer"> 
+                Edgar Schein
             </figcaption>
         </blockquote>
     </div>

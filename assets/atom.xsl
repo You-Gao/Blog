@@ -164,7 +164,6 @@
 
         <h1>my
             atom feed</h1>
-        <p>"remember to like and subscribe, also don't forget to hit that notification button!" <br/> - youtube circa 2010</p>
 
         <p>rejoice, i made an atom feed so you can keep up to date my with semi-coherent ramblings!</p>
     </xsl:template>

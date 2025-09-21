@@ -8,7 +8,7 @@ a {
 }
 
 .footnotes a {
-    display: contents;
+    display: inline;
 }
 
 .footnotes .reversefootnote {
