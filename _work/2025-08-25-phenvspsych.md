@@ -19,21 +19,21 @@ comment: PvP
 > "Psychology: The science that deals with mental processes and behavior."
 > <figcaption class="blockquote-footer">Wikipedia</figcaption>
 
-Both of the studies have to do with the mind and our cognitive/perceptive systems. What differentiates the two and where do we see differences in their approach to producing knowledge about human experience? The best bet I have in answering this is looking at design and when designers use either of them to inform "*good design*"
+Both of the studies have to do with the mind and our cognitive/perceptive systems. What differentiates the two, and where do we see differences in their approach to producing knowledge about human experience? The best bet I have in answering this is looking at design and when designers use either of them to inform "*good design*"
 
-It only pulling from phenomenology that a design house can generate a pretty absurd and infamous 27 page design doc of the "*pepsi logo*." The design considersations go from consumer cognition of colors to the graviational pull of the logo in a grocery aisle and gets even weirder as you scroll downards. 
+It is only pulling from phenomenology that a design house can generate a pretty absurd and infamous [27-page design doc](https://www.goldennumber.net/wp-content/uploads/pepsi-arnell-021109.pdf) of the "*Pepsi logo*." The design considerations go from consumer cognition of colors to the gravitational pull of the logo in a grocery aisle, and get even weirder as you scroll downwards. 
 
-Point being, phenomenology is far from data-driven at all. Phenomenology as a inquiry method simply relies on the ability of the speaker to say something lucidly and confidently in such we recognize the truth of what they are saying. It is also the mode that most designers operate in, I think. 
+Point being, phenomenology is far from data-driven at all. Phenomenology as an inquiry method simply relies on the ability of the speaker to say something lucidly and confidently, so that we recognize the truth of what they are saying. It is also the mode that most designers operate in, I think. 
 
-From a design perspective, we make choices which have theorized effects on how a user interacts and perceives the product. It's usually either "*gut feeling*" or some long paragraph in plain English about why doing something will be effective for the product and how it aligns with the user goals. 
+From a design perspective, we make choices that have theorized effects on how a user interacts and perceives the product. It's usually either "*gut feeling*" or some long paragraph in plain English about why doing something will be effective for the product and how it aligns with the user goals. 
 
-In contrast then, psychology still makes similar claims, but comes at it from a heavily "*data'd*" approach. It's very common approach to give out surveys that generate numerical data or to operationalize fuzzy virtues into mesaurable behaviour. "*Reliability*" and "*Validity*" then are just terms that say how well have one reified abstract things like "*intelligence*", "*sadness*", or "*learning*" into a single number. The whole sort of let's define "*love*" in 10 variables and call it that.
+In contrast, then, psychology still makes similar claims, but comes at it from a heavily "*data'd*" approach. It's a very common approach to give out surveys that generate numerical data or to operationalize fuzzy virtues into measurable behaviour. "*Reliability*" and "*Validity*" are just terms that say how well one has reified abstract things like "*intelligence*", "*sadness*", or "*learning*" into a single number. The whole sort of let's define "*love*" in 10 variables and call it that.
 
-The main place where you'd see this show up for designers is in "*A/B testing*". Instead of theorizing about how a certain choice would affect user enjoyment, simply run an experiment using an agreed upon metric. There is actually nothing wrong with approach especially if there is an understanding of what "*good user behaviour*" looks like, i.e. do they spend more money? 
+The main place where you'd see this show up for designers is in "*A/B testing*". Instead of theorizing about how a certain choice would affect user enjoyment, simply run an experiment using an agreed-upon metric. There is actually nothing wrong with the approach, especially if there is an understanding of what "*good user behaviour*" looks like, i.e., do they spend more money? 
 
-But ultimately, designing for "*joy*" is always second place to that. I guess it's also harder to get data for that as well. I mean do you really fill out the review survey after purchasing something or eating at a specific restaurant?
+But ultimately, designing for "*joy*" is always second place to that. I guess it's also harder to get data for that as well. I mean, do you really fill out the review survey after purchasing something or eating at a specific restaurant?
 
-Going back to the "*love*" example, my understanding is that phenomenology will ask the question of what does it feel like to be "*in love*" whilst, psychology will give you a "*love*" score based on common pre-set behaviours. They both go at the same question, but at different angles. My only problem with psychology is that "*operationalization*" often or not fails and is often misused/abused. Also "*Goodhart's Law*" is a thing.
+Going back to the "*love*" example, my understanding is that phenomenology will ask the question of what it feels like to be "*in love*" whilst psychology will give you a "*love*" score based on common pre-set behaviours. They both go at the same question, but from different angles. My only problem with psychology is that "*operationalization*" often fails and is often misused/abused. Also, "*Goodhart's Law*" is a thing.
 
 <br/>
----
+-

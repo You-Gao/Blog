@@ -17,7 +17,6 @@ permalink: /work/
     <figcaption class="blockquote-footer" >
     Herman Hesse, <cite title="Source Title">Steppenwolf</cite>
     </figcaption>
-
     </blockquote>
 </figure>
 

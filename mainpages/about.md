@@ -32,11 +32,12 @@ I go by you. The logo, U高, is just my first and last name (you gao). I'll try 
 
 ### factoids
 * I would consider myself a [constructive empiricist](https://plato.stanford.edu/entries/constructive-empiricism/). 
-* I made spare money as a teen by selling items on popular MMOs.
+* I have played 10+ MMOs.
 * Majored computer science and [global development](https://en.wikipedia.org/wiki/Development_studies) "*studies*".
 * I've watched *Smiling Friends* s1-s2 many times.
 * Spotify says I listen to 60+ genres.
 * I own 5+ mechanical keyboards.
+* My desktop is [catpuccin](https://catppuccin.com/) themed.
 
 ## why are you writing?
 
@@ -44,7 +45,7 @@ The reason I started this blog was to explore the random thoughts I had. Any blo
 
 ## why the selection?
 
-The blog was categorized into motifs (fun, books, me, work, images) as they were things I frequently encounter throughout my life. Within each motif, you will find posts containing my reflections and perspectives on whatever idea I have decided to blabber about. and if I turn out to be a decent blogger, there is something tangible to take away. 
+The blog was categorized into motifs (fun, books, me, work, images) as they were things I frequently encountered throughout my life. Within each motif, you will find posts containing my reflections and perspectives on whatever idea I have decided to blabber about. and if I turn out to be a decent blogger, there is something tangible to take away. 
 
 Enjoy the site, no matter how you have stumbled onto this crevice of the internet.
 
