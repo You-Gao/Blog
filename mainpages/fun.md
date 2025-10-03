@@ -23,6 +23,9 @@ permalink: /fun/
 <div class="container-lg bloglist"> 
     {% assign posts = site.fun | reverse %}
     {% assign previous_year = "" %}
+      {% if post.hidden == true %}
+        {% continue %}
+      {% endif %}
     {% for post in posts %}
       {% assign current_year = post.date | date: "%Y" %}
       {% if current_year != previous_year %}

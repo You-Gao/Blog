@@ -24,6 +24,9 @@ permalink: /photos/
     {% assign total_posts = site.photos | size %}
     {% assign max_index = total_posts | minus: 1 %}
     {% for post in posts %}
+      {% if post.hidden == true %}
+        {% continue %}
+      {% endif %}
       {% assign current_year = post.date | date: "%Y" %}
       {% if current_year != previous_year %}
         <h2>{{ current_year }}</h2>

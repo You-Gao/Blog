@@ -24,6 +24,9 @@ permalink: /life/
     {% assign posts = site.life | reverse %}
     {% assign previous_year = "" %}
     {% for post in posts %}
+      {% if post.hidden == true %}
+        {% continue %}
+      {% endif %}
       {% assign current_year = post.date | date: "%Y" %}
       {% if current_year != previous_year %}
         <h2>{{ current_year }}</h2>
