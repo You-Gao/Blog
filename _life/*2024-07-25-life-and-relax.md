@@ -7,6 +7,7 @@ title: >-
 layout:           style
 name: >-
   Life and Living
+hidden: true
 ---
 
 # Life and Living

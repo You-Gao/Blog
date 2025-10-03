@@ -8,6 +8,7 @@ title: >-
 layout: style
 name: >-
   Pedagogy of the Oppressed
+hidden: true
 ---
 
 # Pedagogy of the Oppressed

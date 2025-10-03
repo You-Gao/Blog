@@ -7,6 +7,7 @@ title: >-
 layout:           style
 name: >-
     gentrification, cville, development, uva
+hidden: true
 ---
 
 

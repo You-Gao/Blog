@@ -8,6 +8,7 @@ title: >-
 layout:           style
 name: >-
     Performing Climate Archives
+hidden: true
 ---
 
 # Climate Archives and Performance

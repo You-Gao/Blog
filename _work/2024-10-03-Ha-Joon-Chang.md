@@ -10,7 +10,7 @@ name: >-
     Ha-Joon Chang    
 ---
 
-# Ha-Joon Chang
+# Ha-Joon Chang[^2]
 
 I found him via a YouTube recording of a seminar titled: "*Too much Maths, too little History: The problem of Economics*". As a student, I found his message, pedagogy, and viewpoint to be very much in resonance with how I wanted to approach the field.
 
@@ -20,7 +20,7 @@ And I think finding a role model that is grounded in "*real*" practice, especial
 
 Even if you are presenting cases from around the world and discussing case studies, there is a sense that it will never be practical until you actually put it into practice. 
 
-You know? What does supply/demand look like when you are interacting in the system? How are you cognizant of diminishing returns? In what avenues of your life do you practice Marxist, Keynesian, Schumpeterian, Hayekian, etc. etc., theory? These questions of praxis are what Ha-joon Chang tries to tackle. Thus, by cutting across all the theoretical baggage, there is this human clarity provided by Chang.[^1]
+You know? What does supply/demand look like when you are interacting in the system? How are you cognizant of diminishing returns? In what avenues of your life do you practice Marxist, Keynesian, Schumpeterian, Hayekian, etc. etc., theory? These questions are what Ha-joon Chang tries to tackle. And by cutting across all the theoretical baggage, there is this human clarity provided by Chang.[^1]
 
 ## The Talks 
 
@@ -35,3 +35,4 @@ These are some of the lecture series I listened to from Chang.
 <br/>
 ---
 [^1]: I also enjoy his ability to transition between play, comedy, critique, and seriousness in his talks.
+[^2]: This is my pop economist.
