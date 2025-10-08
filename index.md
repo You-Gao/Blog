@@ -29,8 +29,8 @@ title: >-
             </ul>
         </div>
         <h3 id="qotm" style="margin-bottom:5px;">Quote of the Month:</h3>
-        <blockquote>"Learning is intrinsically difficult because the reexamination of basic assumptions temporarily destabilizes our cognitive and interpersonal world, releasing large quantities of basic anxiety."           <figcaption class="blockquote-footer"> 
-                Edgar Schein
+        <blockquote>"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."           <figcaption class="blockquote-footer"> 
+                Marcus Aurelius
             </figcaption>
         </blockquote>
     </div>
