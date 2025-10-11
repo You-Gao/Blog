@@ -28,7 +28,7 @@ Maybe it is a bit perjorous to say, but from a 21st century standpoint, they wer
 
 The ability to distinguish between "*sense*" and "*nonsense*" has been a long-standing aim in philosophy. There have been discussions on a metaphysical level from "*realism*" to "*anti-realism*", on a logical level in the different kinds of "*formal logc*", on a epistemological level in the form of "*empiricism*" or "*positivism*" which circles back to metaphysical claims, and lastly rests upon the linuigistic layer[^2].
 
-## Poetry, Language, Logic
+## Poetry, Language, Thought 
 
 
 
