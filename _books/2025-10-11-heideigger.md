@@ -46,7 +46,7 @@ But to say "*justice*" is "*one thing*" is different than describing a "*table*"
 
 I thought about art interpretation and symbolism before in a [blog post], but it is until recently that I got a sufficient understanding of what "*interpretation*" and "*symbolism*" mean in a formal sense.
 
-I think Heidegger is wrong here if we consider the chinese character language.
+I think Heidegger is wrong here if we consider the chinese character language. Chinese is a "*logographic*" language.
 
 <br/>
 ---
