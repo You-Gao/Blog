@@ -10,7 +10,9 @@ name: >-
 comment: books for my birthday
 ---
 
-# 2 Heidegger Books on Language[^3]
+> "postponed indefinitely"
+
+# Two Heidegger Books on Language[^3]
 
 > "pre-draft before reading"
 
