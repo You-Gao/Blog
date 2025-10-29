@@ -3,10 +3,10 @@ date: 2025-10-11
 description:  >-
     birthday books
 title: >-
-    2 Heidegger Books on Language
+    Two Heidegger Books on Language
 layout: style
 name: >-
-    2 Heidegger Books on Language
+    Two Heidegger Books on Language
 comment: books for my birthday
 ---
 

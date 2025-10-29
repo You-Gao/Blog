@@ -7,7 +7,7 @@ last_modified_at: 2025-03-17
 layout:           style
 tags:
 title: >-
-  games
+  fun
 permalink: /fun/
 ---
 <figure class="container-lg">

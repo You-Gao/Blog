@@ -25,13 +25,13 @@ The book itself touches on the "*vibe-coding vs. AI assistance,*" the **current*
 
 There is a difference between "*vibe-coding*" and having it assist you. "*Vibe-coding*" is when you have a hazy outline of what you want the computer to do, but have a good understanding of how you want it to "*behave.*" That is, you are an abstraction above simply "*speaking*" to the computer, you just want it to "*do*" what you want it to.
 
-"*AI-assisted*" coding then is helping you express what the computer should be "*thinking*" and not simply its "*behavior.*" That is, you prioritize how the computer is "*computing*" its outputs rather than just behaviourally verifying it.
+"*AI-assisted*" coding then is helping you express what the computer should be "*behaving*" rather and its "*computation.*" 
 
 ### Programming with Intent
 
 This section irked me, given the preceding discussion of "*vibe-coding*" vs. "*AI-assisted*." Osmani claims that the two are distinct on the basis that vibe-coding is more "*intent*" based than AI-assisted programming.
 
-I, frankly, think this is an incorrect separating factor. Normal programming and vibe-coding both express intent; One in code syntax and the other in English. The real distinction is how much you can assume the program you interact with knows to interpret your syntax. Hence the real distinction is "*declarative*" vs. "*imperative.*"
+I think this is an incorrect separating factor. Normal programming and vibe-coding both express intent; One in code syntax and the other in English. The real distinction is how much you can assume the program you interact with knows to interpret your syntax. Hence the real distinction is "*declarative*" vs. "*imperative.*"
 
 ### Domain Specific Languages 
 
