@@ -22,7 +22,7 @@ title: >-
                 {% for post in all_posts %}
                 {% assign post_month = post.date | date: '%m' %}
                 {% assign post_year = post.date | date: '%Y' %}
-                {% if post_month == current_month and post_year == current_year %}
+                {% if post_month == current_month and post_year == current_year  and post.hidden != true %}
                 <li><a href="{{ site.url }}{{ post.url }}">{{ post.name }}</a></li>
                 {% endif %}
                 {% endfor %}
