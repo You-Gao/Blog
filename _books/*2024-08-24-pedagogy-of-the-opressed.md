@@ -2,6 +2,7 @@
 date: 2024-08-24
 description: >-
   What it means to commit yourself to humanism.
+  - Book-Review
 title: >-
   Pedagogy of the Oppressed
 layout: style
