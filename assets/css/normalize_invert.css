@@ -84,3 +84,9 @@ a:hover {
 .highlighter-rouge {
     background: var(--mocha-highlight);
 }
+
+.dictionary-box {
+    background: var(--mocha-bg);
+    color: var(--mocha-text);
+}
+

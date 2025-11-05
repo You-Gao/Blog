@@ -182,3 +182,13 @@ body main img {
 .active a {
     color: blue;
 }
+
+.dictionary-box {
+    position: absolute;
+    z-index: 1000;
+    padding: 10px;
+    max-width: 300px;
+    font-size: medium;
+    background:"#f9f9f9";
+
+}
