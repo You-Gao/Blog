@@ -18,24 +18,23 @@ permalink: /about/
 
 ## who are <u>you</u>?[^1]
 
-I go by you. The logo, U高, is just my first and last name (you gao). I'll try to give a comprehensive answer to "*who i am*" by stating my preferences along with some factoids and letting you do the work of psychoanalyzing me.
+I go by you. The logo, U高, is just my first and last name (you gao). I'll try to give a comprehensive answer to "*who i am*" by stating my preferences along with some factoids and letting you do the work of "*typologizing*" me.
+
+[my shadow box]({{'/box' | relative_url}})
 
 ### preferences 
 * I like [fighting games](https://en.wikipedia.org/wiki/Fighting_game).
 * I like [autochess](https://en.wikipedia.org/wiki/Auto_battler).
 * [Snorlax](https://www.pokemon.com/us/pokedex/snorlax) is my favorite pokemon.
 * Favorite aesthetic is [minimalism](https://en.wikipedia.org/wiki/Minimalism).
-* Favorite art movement is Bauhaus.
+* Favorite art movement is *Bauhaus*.
 * Favorite flavor of anything is mango. 
-* Coke over Pepsi.
 * Cats over dogs.
 
 ### factoids
 * I would consider myself a [constructive empiricist](https://plato.stanford.edu/entries/constructive-empiricism/). 
-* I have played 10+ MMOs.
 * Majored computer science and [global development](https://en.wikipedia.org/wiki/Development_studies) "*studies*".
 * I've watched *Smiling Friends* s1-s2 many times.
-* Spotify says I listen to 60+ genres.
 * I own 5+ mechanical keyboards.
 * My desktop is [catpuccin](https://catppuccin.com/) themed.
 
