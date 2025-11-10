@@ -32,6 +32,8 @@ A collection of sites that I stumbled upon and want to remember/share. The typol
 
 * [anna's archive](https://annas-archive.org/)
 * [the art of hit registration](https://danieljimenezmorales.github.io/2023-10-29-the-art-of-hit-registration/)
+* [bauhaus manifesto](https://bauhausmanifesto.com/)
+* [the pudding](https://pudding.cool/)
 
 <br/>
 ---

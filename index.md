@@ -29,10 +29,11 @@ title: >-
             </ul>
         </div>
         <h3 id="qotm" style="margin-bottom:5px;">Quote of the Month:</h3>
-        <blockquote>"Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."           <figcaption class="blockquote-footer"> 
-                Marcus Aurelius
+        <blockquote>"Do nothing, say nothing, and be nothing, and you'll never be criticized."           <figcaption class="blockquote-footer"> 
+               Elbert Hubbard
             </figcaption>
         </blockquote>
+        <a id="link" href="/quotes">old quotes</a>
     </div>
     <div id="photo-homepage" class="photo-container col-12 col-md-6">
         <img id="set-me" src=""/>
