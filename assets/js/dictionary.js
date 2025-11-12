@@ -10,25 +10,22 @@ document.addEventListener("DOMContentLoaded", () => {
         box.style.left = `${event.pageX}px`;
         box.style.top = `${event.pageY + 10}px`;
         box.style.border = "1px solid #ccc";
-
-        fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/${word}`)
+        fetch(`https://en.wikipedia.org/api/rest_v1/page/summary/${word}`)
             .then(response => response.json())
             .then(data => {
-
                 if (
-                    data[0] &&
-                        data[0].meanings &&
-                        data[0].meanings[0] &&
-                        data[0].meanings[0].definitions &&
-                        data[0].meanings[0].definitions[0] &&
-                        data[0].meanings[0].definitions[0].definition
+                    data.extract
                 ) {
-                    const definition = data[0].meanings[0].definitions[0].definition;
+                    
+                    const definition = (data.type === "disambiguation")
+                        ? "Too many definitions for this word, I hope I used it correctly."
+                        : (data.extract.length >= 200
+                            ? data.extract.substring(0, 200) + "..."
+                            : data.extract);
                     box.textContent = definition;
                 } else {
                     box.textContent = "Definition not found.";
                 }
-
             })
             .catch(() => {
                 box.textContent = "Error fetching definition.";
