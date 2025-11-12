@@ -57,4 +57,4 @@ There are existing lists for this, but I thought it'd be fun to compile my own:
 
 <br/>
 ---
-[^1]: Writing an about me is hard because I think the [nature of the self](https://plato.stanford.edu/archIves/fall2024/entries/self-knowledge/supplement.html) isn't fixed.
+[^1]:  I like rabit holing SEP: [nature of the self](https://plato.stanford.edu/archIves/fall2024/entries/self-knowledge/supplement.html)
