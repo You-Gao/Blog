@@ -30,3 +30,7 @@ Collection of my monthly quotes that resonated with me at that time.
 ### october
 
 > "Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth."
+
+### november
+
+> "Do nothing, say nothing, and be nothing, and you'll never be criticized."

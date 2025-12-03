@@ -29,8 +29,9 @@ title: >-
             </ul>
         </div>
         <h3 id="qotm" style="margin-bottom:5px;">Quote of the Month:</h3>
-        <blockquote>"Do nothing, say nothing, and be nothing, and you'll never be criticized."           <figcaption class="blockquote-footer"> 
-               Elbert Hubbard
+        <blockquote>"The Dao that can be spoken is not the eternal Dao."
+            <figcaption class="blockquote-footer"> 
+                Tao Te Ching
             </figcaption>
         </blockquote>
         <a id="link" href="/quotes">old quotes</a>
