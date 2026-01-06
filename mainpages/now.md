@@ -28,4 +28,5 @@ At this point, if you are still curious, leave an email: [inbox@yougao.dev](mail
 <br/>
 ---
 [^1]: 09/19/2025: these predictions are still accurate.
+[^2]: 01/16/2026: still accurate maybe more humanities focused now.
 

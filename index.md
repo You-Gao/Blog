@@ -29,9 +29,9 @@ title: >-
             </ul>
         </div>
         <h3 id="qotm" style="margin-bottom:5px;">Quote of the Month:</h3>
-        <blockquote>"The Dao that can be spoken is not the eternal Dao."
+        <blockquote>"The owl of Minerva spreads its wings only with the coming of the dusk."
             <figcaption class="blockquote-footer"> 
-                Tao Te Ching
+                Hegel
             </figcaption>
         </blockquote>
         <a id="link" href="/quotes">old quotes</a>
