@@ -14,8 +14,9 @@ I have been taking a philosophy of mind course and after reading (psychologism a
 
 Back to the main point; we often treat unknown entities that we aren't fully knowledgable about as having human characteristics. I mean I assume that is how Greek and Roman mythology even came about. The way in which we confer nature and other properties like ecological ones as if they were "*persons*" with a selfhood or reasons that can be interacted is interesting.
 
-Shouting at the computer when it is not working or angrilly telling ChatGPT it was incorrect seems very much of the same phenomenon.
+Shouting at the computer when it is not working or angrilly telling ChatGPT it was incorrect seems very much of the same phenomenon[^2].
 
 <br/>
 ---
 [^1]: "*anthropomorphizing*" is the longest word I have used.
+[^2]:  (Social Cognition Unbound: Insights Into Anthropomorphism and Dehumanization)[https://pmc.ncbi.nlm.nih.gov/articles/PMC4020342/]
