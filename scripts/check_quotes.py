@@ -1,3 +1,13 @@
+"""
+Exceptions:
+A Political Economy
+Heidegger
+SARC
+Physical Hand
+Archives
+Perfect Days
+"""
+
 import os
 
 dirs = os.listdir('.')

@@ -40,6 +40,6 @@ Going back to the "*love*" example, my understanding is that phenomenology will 
 [^1]: I have quote from a book I checked out to see if the literature thought the same. It highlights the challenges of the definitional and operational aspect of psychology  and say's at "*base level*" it is phenomenological. The "*rationale*" part is again pointing out how both disciplines can use their theories deterministically.
 
 > "Ainsworth (1954), defends the Rorschach technique by arguing that it rests upon a phenomenological rationale that has been only inadequately tested in validity studies to date."
-<figcaption class="blockquote-footer">Inkblot Perception and Personality</figcaption>
+> <figcaption class="blockquote-footer">Inkblot Perception and Personality</figcaption>
 
 

@@ -44,7 +44,7 @@ The problem is that most academic studies, personal attitudes, and arguments wil
 The other point I despair of is the notion that "*cognition affects perception*." It's not too crazy to say "*perception affects cognition*" right, the things we can see, sense, ultimately affect how we can talk about things and theorize about them. This is why the idea that enhancing these capabilities, i.e., observing bacteria, telescopes for the universe, and the like, has expanded "*scientific understanding*" of the world.
 
 > "the reexamination of basic assumptions temporarily destabilizes our cognitive and interpersonal world, releasing large quantities of basic anxiety... even if that means distorting, denying, projecting, or in other way falsifying to ourselves what may be going on around us."
-<figcaption class="blockquote-footer">Edgar Schein</figcaption>
+> <figcaption class="blockquote-footer">Edgar Schein</figcaption>
 
 The quote is talking about concepts probably familiar to everyone: "*cognitive dissonance*", "*mental gymnastics*", and so forth, to the more perjorative framings.
 

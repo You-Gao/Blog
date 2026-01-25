@@ -7,7 +7,10 @@ def write_figcaption(file_name, lines):
         for line in lines:
             if "<figcaption" in line:
                 print("figcaption in line")
-                f.write("> "+ line)
+                line = line.replace("<figcaption class=\"blockquote-footer\">","")
+                line = line.replace("</figcaption>","")
+                line = line.replace(">","")
+                f.write("> " + "<figcaption class=\"blockquote-footer\">" + line.strip() + "</figcaption>" + '\n\n')
                 continue
             f.write(line)
     f.close()

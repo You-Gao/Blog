@@ -54,6 +54,7 @@ Book Recommendations:
 With these, a person can be a pretty solid developer. As Dave and Andy wrote in the first chapter:
 
 > "Keep on reading" - they didn't actually say this, but they basically did
+> <figcaption class="blockquote-footer">me</figcaption>
 
 P.S. Here is the reference guide, although it was from a course ~20 years ago, and they added 30 more tips in the new edition: [reference guide](https://www.khoury.northeastern.edu/home/lieber/courses/csg110/sp08/Pragmatic%20Quick%20Reference.htm)
 

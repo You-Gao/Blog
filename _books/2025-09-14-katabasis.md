@@ -11,10 +11,7 @@ name: >-
 
 # Katabasis
 
-> No—the reason paradoxes trouble us is because their absurd conclusions
-make us rethink all of our premises. A paradox is like a staircase, in which
-each step leads inexorably to the destination. But you get to the top, and the
-destination is impossible; you've stepped off into empty air. 
+> No—the reason paradoxes trouble us is because their absurd conclusions make us rethink all of our premises. A paradox is like a staircase, in which each step leads inexorably to the destination. But you get to the top, and the destination is impossible; you've stepped off into empty air. 
 > <figcaption class="blockquote-footer">Katabasis</figcaption>
 
 My description of the book goes as follows: "*An allegory of a fanfic that contains allegories to real life.*"

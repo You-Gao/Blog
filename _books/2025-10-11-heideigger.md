@@ -27,6 +27,7 @@ Maybe it is a bit perjorous to say, but from a 21st century standpoint, they wer
 ## What is "*thinking*"
 
 > "Thinking is not having an opinion... not representing or having an idea of a state of affiars (early Wittegenstein)... not racio-nation logic (Piercian deductive/inductive/abductive... not simply critical thinking)"
+> <figcaption class="blockquote-footer">What is Called Thinking?</figcaption>
 
 The ability to distinguish between "*sense*" and "*nonsense*" has been a long-standing aim in philosophy. There have been discussions on a metaphysical level from "*realism*" to "*anti-realism*", on a logical level in the different kinds of "*formal logc*", on a epistemological level in the form of "*empiricism*" or "*positivism*" which circles back to metaphysical claims, and lastly rests upon the linuigistic layer[^2].
 
