@@ -34,3 +34,17 @@ Collection of my monthly quotes that resonated with me at that time.
 ### november
 
 > "Do nothing, say nothing, and be nothing, and you'll never be criticized."
+
+### december
+
+> "The Dao that can be spoken is not the Eternal Dao"
+
+## 2026
+
+### january
+
+> "The owl of Minerva spreads its wings only with the coming of the dusk."
+
+### february
+
+> "Moreover, there is nothing in theory, and certainly nothing in experience, to support the extraordinary judgment that it is the truth about himself that is the easiest for a person to know."
