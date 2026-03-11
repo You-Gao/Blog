@@ -9,6 +9,9 @@ layout: style
 name: >-
  bad design is great
 ---
+
+> "After re-reading my own explanation, I realize I was a bit confused writing this. The general statement about being learning from bad design still stands, but the discussion of how design proceeds might be a bit wonky."
+
 # bad design is great
 
 Bad design is great. Obviously, it's "*bad,*" but because it's bad, it's great. Why? Simply because there is so much to learn from "*bad*" design. 
@@ -21,7 +24,7 @@ Central to understanding these characters is the distinction between "***realism
 
 The realist vs. anti-realist distinction matters because it shapes how each character perceives "*badness*" and, more importantly, how they respond to it. Through these perspectives, we can see how bad design is not just a failure but an opportunity for growth, collaboration, and deeper understanding.
 
-## the engineer
+## the engineer [^4]
 
 The caricature of an engineer embodies the position of a realist, more so a naive realist. Objective truths govern the world to them, and these truths can be understood, measured, and applied through methods like engineering principles. 
 
@@ -59,3 +62,4 @@ Bad design, then, when viewed through a constructivist lens, isn't an absolute f
 [^1]: in the virtue of being fair, I would also say that the designer sometimes entirely skips over what can be done. This point is commonly made in the realm of building and architecture.
 [^2]: I admit the term "naive realist" is more a pejorative, but even more intellectually thought-out forms of realism still seem less "*virtuous*" in this case. 
 [^3]: in the design of everyday things, Norman's terminology aligns with that of many post-structuralist/constructivist thinkers.
+[^4]: A design failure would be a marketing failure.
