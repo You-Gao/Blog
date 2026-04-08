@@ -1,5 +1,7 @@
 ---
 date:             2024-10-13
+last_modified_at: 2026-04-08
+tags: [random, language]
 description:  >-
     What makes a quote good?
 title: >-

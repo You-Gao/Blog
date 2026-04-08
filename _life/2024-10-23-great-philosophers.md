@@ -1,5 +1,7 @@
 ---
 date:             2024-10-23
+last_modified_at: 2026-04-08
+tags: [philosophy, school]
 description:  >-
     Poststructuralism, History, and "Great Philosophers"
 layout:           post

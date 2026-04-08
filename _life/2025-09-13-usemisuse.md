@@ -1,5 +1,7 @@
 ---
 date:             2025-09-13
+last_modified_at: 2026-04-08
+tags: [reflection, phil-mind, phil-lang]
 description:  >-
     lingoostics
 title: >-

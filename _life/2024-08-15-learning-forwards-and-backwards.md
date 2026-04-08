@@ -1,5 +1,7 @@
 ---
 date:             2024-08-15
+last_modified_at: 2026-04-08
+tags: [philosophy, psychology]
 description:  >-
     The ways people learn and relate things.
 title: >-

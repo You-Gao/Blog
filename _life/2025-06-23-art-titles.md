@@ -1,5 +1,7 @@
 ---
 date:             2025-06-23
+last_modified_at: 2026-04-08
+tags: [art, aesthetics, language]
 description:  >-
     I don't get modern art.
 title: >-

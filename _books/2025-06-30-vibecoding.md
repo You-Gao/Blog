@@ -1,5 +1,7 @@
 ---
 date: 2025-07-01
+last_modified_at: 2026-04-08
+tags: [vibe-coding, cs]
 description:  >-
     Is it really the "future"?
 title: >-

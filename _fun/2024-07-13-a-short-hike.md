@@ -1,5 +1,7 @@
 ---
 date:             2024-07-13
+last_modified_at: 2026-04-08
+tags: [indie-game, platformer, game]
 description:  >-
   A reflection on A Short Hike
 title: >-

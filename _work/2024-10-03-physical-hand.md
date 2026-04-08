@@ -1,5 +1,7 @@
 ---
 date:             2024-10-03
+last_modified_at: 2026-04-08
+tags: [economics, ethics]
 description:  >-
     Moral bankruptcy in the Gilded Age.
 layout:           post

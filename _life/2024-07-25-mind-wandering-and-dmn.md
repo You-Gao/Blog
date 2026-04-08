@@ -1,5 +1,7 @@
 ---
 date:             2024-07-25
+last_modified_at: 2026-04-08
+tags: [psychology, mind]
 description:  >-
     What your mind is doing when it wanders.
 title: >-

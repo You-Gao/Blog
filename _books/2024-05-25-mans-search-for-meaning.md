@@ -1,5 +1,7 @@
 ---
 date:             2024-05-25
+last_modified_at: 2026-04-08
+tags: [existential, life]
 description:  >-
   The psychology and experiences of the human condition.
 title: >-

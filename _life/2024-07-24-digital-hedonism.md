@@ -1,5 +1,7 @@
 ---
 date:             2024-07-24
+last_modified_at: 2026-04-08
+tags: [reflection, media, psychology]
 description:  >-
   Brain-rot, Doom-scrolling, and Skibidi Toilet. The cause of digital hedonism and things to do against it.
 title: >-

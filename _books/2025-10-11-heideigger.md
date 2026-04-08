@@ -1,5 +1,7 @@
 ---
 date: 2025-10-11
+last_modified_at: 2026-04-08
+tags: [phenomenology, phil-lang, phil-mind, philosophy]
 description:  >-
     birthday books
 title: >-

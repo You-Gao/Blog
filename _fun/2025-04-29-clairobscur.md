@@ -1,5 +1,7 @@
 ---
 date:             2025-04-29
+last_modified_at: 2026-04-08
+tags: [indie-game]
 description:  >-
     paper mario x HxH
 layout:           style

@@ -1,5 +1,7 @@
 ---
 date:             2024-07-21
+last_modified_at: 2026-04-08
+tags: [systems, failure-modes, testing]
 description:  >-
   The recent Crowdstrike incident and insights.
 layout:           post

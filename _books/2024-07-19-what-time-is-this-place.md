@@ -1,5 +1,7 @@
 ---
 date:             2024-07-19
+last_modified_at: 2026-04-08
+tags: [architecture, sociology]
 description:  >-
   A reflection on "*What Time is This Place?*"
 title: >-

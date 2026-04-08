@@ -1,5 +1,7 @@
 ---
 date:             2025-04-13
+last_modified_at: 2026-04-08
+tags: [photography, art]
 description:  >-
     re-exploring my interest in photography
 layout:           style

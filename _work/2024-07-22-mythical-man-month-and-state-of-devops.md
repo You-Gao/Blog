@@ -1,5 +1,7 @@
 ---
 date:             2024-07-21
+last_modified_at: 2026-04-08
+tags: [cs, sociology, culture]
 description:  >-
   The question of the 1970s is answered today.
 layout:           post

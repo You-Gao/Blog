@@ -1,5 +1,7 @@
 ---
 date:             2025-01-20
+last_modified_at: 2026-04-08
+tags: [buddhism, philosophy]
 description:  >-
   wisdom from eastern works
 title: >-

@@ -1,5 +1,7 @@
 ---
 date:             2024-08-15
+last_modified_at: 2026-04-08
+tags: [cs, ddos, ai]
 description:  >-
     A new-age way of denying service.
 layout:           post

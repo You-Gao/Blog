@@ -1,5 +1,7 @@
 ---
 date:             2025-02-12
+last_modified_at: 2026-04-08
+tags: [cs, design, school]
 description:  >-
    idiosyncratic tips from a battered veteran 
 layout:           post

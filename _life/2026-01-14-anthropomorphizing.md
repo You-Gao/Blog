@@ -1,5 +1,7 @@
 ---
 date:             2026-01-14
+last_modified_at: 2026-04-08
+tags: [phil-mind, school]
 description:  >-
 title: >-
     anthropomorphizing the magical

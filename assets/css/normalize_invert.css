@@ -64,6 +64,10 @@ h1,h2,h3,h4,h5,h6 {
     color: var(--mocha-texthighlight);
 }
 
+.markdown-body span {
+    background-color: var(--mocha-texthighlight);
+}
+
 .markdown-body hr {
     background-color: var(--mocha-texthighlight)!important;
 }

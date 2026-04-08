@@ -1,5 +1,7 @@
 ---
 date:             2024-07-17
+last_modified_at: 2026-04-08
+tags: [anthropology]
 description:  >-
   The history of the playing man.
 title: >-

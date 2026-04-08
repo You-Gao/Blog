@@ -2,18 +2,17 @@
 categories:       blog
 date:             2025-06-15
 last_modified_at: 2026-04-08
+tags: [reflection, work, life]
 description:  >-
     How many APIs can I call here...
 lang:             en
 layout:           style
-tags:
 title: >-
   now
 permalink: /now/
 ---
-# now
 
-Last Modified: {{ page.last_modified_at }}
+# now
 
 The idea of a new page is nice, but it's perpetually in the past. You'd be reading this page long after I have wrote it.
 

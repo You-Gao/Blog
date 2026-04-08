@@ -1,5 +1,7 @@
 ---
 date: 2025-09-14
+last_modified_at: 2026-04-08
+tags: [literature, logic, philosophy, phil-lang]
 description:  >-
     linguistic fanfic
 title: >-

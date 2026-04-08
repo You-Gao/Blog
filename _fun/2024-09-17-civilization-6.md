@@ -1,5 +1,7 @@
 ---
 date:             2024-09-17
+last_modified_at: 2026-04-08
+tag: [strategy-game, game]
 description:  >-
   A reflection on Civ 6
 layout:           post

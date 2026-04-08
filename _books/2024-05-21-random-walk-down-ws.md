@@ -1,5 +1,7 @@
 ---
 date:             2024-05-21
+last_modified_at: 2026-04-08
+tags: [economics]
 description:  >-
   My introduction to investing and markets.
 title: >-

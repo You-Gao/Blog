@@ -66,6 +66,10 @@ h1,h2,h3,h4,h5,h6 {
     color: var(--mocha-texthighlight);
 }
 
+.markdown-body span {
+    color: var(--mocha-texthighlight);
+}
+
 .markdown-body hr {
     background-color: var(--mocha-texthighlight)!important;
 }
@@ -247,9 +251,14 @@ body main img {
 }
 
 .date {
+    margin-top: 0!important;
 	font-size: 15px!important;
 	width: 55px;
 	text-align: right
+}
+
+.comment {
+    margin-top: 0!important;
 }
 
 .title {
@@ -648,7 +657,7 @@ iframe {
 /*! normalize.css v4.1.1 | MIT License | github.com/necolas/normalize.css */
 
 p {
-	margin-top: 0;
+	margin-top: 1.25rem!important;
 	margin-bottom: 1.25rem!important
 }
 

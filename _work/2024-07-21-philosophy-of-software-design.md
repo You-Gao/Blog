@@ -1,5 +1,7 @@
 ---
 date:             2024-07-21
+last_modified_at: 2026-04-08
+tags: [cs, design]
 description:  >-
   Reflections on "A Philosophy of Software Design".
 layout:           post

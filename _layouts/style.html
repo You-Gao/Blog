@@ -12,8 +12,7 @@
         <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/combined.css">
         <script src="{{ site.baseurl }}/assets/js/blognav.js"></script>
         <script src="{{ site.baseurl }}/assets/js/dictionary.js"></script>
-
-
+        <!-- content needs to be contained inside html tags to access page variables -->
    </head>
 
     <body class="Site">
@@ -21,8 +20,23 @@
         <main class="Site-content">
             <div class="container-md px-3 markdown-body">
                 <hr/>
-                {{ content }}
+
+
+{% assign parts = content | split: '</h1>' %}
+{% if parts.size > 1 %}
+  {{ parts[0] }}</h1>
+  <div>
+      <span>last modified: {{ page.last_modified_at }} | </span>
+      <span>tags: {{ page.tags | join: ", "}}</span>
+  </div>
+  {{ parts[1] | join: '</h1>' }}
+{% else %}
+  {{ content }}
+{% endif %}
+
+
             </div>
         </main>
     </body>
     {% include footer.html %}
+</html>

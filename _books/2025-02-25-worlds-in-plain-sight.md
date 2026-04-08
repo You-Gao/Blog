@@ -1,5 +1,7 @@
 ---
 date:             2025-02-25
+last_modified_at: 2026-04-08
+tags: [systems]
 description:  >-
  complex systems
 title: >-

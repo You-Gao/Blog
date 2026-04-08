@@ -1,5 +1,7 @@
 ---
 date:             2024-07-25
+last_modified_at: 2026-04-08
+tags: [productivity, learning]
 description:  >-
     How I free myself from distractions and small signals.
 title: >-

@@ -1,5 +1,7 @@
 ---
 date:             2024-10-26
+last_modified_at: 2026-04-08
+tags: [phenomenology, philosophy, mind-body]
 description:  >-
   Phenomenological Reasons why Cartesian Dualism is popular
 title: >-

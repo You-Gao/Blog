@@ -1,5 +1,7 @@
 ---
 date:             2025-02-22
+last_modified_at: 2026-04-08
+tags: [economics, systems]
 description:  >-
   see the big picture charlie 
 title: >-

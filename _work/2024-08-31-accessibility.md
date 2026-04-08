@@ -1,5 +1,7 @@
 ---
 date:             2024-08-31
+last_modified_at: 2026-04-08
+tags: [cs, accessibility]
 description:  >-
    What goes into digital accessibility?
 layout:           post

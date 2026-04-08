@@ -1,5 +1,7 @@
 ---
 date:             2024-08-30
+last_modified_at: 2026-04-08
+tags: [fighting-game, game, aaa]
 description:  >-
   A reflection on Guilty Gear Strive
 layout:           post

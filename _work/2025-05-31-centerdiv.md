@@ -1,5 +1,7 @@
 ---
 date:             2025-05-31
+last_modified_at: 2026-04-08
+tags: [random, cs]
 description:  >-
     pro web-dev intern
 layout:           post

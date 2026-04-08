@@ -1,5 +1,7 @@
 ---
 date:             2024-08-17
+last_modified_at: 2026-04-08
+tags: [sociology, phil-mind]
 description:  >-
   Looking at society from the viewpoint of theatre.
 title: >-

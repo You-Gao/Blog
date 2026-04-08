@@ -1,5 +1,7 @@
 ---
 date:             2025-08-28
+last_modified_at: 2026-04-08
+tags: [phenomenology, psychology]
 description:  >-
     i'm not crazy i promise
 layout:           post

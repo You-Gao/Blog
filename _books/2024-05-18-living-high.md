@@ -1,5 +1,7 @@
 ---
 date:             2024-05-18
+last_modified_at: 2026-04-08
+tags: [morality, etics]
 description:  >-
   From the founder of effective altruism, case studies in ethics.
 title: >-

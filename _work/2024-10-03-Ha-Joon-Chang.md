@@ -1,5 +1,7 @@
 ---
 date:             2024-10-03
+last_modified_at: 2026-04-08
+tags: [economics, school]
 description:  >-
     My current role-model in the field of development studies.
 layout:           post

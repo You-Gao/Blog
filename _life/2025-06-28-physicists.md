@@ -1,5 +1,7 @@
 ---
 date:             2025-06-28
+last_modified_at: 2026-04-08
+tags: [philosophy, math]
 description:  >-
     Ughhh will anyone actually read a description?
 title: >-

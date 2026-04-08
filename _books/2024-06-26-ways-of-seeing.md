@@ -1,5 +1,7 @@
 ---
 date:             2024-06-26
+last_modified_at: 2026-04-08
+tags: [phenomenology, art]
 description:  >-
   A phenomenology of sight.
 title: >-

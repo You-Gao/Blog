@@ -1,5 +1,7 @@
 ---
 date:             2024-12-28
+last_modified_at: 2026-04-08
+tags: [reflection, school]
 description:  >-
     reflecting on my education
 layout:           post

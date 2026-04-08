@@ -1,5 +1,7 @@
 ---
 date:             2024-08-21
+last_modified_at: 2026-04-08
+tags: [philosophy, language, phil-lang]
 description:  >-
   Enough is enough, I will train my logic muscles.
 title: >-

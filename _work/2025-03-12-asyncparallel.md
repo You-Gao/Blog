@@ -1,5 +1,7 @@
 ---
 date:             2025-03-13
+last_modified_at: 2026-04-08
+tags: [cs, tips]
 description:  >-
     my attempt at finally fully understanding these concepts
 layout:           post

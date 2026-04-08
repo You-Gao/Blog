@@ -1,5 +1,7 @@
 ---
 date:             2025-03-07
+last_modified_at: 2026-04-08
+tags: [movie, life]
 description:  >-
   It's a good movie, a character analysis mostly
 layout:           style

@@ -1,5 +1,7 @@
 ---
 date:             2024-08-15
+last_modified_at: 2026-04-08
+tags: [cs, design, entropy]
 description:  >-
     Understanding what software entropy is.
 layout:           post

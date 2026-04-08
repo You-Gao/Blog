@@ -14,7 +14,7 @@ title: >-
 <section class="row pt-1">
     <div class="col-md-6 col-12" >
         <div style="max-height: 200px; overflow-y: auto; overflow-x: auto;">
-            <h3 style="margin-top:0px;margin-bottom:0px;">Posts for {{ 'now' | date: '%B %Y' }}:</h3>
+            <h3 style="margin-top:0px;margin-bottom:.25rem;">Posts for {{ 'now' | date: '%B %Y' }}:</h3>
             <ul style="list-style:cjk-ideographic;">
                 {% assign all_posts = site.books | concat: site.fun | concat: site.life | concat: site.work %}
                 {% assign current_month = 'now' | date: '%m' %}

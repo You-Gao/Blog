@@ -1,5 +1,7 @@
 ---
 date:             2025-03-26
+last_modified_at: 2026-04-08
+tags: [design, ux, neocities]
 description:  >-
     exploring ux design via "the indie web."
 layout:           post

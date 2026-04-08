@@ -1,5 +1,7 @@
 ---
 date:             2025-12-19
+last_modified_at: 2026-04-08
+tags: [language, phil-mind, phil-lang, data, math, cs]
 description:  >-
     i have to stop
 title: >-

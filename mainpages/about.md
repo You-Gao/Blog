@@ -1,12 +1,13 @@
 ---
 categories:       blog
 date:             2024-07-14
+last_modified_at: 2026-04-08
+tags: [aboutme, reflection]
 description:  >-
   Who I am and why I started blogging
 lang:             en
 last_modified_at: 2024-07-14
 layout:           style
-tags:
 title: >-
   about
 permalink: /about/
