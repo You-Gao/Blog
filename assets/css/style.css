@@ -1,3 +1,5 @@
+/* Extra formatting on-top of bootstrap */
+
 #footnotes {
 	border-bottom: 1px dotted;
     width: 100%;
@@ -25,12 +27,10 @@
 	font-size: 0.72em;
 	margin-left: 0.5em;
 	margin-bottom: 0.25em;
-	color: grey;
 	display: block
 }
 
 .blog-nav a {
-	color: grey;
 	text-decoration: none;
 	font-weight: 400;
 	display: block
@@ -174,21 +174,11 @@ body main img {
     }
 }
 
-.active {
-	background: #eeeeee;
-    color: grey!important;
-}
-
-.active a {
-    color: blue;
-}
-
 .dictionary-box {
     position: absolute;
     z-index: 1000;
     padding: 10px;
     max-width: 300px;
     font-size: medium;
-    background:"#f9f9f9";
 
 }

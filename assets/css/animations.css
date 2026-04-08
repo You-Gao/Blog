@@ -1,3 +1,4 @@
+/* File contains all of the animation logic */
 a {
 	color: #0366d6;
 	text-decoration: none;
@@ -21,7 +22,6 @@ a::before {
     top: 0; 
     width: 0%; 
     height: 100%; 
-    background: #eeeeee; 
     transition: width 0.5s ease; 
     z-index: -1; 
 }
@@ -31,26 +31,5 @@ a:hover::before {
 }
 
 .blog-nav a:hover::before {
-    color: grey;
-    width: 90%;
-}
-
-.nav-link:hover {
-    color: grey;
-}
-
-.navbar-brand:hover {
-    color: grey;
-}
-
-.title:hover {
-    color: blue;
-}
-
-a:hover {
-    color: blue;
-}
-
-.blog-nav a:hover {
-    color: grey;
+    all: revert;
 }

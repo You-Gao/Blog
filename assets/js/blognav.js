@@ -19,17 +19,18 @@ function generateBlogNav() {
         if (header.tagName === 'H2' && header.innerHTML === '<br>') {
             // footnotes
             // add an id to the header
-            header.id = 'footnotes';
-            Item.href = '#' + header.id;
-            Item.innerHTML = "╹━ Footnotes";
-            Item.classList.add('nav-h2');
+            // header.id = 'footnotes';
+            // Item.href = '#' + header.id;
+            // Item.innerHTML = "╹━ Footnotes";
+            // Item.classList.add('nav-h2');
+            continue // they are footnotes for a reason
         }
 
         text = header.innerHTML.replace(/<sup>.*?<\/sup>/g, '');
         text = text.replace(/<a[^>]*>(.*?)<\/a>/g, '$1');
             
-        if (text.length > 20) {
-            text = text.substring(0, 20) + '...';
+        if (text.length > 25) {
+            text = text.substring(0, 25) + '...';
         }
         else {
             text = text;
@@ -53,28 +54,15 @@ function generateBlogNav() {
         else if ((header.tagName === 'H2') && (header.innerHTML !== '<br>')) {
             var Item = document.createElement('a');
             Item.href = '#' + header.id;
-            Item.innerHTML = "╹━ "+ text;
+            Item.innerHTML = "╹╸"+ text;
             Item.classList.add('nav-h2');
         }
         else if (header.tagName === 'H3') {
             var Item = document.createElement('a');
             Item.href = '#' + header.id;
-            Item.innerHTML = "╵╸╸ " + text;
+            Item.innerHTML = "╵╸╸" + text;
             Item.classList.add('nav-h3');
         }
-
-        Item.addEventListener('mouseover', function () {
-            if (this.style.textDecorationThickness === '2px') {
-                return;
-            }
-            this.style.textDecoration = 'underline';
-        });
-        Item.addEventListener('mouseout', function () {
-            if (this.style.textDecorationThickness === '2px') {
-                return;
-            }
-            this.style.textDecoration = 'none';
-        });
         List.appendChild(Item);
     }
 
@@ -83,7 +71,7 @@ function generateBlogNav() {
     var x, y;
     x = mainContent.getBoundingClientRect().left;
     y = document.querySelector('h1').getBoundingClientRect().top + window.scrollY;
-    blogNav.style.position = 'absolute';
+    blogNav.style.position = 'fixed';
     blogNav.style.top = y + 'px';
     blogNav.style.right = x - 200 + 'px';
 
@@ -104,25 +92,27 @@ function matchScrolltoBlogNav() {
     var scrollPosition = window.scrollY || document.documentElement.scrollTop;
     var headers = document.querySelectorAll('.blog-nav a');
     headers = Array.from(headers).reverse();
+    console.log(headers);
 
     var maxScroll = document.documentElement.scrollHeight - window.innerHeight;
 
    for (var i = 0; i < headers.length; i++) {
+
         var header = headers[i];
         var headerPosition = document.querySelector('[id="' + header.getAttribute('href').substring(1) + '"]').getBoundingClientRect().top + window.scrollY;
 
+       console.log(headerPosition,scrollPosition);
+
 
         if (scrollPosition + 1 < headerPosition) {
-            header.style.textDecoration = 'none';
+            header.style.color = '';
             continue;
         }
 
         else if (scrollPosition + 1 > headerPosition) {
-            header.style.textDecoration = 'underline';
-            header.style.textDecorationThickness = '2px';
-            header.style.textDecorationOffset = '2px';
+            header.style.color= '#ffffff';
             for (var j = i + 1; j < headers.length; j++) {
-                headers[j].style.textDecoration = 'none';
+                headers[j].style.color = '';
             }
             return;
         } 
@@ -136,18 +126,6 @@ window.addEventListener('scroll', function () {
         return;
     }
     matchScrolltoBlogNav();
-    var blogNav = document.querySelector('.blog-nav');
-    if (blogNav) {
-        var x, y;
-        if (window.scrollY < 50) {
-            y = document.querySelector('h1').getBoundingClientRect().top;
-            blogNav.style.top = y + 'px';
-        }
-        else {
-            y = window.scrollY + 50;
-            blogNav.style.top = y + 'px';
-        }
-    }
 });
 window.addEventListener('resize', function () {
     var blogNav = document.querySelector('.blog-nav');

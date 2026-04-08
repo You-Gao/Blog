@@ -1,17 +1,23 @@
 :root {
-  --mocha-bg: #11111b;
-  --mocha-text: #cdd6f4;
-  --mocha-subtext: #a6adc8;
-  --mocha-highlight: #6c7086;
-  --mocha-link: #b4befe;
+  --mocha-bg: #101010;
+  --mocha-text: #b0b0b0; /* blog text, blog navbar */
+  --mocha-headers: #ffffff; /* blog headers, blog hr ender, blognav readtime */
+  --mocha-highlight: #272727;
+  --mocha-link: #458ee6;
+  --mocha-subtext: #777777;
+  --mocha-texthighlight: #d9ba73;
 }
 
-body {
-	color: var(--mocha-text);
+body { 
+    color: var(--mocha-text);
 	background-color: var(--mocha-bg);
 }
 
-.navbar-brand {
+.blog-nav a {
+    color: var(--mocha-text);
+}
+
+.navbar-brand { 
 	color: var(--mocha-text)!important;
 }
 
@@ -19,12 +25,25 @@ body {
 	color: var(--mocha-text)!important;
 }
 
-h1,h2,h3,h4,h5,h6 {
-	color: var(--mocha-text);
+.active { /* the current area on the navbar */
+	background: var(--mocha-highlight);
+    color: var(--mocha-headers)!important;
 }
 
-a::before {
-    background: var(--mocha-highlight);
+h1,h2,h3,h4,h5,h6 {
+	color: var(--mocha-headers)!important;
+}
+
+.time {
+    color: var(--mocha-headers);
+}
+
+.nav-link:hover {
+    color: var(--mocha-headers)!important;
+}
+
+.navbar-brand:hover {
+    color: var(--mocha-headers)!important;
 }
 
 .markdown-body blockquote {
@@ -33,44 +52,44 @@ a::before {
 }
 
 .blockquote-footer {
-	color: var(--mocha-subtext)!important
+	color: var(--mocha-subtext)!important;
 }
 
-.nav-link:hover {
+.footnotes ol {
     color: var(--mocha-subtext)!important;
 }
 
-.navbar-brand:hover {
-    color: var(--mocha-subtext)!important;
+.dictionary-box {
+    background: var(--mocha-bg);
+    color: var(--mocha-texthighlight);
 }
 
 .markdown-body hr {
-    background-color: var(--mocha-subtext)!important;
+    background-color: var(--mocha-texthighlight)!important;
 }
 
 hr {
-    border-bottom: solid 1px var(--mocha-subtext)!important;
-}
-
-.blog-nav a,.time {
-    color: var(--mocha-subtext);
+    border-bottom: solid 1px var(--mocha-texthighlight)!important;
 }
 
 .blog-nav a:hover {
-    color: var(--mocha-subtext);
+    color: var(--mocha-texthighlight);
 }
 
 em {
-    color: var(--mocha-subtext);
+    color: var(--mocha-texthighlight);
 }
 
-.active {
-	background: var(--mocha-highlight);
-    color: var(--mocha-subtext)!important;
+.tableofcontents {
+    color: var(--mocha-highlight);
 }
 
-.active a {
-    color: var(--mocha-link);
+.highlighter-rouge {
+    background: var(--mocha-highlight);
+}
+
+a::before {
+    background: var(--mocha-highlight);
 }
 
 a:hover {
@@ -81,12 +100,4 @@ a:hover {
     color: var(--mocha-link);
 }
 
-.highlighter-rouge {
-    background: var(--mocha-highlight);
-}
-
-.dictionary-box {
-    background: var(--mocha-bg);
-    color: var(--mocha-text);
-}
 
