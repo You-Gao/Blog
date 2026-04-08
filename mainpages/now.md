@@ -10,23 +10,16 @@ title: >-
   now
 permalink: /now/
 ---
+# now
 
-# now[^1]
+The idea of a new page is nice, but it's perpetually in the past. You'd be reading this page long after I have wrote it.
 
-The idea of a new page is nice, but it's always not "*up-to-date*" enough. So, I'll give my best guess on what I'm up to.
+So I'll take my best shot at predicting what I'm up to at the time of reading.
 
-It's an interesting question to ask myself. What is my life? What will I be doing in the future? The best answer I have is I'll be somewhere. In my bed, on a beach, under a bridge, being lost in thought about a random topic.
+I am graduating in May 2026 which means the joyous task of applying for jobs and taking certification exams. I foresee jobs taking most of my time besides finishing up classes. I have been putting more times in the blog after getting struck by a writing block for the last couple of months. I find myself programming random ideas popping up, which seems paradoxical given my job hunt[^1].
 
-Besides that, I'm still a college student and don't have a full-time j\*b yet, or I would have put that here. I would hope that I still enjoy doing stuff with computers unless we have Skynet by then. 
-
-Given my projected career path, I will probably be studying topics and toolings related to DevOps, SRE, Platform, Architecture, etc. I also have interests in web design and app dev, which keeping sharp would never inhinge the main path.
-
-Aside from work-related things, I'm probably playing a newly released indie rogue-lite or some ArcSys or FromSoft title. I also definitely have at least five books I could be reading instead of gaming.
-
-At this point, if you are still curious, leave an email: [inbox@yougao.dev](mailto:hello@yougao.dev).
+In my recent solace, I spend it watcthing shows, playing games, and generating thoughts. I'm intrigued in what lays in wait for me.
 
 <br/>
 ---
-[^1]: 09/19/2025: these predictions are still accurate.
-[^2]: 01/16/2026: still accurate maybe more humanities focused now.
-
+[^1]: Preparing for jobs has made me realize I enjoy programming as a hobby and profession.

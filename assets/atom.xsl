@@ -161,11 +161,6 @@
                 </a>
             </p>
         </blockquote>
-
-        <h1>my
-            atom feed</h1>
-
-        <p>rejoice, i made an atom feed so you can keep up to date my with semi-coherent ramblings!</p>
     </xsl:template>
 
     <xsl:template match="atom:entry">

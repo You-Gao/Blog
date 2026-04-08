@@ -5,7 +5,7 @@ I wanted a blog, this is the blog using jekyll and github pages.
 
 ```
 date: most important, used for sorting when using liquid
-name: used to generate collection link
+name: used to generate collection link name
 comment: used to generate collection comment
 layout: selects the template in _layouts
 
@@ -13,7 +13,7 @@ photos
 img_location: used for hover and also for the src. (relative path from url) 
 
 jekyll seo
-title: used to set title otherwise defaults to file name
+title: used to set url title otherwise defaults to file name
 description: used to set description of the page
 keywords: used to set keywords in head
 ```

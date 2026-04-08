@@ -12,49 +12,33 @@ title: >-
 permalink: /about/
 ---
 
-# about me 
+# about me
 
-<img src=" {{ 'assets/home/bundled_me.jpg' | absolute_url}}" class="img-fluid" alt="...">
+## where am i?
 
-## who are <u>you</u>?[^1]
+You have arrived at my personal blog, welcome! The blog is separated by 5 arbitrary categories: [fun]({{ 'fun' | absolute_url }}), [books]({{ 'books' | absolute_url }}), [me]({{ 'life' | absolute_url }}), [work]({{ 'work' | absolute_url }}), and [photos]({{ 'photos' | absolute_url }}). The "fun" category contains posts related to my hobbies and what brings joy into my life. "me" has all of my reflections and life commentary. "books" is where my posts on books go---not in the format of a book review. Any programming and "*technical*" related posts go in "work". Lastly "photos" stores posts with a central media piece and a commentary about it.
 
-I go by you. The logo, U高, is just my first and last name (you gao). I'll try to give a comprehensive answer to "*who i am*" by stating my preferences along with some factoids and letting you do the work of "*typologizing*" me.
+As a personal blog made to explore and write on my interests, there isn't a centralizing force other than the categories[^2].
+
+## who are <u>you</u>?
+
+The blog logo, U高, is my first and last name (you gao). Here is my [aboutme.txt](https://yougao.dev/aboutme.txt) from my main site. Get to know me more through my writing and feel free to reach out at [hello@yougao.dev](mailto:hello@yougao.dev)!
 
 [my shadow box]({{'/box' | relative_url}})
 
-### preferences 
-* I like [fighting games](https://en.wikipedia.org/wiki/Fighting_game).
-* I like [autochess](https://en.wikipedia.org/wiki/Auto_battler).
-* [Snorlax](https://www.pokemon.com/us/pokedex/snorlax) is my favorite pokemon.
-* Favorite aesthetic is [minimalism](https://en.wikipedia.org/wiki/Minimalism).
-* Favorite art movement is *Bauhaus*.
-* Favorite flavor of anything is mango. 
-* Cats over dogs.
-
-### factoids
-* I would consider myself a [constructive empiricist](https://plato.stanford.edu/entries/constructive-empiricism/). 
-* Majored computer science and [global development](https://en.wikipedia.org/wiki/Development_studies) "*studies*".
-* I've watched *Smiling Friends* s1-s2 many times.
-* I own 5+ mechanical keyboards.
-* My desktop is [catpuccin](https://catppuccin.com/) themed.
-
 ## why are you writing?
 
-The reason I started this blog was to explore the random thoughts I had. Any blog post then was written because it contained ideas that were interesting, perplexing, and usually existential, or funny; enough so that it warranted me spending time to write about it.
+I started this blog as a tool to learn more on the ideas I have and come in contact with. It has since then morphed to include personal reflections, celebrations of life, and artistic work[^1]. Thus, the central goal of my writing is to have come away with insight---not simply information---on the topic under investigation.
 
-## why the selection?
-
-The blog was categorized into motifs (fun, books, me, work, images) as they were things I frequently encountered throughout my life. Within each motif, you will find posts containing my reflections and perspectives on whatever idea I have decided to blabber about. and if I turn out to be a decent blogger, there is something tangible to take away. 
-
-Enjoy the site, no matter how you have stumbled onto this crevice of the internet.
+I approach writing the posts as a blank slate, meaning I have some sense of what I'll be exploring, but am mostly ignorant about it. In many cases, this my writing method leads to unparsable/unreadable texts, so I apologize in advance. My dream scenario is if you, the reader, could take anything use from the blog.
 
 ## should you blog?
 
-There are existing lists for this, but I thought it'd be fun to compile my own:
 - [mini essays to learn](https://www.youtube.com/watch?v=hi8meiPUt84)
 - [start making cool shit](https://www.youtube.com/watch?v=QXf10rw_dqo&pp=ygUObWFrZSBjb29sIHNoaXTSBwkJ3gkBhyohjO8%3D)
 - [brain dumps](https://btxx.org/posts/dump/)
 
 <br/>
 ---
-[^1]:  I like rabbit holing SEP: [nature of the self](https://plato.stanford.edu/archIves/fall2024/entries/self-knowledge/supplement.html)
+[^1]: I specifically made the photos tab in anticipation of getting my film developed. It has turned into meme/media sharing, which isn't the worse alternative usecase.
+[^2]: I plan on trying tags for visualization and grouping in my [archive]({{ 'archive' | absolute_url}})
