@@ -28,9 +28,9 @@ The blog logo, U高, is my first and last name (you gao). Here is my [aboutme.tx
 
 ## why are you writing?
 
-I started this blog as a tool to learn more on the ideas I have and come in contact with. It has since then morphed to include personal reflections, celebrations of life, and artistic work[^1]. Thus, the central goal of my writing is to have come away with insight---not simply information---on the topic under investigation.
+I started this blog as a tool to learn more on the ideas I have and come in contact with. It has since morphed to include personal reflections, celebrations of life, and artistic work[^1]. Thus, the central goal of my writing is to gain insight---not simply information---on the topic under investigation.
 
-I approach writing the posts as a blank slate, meaning I have some sense of what I'll be exploring, but am mostly ignorant about it. In many cases, this my writing method leads to unparsable/unreadable texts, so I apologize in advance. My dream scenario is if you, the reader, could take anything use from the blog.
+I approach writing the posts as a blank slate, meaning I have some sense of what I'll be exploring, but am ignorant about it. In many cases, this my writing method leads to unparsable/unreadable texts, so I apologize in advance. My dream scenario is if you, the reader, could take anything use from the blog.
 
 ## should you blog?
 
