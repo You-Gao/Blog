@@ -23,6 +23,5 @@ I am graduating in May 2026 which means the joyous task of applying for jobs and
 
 In my recent solace, I spend it watcthing shows, playing games, and generating thoughts. I'm intrigued in what lays in wait for me.
 
-<br/>
 ---
 [^1]: Preparing for jobs has made me realize I enjoy programming as a hobby and profession.

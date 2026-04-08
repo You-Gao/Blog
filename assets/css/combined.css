@@ -142,27 +142,17 @@ a:hover::before {
 /* Customized styles outside of bootstrap in style.css */ 
 /* Extra formatting on-top of bootstrap */
 
-#footnotes {
-	border-bottom: 1px dotted;
-    width: 100%;
+.markdown-body:has(> hr + .footnotes) > hr:nth-of-type(2) {
+  border: 0;
+  height: 0;
+  border-top: 2px dotted var(--mocha-texthighlight);
+  border-color: var(--mocha-bg);
+  border-bottom: none!important;
+  margin-bottom: 1rem;
 }
 
 .bloglist h2 {
 	margin-bottom: .25em !important;
-}
-
-#toolbar .item img {
-	width: 40px;
-	height: 40px
-}
-
-#toolbar .item {
-	width: 40px;
-	height: 40px
-}
-
-#toolbar #arrow {
-	transform: scale(.8)
 }
 
 .time {
@@ -741,7 +731,6 @@ hr {
 	margin: 15px 0;
 	overflow: hidden;
 	background: 0 0;
-	border-bottom: 1px solid grey;
 	box-sizing: content-box;
 	overflow: visible;
 }
@@ -920,11 +909,9 @@ em {
 }
 
 code {
-    background: lightgrey;
     text-wrap: auto;
     display: inline;
 }
 
 .highlighter-rouge {
-    background: lightgrey;
 }
