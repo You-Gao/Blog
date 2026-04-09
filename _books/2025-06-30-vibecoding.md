@@ -14,12 +14,12 @@ name: >-
 
 # THE Vibe Coding Book
 
-> "The modern software developer has become a poet, their audience---AI"
+> "The modern software developer has become a poet, their audience---AI."
 > <figcaption class="blockquote-footer">me</figcaption>
 
-I have come around to reading a book on "*vibe-coding.*" I was mid doomscroll when I found a meme about an average web developer heralding this book in the future. I also saw it was on *O'Reilly*[^1], which my university has free access to.
+I have come around to reading a book on "*vibe-coding.*" I was mid doomscroll when I found a meme about an average web developer heralding this book in the future. I then saw it was on *O'Reilly*[^1], which my university has free access to.
 
-So I gave it a shot and read through *Beyond Vibe Coding.* The book and author are surprisingly lucid on the topic of "*AI Coding*" and even more surprising that the book itself was not vibe-coded--- at least in some chapters[^2].
+So I gave it a shot and read through *Beyond Vibe Coding.* The book and author are surprisingly lucid on the topic of "*AI Coding*" and even more surprising that the book itself was not vibe-coded---at least in some chapters[^2].
 
 The book itself touches on the "*vibe-coding vs. AI assistance,*" the **current** limitations of AI, and some practical tips. It is currently still *WIP*, so it's a short read. Here are my thoughts on each chapter.
 
@@ -27,7 +27,7 @@ The book itself touches on the "*vibe-coding vs. AI assistance,*" the **current*
 
 There is a difference between "*vibe-coding*" and having it assist you. "*Vibe-coding*" is when you have a hazy outline of what you want the computer to do, but have a good understanding of how you want it to "*behave.*" That is, you are an abstraction above simply "*speaking*" to the computer, you just want it to "*do*" what you want it to.
 
-"*AI-assisted*" coding then is helping you express what the computer should be "*behaving*" rather and its "*computation.*" 
+"*AI-assisted*" coding then is helping you express what the computer should be "*behaving*" rather than its "*computation.*" 
 
 ### Programming with Intent
 
