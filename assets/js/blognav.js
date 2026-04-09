@@ -54,13 +54,14 @@ function generateBlogNav() {
         else if ((header.tagName === 'H2') && (header.innerHTML !== '<br>')) {
             var Item = document.createElement('a');
             Item.href = '#' + header.id;
-            Item.innerHTML = "╹╸"+ text;
+            Item.innerHTML = "⎹━"+ text;
+
             Item.classList.add('nav-h2');
         }
         else if (header.tagName === 'H3') {
             var Item = document.createElement('a');
             Item.href = '#' + header.id;
-            Item.innerHTML = "╵╸╸" + text;
+            Item.innerHTML = "⎹━" + text;
             Item.classList.add('nav-h3');
         }
         List.appendChild(Item);
@@ -93,8 +94,6 @@ function matchScrolltoBlogNav() {
     var headers = document.querySelectorAll('.blog-nav a');
     headers = Array.from(headers).reverse();
     console.log(headers);
-
-    var maxScroll = document.documentElement.scrollHeight - window.innerHeight;
 
    for (var i = 0; i < headers.length; i++) {
 

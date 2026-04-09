@@ -46,6 +46,18 @@ h1,h2,h3,h4,h5,h6 {
     color: var(--mocha-headers)!important;
 }
 
+.postinfo span {
+    color: var(--mocha-subtext)
+}
+
+.postinfo #modified,.postinfo #tags {
+    color: var(--mocha-texthighlight)
+}
+
+td {
+    color: var(--mocha-subtext)
+}
+
 .markdown-body blockquote {
 	color: var(--mocha-subtext)!important;
 	border-left: 5px solid var(--mocha-highlight);
@@ -64,10 +76,6 @@ h1,h2,h3,h4,h5,h6 {
     color: var(--mocha-texthighlight);
 }
 
-.markdown-body span {
-    background-color: var(--mocha-texthighlight);
-}
-
 .markdown-body hr {
     background-color: var(--mocha-texthighlight)!important;
 }
@@ -81,6 +89,10 @@ hr {
 }
 
 em {
+    color: var(--mocha-texthighlight);
+}
+
+th {
     color: var(--mocha-texthighlight);
 }
 

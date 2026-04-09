@@ -25,9 +25,9 @@
 {% assign parts = content | split: '</h1>' %}
 {% if parts.size > 1 %}
   {{ parts[0] }}</h1>
-  <div>
-      <span>last modified: {{ page.last_modified_at }} | </span>
-      <span>tags: {{ page.tags | join: ", "}}</span>
+  <div class="postinfo">
+      <span>last modified: <span id="modified">{{ page.last_modified_at }}</span> | </span>
+      <span>tags: <span id="tags">{{ page.tags | join: ", "}}</span></span>
   </div>
   {{ parts[1] | join: '</h1>' }}
 {% else %}
