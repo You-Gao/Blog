@@ -42,25 +42,6 @@ What is dangerous here is that the two forms of conditioning easily synergize an
 
 Still, even if you know the systematic patterns, the decision to engage with them can not be easily made without losing yourself.
 
-<!---->
-<!-- ## Internet Addicts vs. Drug Addicts? -->
-<!---->
-<!-- Thinking about the differences and similarities between the internet and drug addicts can help further illuminate the conceptual difference between digital hedonism and standard hedonism. The main difference here is that drug addicts are much more of a material addiction to neurochemicals; the "*feel-good*" arises from a physical substance. Internet addicts receive the "*feel-good*" from more cognitive and immaterial processes, which is why I think it is more dubious.  -->
-<!---->
-<!-- That's why I wrote this blog in the first place: because the mechanisms and dark patterns of the internet capture your agency and essentially force you to "*feel good.*" Of course, the same agential takeover can occur the same way with physical drugs if someone pumps a person with drugs while they are sleeping. It is just way more likely to have the former takeover occurring due to how many people/organizations on the internet are aiming to capture you on their social platforms. -->
-<!---->
-<!-- Moreover, I would argue that the effects of internet addicts are more detrimental to the foundations of society than drug addicts. I'm not trying to downplay drug addicts, but I want to try and make the case that internet addiction is very real and just as dangerous if not more than, other stigmatized forms of addiction. There is already a lot of literature on the dangers of filter bubbles and echo chambers. The internet preys on the social aspect of humanity via the confirmation bias effect.  -->
-<!---->
-<!-- The implications: people get addicted to tribalism -> people don't truthfully hear each other out or have meaningful discourse -> democracy does not function. On sexual content online, I mean, come on, does anything more need to be said? -->
-<!---->
-<!-- I will leave the heavy literature on the psychological, social, and ethical implications in the citations for that. On novelty online, It has gotten pretty bad that the term brain-rot had to be invented in order to really capture the extent of it. I'm not saying that my generation did not have our fair share of that; it just has gotten pretty worse from my perspective.  -->
-<!---->
-<!-- I don't think I did the greatest job in answering the question, so I will pose it again for you: Are internet and drug addicts any different? -->
-<!---->
-<!-- The broader moral question is: "***How should you be happy?***" -->
-
-<br/>
-
 ## Citations
 
 Anderson, E.L., Steen, E., & Stavropoulos, V. (2017). Internet use and Problematic Internet Use: a systematic review of longitudinal research trends in adolescence and emergent adulthood. International Journal of Adolescence and Youth, 22, 430-454.

@@ -38,13 +38,10 @@ In many high-information systems, learning backward would be the primary way if 
 
 Take the example of trying to understand a watch. I know that the motors interact mechanically with each other in such a way that the parts within the watch move to keep track of time. If I were to open a watch up, I would be lost entirely because of how many intricate fine-tuned decisions were made in putting together the watch.[^3]
 
-<br/>
-
 ## Citations
 
 Kolb, David A. "Experiential Learning: Experience as the Source of Learning and Development. (1983).
 
-<br/>
 ---
 [^1]: I ended up not using those dichotomies explicitly, but they can be found underpinning the context of learning
 [^2]: I'd like to go on a tangent for epistemic trust and truth, but I will save it

@@ -57,7 +57,6 @@ The constructivist position comes in handy when dealing with the problem (or joy
 
 Bad design, then, when viewed through a constructivist lens, isn't an absolute failure; instead, it becomes a learning tool. It's an opportunity to better understand how users interact with a product and where the design can be more adaptable, intuitive, and human-centered.
 
-<br/>
 ---
 [^1]: in the virtue of being fair, I would also say that the designer sometimes entirely skips over what can be done. This point is commonly made in the realm of building and architecture.
 [^2]: I admit the term "naive realist" is more a pejorative, but even more intellectually thought-out forms of realism still seem less "*virtuous*" in this case. 

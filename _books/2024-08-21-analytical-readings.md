@@ -28,7 +28,6 @@ After, stumbling my way through *Reasons and Persons.* Albeit I did try to read 
 
 2025-04-06: It's just not interesting to me, but maybe one day...
 
-<br/>
 ---
 [^1]: 8/22 (12:00 AM) - I tried to tackle Tractatus and On Sense and Reference, my head is spinning a bit.
 [^2]: 8/22 (6:00 PM) - This is not fun at all.

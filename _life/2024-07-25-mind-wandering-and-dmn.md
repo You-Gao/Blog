@@ -26,8 +26,6 @@ Yeah, I thought I would have written more, but I don't think I have more to say 
 - [The Science of Mind-Wandering](https://pubmed.ncbi.nlm.nih.gov/25293689/) 
     - Comprehensive review of the topic (recommended if you want to read more) 
 
-<br/>
-
 ## Citations
 
 Luo, W., Liu, B., Tang, Y., Huang, J., & Wu, J. (2024). Rest to Promote Learning: A Brain Default Mode Network Perspective. Behavioral sciences (Basel, Switzerland), 14(4), 349. https://doi.org/10.3390/bs14040349

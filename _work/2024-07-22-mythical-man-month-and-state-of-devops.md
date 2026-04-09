@@ -122,8 +122,6 @@ Chapters:
 * CH 12: Sharp Tools
 * CH 13: The Whole and the Parts
 
-<br/>
-
 ## Citations
 
 2023 State of DevOps Report, Google Cloud. (n.d.). Google Cloud. https://cloud.google.com/devops/state-of-devops
@@ -132,6 +130,5 @@ Brooks, F.P. (1987). No Silver Bullet: Essence and Accidents of Software Enginee
 
 Brooks, F.P. (1975). The Mythical Man-Month. Reliable Software.
 
-<br/>
 ---
 [^1]: A lot of these issues persist today, and I definitely think it is because they are not incentivized correctly

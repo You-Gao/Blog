@@ -39,12 +39,9 @@ After a project has hashed out the domain/essential complexity of the topic, the
 
 To oversimplify and be tautological: "***good design + good code + good documentation = no software entropy.***"
 
-<br/>
-
 ## Citations
 
 Brooks, F.P. (1987). No Silver Bullet: Essence and Accidents of Software Engineering.
 
-<br/>
 ---
 [^1]: I've come to experience that this is a organizational culture issue.

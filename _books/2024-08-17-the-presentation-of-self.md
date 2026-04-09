@@ -34,6 +34,5 @@ A common critique of Goffman's work on the front and backstage is that the disti
 
 People situated in social contexts can be seen taking onto the attitudes of the role and even self-regulating themselves to play into them. Psychology already has a term for this: "*a self-fulfilling prophecy.*"
 
-<br/>
 ---
 [^1]: I took it in a class, and it answered some parts of this question.

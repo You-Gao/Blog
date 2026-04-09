@@ -27,6 +27,5 @@ After all, ["***the map is not the territory***"](https://en.wikipedia.org/wiki/
 
 <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg"/> 
 
-<br/>
 ---
 [^1]: Addendum: I also think they can simply function as "*names*". 

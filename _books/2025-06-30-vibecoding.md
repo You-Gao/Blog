@@ -89,7 +89,6 @@ It's not like debugging as a skill is going to go away; I, for one, think it wil
 > "You can teach a physicist finance, but you can't teach a finance person physics."
 > <figcaption class="blockquote-footer">Jim Simons</figcaption>
 
-<br/>
 ---
 [^3]: In a way, you can say it is declarative, but still a bit iffy, I think conceptually.
 [^1]: Not the auto parts company.

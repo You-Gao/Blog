@@ -62,7 +62,6 @@ Krauss, S. (1970). The experience of time. BMJ, 1(5690), 235. https://doi.org/10
 
 Lynch, K. A. (1972). What time is this place?
 
-<br/>
 ---
 [^1]: It is often a phenomenon for me that even though I look at the time on my computer, I only realize time has passed when my room begins to get dark after hours of play.
 [^2]: Ask any old person how fast time passes for them.

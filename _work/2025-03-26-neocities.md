@@ -57,7 +57,6 @@ Just like an artist selects oil paint over watercolor for a specific effect, a w
 
 Even though I wrote a blog on it, UX still feels a bit amorphous to me. My best interpretation is that UI is "*lintable*" and UX is more semantic. UX captures more than just the UI structure that is guided by common patterns. If anyone out there has a better conception, please do tell me.
 
-<br/>
 ---
 [^1]: The "*best practices*" I'm referring to is the idea of user stories -> "*minimal clicks/intuitive flow*" -> ui patterns.
 [^2]: Psychological experiments are "*causally underpinned*" by a phenomenological or a neurological explanation, i.e., why changing a schema causes different qualia reports is either due to an intersubjective reason or a neuronal reason[^3].

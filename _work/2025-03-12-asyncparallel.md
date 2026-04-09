@@ -37,7 +37,6 @@ It's generally easy to understand the idea of multi-threading [^1], even to the 
 - [MapReduce Wikipage](https://en.wikipedia.org/wiki/MapReduce)
 - Insert pthreads Page
 
-<br/>
 ---
 [^1]: It is hard to wrap your head around how the kernel synchronizes and delegates tasks to different cores to achieve multi-threading, though.
 [^2]: I will admit that I have used Python's multiprocessing to make network requests instead of aiohttp.

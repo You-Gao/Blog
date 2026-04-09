@@ -49,7 +49,6 @@ Still, I feel like just learning how to utilize, say, AWS tooling to slap on NGI
 
 I am not a smart person if that's measured in novel math skills. I have hilariously done mediocrely on this topic matter, given my scatterbrained nature. I put this here in the hopes I will review my theoretical computation and discrete math notes. 
 
-<br/>
 ---
 [^1]: Probably disingenuous to call foundational cs thinking and knowledge tutorial hell, but hey.
 [^2]: i.e., how Node.js redirects logs to term instead of F12 console in a browser.

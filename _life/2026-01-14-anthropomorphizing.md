@@ -18,7 +18,6 @@ Back to the main point; we often treat unknown entities that we aren't fully kno
 
 Shouting at the computer when it is not working or angrilly telling ChatGPT it was incorrect seems very much of the same phenomenon[^2].
 
-<br/>
 ---
 [^1]: "*anthropomorphizing*" is the longest word I have used.
 [^2]:  [Social Cognition Unbound: Insights Into Anthropomorphism and Dehumanization](https://pmc.ncbi.nlm.nih.gov/articles/PMC4020342/)

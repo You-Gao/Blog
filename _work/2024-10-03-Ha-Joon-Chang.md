@@ -34,7 +34,6 @@ These are some of the lecture series I listened to from Chang.
 
 <iframe width="100%" height="350" src="https://www.youtube.com/embed/whVf5tuVbus?si=a3jyoQEnwweEQRhn&amp;" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<br/>
 ---
 [^1]: I also enjoy his ability to transition between play, comedy, critique, and seriousness in his talks.
 [^2]: This is my pop economist.

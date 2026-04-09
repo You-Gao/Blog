@@ -37,7 +37,6 @@ But ultimately, designing for "*joy*" is always second place to that. I guess it
 
 Going back to the "*love*" example, my understanding is that phenomenology will ask the question of what it feels like to be "*in love*" whilst psychology will give you a "*love*" score based on common pre-set behaviours. They both go at the same question, but from different angles. My only problem with psychology is that "*operationalization*" often fails and is often misused/abused. Also, "*Goodhart's Law*" is a thing.
 
-<br/>
 ---
 [^1]: I have quote from a book I checked out to see if the literature thought the same. It highlights the challenges of the definitional and operational aspect of psychology  and say's at "*base level*" it is phenomenological. The "*rationale*" part is again pointing out how both disciplines can use their theories deterministically.
 

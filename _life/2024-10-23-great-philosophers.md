@@ -88,17 +88,12 @@ But, this is not a contradiction because what social constructivism says is that
 > "If I have seen further, it is by standing on the shoulders of giants," [^8]
 > <figcaption class="blockquote-footer">Newton</figcaption>
 
-
-<br/>
-
 ## Citations
 
 Nealon, Jeffrey T., and Susan Searls Giroux. "The Theory Toolbox: Critical Concepts for the Humanities, Arts, and Social Sciences." Choice Reviews Online, vol. 49, no. 04, Dec. 2011, pp. 49–1799. https://doi.org/10.5860/choice.49-1799.
 
 Wikipedia contributors. "Great Man Theory." Wikipedia, 21 Oct. 2024, en.wikipedia.org/wiki/Great_man_theory.
 
-
-<br/>
 ---
 [^1]: I find it interesting how the ways these theorists' theories have changed insofar as technology has restructured and reconfigured the very ways people interact. I look at Heidegger's concept of "enframing (Gestell)," specifically in technology, to quite literally "*box*" our worldview. Of course, not to be technologically deterministic, there is a clear tension between tool and being, being and tool.
 [^2]: Even then, the idea of the invisible hand in how it is applied to only people as economic beings ("*homo economicus*") is already pretty reductive.

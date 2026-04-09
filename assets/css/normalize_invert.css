@@ -14,7 +14,7 @@ body {
 }
 
 .blog-nav a {
-    color: var(--mocha-text);
+    color: var(--mocha-texthighlight);
 }
 
 .navbar-brand { 

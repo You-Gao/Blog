@@ -46,7 +46,6 @@ The premise for this is simple: I get lost in an aisle and push the boundaries o
 2. Place, Commonality and Judgment - DROPPED: I got lost and confused, too many latin words
 3. Justice - READING: seminal essays on every form of justice 
 
-<br/>
 ---
 [^1]: Hopefully, I figure out what the call codes mean.
 [^2]: Reflecting before reading made me realize the order I "*consume*" the readings are important for my experience.

@@ -84,7 +84,6 @@ Leder relates these same troubles to diagnosing visceral pains in medical practi
 
 The body only appears to the mind when it dysfunctions—the end.
 
-<br/>
 ---
 [^1]: On Goodreads, someone commented that this was Merleau-Ponty lite. This is my first in-depth dive into it, but if anything, a good intro?
 [^2]: An interesting thing Polanyi extrapolates is to say scientific knowledge "*know-that*" is also understood in relation to the tacit.

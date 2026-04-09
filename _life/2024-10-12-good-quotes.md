@@ -48,7 +48,6 @@ Given that distinction, the most dangerous/implicated of the two are normative q
 
 I might've missed some other parts of the assemblage,[^2], but I hope I captured the main aspects. 
 
-<br/>
 ---
 [^1]: One could argue that quotes are "*timeless*", but are they really if they are cherry-picked for the present?
 [^2]: I definitely did

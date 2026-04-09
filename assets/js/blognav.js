@@ -93,15 +93,11 @@ function matchScrolltoBlogNav() {
     var scrollPosition = window.scrollY || document.documentElement.scrollTop;
     var headers = document.querySelectorAll('.blog-nav a');
     headers = Array.from(headers).reverse();
-    console.log(headers);
 
    for (var i = 0; i < headers.length; i++) {
 
         var header = headers[i];
         var headerPosition = document.querySelector('[id="' + header.getAttribute('href').substring(1) + '"]').getBoundingClientRect().top + window.scrollY;
-
-       console.log(headerPosition,scrollPosition);
-
 
         if (scrollPosition + 1 < headerPosition) {
             header.style.color = '';
@@ -109,7 +105,7 @@ function matchScrolltoBlogNav() {
         }
 
         else if (scrollPosition + 1 > headerPosition) {
-            header.style.color= '#ffffff';
+            header.style.color= '#d9ba73';
             for (var j = i + 1; j < headers.length; j++) {
                 headers[j].style.color = '';
             }

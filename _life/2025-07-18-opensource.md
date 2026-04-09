@@ -60,7 +60,6 @@ The main competitor to this would be "*Obsidian*", and although I do admit their
 
 [komorebi](https://github.com/LGUG2Z/komorebi) is a tiling window manager for Windows. I use "*i3*" for my window manager on Linux, so it kind of made sense to have the same thing for my PC.
 
-<br/>
 ---
 [^1]: Interestingly, they used a JavaScript module that is usually run on Node.js, but can be bundled using WebPack for web use.
 [^2]: I ended up showcasing cross-platform SDKs more than anything.

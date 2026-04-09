@@ -28,6 +28,5 @@ In short: "***people change, things change, words evolve, maps shift, or atleast
 
 Berger explains this effect by analyzing art, pictures, and their meanings. The subsequent concept of "*perspective phenomenology*" that he delivers is useful because it describes the whole point of phenomenology, at least for me, as the process of coming into understanding the nature of human "*inter-subjectivity.*"
 
-<br/>
 ---
 [^1]: I got the inspiration to read this book because a flower pot seemed weird to me walking to class. 

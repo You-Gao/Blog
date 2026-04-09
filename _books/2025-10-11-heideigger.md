@@ -53,7 +53,6 @@ I thought about art interpretation and symbolism before in a [blog post], but it
 
 I think Heidegger is wrong here if we consider the chinese character language. Chinese is a "*logographic*" language.
 
-<br/>
 ---
 [^1]: The passage of time reveals most truths.
 [^2]: Other claims are left to phenomenology to decide whose, which isn't a dig at all

@@ -52,7 +52,6 @@ Network modeling is similar to Agent-based Modeling, but in this case, you are d
 
 Basically, build a model using assumptions instead of the empirical deductive rigmarole.
 
-<br/>
 ---
 [^1]: The actual book title is *Worlds Hidden in Plain Sight: Worlds Hidden in Plain Sight: The Evolving Idea of Complexity at the Santa Fe Institute, 1984–2019*.
 [^2]: Kenneth Arrow isn't some one-off crazy person; he could be labeled an intellectual powerhouse in economics. He 1. formulated his Arrow's impossibility theorem and 2. wrote a seminal paper on the growing capital-labor ratio gap.

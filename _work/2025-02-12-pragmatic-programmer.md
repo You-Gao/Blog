@@ -60,7 +60,6 @@ With these, a person can be a pretty solid developer. As Dave and Andy wrote in 
 
 P.S. Here is the reference guide, although it was from a course ~20 years ago, and they added 30 more tips in the new edition: [reference guide](https://www.khoury.northeastern.edu/home/lieber/courses/csg110/sp08/Pragmatic%20Quick%20Reference.htm)
 
-<br/>
 ---
 [^1]: It's not that I didn't enjoy Dante's Inferno. The idea of reading a fanfic that is assigned was the part that put me off. It was actually a pretty good story.
 [^2]: A more infinite analysis paralysis. It's still a hard problem, and the answer is there is no answer.

@@ -100,7 +100,6 @@ I do like that aspect when discussing the more behavioral aspects of institution
 
 In the end, this all hearkens back to a controversial distinction: free or open source?
 
-<br/>
 ---
 [^1]: Sarcastic, but not really either.
 [^2]: I mean, the book was written in 2005.

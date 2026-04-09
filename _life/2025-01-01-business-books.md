@@ -29,8 +29,6 @@ My solution then is this: the GBB Metric. GBB is a Good Business Book. It is a p
 
 For example, *Thinking Fast and Slow* would be ~50,000/500,000, which is two magnitudes "*better*" than *48 Laws of Power* at 500/200,000. A "*time-tested*" book like *Competitive Strategy* would be higher than both at 75,000/15,000. However, this is just a heuristic, and it is probably not even the best one at that. However, with that in mind, go out there and read some books. Thanks for reading.
 
-
-<br/>
 ---
 [^1]: Sarcastic, but not really either.
 [^2]: I chose this rather than doing the coloring book angle.

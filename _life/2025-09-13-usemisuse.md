@@ -54,15 +54,7 @@ I have made the same discussion in this section of a blog about bias[^3], but th
 
 The point here is that the decision to label a gathering "*riot or protest*" has been made long before the actual event happens. The background assumptions that are more often than not implicit and unspoken have long made a decision. It's very "[*soritical*](https://en.wikipedia.org/wiki/Sorites_paradox)" for lack of a better word. Similar to the discussion of dangerous, if there was 1 person in the crowd doing violence, it might be in a sense true that it is a "*riot*."
 
-<br>
 ---
 [^1]: Is it that these words have a vague predicate or will never have a "*true*"one?
 [^2]: This is also why I think that if you are willing to play, all qualitative claims can be made quantitative. In software terms, validation can be turned into verification.
 [^3]: I made it after watching "*12 Angry Men*"
-
-
-
-
-
-
-

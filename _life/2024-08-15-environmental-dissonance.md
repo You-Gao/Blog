@@ -38,6 +38,5 @@ Holt Lunstad, Julianne et al. "Loneliness and Social Isolation as Risk Factors f
 
 Touitou, Yvan et al. "Association between light at night, melatonin secretion, sleep deprivation, and the internal clock: Health impacts and mechanisms of circadian disruption. Life Sciences 173 (2017): 94–106.
 
-<br/>
 ---
 [^1]: After reading about the citations, I realize I don't need to continue writing.

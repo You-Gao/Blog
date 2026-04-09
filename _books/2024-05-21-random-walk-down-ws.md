@@ -27,7 +27,6 @@ An introduction to the concepts of investing and the types of investing possible
 
 It was an fun pick-up and a reminder to start investing again once I'm out of debt...[^3]
 
-<br/>
 ---
 [^1]: See [Keynesian beauty contest](https://en.wikipedia.org/wiki/Keynesian_beauty_contest)
 [^2]: Explains the current state of Pokemon-card scalping.

@@ -59,8 +59,6 @@ To be clear though, what I'm saying is: "***safety isn't the behaviour of a syst
 
 <iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/bLHL75H_VEM?si=0Oy8artPhcsKbiCS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<br/>
-
 ## Citations
 
 Allspaw, J., & Cook, R.I. (2010). How Complex Systems Fail. Web Operations.
