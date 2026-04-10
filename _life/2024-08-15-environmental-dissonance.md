@@ -30,8 +30,6 @@ But, in the downtime, I was able to walk around outside my dorm at 3 AM, experie
 
 It was just me and my thoughts. A lot of good self-reflection and pondering was completed in that time, so maybe it wasn't entirely hurtful.
 
-<br/>
-
 ## Citations
 
 Holt Lunstad, Julianne et al. "Loneliness and Social Isolation as Risk Factors for Mortality. Perspectives on Psychological Science 10 (2015): 227 - 237.

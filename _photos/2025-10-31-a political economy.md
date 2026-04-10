@@ -3,15 +3,10 @@ date: 2025-10-31
 name: a political economy
 comment: 
 layout: style
-
 title: a political economy
-description: >-
-
 img_location: /assets/photos/7.png
 ---
-<div class="photo-container">
-    <img src="{{ page.img_location }}"/>
-</div>
+![image of google]({{ page.img_location }})
 
 This post is mainly a rant[^1], but it might find itself informative. The chart above is the percentage of a given word found in books throughout time, as provided by "*Google Ngrams*".
 

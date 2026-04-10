@@ -41,7 +41,8 @@ The decision can be interpreted as Red Hat supplanting itself on top of the open
 
 On the one hand, a case can be made that Red Hat being profitable is suitable for open-source because it means that user innovators can get paid explicitly for what they do by Red Hat. On the other hand, there is still the argument that this corporation's supplanting is a net negative to the ethos of the open-source community. 
 
-<img style="display: block; margin-left: auto; margin-right: auto" src="/assets/books/innovation/drawin.png"/>
+![silly drawing of open-source]({{ "/assets/books/innovation/drawin.png" | relative_url }})
+
 
 The answer Hippel gives is likely along the lines of this. Individual users are mainly unaffected aside from being suspect towards the profit motive and the ethos around "*enterprising*" the project. User firms are generally outraged because they now have to pay for either the license for RHEL or using CentOS Stream.
 
