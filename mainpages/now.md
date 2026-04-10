@@ -13,11 +13,11 @@ permalink: /now/
 ---
 # now
 
-The idea of a new page is nice, but it's perpetually in the past. You'd be reading this page long after I have wrote it.
+The idea of a new page is nice, but they're perpetually in the past. You'd be reading this page after I have wrote it.
 
 So I'll take my best shot at predicting what I'm up to at the time of reading.
 
-I am graduating in May 2026 which means the joyous task of applying for jobs and taking certification exams. I foresee jobs taking most of my time besides finishing up classes. I have been putting more times in the blog after getting struck by a writing block for the last couple of months. I find myself programming random ideas popping up, which seems paradoxical given my job hunt[^1].
+I am graduating in May 2026 which means the joyous task of applying for jobs and taking certification exams. I foresee jobs taking most of my time besides finishing up classes. I have been putting more time into the blog after getting struck by a writing block for the last couple of months. I find myself enjoying programming again, so that's a plus[^1].
 
 In my recent solace, I spend it watcthing shows, playing games, and generating thoughts. I'm intrigued in what lays in wait for me.
 

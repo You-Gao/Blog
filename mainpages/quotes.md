@@ -11,13 +11,11 @@ permalink: /quotes/
 
 # old quotes
 
-Collection of my monthly quotes that resonated with me at that time.
-
 ## 2025
 
 ### july
 
->  "Success does not consist in never making mistakes but in never making the same one a second time."
+> "Success does not consist in never making mistakes but in never making the same one a second time."
 
 ### august
 
