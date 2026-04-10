@@ -12,7 +12,6 @@ title: >-
   about
 permalink: /about/
 ---
-
 # about me
 
 ## where am i?
@@ -21,7 +20,7 @@ You have arrived at my personal blog, welcome! The blog is separated by 5 arbitr
 
 As a personal blog made to explore and write on my interests, there isn't a centralizing force other than the categories[^2].
 
-## who are <u>you</u>?
+## who are you?
 
 The blog logo, U高, is my first and last name (you gao). Here is my [aboutme.txt](https://yougao.dev/aboutme.txt) from my main site. Get to know me more through my writing and feel free to reach out at [hello@yougao.dev](mailto:hello@yougao.dev)!
 
@@ -39,7 +38,6 @@ I approach writing the posts as a blank slate, meaning I have some sense of what
 - [start making cool shit](https://www.youtube.com/watch?v=QXf10rw_dqo&pp=ygUObWFrZSBjb29sIHNoaXTSBwkJ3gkBhyohjO8%3D)
 - [brain dumps](https://btxx.org/posts/dump/)
 
-<br/>
 ---
 [^1]: I specifically made the photos tab in anticipation of getting my film developed. It has turned into meme/media sharing, which isn't the worse alternative usecase.
 [^2]: I plan on trying tags for visualization and grouping in my [archive]({{ 'archive' | absolute_url}})

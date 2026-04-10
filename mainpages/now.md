@@ -11,7 +11,6 @@ title: >-
   now
 permalink: /now/
 ---
-
 # now
 
 The idea of a new page is nice, but it's perpetually in the past. You'd be reading this page long after I have wrote it.

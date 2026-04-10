@@ -13,14 +13,14 @@ name: >-
 
 # Katabasis
 
-> No—the reason paradoxes trouble us is because their absurd conclusions make us rethink all of our premises. A paradox is like a staircase, in which each step leads inexorably to the destination. But you get to the top, and the destination is impossible; you've stepped off into empty air. 
+> "No—the reason paradoxes trouble us is that their absurd conclusions make us rethink all of our premises. A paradox is like a staircase, in which each step leads inexorably to the destination. But you get to the top, and the destination is impossible; you've stepped off into empty air."
 > <figcaption class="blockquote-footer">Katabasis</figcaption>
 
-My description of the book goes as follows: "*An allegory of a fanfic that contains allegories to real life.*"
+Katabasis is an allegory of an already existing allegory.
 
 It takes the structure of "*Dante's Inferno*" and adds a power system called "*magick*" which can only be a direct mapping to what we consider "*linguistics*", specifically those that study "*symbolic systems*" or the grammar of language, including math, of course.
 
-The plot itself is good, but I only felt like I got through it because of the random neuron-activating references scattered throughout the book. And the point of me writing this post was to talk about the philosophical paradoxes/spells and the resolutions we have to them.
+The plot itself is good, but I only got through it because of the random neuron-activating references scattered throughout the book. The point of my writing this post was to talk about the referenced philosophical paradoxes and the resolutions we have to them.
 
 ## Paradoxes
 
@@ -36,7 +36,7 @@ The important thing to realize is that Escher is not playing with our reflective
 
 ### Sorites' Paradox
 
-1,000,000 grains of sand are a heap. Take away a single spec of sand, and it is still a heap. Repeat and you will end up with 0 specs and a heap.
+1,000,000 grains of sand are a heap. Take away a single spec of sand, and it is still a heap. Repeat, and you will end up with 0 specs and a heap.
 
 The paradox arises from and is resolved by asking for the definition of a "*heap*" or any predicate like "tall" or "bald".
 
@@ -46,13 +46,13 @@ There is a simple solution: defining the predicate quantitatively. A heap is onl
 
 This paradox is described with Tortoise & Hare interlocutors, but it's pretty simple to give the idea of it. If it rains, it will be wet outside. It rained. So it is logical that it will be wet outside. But do I believe in the conclusion?
 
-And this is where an interlocuter creates the paradox by saying If the first premise is true and the second premise is true, then the conclusion is true. But do I believe in that new premise?
+And this is where an interlocutor creates the paradox by saying If the first premise is true and the second premise is true, then the conclusion is true. But do I believe in that new premise?
 
 The resolution here is that the grammatical rules of a system are not defined within the system. When people do formal logic, "*modus ponens*" isn't in the "*object language*" of formal logic; it's just in plain English, where we might say something about logical equivalence and semantic entailments.
 
 ### Curry's and Russell's Paradox 
 
-I grouped these two together because I think they are mechanically the same. These two paradoxes arise from the use of "*names*" versus the actual content of the "*name*."
+I grouped these two because I think they are mechanically the same. These two paradoxes arise from the use of "*names*" versus the actual content of the "*name*."
 
 Curry's paradox is something like this. S is the sentence: "*If S is true, then X is true.*" By assuming the sentence S and because of the self-reference, anything you put in the implication is true.
 
