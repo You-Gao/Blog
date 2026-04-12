@@ -1,15 +1,12 @@
 ---
 date:             2025-05-31
 last_modified_at: 2026-04-08
-tags: [random, cs]
+tags:             [random, cs]
+title:            How To Center a div
+name:             4-5 Ways to Center a div
+layout:           style
 description:  >-
     pro web-dev intern
-layout:           post
-title: >-
-    How To Center a div
-layout:           style
-name: >-
-    4-5 Ways to Center a div
 ---
 
 # 4-5 Ways to Center a div

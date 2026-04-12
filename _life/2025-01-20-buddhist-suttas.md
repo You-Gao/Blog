@@ -1,14 +1,12 @@
 ---
 date:             2025-01-20
 last_modified_at: 2026-04-08
-tags: [buddhism, philosophy]
+tags:             [buddhism, philosophy]
+title:            Buddhist Suttas
+name:             Buddhist Suttas
+layout:           style
 description:  >-
   wisdom from eastern works
-title: >-
-  Buddhist Suttas
-layout:           style
-name: >-
-  Buddhist Suttas
 ---
 
 # Buddhist Sutras/Suttas

@@ -1,15 +1,12 @@
 ---
 date:             2024-07-21
 last_modified_at: 2026-04-08
-tags: [cs, design]
+tags:             [cs, design]
+title:            A Philosophy of Software Design
+name:             A Philosophy of Software Design
+layout:           style
 description:  >-
   Reflections on "A Philosophy of Software Design".
-layout:           post
-title: >-
-  A Philosophy of Software Design
-layout:           style
-name: >-
-  A Philosophy of Software Design
 ---
 
 # A Philosophy of Software Design

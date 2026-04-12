@@ -1,9 +1,11 @@
 ---
 date:             2025-04-09
+last_modified_at: 2026-04-09
+title:            typography is fun
+name:             typography is fun
+layout:           style
 description:  >-
     Typography is pretty fun
-layout:           style
-name: typography is fun
 comment: comic sans
 ---
 
@@ -41,7 +43,6 @@ I didn't make this post to share the history and progression of typography[^4]. 
 
 I don't know of any script typefaces that I like.
 
-<br/>
 ---
 [^1]: Post inspired by *Thinking with Type* and *The Elements of Typographic Style.*
 [^2]: (I will answer it in the footnotes) In my deep-dive, I found that we only confer those fonts' meaning "after the fact." It's not because there are formal elements to Nerd font that make it "*nerdy*" but rather because Nerd font is fit for the task of representing code which makes it "*nerdy.*"

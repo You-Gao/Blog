@@ -1,14 +1,12 @@
 ---
 date:             2024-05-21
 last_modified_at: 2026-04-08
-tags: [economics]
+tags:             [economics]
+title:            A Random Walk Down Wall Street
+name:             A Random Walk Down Wall Street
+layout:           style
 description:  >-
   My introduction to investing and markets.
-title: >-
-  A Random Walk Down Wall Street
-layout:           style
-name: >-
-  A Random Walk Down Wall Street
 comment: r/wallstreetbets
 ---
 

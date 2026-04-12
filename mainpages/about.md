@@ -28,9 +28,9 @@ The blog logo, U高, is my first and last name (you gao). Here is my [aboutme.tx
 
 ## why are you writing?
 
-I started this blog as a tool to reflect on the ideas I have and come in contact with. It has since morphed to include personal reflections, celebrations of life, and artistic work[^1]. The central goal of my writing is to gain insight---not simply factoids, except somtimes---on the topic under investigation.
+I started this blog as a tool to reflect on the ideas I have and come in contact with. It has since morphed to include personal reflections, celebrations of life, and artistic work[^1]. The central goal of my writing is to gain insight---not simply factoids, except sometimes---on the topic under investigation.
 
-I approach writing the posts as a blank slate, meaning I have some sense of what I'll be exploring, but am ignorant about it. In many cases, this my writing method leads to unparsable/unreadable texts, so I apologize in advance. My dream scenario is if you, the reader, can take anything use from the blog.
+I approach writing the posts as a blank slate, meaning I'll have little sense of what I'll be exploring. In many cases, this writing method leads to unparsable/unreadable texts, so I apologize in advance. My dream scenario is if you, the reader, can take anything useful from the blog.
 
 ## should you blog?
 
@@ -39,5 +39,5 @@ I approach writing the posts as a blank slate, meaning I have some sense of what
 - [brain dumps](https://btxx.org/posts/dump/)
 
 ---
-[^1]: I specifically made the photos tab in anticipation of getting my film developed. It has turned into meme/media sharing, which isn't the worse alternative usecase.
+[^1]: I specifically made the photos tab in anticipation of getting my film developed. It has turned into meme/media sharing, which isn't the worse alternative use case.
 [^2]: I plan on trying tags for visualization and grouping in my [archive]({{ 'archive' | absolute_url}})

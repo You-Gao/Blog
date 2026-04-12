@@ -1,14 +1,12 @@
 ---
 date:             2025-02-22
 last_modified_at: 2026-04-08
-tags: [economics, systems]
+tags:             [economics, systems]
+title:            The Fifth Discipline 
+name:             The Fifth Discipline 
+layout: style
 description:  >-
   see the big picture charlie 
-title: >-
-  The Fifth Discipline 
-layout: style
-name: >-
-  The Fifth Discipline 
 ---
 
 # The Fifth Discipline

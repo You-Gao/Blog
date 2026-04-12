@@ -1,14 +1,12 @@
 ---
-date: 2025-01-01
+date:             2025-01-01
 last_modified_at: 2026-04-08
-tags: [technology, economics]
+tags:             [technology, economics]
+title:            Democratizing Innovation
+name:             Democratizing Innovation
+layout: style
 description: >-
   the commoning of innovation
-title: >-
-  Democratizing Innovation
-layout: style
-name: >-
-  Democratizing Innovation
 ---
 
 # Democratizing Innovation

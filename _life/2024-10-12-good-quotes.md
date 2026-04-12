@@ -1,14 +1,12 @@
 ---
 date:             2024-10-13
 last_modified_at: 2026-04-08
-tags: [random, language]
+tags:             [random, language]
+title:            Anatomy of a Quote
+name:             Anatomy of a Quote
+layout:           style
 description:  >-
     What makes a quote good?
-title: >-
-    Anatomy of a Quote
-layout:           style
-name: >-  
-    Anatomy of a Quote
 comment: anatomy of a ____ reference
 ---
 

@@ -1,14 +1,13 @@
 ---
-date: 2025-07-01
+date:             2025-07-01
 last_modified_at: 2026-04-08
-tags: [vibe-coding, cs]
+tags:             [vibe-coding, cs]
+title:            Beyond Vibe Coding  
+name:             Beyond Vibe Coding
+layout: style
 description:  >-
     Is it really the "future"?
-title: >-
-    Beyond Vibe Coding  
-layout: style
-name: >-
-    Beyond Vibe Coding
+
 ---
 
 

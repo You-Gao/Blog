@@ -1,15 +1,12 @@
 ---
 date:             2024-10-25
 last_modified_at: 2026-04-08
-tags: [random, books]
+tags:             [random, books]
+title:            The Clemons Series
+name:             The Clemons Series
+layout:           style
 description:  >-
     A commitment I will commit to hopefully.
-layout:           post
-title: >-
-    The Clemons Series
-layout:           style
-name: >-
-    The Clemons Series
 ---
 
 # The Clemons Series

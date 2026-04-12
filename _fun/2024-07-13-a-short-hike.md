@@ -1,14 +1,12 @@
 ---
 date:             2024-07-13
 last_modified_at: 2026-04-08
-tags: [indie-game, platformer, game]
+tags:             [indie-game, platformer, game]
+title:            A Short Hike
+name:             A Short Hike
+layout:           style
 description:  >-
   A reflection on A Short Hike
-title: >-
-  A Short Hike
-layout:           style
-name: >-
-  A Short Hike
 comment: a well-made game
 ---
 

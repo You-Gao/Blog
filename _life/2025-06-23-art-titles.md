@@ -1,14 +1,12 @@
 ---
 date:             2025-06-23
 last_modified_at: 2026-04-08
-tags: [art, aesthetics, language]
+tags:             [art, aesthetics, language]
+title:            Why Do Artworks Need Titles?
+name:             Why Do Artworks Need Titles?
+layout:           style
 description:  >-
     I don't get modern art.
-title: >-
-    Why Do Artworks Need Titles?
-layout:           style
-name: >-
-    Why Do Artworks Need Titles?
 comment: art interpretation is weird
 ---
 

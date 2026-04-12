@@ -1,14 +1,12 @@
 ---
 date:             2025-06-28
 last_modified_at: 2026-04-08
-tags: [philosophy, math]
+tags:             [philosophy, math]
+title:            Physicists on Philosophy
+name:             Physicists on Philosophy
+layout:           style
 description:  >-
     Ughhh will anyone actually read a description?
-title: >-
-    Physicists on Philosophy
-layout:           style
-name: >-
-    Physicists on Philosophy
 comment:
 ---
 

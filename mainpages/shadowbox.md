@@ -24,7 +24,6 @@ A collection of sites that I stumbled upon and want to remember/share. The typol
 * [return oriented programming](https://en.wikipedia.org/wiki/Return-oriented_programming)
 * [i/o](https://eklitzke.org/blocking-io-nonblocking-io-and-epoll)
 
-
 ## insights into life
 
 * [we become what we behold](https://ncase.itch.io/wbwwb)
@@ -37,7 +36,6 @@ A collection of sites that I stumbled upon and want to remember/share. The typol
 * [bauhaus manifesto](https://bauhausmanifesto.com/)
 * [the pudding](https://pudding.cool/)
 
-<br/>
 ---
 [^1]: 11/06 - I am taking a class on distributed systems and tripped myself up trying to broadly apply the CAP theorem to databases.
 [^2]: 11/06 - We are not getting AGI for a while.

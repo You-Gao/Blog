@@ -1,14 +1,12 @@
 ---
 date:             2024-08-21
 last_modified_at: 2026-04-08
-tags: [philosophy, language, phil-lang]
+tags:             [philosophy, language, phil-lang]
+title:            Analytical Readings
+name:             Analytical Readings
+layout:           style
 description:  >-
   Enough is enough, I will train my logic muscles.
-title: >-
-  Analytical Readings
-layout:           style
-name: >-
-  Analytical Readings
 ---
 
 # Analytical Reading List[^1][^2][^3]

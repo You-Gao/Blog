@@ -1,14 +1,12 @@
 ---
 date:             2024-06-26
 last_modified_at: 2026-04-08
-tags: [phenomenology, art]
+tags:             [phenomenology, art]
+title:            Ways of Seeing
+name:             Ways of Seeing
+layout:           style
 description:  >-
   A phenomenology of sight.
-title: >-
-  Ways of Seeing
-layout:           style
-name: >-
-  Ways of Seeing
 ---
 
 <figure class="container-lg" style="padding: 0;">

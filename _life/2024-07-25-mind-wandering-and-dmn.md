@@ -1,14 +1,12 @@
 ---
 date:             2024-07-25
 last_modified_at: 2026-04-08
-tags: [psychology, mind]
+tags:             [psychology, mind]
+title:            Mind Wandering
+name:             Mind Wandering
+layout:           style
 description:  >-
     What your mind is doing when it wanders.
-title: >-
-  Mind Wandering
-layout:           style
-name: >-
-  Mind Wandering
 ---
 
 # Mind Wandering and DMN

@@ -1,14 +1,12 @@
 ---
 date:             2025-12-19
 last_modified_at: 2026-04-08
-tags: [language, phil-mind, phil-lang, data, math, cs]
+tags:             [language, phil-mind, phil-lang, data, math, cs]
+title:            linguistics and the such
+name:             linguistics and the such
+layout:           style
 description:  >-
     i have to stop
-title: >-
-    linguistics and the such
-layout:           style
-name: >-
-    linguistics and the such
 ---
 
 # linguistics and the such

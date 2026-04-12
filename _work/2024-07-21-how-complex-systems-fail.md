@@ -1,15 +1,12 @@
 ---
 date:             2024-07-21
 last_modified_at: 2026-04-08
-tags: [systems, failure-modes, testing]
+tags:             [systems, failure-modes, testing]
+title:            How Complex Systems Fail
+name:             How Complex Systems Fail and Crowdstrike
+layout:           style
 description:  >-
   The recent Crowdstrike incident and insights.
-layout:           post
-title: >-
-  How Complex Systems Fail
-layout:           style
-name: >-
-  How Complex Systems Fail and Crowdstrike
 comment: it was regex in the kernel?
 ---
 

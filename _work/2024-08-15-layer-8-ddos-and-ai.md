@@ -1,15 +1,12 @@
 ---
 date:             2024-08-15
 last_modified_at: 2026-04-08
-tags: [cs, ddos, ai]
+tags:             [cs, ddos, ai]
+title:            Layer 8 DDOS and AI
+name:             Layer 8 DDOS
+layout:           style
 description:  >-
     A new-age way of denying service.
-layout:           post
-title: >-
- Layer 8 DDOS and AI
-layout:           style
-name: >-
- Layer 8 DDOS
 comment: i foresaw rage-bait social media bots
 ---
 

@@ -1,14 +1,12 @@
 ---
 date:             2024-07-17
 last_modified_at: 2026-04-08
-tags: [anthropology]
+tags:             [anthropology]
+title:            Homo Ludens
+name:             Homo Ludens
+layout:           style
 description:  >-
   The history of the playing man.
-title: >-
-  Homo Ludens
-layout:           style
-name: >-
-  Homo Ludens
 comment: not a book about video games
 ---
 

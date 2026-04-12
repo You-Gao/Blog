@@ -1,15 +1,12 @@
 ---
 date:             2025-05-31
 last_modified_at: 2026-04-08
-tags: [movie, philosophy]
+tags:             [movie, philosophy]
+title:            Perfect Days    
+name:             Perfect Days
+layout:           style
 description:  >-
     one of my top movies
-layout:           post
-title: >-
-    Perfect Days    
-layout:           style
-name: >-
-    Perfect Days
 comment: koij yakusho is a phenomenal actor
 ---
 
@@ -47,13 +44,6 @@ To read further[^1] see: ["*Question of the Chariot*"](https://open.library.okst
 * The [architecture](https://tokyotoilet.jp/en/) of the bathrooms shown throughout the film was simply stunning as well.
 * The [soundtrack](https://open.spotify.com/playlist/5De282WtacLuUReEXqwuET) of the film are all old classics that feel very human.
 
-<br/>
 ---
 [^1]: The metaphor helps in understanding what I'm trying to say; speaking of the self always ends up sounding loosey-goosey.
 [^2]: Hirayama doesn't speak much; we only view his actions, which makes me a bit surer in what Wenders was trying to illustrate.
-
-
-
-
-
-

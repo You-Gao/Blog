@@ -1,9 +1,11 @@
 ---
 date: 2025-10-31
-name: a political economy
-comment: 
-layout: style
 title: a political economy
+name: a political economy
+layout: style
+description: >-
+comment: 
+
 img_location: /assets/photos/7.png
 ---
 ![image of google]({{ page.img_location }})

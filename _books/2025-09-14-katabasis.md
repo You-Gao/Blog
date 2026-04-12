@@ -1,14 +1,12 @@
 ---
-date: 2025-09-14
+date:             2025-09-14
 last_modified_at: 2026-04-08
-tags: [literature, logic, philosophy, phil-lang]
+tags:             [literature, logic, philosophy, phil-lang]
+title:            Katabasis
+name:             Katabasis
+layout:           style
 description:  >-
     linguistic fanfic
-title: >-
-    Katabasis
-layout: style
-name: >-
-    Katabasis
 ---
 
 # Katabasis

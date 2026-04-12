@@ -1,13 +1,11 @@
 ---
 date:             2026-01-14
 last_modified_at: 2026-04-08
-tags: [phil-mind, school]
-description:  >-
-title: >-
-    anthropomorphizing the magical
+tags:             [phil-mind, school]
+title:            anthropomorphizing the magical
+name:             anthropomorphizing the magical
 layout:           style
-name: >-
-    anthropomorphizing the magical
+description:  >-
 ---
 
 # anthropomorphizing the magical[^1]

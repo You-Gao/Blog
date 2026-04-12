@@ -1,16 +1,14 @@
 ---
 date:             2024-08-15
 last_modified_at: 2026-04-08
-tags: [cs, design, entropy]
+tags:             [cs, design, entropy]
+title:            Software Entropy and Silver Bullets
+name:             Software Entropy and Silver Bullets
+layout:           style
 description:  >-
     Understanding what software entropy is.
-layout:           post
-title: >-
- Software Entropy and Silver Bullets
-layout:           style
-name: >-
- Software Entropy and Silver Bullets
 ---
+
 # Software Entropy 
 
 I wanted to write this blog to define the necessary scope of "*software entropy*" and precisely what "*software entropy*" captures as a behavior of software. A lot of people learn about this concept throughout college or the workplace, but I feel that there isn't a clear enough conceptual. 

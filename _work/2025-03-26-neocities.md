@@ -1,15 +1,12 @@
 ---
 date:             2025-03-26
 last_modified_at: 2026-04-08
-tags: [design, ux, neocities]
+tags:             [design, ux, neocities]
+title:            Neocities and UX
+name:             Neocities & UX
+layout:           style 
 description:  >-
     exploring ux design via "the indie web."
-layout:           post
-title: >-
-    Neocities and UX
-layout:           style
-name: >-
-    Neocities & UX
 ---
 
 # Neocities & UX

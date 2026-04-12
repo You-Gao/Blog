@@ -1,15 +1,13 @@
 ---
 date:             2024-07-21
 last_modified_at: 2026-04-08
-tags: [cs, sociology, culture]
+tags:             [cs, sociology, culture]
+title:            MMM and DevOps
+name:             MMM and DevOps
+layout:           style
 description:  >-
   The question of the 1970s is answered today.
-layout:           post
-title: >-
-  MMM and DevOps
-layout:           style
-name: >-
-  MMM and DevOps
+
 ---
 
 # The Mythical Man-Month

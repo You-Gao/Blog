@@ -1,14 +1,12 @@
 ---
-date: 2025-10-11
+date:             2025-10-11
 last_modified_at: 2026-04-08
-tags: [phenomenology, phil-lang, phil-mind, philosophy]
+tags:             [phenomenology, phil-lang, phil-mind, philosophy]
+title:            Two Heidegger Books on Language
+name:             Two Heidegger Books on Language
+layout:           style
 description:  >-
     birthday books
-title: >-
-    Two Heidegger Books on Language
-layout: style
-name: >-
-    Two Heidegger Books on Language
 comment: books for my birthday
 ---
 

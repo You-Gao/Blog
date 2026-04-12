@@ -1,15 +1,12 @@
 ---
 date:             2024-08-31
 last_modified_at: 2026-04-08
-tags: [cs, accessibility]
+tags:             [cs, accessibility]
+title:            Digital Accessibility
+name:             Digital Accessibility
+layout:           style
 description:  >-
    What goes into digital accessibility?
-layout:           post
-title: >-
-    Digital Accessibility
-layout:           style
-name: >-
-    Digital Accessibility
 ---
 
 # Digital Accessibility

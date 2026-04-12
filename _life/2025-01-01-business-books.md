@@ -1,14 +1,13 @@
 ---
 date:             2025-01-01
 last_modified_at: 2026-04-08
-tags: [business, tips]
+tags:             [business, tips]
+title:            How to Find "Good" Business Books
+name:             How to Find "Good" Business Books
+layout:           style
 description:  >-
   my special super secret sauce
-title: >-
-  How to Find "Good" Business Books
-layout:           style
-name: >-
-  How to Find "Good" Business Books
+
 ---
 
 # How to Find "*Good*" Business Books

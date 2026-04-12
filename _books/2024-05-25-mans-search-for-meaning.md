@@ -1,14 +1,12 @@
 ---
 date:             2024-05-25
 last_modified_at: 2026-04-08
-tags: [existential, life]
+tags:             [existential, life]
+title:            Man's Search for Meaning
+name:             Man's Search for Meaning
+layout:           style
 description:  >-
   The psychology and experiences of the human condition.
-title: >-
-  Man's Search for Meaning
-layout:           style
-name: >-
-  Man's Search for Meaning
 ---
 
 <figure class="container-lg" style="padding: 0;">

@@ -1,15 +1,12 @@
 ---
 date:             2024-09-17
 last_modified_at: 2026-04-08
-tag: [strategy-game, game]
+tag:              [strategy-game, game]
+title:            Civilization 6
+name:             Civilization 6
+layout:           style
 description:  >-
   A reflection on Civ 6
-layout:           post
-title: >-
-    Civilization 6
-layout:           style
-name: >-
-    Civilization 6
 comment: time disapears when playing this
 ---
 
@@ -77,7 +74,6 @@ Good game, should play 10/10.
 
 If you want to play the game: [https://civilization.2k.com/](https://civilization.2k.com/)
 
-<br/>
 ---
 [^1]: It was kind of awkward thinking of specifically player mechanics because for Turn-based Games you are just interacting w/ the main game mechanics. There isn't a single "*body*" to control, rather a system.
 [^2]: Honestly, I have not completed 80% of my games.

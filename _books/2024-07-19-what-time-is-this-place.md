@@ -1,14 +1,12 @@
 ---
 date:             2024-07-19
 last_modified_at: 2026-04-08
-tags: [architecture, sociology]
+tags:             [architecture, sociology]
+title:            What Time is This Place?
+name:             What Time is This Place?
+layout:           style
 description:  >-
   A reflection on "*What Time is This Place?*"
-title: >-
-  What Time is This Place?
-layout:           style
-name: >-
-  What Time is This Place?
 ---
 
 # What Time is This Place?

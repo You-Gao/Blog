@@ -1,14 +1,12 @@
 ---
 date:             2024-08-15
 last_modified_at: 2026-04-08
-tags: [philosophy, psychology]
+tags:             [philosophy, psychology]
+title:            Learning Forwards and Backwards
+name:             Learning Forwards and Backwards
+layout:           style
 description:  >-
     The ways people learn and relate things.
-title: >-
-  Learning Forwards and Backwards
-layout:           style
-name: >-
-  Learning Forwards and Backwards
 ---
 
 # Learning Forwards and Backwards[^4]

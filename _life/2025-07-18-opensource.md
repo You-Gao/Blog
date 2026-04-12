@@ -1,14 +1,12 @@
 ---
 date:             2025-07-18
 last_modified_at: 2026-04-08
-tags: [cs, open-source]
+tags:             [cs, open-source]
+title:            cool open-source software
+name:             cool open-source software
+layout:           style
 description:  >-
     Some open-source projects I use in my day.
-title: >-
-    cool open-source software
-layout:           style
-name: >-
-    cool open-source software
 ---
 
 # cool open-source software[^2]

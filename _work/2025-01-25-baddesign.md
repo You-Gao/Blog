@@ -1,13 +1,12 @@
 ---
-date: 2025-01-26
+date:             2025-01-26
+last_modified_at: 2026-04-08
+tags:             [design, phil-sci, truth]
+title:            bad design is great
+name:             bad design is great
+layout:           style
 description: >-
  why you should find joy in dealing with bad design
-layout: post
-title: >-
- bad design is great
-layout: style
-name: >-
- bad design is great
 ---
 
 > "After re-reading my own explanation, I realize I was a bit confused writing this. The general statement about being learning from bad design still stands, but the discussion of how design proceeds might be a bit wonky."

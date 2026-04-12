@@ -1,14 +1,12 @@
 ---
 date:             2024-08-15
 last_modified_at: 2026-04-08
-tags: [reflection, life]
+tags:             [reflection, life]
+title:            Environmental Dissonance
+name:             Environmental Dissonance
+layout:           style
 description:  >-
     Being out of sync with surroundings/society.
-title: >-
-  Environmental Dissonance
-layout:           style
-name: >-
-  Environmental Dissonance
 ---
 # Environmental Dissonance
 

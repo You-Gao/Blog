@@ -1,14 +1,12 @@
 ---
 date:             2024-10-26
 last_modified_at: 2026-04-08
-tags: [phenomenology, philosophy, mind-body]
+tags:             [phenomenology, philosophy, mind-body]
+title:            Absent Body
+name:             Absent Body
+layout:           style
 description:  >-
   Phenomenological Reasons why Cartesian Dualism is popular
-title: >-
-  Absent Body
-layout:           style
-name: >-
-  Absent Body
 comment: https://www.youtube.com/watch?v=3BGvR4P4d40
 ---
 

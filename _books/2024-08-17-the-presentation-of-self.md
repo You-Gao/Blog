@@ -1,14 +1,12 @@
 ---
 date:             2024-08-17
 last_modified_at: 2026-04-08
-tags: [sociology, phil-mind]
+tags:             [sociology, phil-mind]
+title:            The Presentation of Self in Everyday Life
+name:             The Presentation of Self in Everyday Life
+layout:           style
 description:  >-
   Looking at society from the viewpoint of theatre.
-title: >-
-  The Presentation of Self in Everyday Life
-layout:           style
-name: >-
-  The Presentation of Self in Everyday Life
 ---
 
 # The Presentation of Self in Everyday Life

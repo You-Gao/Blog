@@ -1,14 +1,12 @@
 ---
 date:             2024-06-01
 last_modified_at: 2026-04-08
-tags: [psychology, life]
+tags:             [psychology, life]
+title:            The Art of Listening
+name:             The Art of Listening
+layout:           style
 description:  >-
   What does it mean to listen?
-title: >-
-    The Art of Listening
-layout:           style
-name: >-
-    The Art of Listening
 ---
 
 <figure class="container-lg" style="padding: 0;">

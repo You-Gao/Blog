@@ -1,14 +1,12 @@
 ---
 date:             2025-09-13
 last_modified_at: 2026-04-08
-tags: [reflection, phil-mind, phil-lang]
+tags:             [reflection, phil-mind, phil-lang]
+title:            the use and abuse of words
+name:             the use and abuse of words
+layout:           style
 description:  >-
     lingoostics
-title: >-
-    the use and abuse of words
-layout:           style
-name: >-
-    the use and abuse of words
 comment: i dislike rhetoric
 ---
 

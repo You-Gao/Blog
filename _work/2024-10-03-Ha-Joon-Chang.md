@@ -1,15 +1,12 @@
 ---
 date:             2024-10-03
 last_modified_at: 2026-04-08
-tags: [economics, school]
+tags:             [economics, school]
+title:            Ha-Joon Chang 
+name:             Ha-Joon Chang    
+layout:           style
 description:  >-
     My current role-model in the field of development studies.
-layout:           post
-title: >-
-    Ha-Joon Chang 
-layout:           style
-name: >-
-    Ha-Joon Chang    
 ---
 
 # Ha-Joon Chang[^2]

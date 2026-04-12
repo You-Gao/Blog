@@ -1,11 +1,12 @@
 ---
 date:             2025-03-07
 last_modified_at: 2026-04-08
-tags: [movie, life]
+tags:             [movie, life]
+title:            Eternal Sunshine of the Spotless Mind
+name:             Eternal Sunshine of the Spotless Mind
+layout:           style
 description:  >-
   It's a good movie, a character analysis mostly
-layout:           style
-name: Eternal Sunshine of the Spotless Mind
 comment: joel barish is a well written character
 ---
 
@@ -39,6 +40,5 @@ What's interesting is that, despite being his opposite, she's not just some mani
 
 The existence of this friction is why I came to the conclusion that the ending of the film isn't necessarily happy. The 3 loops at the end signify the 3 years of their relationship, which again fades to black. Love is a radical affirmation that Joel can't do because it involves accepting his emotions, and one that Clementine can't do because it involves recognizing her agency.
 
-<br/>
 ---
 [^1]: Rationalization DNE introspection, you're in your head but you don't "*see*" yourself.

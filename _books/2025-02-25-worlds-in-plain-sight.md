@@ -1,14 +1,12 @@
 ---
 date:             2025-02-25
 last_modified_at: 2026-04-08
-tags: [systems]
+tags:             [systems]
+title:            Worlds Hidden in Plain Sight
+name:             Worlds Hidden in Plain Sight
+layout: style
 description:  >-
  complex systems
-title: >-
- Worlds Hidden in Plain Sight
-layout: style
-name: >-
- Worlds Hidden in Plain Sight
 ---
 
 # Worlds Hidden in Plain Sight

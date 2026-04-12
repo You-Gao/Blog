@@ -1,16 +1,13 @@
 ---
 date:             2025-04-29
 last_modified_at: 2026-04-08
-tags: [indie-game]
+tags:             [indie-game]
+title:            Clair Obscur Expedition 33
+name:             Clair Obscur Expedition 33
+layout:           style
 description:  >-
     paper mario x HxH
-layout:           style
-name: >- 
-    Clair Obscur: Expedition 33
 comment: paper mario + hxh
-
-title: >-
-    Clair Obscur: Expedition 33
 ---
 
 # Clair Obscur: Expedition 33
@@ -58,7 +55,6 @@ Lore, it's definitely important, with the design tying in with the story. Lowkey
 
 If you want to play the game: [https://www.expedition33.com/](https://www.expedition33.com/)
 
-<br/>
 ---
 [^1]: The decision to execute on that vision and fill that segment is, in hindsight, very profitable for them. 
 [^2]: Cool combat system + Cool mob fights.

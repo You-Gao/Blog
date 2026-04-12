@@ -1,15 +1,12 @@
 ---
 date:             2024-08-30
 last_modified_at: 2026-04-08
-tags: [fighting-game, game, aaa]
+tags:             [fighting-game, game, aaa]
+title:            Guilty Gear Strive
+name:             Guilty Gear Strive
+layout:           style
 description:  >-
   A reflection on Guilty Gear Strive
-layout:           post
-title: >-
-  Guilty Gear Strive
-layout:           style
-name: >-
-  Guilty Gear Strive
 comment: quit after potemkin kara removal :(
 ---
 
@@ -88,6 +85,5 @@ On another point, *Guilty Gear* made me reflect on the point of playing games. O
 
 If you want to play the game: [https://www.guiltygear.com/ggst/en/](https://www.guiltygear.com/ggst/en/)
 
-<br/>
 ---
 [^1]: This point only makes sense when you have experienced being hard-read 3 times in a row.

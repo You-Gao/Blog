@@ -1,11 +1,12 @@
 ---
 date:             2025-04-13
 last_modified_at: 2026-04-08
-tags: [photography, art]
+tags:             [photography, art]
+title:            photography is fun
+name:             photography is fun
+layout:           style
 description:  >-
     re-exploring my interest in photography
-layout:           style
-name: photography is fun
 comment:
 ---
 
@@ -33,7 +34,6 @@ I recently got intrigued with photography again, so I wanted to share some curre
 * [Equivalents](https://en.wikipedia.org/wiki/Equivalents): Cool as an idea.
 * Instagram: Unironically, there are many talented photographers to find here.
 
-<br/>
 ---
 [^1]: Sorry if the post feels a bit rushed, I wanted to get it out, but I'm also chronically behind on work.
 [^2]: I have no clue if it is fully functioning or not.

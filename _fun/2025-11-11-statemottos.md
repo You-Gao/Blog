@@ -1,15 +1,12 @@
 ---
 date:             2025-11-11
 last_modified_at: 2026-04-08
-tags: [random]
+tags:             [random]
+title:            State Motto Rankings
+name:             State Motto Rankings
+layout:           style
 description:  >-
     rating state mottos
-layout:           post
-title: >-
-    State Motto Rankings
-layout:           style
-name: >-
-    State Motto Rankings
 ---
 
 # State Motto Rankings + friends

@@ -1,15 +1,12 @@
 ---
 date:             2025-03-13
 last_modified_at: 2026-04-08
-tags: [cs, tips]
+tags:             [cs, tips]
+title:            async/parallel
+name:             async/parallel
+layout:           style
 description:  >-
     my attempt at finally fully understanding these concepts
-layout:           post
-title: >-
-    async/parallel
-layout:           style
-name: >-
-    async/parallel
 ---
 
 

@@ -1,15 +1,12 @@
 ---
 date:             2024-12-28
 last_modified_at: 2026-04-08
-tags: [reflection, school]
+tags:             [reflection, school]
+title:            Future Studies 
+name:             Future Studies 
+layout:           style
 description:  >-
     reflecting on my education
-layout:           post
-title: >-
-   Future Studies 
-layout:           style
-name: >-
-   Future Studies 
 ---
 
 

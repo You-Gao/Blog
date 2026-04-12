@@ -1,14 +1,12 @@
 ---
 date:             2024-07-25
 last_modified_at: 2026-04-08
-tags: [productivity, learning]
+tags:             [productivity, learning]
+title:            My Productivity Set-up
+name:             Productivity Set-up
+layout:           style
 description:  >-
     How I free myself from distractions and small signals.
-title: >-
-    My Productivity Set-up
-layout:           style
-name: >-
-    Productivity Set-up
 ---
 
 # My Productivity Set-up
