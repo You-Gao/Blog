@@ -25,5 +25,5 @@ The problem lies in the backdrop of the soul, language, "*normativity*", "*falli
 In any case, the ideal of rigorous self-reflection and democratic debate still holds. A question can be asked if this ideal is a ploy to sell books by moral philosophers? Maybe.
 
 ---
-[^1]: Evidence does not have to be empirical, could be intersubjective too.
+[^1]: Evidence does not have to be empirical, could be inter-subjective too.
 [^2]: Does this mean I reject the notion of social distance then?

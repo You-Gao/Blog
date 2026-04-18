@@ -16,9 +16,9 @@ description:  >-
 
 Katabasis is an allegory of an already existing allegory.
 
-It takes the structure of "*Dante's Inferno*" and adds a power system called "*magick*" which can only be a direct mapping to what we consider "*linguistics*", specifically those that study "*symbolic systems*" or the grammar of language, including math, of course.
+It takes the structure of "*Dante's Inferno*" and adds a power system called "*magick*" which is another name for "*linguistics*". Specifically linguists who study "*symbolic systems*" or "*grammar*" including both math and English.
 
-The plot itself is good, but I only got through it because of the random neuron-activating references scattered throughout the book. The point of my writing this post was to talk about the referenced philosophical paradoxes and the resolutions we have to them.
+The plot is good, but I only got through it because of the random references scattered throughout the book. I write this post to talk about the referenced philosophical paradoxes and the resolutions people have proposed to them.
 
 ## Paradoxes
 
