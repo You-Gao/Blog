@@ -27,10 +27,10 @@ The game begins with the main character---a bird---traveling in a car with Aunt 
 
 **Complexity in Simplicity:** The mechanics are simple, yet mastering them provides a sense of challenge and fulfillment. The gliding mechanic offers depth and encourages players to learn and refine their control.   
 
-![walking animation]({{ '/assets/games/a-short-hike/walk.mp4' | relative_url }})
-![gliding animation]({{ '/assets/games/a-short-hike/glide.mp4' | relative_url }})
-![running animation]({{ '/assets/games/a-short-hike/run.mp4' | relative_url }})
-![item animation]({{ '/assets/games/a-short-hike/items.mp4' | relative_url }})
+[walking animation]({{ '/assets/games/a-short-hike/walk.mp4' | relative_url }})
+[gliding animation]({{ '/assets/games/a-short-hike/glide.mp4' | relative_url }})
+[running animation]({{ '/assets/games/a-short-hike/run.mp4' | relative_url }})
+[item animation]({{ '/assets/games/a-short-hike/items.mp4' | relative_url }})
 
 ## Game Mechanics
 

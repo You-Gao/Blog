@@ -14,36 +14,36 @@ comment: koij yakusho is a phenomenal actor
 
 If I **had** to choose my favorite movie, it would be *Perfect Days*.
 
-The film shares a truth I similarly hold about living and a very Buddhist truth. A truth that says being content is a mental state worth magnitudes above happiness. To accept, more so, understand the phrase "*this is life*" and being "*at peace*" with the world.
+The film shares a truth I hold about living. Being content is a mental state worth magnitudes above happiness. To accept, more so, understand is essential to life. The mantras "*this is life*" and "*I'm at peace*" remind myself to esteem towards contentment.
 
 ## Hirayama
 
-Wim Wenders uses Hirayama to demonstrate this truth. Hirayama is a Japanese toilet cleaner who follows a mundane daily/weekly routine and doesn't go out as much. Wenders notably plays with the fact that we "*viewers*" are, in a way, acting as judges for Hirayama.
+Wim Wenders uses Hirayama to demonstrate this truth. Hirayama is a Japanese toilet cleaner who follows a seemingly mundane daily/weekly routine. Wenders notably plays with the fact that we "*viewers*" are acting as judges for Hirayama.
 
 > "Hirayama is a janitor; he is a failed man."
 
 > "These rituals are only a way for Hirayama to cope with his sad life."
 
-It speaks a lot to how we use people's jobs to infer something of a person's internal psyche. Anyone who works X job is "*clearly miserable*" or "*lazy*" or "*boring*" or "*unsatisfied*" or Y negative trait. 
+It speaks to how we use people's jobs to infer something of a person's internal psyche. Anyone who works X job is "*clearly miserable*" or "*lazy*" or "*boring*" or "*unsatisfied*" or Y negative trait. 
 
-This is exactly how Hirayama's sister interprets Hirayama. She sees that Hirayama is a janitor and demeans him in the later parts of the film. So how is Hirayama happy despite all of this?
+This is how Hirayama's sister interprets Hirayama. She sees that Hirayama is a janitor and demeans him in the later parts of the film. These scenes often leave viewers wondering how is Hirayama happy despite all of this?
 
 ## "Other Minds" & "I"
 
-I wager that Hirayama is happy simply because he has accepted others will interpret him as such and simply moves on with his life. He doesn’t fight their perceptions, nor does he internalize them. He lives[^2]. 
+Hirayama is happy simply because he has accepted others will interpret him and moves on with his life. He doesn’t fight their perceptions, nor does he internalize them. He lives[^2].
 
-This speaks to a key concept and a question in cognitive science, and somewhat in sociology as well; the concept of "*self*" or "*I.*" A famous question that relates to this is the "*problem of other minds.*" It asks the question of how you could **definitively know** a person's internal mental state without needing to make the leap of assumption or inference. It's something we are all probably well aware of given how much "*first impressions*" or "*reading intent*" is valued.
+The "*problem of other minds*" comes to mind when thinking about Hirayama. It asks the question of how you could **definitively know** a person's internal mental state without needing to make the leap of assumption inference. 
 
-The point is that Hirayama has access to his "*I*"; he knows and has access to his own cognition. He knows himself if he truly is miserably or in abject sorrow throughout his day-to-day and doesn't rely on societal perceptions in establishing his "*self*." He accepts that others will misunderstand him. And rather than correct them, he continues living as he always has.
+Hirayama has access to his "*I*". He knows his own feelings. He knows himself if he truly is miserably or in abject sorrow throughout his day-to-day. He is fine with others misunderstanding him. Rather than correct them, he continues living as he always has.
 
 To read further[^1] see: ["*Question of the Chariot*"](https://open.library.okstate.edu/introphilosophy/chapter/an-introduction-to-what-is-a-chariot-what-are-we/)
 
 ## Miscellaneous
 
 * The [website](https://www.perfectdays-movie.jp/) for the movie inspired me to learn more about design.
-* The [architecture](https://tokyotoilet.jp/en/) of the bathrooms shown throughout the film was simply stunning as well.
-* The [soundtrack](https://open.spotify.com/playlist/5De282WtacLuUReEXqwuET) of the film are all old classics that feel very human.
+* The [architecture](https://tokyotoilet.jp/en/) of the bathrooms shown throughout the film was simply stunning.
+* The [soundtrack](https://open.spotify.com/playlist/5De282WtacLuUReEXqwuET) of the film are all old classics.
 
 ---
-[^1]: The metaphor helps in understanding what I'm trying to say; speaking of the self always ends up sounding loosey-goosey.
-[^2]: Hirayama doesn't speak much; we only view his actions, which makes me a bit surer in what Wenders was trying to illustrate.
+[^1]: The metaphor helps in understanding what I'm trying to say.
+[^2]: Hirayama doesn't speak much; we only view his actions. 

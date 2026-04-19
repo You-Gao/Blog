@@ -29,61 +29,38 @@ Although it does get a lot of flack for being "*scrubby*", it makes the game acc
 * **Roman Cancel:** Press any 3 ```UIJK``` or a bind to RC.
 * **Psych Burst:** Press any ```UIJK``` + ```D``` to PB.
 
-<div class="video-grid" style="">
-
-<div>
-<iframe src="https://www.youtube.com/embed/wQ58Vy3DffY?si=jxrj8lvxA_mwEhLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-
-  <div>
-    <iframe src="https://www.youtube.com/embed/0a2ODmxbkLQ?si=dVG-TuP3FRDqqHrj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-
-  <div>
-<iframe src="https://www.youtube.com/embed/9I0o8UtmQT4?si=wrRLSc0qyu4kjZqB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  </div>
-
-<div>
-<iframe src="https://www.youtube.com/embed/V-oLfRI7uxU?si=NBpe1yJNh74T1Xe3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
-</div>
-
 ## Game Mechanics
 
-**Matches:** Every match is a first to 2, where you need to reduce the life bar of the opponent to 0 twice to win. The only interesting portion of how this is set up and impacts a match is burst gauge management, as that carries over between rounds.
+**Matches:** Every match is a first to 2, where you need to reduce the life bar of the opponent to 0 twice to win. Burst gauge carries over between rounds.
 
 **Meter:** Each attack and move adds to the bar throughout the fight. It allows the player to execute supers and Roman cancels, which can be used in different ways to extend combos, deal more damage, mix-ups, and more. 
 
-**Wall Breaks:** Although not directly unique to *Guilty Gear*, the wall break mechanic adds a new layer of interaction when the opponent is in a corner. The only other popular fighting game that has this is Tekken? 
+**Wall Breaks:** The wall break mechanic adds a new layer of interaction when the opponent is in a corner. On wall break, a player ends up in a beneficial starting state.
 
-**Characters:** The cast of the game boasts a pretty diverse and comprehensive set of characters. In the fighting game genre, these character archetypes have been sort of "*solved*" in a sense for the game plan of the character: "***grappler, zoner, shoto, pixie, etc.***"
+**Characters:** The cast of the game boasts a diverse and comprehensive set of characters. In the fighting game genre, these character archetypes are the "*grappler*", "*zoner*", "*shoto*", "*pixie*" and etc.
 
-On top of this archetypal difference, each character has a unique set of tools, combo routes, and interactions that, when managed efficiently, give rise to a pretty deep expression of the player.
+On top of archetypal difference, each character has a unique set of tools, combo routes, and interactions which gives rise to a deep player expression.
 
 ## Themes and Player Experience
 
-**Social Interaction:** The reason I play *Guilty Gear Strive* is the social aspect. Going against another "*real*" player---until AI gets too advanced---makes me actually take the game seriously. It's not just about winning or losing; it's about the encounter itself, the back-and-forth of skill, mind games, and adaptation.
+**Social Interaction:** The reason I play *Guilty Gear Strive* is the social aspect. Going against another real player---until AI gets too advanced---makes me take the game seriously. It's not about winning or losing. It's about the encounter itself, the back-and-forth of skill, mind games, and adaptation.
 
+**Narrative:** Building on the previous point. You encounter the same opponent many times throughout the day. Over time, you create stories of triumph, defeat, and growth.
 
-**Narrative:** Building on that point. For people you go against online, especially after you hit Celestial floor, you will encounter the same opponent many times throughout the day. Over time, you create stories of triumph, defeat, and growth, and such because playstyles evolve even in the span of a match.
+**Competition:** In each match, there has to be a winner. There is the simple and primal joy of winning.
 
-**Competition:** In the end, though, there is that aspect of the game where, in each match, there has to be a winner. Unconsciously and consciously, there is that joy of winning.
-
-**Expression:** Each character lends itself to having skill expression. What is your playstyle, how does that playstyle change, how do you adapt, etc. produces the dimension of expression through not only skill, but also personality.  
+**Expression:** Each character lends itself to having skill expression. What is your playstyle, how does your playstyle change, and how you adapt, produces the dimension of expression through skill and personality.  
 
 <iframe class="my-3" width="100%" height="300" src="https://www.youtube.com/embed/TmRiqi708zQ?si=HooDuqwd8HzGv_tR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-I get how people might be confused about me putting social interaction and narrative here. The idea is there are two ways people can go about playing games: "***The individualistic subject that plays to win or the community subject that plays to connect.***"
+I get how people would be confused about me putting social interaction and narrative here. The idea is there are two ways people can go about playing games. An "*individualistic*" subject plays to win or the "*community*" subject who plays to connect.
 
-After reflecting on games, I feel like they have so much more power as a connective medium than the former conception. While the thrill of competition is undeniable, the moments where I've deeply enjoyed games are with others, whether through friendly banter, exchanging tips, or even just mutual respect after a hard-fought match.
+After reflecting on games, I feel like they have so much more power as a connective medium than the former conception. While the thrill of competition is undeniable, the moments where I've deeply enjoyed games are with others. Moments of friendly banter, exchanging tips, or mutual respect after a hard-fought match have been why I come back to fighting games.
 
 ## Conclusion
 
-With all that being said, *Guilty Gear* is a game that is fun for me, and I recognize when it is not fun. It's not fun when I am not playing to play, and winning has become my sole objective. Should you play *Guilty Gear*? Yes, if you have nothing better to do. It's a pretty great leisure time activity and better than a lot of other alternatives that take up a lot of time. A match is pretty quick, like 5 minutes max, to complete one.
+*Guilty Gear* is a fun game. I recognize when it is not fun. It's not fun when I am not playing to play, and winning has become my sole objective. Should you play *Guilty Gear*? Yes. It's a great leisure time activity and better than other games out at the moment. A match is takes 5 minutes max to finish.
 
-On another point, *Guilty Gear* made me reflect on the point of playing games. Often, it can lend itself to this individualistic point of winning above all else; this is a very bland way of understanding games---in my opinion. Fighting games are very different from the conception of winning in relation to something like chess. It provides a layer to the turn-based interaction and provides a stronger argument for the social joy of games.
+On another point, *Guilty Gear* made me reflect on why I play competitive games. Often, fighting games creates this individualistic mindset of winning above all else; this is a bland way of understanding games. Fighting games can offer a different conception of winning. A conception focused on the joy of games as a social activity.
 
 If you want to play the game: [https://www.guiltygear.com/ggst/en/](https://www.guiltygear.com/ggst/en/)
-
----
-[^1]: This point only makes sense when you have experienced being hard-read 3 times in a row.
