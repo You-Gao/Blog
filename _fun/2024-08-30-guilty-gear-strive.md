@@ -16,9 +16,9 @@ comment: quit after potemkin kara removal :(
 
 ## Introduction
 
-*Guilty Gear Strive* is a pretty popular game that has sold well on Steam, especially with a price-point of $50. It's a part of the cult classic fighting game series made by Daisuke Ishiwatari and is highly praised for what it has given to the fighting game community. 
+*Guilty Gear Strive* is a popular game with a price-point of $50. It's a part of the cult classic fighting game series made by Daisuke Ishiwatari and is praised for what it has given to the fighting game community. 
 
-Although it does get a lot of flack for being "*scrubby*", I think it makes the game accessible. There is a high-skill ceiling and a low-skill floor. The quick match system in the game also makes skill-based matchmaking bearable. I personally have 500+ hours on it, all on one character, so here are my thoughts after playing that much.
+Although it does get a lot of flack for being "*scrubby*", it makes the game accessible. There is a high-skill ceiling and a low-skill floor. The quick match system in the game makes skill-based matchmaking bearable. I have 500+ hours on it, all on one character, Potemkin.
 
 ## Player Mechanics
 
