@@ -11,6 +11,8 @@ description:  >-
 
 # State Motto Rankings + friends
 
+## Rankings
+
 0. Puerto Rico: *Joannes est nomen ejus* — “John is his name.”
 1. Virginia: *sic semper tyrannis*
 2. North Carolina: *esse quam videri* — To be, rather than to seem

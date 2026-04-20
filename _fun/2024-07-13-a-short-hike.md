@@ -16,7 +16,7 @@ comment: a well-made game
 
 ## Introduction
 
-The game begins with the main character---a bird---traveling in a car with Aunt May---also a bird---to a hiking location. This strting screen sets the stage for the adventure and exploration that follows.
+The game begins with the main character---a bird---traveling in a car with Aunt May---a bird---to a hiking location. This starting screen sets the stage for the adventure and exploration that follows.
 
 ## Player Mechanics
 
@@ -27,9 +27,9 @@ The game begins with the main character---a bird---traveling in a car with Aunt 
 
 **Complexity in Simplicity:** The mechanics are simple, yet mastering them provides a sense of challenge and fulfillment. The gliding mechanic offers depth and encourages players to learn and refine their control.   
 
-[walking animation]({{ '/assets/games/a-short-hike/walk.mp4' | relative_url }})
-[gliding animation]({{ '/assets/games/a-short-hike/glide.mp4' | relative_url }})
-[running animation]({{ '/assets/games/a-short-hike/run.mp4' | relative_url }})
+[walking animation |]({{ '/assets/games/a-short-hike/walk.mp4' | relative_url }})
+[gliding animation |]({{ '/assets/games/a-short-hike/glide.mp4' | relative_url }})
+[running animation |]({{ '/assets/games/a-short-hike/run.mp4' | relative_url }})
 [item animation]({{ '/assets/games/a-short-hike/items.mp4' | relative_url }})
 
 ## Game Mechanics
@@ -46,23 +46,21 @@ The game begins with the main character---a bird---traveling in a car with Aunt 
 
 ## Design Choices
 
-**Perspective and Camera Work:** A unique aspect of *A Short Hike* is primarily the camerawork around the mountain. It does not follow the conventional 3D perspective used in shooters where the camera is above and behind the player, but instead focuses on the mountain as if it were looking towards the center.
+**Perspective and Camera Work:** A unique aspect of *A Short Hike* is the camerawork around the mountain. It does not follow the conventional 3D perspective used in shooters where the camera is above and behind the player, but instead focuses on the mountain as if it were looking towards the center.
 
 **Art Style and Atmosphere:** *A Short Hike* has a charming pixel art style and vibrant color palette. The game's visuals evoke a sense of nostalgia and simplicity, contributing to a warm and inviting atmosphere. This artistic choice, combined with the tranquil and picturesque environment makes the game feel relaxing and encourages further exploration into the world.
 
-**Soundtrack:** Each track is crafted to match different areas and moments within the game, creating an auditory journey that aligns with the player's progress. The soundtrack not only enriches the atmosphere but also adds emotional depth.
+**Soundtrack:** Each track is crafted to match different areas and moments within the game, creating an auditory journey alongside the player's progress. The soundtrack enriches the atmosphere and adds emotional depth.
 
-**No Fall Damage:** One of the refreshing gameplay mechanics in *A Short Hike* is the absence of fall damage. This design choice allows players to explore the mountain freely without the fear of negative consequences from falling.
+**No Fall Damage:** In *A Short Hike* there is no fall damage. This design choice allows players to explore the mountain freely without the fear of negative consequences from falling.
 
 ## Themes and Player Experience
 
-**Growth and Mastery:** A big theme in *A Short Hike* is growth---which goes hand-in-hand with mastery. You start off with a single golden feather, which slowly increases until you get the max of twenty. Along the way, "*you*" and the "*character*" both grow. On the one hand, via learning the game mechanics better, and on the other by simply having more feathers. 
+**Growth and Mastery:** The primary theme in *A Short Hike* is growth---which goes hand-in-hand with mastery. You start off with a single golden feather, which slowly increases until you get the max of twenty. Along the way, you and the character both grow. On the one hand, via learning the game mechanics better, and on the other by collecting more feathers. 
 
-**Exploration and Discovery:** As players collect golden feathers, they experience increased freedom, reinforcing themes of exploration and discovery. The mountain serves as both a metaphorical and literal goalpost, marking player progression. There's a point where you can unlock a special feather that increases your capabilities two-fold.
+**Exploration and Discovery:** As players collect golden feathers, they experience increased freedom. The mountain serves as goalpost for marking player progression. The collection of golden feathers and the mountain "*egg on*" the player to reach the top.
 
-**Non-competitive Challenge:** The mountain presents a challenge without adversaries, focusing on personal achievement and the joy of overcoming obstacles rather than on competition.
-
-**Narrative and Connection:** The game's narrative acts as the cohesive glue that binds together its diverse aesthetics, advancing the storyline and immersing players in its world. 
+**Narrative and Connection:** The game's narrative binds together its diverse aesthetics, advancing the storyline and immersing players in its world. 
 
 ## Conclusion 
 
@@ -70,7 +68,7 @@ The game begins with the main character---a bird---traveling in a car with Aunt 
 
 My reflections on the game has made me want to go on a real hike. The only reason why I have never been on a hike was because of an unfounded bias. I always thought of them like stick-to-the-path adventures and boring walking.
 
-The motivator missing for me was other people. In the actual world, a hiker wouldn't encounter a shady person or completing random tasks. This conclusion is to say everything I have written about the themes and aesthetics in *A Short Hike* equally applies to real-life hiking, so go "*touch some grass*".
+The motivator missing for me was other people. In the actual world, a hiker wouldn't encounter a shady person asking you to complete tasks for them. Everything I have written about the themes and aesthetics in *A Short Hike* equally applies to real-life hiking, so go "*touch some grass*".
 
 Here is a clip of *A Short Hike*.
 

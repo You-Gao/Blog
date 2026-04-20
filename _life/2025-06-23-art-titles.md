@@ -10,20 +10,19 @@ description:  >-
 comment: art interpretation is weird
 ---
 
-
 # Why Do Artworks Need Titles?
 
-Do all artwork have titles? What is the point of them? Does it add anything to the painting? I think the answer is yes and no[^1].
+Do all artwork have titles? What is the point of them? Does it add anything to the painting? The answer is yes and no[^1].
 
-A hallmark of the pejorative "*modern art*" is a sense of obscurantism, where the more metaphorical your work, the better---though it devolves to meaninglessness. Having a title in this situation is helpful, in so far as having the artist themself explain the work. For all I care, paint a rock and title the piece "*me.*" Having the title, there is at least something to work off of.
+A hallmark of "*modern art*" is a sense of obscurantism. The more metaphorical your work, the better the piece is. Having a title in this situation is helpful, insofar as having the artist them self explain the work. For all I care, paint a rock and title the piece "*me*". The title provides something to work off.
 
-On the other hand, I feel like there are artists that can paint the "*ineffable.*" There isn't a need to title a painting of a Tree "*Tree 06.23*", unless the work is within a collection where the context does indeed add meaning. The distinction here is [iconic vs. symbolic](https://thisvsthat.io/iconic-signs-vs-symbolic-signs).
+On the other hand, there are artists who can paint the "*ineffable*". There isn't a need to title a painting of a Tree "*Tree 06.23*", unless the work is within a collection. With the collection holding the meaning.
 
-"*Realist*" paintings can be thought of as "*iconic*" as they aim to mimic our perception of the world. It's not hard to make out what the drawing is. On the other hand, "*modern art*" works on the "*symbolic*" level. The painting is not of perception but representation. That's probably when I would want a title.
+"*Realist*" paintings can be thought of as "*iconic*" as they aim to mimic our perception of the world. It's not hard to make out what the drawing is. On the other hand, "*modern art*" works on the "*symbolic*" level. The painting is not of perception but representation. That's when I would want a title.
 
-After all, ["***the map is not the territory***"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation) and "***Ceci n'est pas une pipe***"
+After all, ["*the map is not the territory*"](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation) and "*Ceci n'est pas une pipe*"
 
-<img src="https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg"/> 
+![The pipe](https://upload.wikimedia.org/wikipedia/en/b/b9/MagrittePipe.jpg)
 
 ---
-[^1]: Addendum: I also think they can simply function as "*names*". 
+[^1]: Addendum: They can function as "*names*". 

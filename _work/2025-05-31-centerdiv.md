@@ -17,7 +17,7 @@ I thought it would be a fun exercise, so here it is.
 
 - {position: absolute} tells the browser to always display a browser element at a fixed location.
 - {top:50%; left:50%;} moves the element to the center-middle of the browser.
-- {transform: translate(50%, 50%)} finishes this off by moving the element itself by it's own bounds to "*truly*" center itself.
+- {transform: translate(50%, 50%)} finishes this off by moving the element itself by its own bounds to "*truly*" center itself.
 
 ## 'display: flex' + 'justify-content' + 'width: 100%'
 
@@ -27,7 +27,7 @@ I thought it would be a fun exercise, so here it is.
 
 ## 'width' + 'margin: auto'
 
-- {width < 100%} set the width to less then 100%
+- {width < 100%} set the width to less than 100%
 - {margin: auto} margin-left and margin-right will equally fill in space
 
 ## display: grid + grid-template-columns
