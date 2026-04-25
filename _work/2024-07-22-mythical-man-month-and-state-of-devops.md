@@ -7,47 +7,38 @@ name:             MMM and DevOps
 layout:           style
 description:  >-
   The question of the 1970s is answered today.
-
 ---
 
 # The Mythical Man-Month
 
 > "For many, the joys far outweigh the woes, and for them, the remainder of this book will attempt to lay some boardwalks across the tar."
-> <figcaption class="blockquote-footer">The Mythical Man-Month</figcaption>
+> {% include figcaption.html caption="The Mythical Man-Month" %}
 
-Mythical Man-Month as a book is solid, and what really makes it good (at least for me) is how strongly the ideas put out in the book have stood the test of time. Fred Brooks, the author of the book, provides us with the wisdom he has gathered over the years leading major software projects in the 1970s.
+*Mythical Man-Month* put out concepts that have stood the test of time. Fred Brooks provides us with the wisdom he has gathered over the years, leading major software projects in the 1970s.
 
-The book leads SWEs into the uncomfortable realization that writing software indeed has a social, ethical, and political domain that requires reflective inquiry to construct ideal systems. So, if you want to know why the tech field has adopted certain organizational structures, software teams, common best practices, and development methodologies, consider checking the book out.
+Personally, the book has helped highlight and provide insight into a lot of the challenges of writing software within an organizational context (open-source or in a company). As a student, you usually will never encounter software development at scale until an internship, so this book is priceless in this respect. 
 
-Personally, the book has helped highlight and provide insight into a lot of the challenges of writing software within an organizational context (open-source or in a company). As a student, you usually will never encounter software development at scale until an internship, so this book is really priceless in that aspect. 
-
-The book is dated, though, simply because it reflects a different era software development. However, the portion about developing software with constraints gave an interesting thought to judging software not by size but by functionality; Mostly irrelevant now that people can host programs on VMs with 3GB+.
-
-A question I had throughout reading the book was: "***Why is there minimal mention of organizational culture in Mythical Man-Month?***" Brook says a lot about organizational structures and the responsibilities of those roles, but there is minimal mention of culture's impact on a software project's success. Maybe, back then, no one needed a reminder that everyone at the company was there to succeed, and no one was actually out to get them.
-
-Most of the current DevOps best practices seem to be pretty innocuous, though that could be hindsight bias. Either way, with DevOps and learning from the 1970s, we now have feedback loops, deployment pipelines, cross-functional teams, QA teams, continuous learning, code reviews, code ownership, and general cognizance of good software organizations.[^1]
+The book is a bit dated because it comes from a different era of software development. A question I had was: "*Why is there minimal mention of organizational culture in Mythical Man-Month?*" Brook says a lot about organizational structures and the responsibilities of those roles. However, there is minimal mention of organizational culture.
 
 # [State of DevOps 2023 Report](https://services.google.com/fh/files/misc/2023_final_report_sodr.pdf)
 
 > "The management of this complex craft will demand our best use of new languages and systems, our best adaptation of proven engineering management methods, liberal doses of common sense, and a God-given humility to recognize our fallibility and limitations."
 > <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
 
-I added *State of DevOps* to this review because, from a 21st-century perspective, the DevOps movement was the attempt to address the organizational, interpersonal, and technical challenges posed by software development.
+I added *State of DevOps* to this post because the DevOps movement was an attempt to address the organizational, interpersonal, and technical challenges posed by software development.
 
-Putting it into perspective, during Brooks' time, there weren't technologies or concepts like Version Control (Git), CI/CD, API Specifications, Agile methodologies, linters, and test environments---though there were some rudimentary equivalents. 
+Putting it into perspective, during Brooks' time, there weren't technologies or concepts like Version Control, CI/CD, API Specifications, Agile methodologies, linters, and test environments---though there were some rudimentary equivalents. 
 
-Software development and system design was only in its infancy in those days. Now, in the 21st century, software orgnanizations continues to address issues related to software engineering teams, architectural decisions, formal specifications, knowledge sharing, testing, reliability, and documentation.
+Software development and system design were only in their infancy. In the 21st century, software organizations continue to address issues related to software engineering teams, architectural decisions, formal specifications, knowledge sharing, testing, reliability, and documentation.
 
 ## Establish a Healthy Culture
 
 > "Teams with generative cultures have 30% higher organizational performance."
 > <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
 
-I don't have much to say on this part in relation to Mythical Man-Month. All I can say is that if people trust each other and work towards a common mission, along with good infrastructure, the company is set. 
+I don't have much to say on this part in relation to *Mythical Man-Month*. All I can say is if people trust each other and work towards a common mission, along with good infrastructure, then the company is set. 
 
-Although I may not be able to elaborate extensively, many of the organizational structures in the book closely align with the common practices of today. Small and effective teams enable employees to work more intentionally locally, with the hope that the resulting culture will be solidified.
-
-Takeaway: "***Outside of having a company culture slide deck, there are very real organizational choices and practices for creating a "generative culture."***"
+Takeaway: "*Outside of having a company culture slide deck, there are very real organizational choices and practices for creating a generative culture.*"
 
 Chapters:
 
@@ -56,16 +47,14 @@ Chapters:
 * CH 3: The Surgical Team
 * CH 14: Hatching a Catastrophe
 
-## Build With User in Mind
+## Build With Users in Mind
 
 > "Teams that focus on the user have 40% higher organizational performance."
 > <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
 
-My theory on why companies have higher organizational performance by focusing on UX is that they get more formalized specifications, requirements, and abstractions before developing new features. 
+My theory on why companies have higher organizational performance by focusing on UX is because they get better specifications, requirements, and abstractions before developing new features. 
 
-I don't think what I said was anything crazy, as having a more explicit architectural and technical representation of the software before building it would help the organization deliver more at a quicker pace. Prototyping would definitely play into this as well, with the wide range of tools that can generate different forms of MVPs. 
-
-Takeaway: "***Build features with the user in mind, and if not, build features with clear specifications.***"
+Takeaway: "*Build features with the user in mind, and if not, build features with clear specifications.*"
 
 Chapters:
 
@@ -73,31 +62,14 @@ Chapters:
 * CH 5: The Second-System Effect
 * CH 6: Passing the Word
 
-## Faster Code Reviews
-
-> "Teams with faster code reviews have 50% higher software delivery performance. "
-> <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
-
-Not to say for just removing the process of code reviews altogether, but these companies seem to have a way of performing the code review process quicker. I would imagine it is quicker due to having many experts on the team.
-
-A point I want to reiterate from the book and also a common pain voiced today: "***Managers should have a semblance of technical depth, and Tech leads should have a semblance of managerial knowledge.***" Other than that, yeah, I mean, I guess quicker code reviews = quicker delivery times.
-
-Takeaway: "***Don't forget to do your code reviews?***"
-
-Chapters:
-
-* CH 11: Plan to Throw One Out
-
 ## Amplify Technical Capabilities with Quality Documentation
 
 > "Trunk-based development, for example, is estimated to have 12.8x more impact on organizational performance when high-quality documentation is in place relative to low-quality documentation."
 > <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
 
-The point of these docs is to communicate the larger architectural decisions about parts of the codebase. This is usually not what is done or well-maintained, which leads to a common perception that docs are meaningless and provide no value in the development lifecycle. 
+The goal of docs is to communicate the larger architectural decisions about parts of the codebase. Even then, documentation is never done or well-maintained.
 
-The problem is---docs take manual effort and are hard to write---but... there have been solutions in some cases OAS 2.0 docs with Swagger. It is hard to see the light at the end of the tunnel for these artifacts, but they really do help keep people in the context of what they are working on.
-
-Takeaway: "***If a person has to read all the methods of a repo in depth to understand what's going on, uh oh...***"
+Takeaway: "*If a person has to read all the methods of a repo in depth to understand what's going on, uh oh...*"
 
 * CH 7: Why Did the Tower of Babel Fail?
 * CH 8: Calling the Shot
@@ -109,11 +81,11 @@ Takeaway: "***If a person has to read all the methods of a repo in depth to unde
 > "Using a public cloud, for example, leads to a 22% increase in infrastructure flexibility relative to not using the cloud."
 > <figcaption class="blockquote-footer">State of Devops 2023 Report</figcaption>
 
-Debugging and testing were even worse in the past than they are now. Brooks recounts spending hours setting up and tearing down build test tools for the OS system his team was developing in the 70s. Now, it takes a couple of seconds to run basic tests and maybe minutes to run more comprehensive ones.
+Debugging and testing were even worse in the past than they are now. Brooks recounts spending hours setting up and tearing down build test tools. Now, it takes a couple of minutes to run basic tests and minutes more to run test environments.
 
 This comparison effectively illustrates the increased flexibility and capabilities now available to us. Tools like Terraform or CloudFormation would have been viewed as arcane magic to these early practitioners, but we now have them and should utilize them to increase the reliability of our software.
 
-Takeaway: "***New tools are being built every day to reduce accidental complexity. We should use them.***"
+Takeaway: "*New tools are being built every day to reduce accidental complexity. We should use them.*"
 
 Chapters:
 
@@ -127,6 +99,3 @@ Chapters:
 Brooks, F.P. (1987). No Silver Bullet: Essence and Accidents of Software Engineering.
 
 Brooks, F.P. (1975). The Mythical Man-Month. Reliable Software.
-
----
-[^1]: A lot of these issues persist today, and I definitely think it is because they are not incentivized correctly

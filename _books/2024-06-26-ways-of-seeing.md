@@ -1,30 +1,23 @@
 ---
 date:             2024-06-26
-last_modified_at: 2026-04-08
+last_modified_at: 2026-04-15
 tags:             [phenomenology, art]
 title:            Ways of Seeing
 name:             Ways of Seeing
 layout:           style
 description:  >-
   A phenomenology of sight.
+comment: ✦✦✦✦✧
 ---
-
-<figure class="container-lg" style="padding: 0;">
-    <blockquote class="blockquote" style="font-size: 18px; color: red;">
-    <p style="color: #D21404;">"archival series"</p>
-    </blockquote>
-</figure>
 
 # Ways of Seeing
 
 > "The relation between what we see and what we know is never settled."
-> <figcaption class="blockquote-footer">Ways of Seeing</figcaption>
+> {% include figcaption.html caption="Ways of Seeing" %}
 
-Picked up this book because I wanted to understand perception.[^1] In essence, what the quote means is the ways in which we see (view the world, receive visual stimuli) and what we know (the signs and signifiers imbued with meaning) are never stable nor comprehensive of the "*thing*" (person, object, other).
+I picked up this book because I wanted to understand perception. The quote stuck with me because it answered why I chose to read "*Ways of Seeing*". My interpretation is that there is always a gap between perception and language. And then another gap with "*truth*" or "*reality*". We're always two steps removed when communicating about the world[^1].
 
-In short: "***people change, things change, words evolve, maps shift, or atleast impermanent in reference**"
-
-Berger explains this effect by analyzing art, pictures, and their meanings. The subsequent concept of "*perspective phenomenology*" that he delivers is useful because it describes the whole point of phenomenology, at least for me, as the process of coming into understanding the nature of human "*inter-subjectivity.*"
+Berger explains this effect by analyzing art and their interpretations. The concept of "*perspective phenomenology*" is useful because it describes the process of developing human "*inter-subjectivity.*"
 
 ---
-[^1]: I got the inspiration to read this book because a flower pot seemed weird to me walking to class. 
+[^1]: I'm writing in retrospect (2026-04-15). I never grasped what the quote meant or took it seriously when I first read it. I now endorse metaphysical positions in the same vein as the quote: "*constructive empiricism*", "*idealism*", "*perspective realism*".

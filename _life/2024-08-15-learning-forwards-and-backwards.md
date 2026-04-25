@@ -12,36 +12,28 @@ description:  >-
 # Learning Forwards and Backwards[^4]
 
 > "For if you believe, as I do, that all learning is but recollection, then it follows that learning is not a matter of getting new information but of remembering what the soul already knows."
-> <figcaption class="blockquote-footer">Plato's Meno</figcaption>
+> {% include figcaption.html caption="Plato" %} 
 
-Theories on learning and gathering new facts about the world have been a productive field of human thought. I am entering this world to summarize my position on how learning operates and the different perspectives a person can orient when needing to learn. 
-
-Taking from the already popularized dichotomies of "***know-how vs. know-that, implicit vs explicit, and known unknown vs unknown unknowns.***" I will see if I can use those concepts to argue the ways in which we can gather knowledge on a topic and draw out where you would use a specific method of learning.[^1]
+Theories on learning have been a productive field of human thought. I am entering this world to summarize my position on how learning operates and the different methods of learning. 
 
 ## Learning Forwards
 
-Before making the argument of learning backward, I need to address the question of how people pick up base knowledge. These are the minimum facts you need before going further in conceptual depth. Ideas such as Newton's Laws and many other laws would fall under the category. 
-
-This approach is good because humanity has generated a corpus of empirical facts. So, initial learning begins with textbooks and readings and onwards until you have enough facts in relation to each other that cognitive models are created on topics.[^2]
+Before making the argument of learning backward, I need to address the question of how people pick up base knowledge. These are the minimum facts you need before going further in conceptual depth. Ideas such as Newton's Laws and many other "*natural laws*" would fall under the category. Initial learning begins with textbooks and readings and onwards until you have enough facts to create cognitive models.
 
 ## Learning Backwards
 
-Alas, after you have lived in the world and gathered a suite of ontologies, you can start learning by going backward. My idea of learning backward is adjacent to the concept of learning by analogy.
+After you have lived in the world and gathered a suite of "*ontologies*", you can start learning by going backward. My idea of learning backward is adjacent to the concept of learning by "*analogy*". Instead of learning something from scratch, you can take a preexisting structure and map it onto another domain.
 
-For example, To teach someone how multithreading and async work, you likely wouldn't start immediately on sync mechanisms or thread spawning. The sane approach would be to give an analogy to working on a project and how people are able to work on different things simultaneously, as well as the scenarios where you need to wait for someone. 
+For example, to teach someone how multithreading and async work, you wouldn't start immediately on locking mechanisms or thread spawning. The sane approach would be to give a real-world analogy to motivate the development of those concepts, like cooking in a kitchen. It is more effective in learning information as the mental models are already there. They could then "*work backwards*" to understand the specific technical details.
 
-It seems more effective in conveying information as the models for interaction are already there. They could then "*work backward*" to understand the specific technical details of how multithreading is accomplished.
+In many high-information systems, learning backward would be the primary way of learning. However, if you know nothing about the specifics of the system or how they relate to each other, then it will be an incredibly inefficient way of learning. 
 
-In many high-information systems, learning backward would be the primary way if you think you have pre-existing models that match the schemas you are trying to learn (which is the case most of the time). On the other hand, if you know nothing about the specifics of the system or how they relate to each other, then it will be an incredibly inefficient way to attempt to guess your way to ground truth/understanding. 
-
-Take the example of trying to understand a watch. I know that the motors interact mechanically with each other in such a way that the parts within the watch move to keep track of time. If I were to open a watch up, I would be lost entirely because of how many intricate fine-tuned decisions were made in putting together the watch.[^3]
+Take the example of trying to understand a watch. I know the motors interact mechanically with each other within the watch to keep track of time. If I were to open a watch up, I would be lost because of how many intricate, fine-tuned decisions were made in putting together the watch[^3].
 
 ## Citations
 
 Kolb, David A. "Experiential Learning: Experience as the Source of Learning and Development. (1983).
 
 ---
-[^1]: I ended up not using those dichotomies explicitly, but they can be found underpinning the context of learning
-[^2]: I'd like to go on a tangent for epistemic trust and truth, but I will save it
-[^3]: I found a paper to basically confirm the bias of the things I wrote about; here is a [screenshot](https://blog.yougao.dev/assets/life/learning/snippet.png) of a section.
-[^4]: (5/13/2025) It is now that after learning more about cognitive science, I was getting at the same idea as Lakoff in "*Metaphors We Live By*" and our symbolic-semantic interpretations of the world.
+[^3]: I found a paper to confirm my thoughts. Here is a [screenshot](https://blog.yougao.dev/assets/life/learning/snippet.png) of a section.
+[^4]: (5/13/2025) I was getting at the same idea as Lakoff in "*Metaphors We Live By*" and our symbolic-semantic interpretations of the world.

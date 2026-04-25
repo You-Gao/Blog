@@ -1,33 +1,26 @@
 ---
 date:             2024-06-01
-last_modified_at: 2026-04-08
+last_modified_at: 2026-04-15
 tags:             [psychology, life]
 title:            The Art of Listening
 name:             The Art of Listening
 layout:           style
 description:  >-
   What does it mean to listen?
+comment: ✦✦✦✦✧
 ---
-
-<figure class="container-lg" style="padding: 0;">
-    <blockquote class="blockquote" style="font-size: 18px; color: red;">
-    <p style="color: #D21404;">"archival series"</p>
-    </blockquote>
-</figure>
 
 # The Art of Listening
 
 > "and, actually, every human being is the hero of a drama"
-> <figcaption class="blockquote-footer">The Art of Listening</figcaption>
+> {% include figcaption.html caption="The Art of Listening" %}
 
-Fromm has good ideas. I'm not a Fromm scholar in particular, but having read some of his previous works like *The Escape from Freedom* and *The Art of Loving,* made me seek out some more of his works, which ended up being *The Art of Listening*.
+Fromm has good ideas. I've read some of his previous works, e.g., *The Escape from Freedom* and *The Art of Loving*, and wanted to read more. I chose *The Art of Listening*.
 
-The book itself is a collection of talks and seminars Fromm did later on in his career, which arose from his own reflections on psychoanalysis and the insights he gathered from practicing the craft.
+The book is a collection of talks and seminars given by Fromm later on in his career. The content is his reflections on psychoanalysis and the insights he gathered from practicing therapy. Fromm, as any other psychoanalyst, is interested in the structural causes of "*neurosis*"---beyond physiology.
 
-What Fromm reflects upon deeply as a psychoanalyst---and the "*field*" as a whole---is the root cause of "*neurosis,*" or in modern terms, "*mental illness.*" 
+Fromm asks if society is fundamentally sick[^1]. He says the structure and ways of "*being*" in modern society is at fault, not the person. The use of the term "*mental illness*" is relative to the institutions. These are good questions to ask because, as we live our day-to-day without questioning ourselves, we legitimize abnormality as the "*new normal*"[^2]. As Fromm highlighted, no one is truly sick if everyone is sick.
 
-The nugget of wisdom I found interesting was the discussion of structural causes of neurosis. Using the French term Mal du siècle (sickness of the century), Fromm asks if we are all sick.
-
-He goes on to ask if the structure and ways of "*being*" in modern society cause neurosis in everyone. Is the use of the term "*illness,*" then, even valid?
-
- These are good questions to ask because, as we live our day-to-day without questioning the ways we relate to each other and the world, we further deepen our current modes as the only ones with no alternative. As Fromm highlighted, such is the power of norms, and no one is sick if everyone is sick.
+ ---
+ [^1]: To be crazy in a crazy society is normal.
+ [^2]: See [frogs boiling in water](https://en.wikipedia.org/wiki/Boiling_frog).

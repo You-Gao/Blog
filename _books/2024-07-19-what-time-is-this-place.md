@@ -7,46 +7,33 @@ name:             What Time is This Place?
 layout:           style
 description:  >-
   A reflection on "*What Time is This Place?*"
+comment: ✦✦✦✦✧
 ---
 
-# What Time is This Place?
+# What Time Is This Place?
 
 > "Everywhere there are signs of time."
-> <figcaption class="blockquote-footer">What Time is This Place?</figcaption>
+> {% include figcaption.html caption="What Time is This Place?" %}
 
-Kevin Lynch is an urban designer; he coined the term "*wayfinding*" and has worked on other tidbits in his life. *What Time is This Place?* details how we experience time through environmental cues and how that translates to the larger picture of "*rhythms of time.*" Reflecting on these made me piece together my thoughts about how we experience time more broadly. 
+I enjoy understanding how the "*built environment*" has a sociological and psychological ---often hidden---effect on others and my life. *What Time is This Place?* details how we experience time through environmental cues and its effect on our "*daily rhythms.*" Reflecting on the contents helped me piece together my understanding of how we experience time. 
 
 ## Accounting Time[^2]
 
-We don't really experience time as if it were linearly. And that effect can be described in the relationship between memory and experience. Memory as a neurological function itself always seems to be turned on and churning without stopping. 
+We don't seem to experience time linearly. Sure, the world is in constant motion and the arrow of time "*waits for nobody*". But in reflection, time appears as discontinuous jumps of experience. If I were to ask you to think about your childhood experiences, it wouldn't be a linear stream---akin to a video. It would be a fragmented set of moments for a specific event. "*Accounted time*" seems to be a collection of long-term memories.
 
-If I were to ask you to think about your childhood experiences, it wouldn't be a linear stream but a fragmented set of key moments you remember. What "*experienced time*" is, then, seems to be a collection of long-term memories that can be drawn out by reflecting on past experiences.
-
-The relation of "*perceived change*" is an important part to state here. That change is what constructs the experience of time. The change within experiences, between experiences, and the present. A canon, per se, and the ability to recollect it is how "*time*" is experienced.
-
-Another clarifying example is the common saying that "*time speeds up when you are having fun!*" It is said precisely because people are absorbed into whatever task they have, and they don't stop to attempt to perceive any changes within their environment to track time.[^1]
+The relation to "*perceived change*" is important to state. Change is what constructs the experience of time. The change within experiences, between experiences, and the present. Plus, the ability to recollect it is how "*time*" is experienced. An example is the saying: "*time speeds up when you are having fun!*". It is said because people are absorbed into the present, and they don't stop to perceive any changes within their environment[^1].
 
 ## Encountering Time
 
-In contrast with the previous section, "*encountering time*" focuses more on how we relate and orient ourselves, using the same key components of memory and experience.
+In contrast with the previous section, "*encountering time*" focuses more on how we relate and orient ourselves to time. What differs here is how the memory and experience are used. "*Accounting time*" was about the relation of changes that created time. "*Encountering time*" is about recognizing patterns we use to orient ourselves "*temporally.*"
 
-What differs here is how the memory and experience are utilized. "*Accounting time*" was about the relation of changes that created time. "*Encountering time*" is about recognizing patterns we use to orient ourselves "*temporally.*"
+Turning on the lights when you get home after work, looking outside the window and seeing the city lit up, or even the scent of a candle. These experiences "*guide*" us throughout the day and act as cues for where we are in time.
 
-Turning on the lights when you get home after work, looking outside the window and seeing the city lit up, or even the scent of a candle. These experiences "*guide*" us throughout the day and unconsciously or consciously act as cues for where we are in the day.
-
-In historical Japan, the burning of scented candles was used as a way to mark different times of the day. Each candle would have a distinct scent, and as the scent changed, it signaled a new period of time. This method of timekeeping intertwined the sense of smell with the passage of time.
-
-People waiting for buses, streets bustling in the morning, traffic going to work, and similar experiences in our daily lives contribute to our interpersonal temporal rhythms as we move throughout the day.
+In historical Japan, the burning of scented candles was used as a way to mark different times of the day. Each candle would have a distinct scent, which signaled a new segment of time. People waiting for buses, traffic coming back from work, the sun setting, and similar experiences in our daily lives contribute to our temporal rhythms as we move throughout the day.
 
 ## Discounting Time
 
-If you somewhat agree with what I have said in the previous sections and take it semi-seriously, then let me leave you with some practical advice. A lot of people since the beginning of time have been discounting it. What people don't realize is that it doesn't matter if you have 70, 50, 40, or even 1 year of your life left to live.
-
-Because if it is spent with eyes closed, you haven't experienced any of it at all. So really, do your best to intentionally spend time to make memories and experience new things, and if you do it right, at the end of time, you will feel full.
-
-The alternative is that as you grow older, time moves faster and faster because you have settled down into a routine.
-
-<br/>
+If you somewhat agree with what I have said in the previous sections, then let me leave with some practical advice. People discount time daily. We treat time as if it weren't "*priceless*". If time is spent with eyes closed, you haven't experienced any of it at all. So do your best to intentionally spend time on memories and experiences. 
 
 ## Citations
 
@@ -61,6 +48,6 @@ Krauss, S. (1970). The experience of time. BMJ, 1(5690), 235. https://doi.org/10
 Lynch, K. A. (1972). What time is this place?
 
 ---
-[^1]: It is often a phenomenon for me that even though I look at the time on my computer, I only realize time has passed when my room begins to get dark after hours of play.
+[^1]: Even though I look at the time on my computer, I only realize time has passed when my room begins to get dark.
 [^2]: Ask any old person how fast time passes for them.
 

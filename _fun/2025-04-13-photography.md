@@ -10,23 +10,25 @@ description:  >-
 comment:
 ---
 
-# photography is fun[^1]
+# photography is fun
 
-My journey into photography started with a reversal. I had never taken many photos before, so it was a bit peculiar that skimming through *Camera Lucida* made me do so. Nevertheless, I was extremely bored during spring break a year ago and decided to buy a film camera. Note to self or anyone: **Never buy a film camera as your starting camera.**
+My journey into photography started with a reversal. I had never taken photos with any care. It was only after reading *Camera Lucida* that I wanted to take photos seriously. I ended up bored during spring break a year ago and decided to buy a film camera. 
 
-I mean, there were some merits to buying a film camera; I even got it at a discount ($50 for an Olympus OM-4[^2]). One of those merits is hard-headedly trying to understand the settings of a camera like lens, aperture, focus, shutter speed and ISO. The other is reading all the old **beautifully** designed manuals, trying to figure out how to operate the film camera. 
+Note to self or anyone: **Never buy a film camera as your starting camera.**
 
-These merits are all offset by the simple fact that you can't see the results of your photography until you get the film developed, which costs **a lot** for a college student.
+There were some merits to buying a film camera. I got it at a discount. $50 for an Olympus OM-4[^2]. One of those merits is learning the fundamentals of a camera, like lens, aperture, focus, shutter speed and ISO. The other is reading all the old **beautifully** designed manuals and trying to figure out how to operate the film camera. 
 
-I recently got intrigued with photography again, so I wanted to share some current books and works about photography that will inform my future endeavors into the craft.
+These merits are offset by the fact that you can't see the results of your photography until you get the film developed. Which, for me, is likely never.
+
+I recently got intrigued with photography again and wanted to share what made me revisit the craft.
 
 ## books
 
 ### "*theory*"
 
-* [Lectures on Digital Photography](https://sites.google.com/site/marclevoylectures/home?authuser=0): Comprehensive on the technical and mechanical inner-workings of the camera
+* [Lectures on Digital Photography](https://sites.google.com/site/marclevoylectures/home?authuser=0): Comprehensive on the technical and mechanical inner-workings of the camera.
 * [Camera Lucida](https://www.amazon.com/Camera-Lucida-Reflections-Roland-Barthes/dp/0374532338): Comprehensive on thinking about the meaning of photography.
-* Camera, Negative, Print by Ansel Adams is another well known series.
+* Camera, Negative, Print by Ansel Adams is a well-known series
 
 ### collections[^3]
 
@@ -35,6 +37,4 @@ I recently got intrigued with photography again, so I wanted to share some curre
 * Instagram: Unironically, there are many talented photographers to find here.
 
 ---
-[^1]: Sorry if the post feels a bit rushed, I wanted to get it out, but I'm also chronically behind on work.
 [^2]: I have no clue if it is fully functioning or not.
-[^3]: I like both realist and pictorialist photography

@@ -12,15 +12,13 @@ description:  >-
 # A Philosophy of Software Design
 
 > "These concepts may not immediately identify the best design, but you can use them to compare design alternatives and guide your exploration of the design space."
-> <figcaption class="blockquote-footer">A Philosophy of Software Design</figcaption>
+> {% include figcaption.html caption="A Philosophy of Software Design" %}
 
-I read this book because it was popular, and I'm glad I did. After reading it, the comparisons are pretty accurate. The contents of the book itself are pretty good, but it is definitely aimed at beginner or junior developers rather than experienced ones. A lot of the critiques that I could think of, and many others have said, are about what is not in the book itself. 
+I read this book because it was popular, and I'm glad I did. After reading it, the comparisons are accurate. The contents of the book are good, but it is definitely aimed at beginner or junior developers. A lot of the critiques I could think of are about what is not in the book itself. 
 
-There are many other portions of the book that are quite short, but the idea presented in the section seems important and warrants dedicating more than a page to it. 
+There are portions of the book I considered too short because of how important the concept was. The main culprit was how short the section on error handling was. It called out the importance of error handling and how the majority of software incidents are precisely due to faulty error handling, but skipped elaborating on the techniques.
 
-The main culprit was how short the section on error handling was. It called out the importance of error handling and how the majority of software incidents are precisely due to faulty error handling but skipped elaborating on the techniques to do so.
-
-With that being said, a lot of the concepts in the book were reassuringly the same concepts covered in the courses I took at UVA. What was missing for me was there wasn't a discussion on broader software architecture, patterns, and culture, which invariably affect the software design process. 
+A lot of the concepts in the book were reassuringly the same concepts covered in the courses I took at UVA. What was missing was a discussion on broader software architecture, patterns, and culture, which invariably affect software development. 
 
 ## Main Red Flags
 
@@ -32,7 +30,7 @@ With that being said, a lot of the concepts in the book were reassuringly the sa
 | Overexposure                             | An API forces callers to be aware of rarely used features in order to use commonly used features.                | 36   |
 | Pass-Through Method                      | A method does almost nothing except pass its arguments to another method with a similar signature.               | 46   |
 | Repetition                               | A nontrivial piece of code is repeated over and over.                                                            | 62   |
-| Special-General Mixture                  | Special-purpose code is not cleanly separated from general purpose code.                                         | 65   |
+| Special-General Mixture                  | Special-purpose code is not cleanly separated from general-purpose code.                                         | 65   |
 | Conjoined Methods                        | Two methods have so many dependencies that it's hard to understand the implementation of one without the other.  | 72   |
 | Comment Repeats Code                     | All of the information in a comment is immediately obvious from the code next to the comment.                      | 104  |
 | Implementation Documentation Contaminates Interface | An interface comment describes implementation details not needed by users of the thing being documented.        | 114  |

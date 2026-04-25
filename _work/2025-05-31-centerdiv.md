@@ -17,7 +17,7 @@ I thought it would be a fun exercise, so here it is.
 
 - {position: absolute} tells the browser to always display a browser element at a fixed location.
 - {top:50%; left:50%;} moves the element to the center-middle of the browser.
-- {transform: translate(50%, 50%)} finishes this off by moving the element itself by it's own bounds to "*truly*" center itself.
+- {transform: translate(50%, 50%)} finishes this off by moving the element itself by its own bounds to "*truly*" center itself.
 
 ## 'display: flex' + 'justify-content' + 'width: 100%'
 
@@ -27,16 +27,16 @@ I thought it would be a fun exercise, so here it is.
 
 ## 'width' + 'margin: auto'
 
-- {width < 100%} set the width to less then 100%
+- {width < 100%} set the width to less than 100%
 - {margin: auto} margin-left and margin-right will equally fill in space
 
 ## display: grid + grid-template-columns
 
-{display: grid} is another way to structure html elements.
+{display: grid} is another way to structure HTML elements.
 
-{grid-template-columns} define the grid structure, but people typically just use bootstrap defined col classes. 
+{grid-template-columns} defines the grid structure, but people typically just use the Bootstrap-defined col classes. 
 
-{text-align} aligns text to the middle of {<p>}.
+{text-align} aligns text to the middle of the container.
 
 {place-items} also works if you want to set elements inside a grid child.
 
@@ -44,7 +44,7 @@ I thought it would be a fun exercise, so here it is.
 
 You can use a script to set it, but functionally it will be the same as ##1.
 
-```
+```Javascript
 <script>
 function SetXY() {
     var element = document.GetElementbyId("centerme");

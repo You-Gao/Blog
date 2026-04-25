@@ -7,18 +7,18 @@ name:             async/parallel
 layout:           style
 description:  >-
     my attempt at finally fully understanding these concepts
+hidden: true
 ---
-
 
 # async parallel
 
-No one really teaches programming within an async parallel frame. The problem is that most "*good*" applications or services are event-driven. That is because they are long-lasting and should not be a program just running a while-loop. The further problem is that it's a pretty amorphous topic with vague definitions, etc. Even worse, each language implements it differently, from coroutines to thread pools and beyond.
+No one really teaches programming within an async parallel frame. Which is a problem because most "*good*" applications or services use async/parallel concepts. The further problem is how amorphous the topic is with vague definitions, etc. Even worse, each language implements it differently.
 
-I made this post not to talk about it because I am definitely not qualified. I made it as a meta-post of resources for understanding async and parallel behavior of programs. It's a collection of rabbit holes, other blog posts, and documentation into understanding how to use this coding paradigm *rightish*[^2].
+I made this post as a meta-post of resources for understanding async and parallel behavior of programs. It's a collection of rabbit holes, other blog posts, and documentation for understanding how to use this coding paradigm.
 
 ## async
 
-Async is difficult to understand because frameworks provide abstractions for it. The least productive way to think about it is hardware interrupts, so the best you can do is point to the kernel syscalls and say it allows for async.
+Async is difficult to understand because languages provide different abstractions for it. At the base level, it is hardware interrupts. 
 
 - [Nonblocking IO/Epoll](https://eklitzke.org/blocking-io-nonblocking-io-and-epoll)
 - [Futures/Promises Example](https://github.com/tsoding/c3fut)
@@ -35,5 +35,4 @@ It's generally easy to understand the idea of multi-threading [^1], even to the 
 - Insert pthreads Page
 
 ---
-[^1]: It is hard to wrap your head around how the kernel synchronizes and delegates tasks to different cores to achieve multi-threading, though.
-[^2]: I will admit that I have used Python's multiprocessing to make network requests instead of aiohttp.
+[^1]: It is hard to wrap your head around how the kernel synchronizes and delegates tasks to different cores to achieve multithreading.
