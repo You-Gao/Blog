@@ -6,7 +6,7 @@ title:            Perfect Days
 name:             Perfect Days
 layout:           style
 description:  >-
-    one of my top movies
+    Reflections on Perfect Days and Koji Yakusho’s understated performance, focusing on routine, dignity, and quiet human presence.
 comment: koij yakusho is a phenomenal actor
 ---
 

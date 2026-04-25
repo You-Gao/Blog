@@ -6,7 +6,7 @@ title:            Man's Search for Meaning
 name:             Man's Search for Meaning
 layout:           style
 description:  >-
-  The psychology and experiences of the human condition.
+    A reflective reading of Viktor Frankl’s Man’s Search for Meaning, exploring suffering, purpose, responsibility, and the human search for meaning.
 comment: ✦✦✦✦✧
 ---
 

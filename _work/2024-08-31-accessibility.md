@@ -6,7 +6,7 @@ title:            Digital Accessibility
 name:             Digital Accessibility
 layout:           style
 description:  >-
-   What goes into digital accessibility?
+    Reflections on digital accessibility, inclusive design, and why accessibility improvements benefit all users.
 ---
 
 # Digital Accessibility

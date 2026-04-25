@@ -6,7 +6,7 @@ title:            MMM and DevOps
 name:             MMM and DevOps
 layout:           style
 description:  >-
-  The question of the 1970s is answered today.
+    Thoughts on the myth of the 10× engineer, DevOps culture, and how incentives shape engineering teams.
 ---
 
 # The Mythical Man-Month

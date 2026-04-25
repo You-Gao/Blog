@@ -6,14 +6,14 @@ title:            Living High and Letting Die
 name:             Living High and Letting Die
 layout:           style
 description:  >-
-  From the founder of effective altruism, case studies in ethics.
+  A reflective review of Peter Singer’s Living High and Letting Die, exploring social distance, epistemic responsibility, and the anxiety of ethical giving.
 comment: ✦✦✦✧✧
 ---
 
 # Living High and Letting Die
 
 > "If you'd contributed $100 to one of UNICEF's most efficient lifesaving programs a couple of months ago, this month there'd be over thirty fewer children who, instead of painfully dying soon, would live reasonably long lives."
-> {% include figcaption.html content="Living High and Letting Die" %}
+> {% include figcaption.html caption="Living High and Letting Die" %}
 
 I took two concepts away from Singer's work on critiquing "*moral intuitions*" and the way people do ethics. One is "*social distance*": how far removed a person---geographically or mentally---affects the weight placed on people for "*moral calculus*". The motivating example is shown by the quote on the first page of *Living High and Letting Die*. What reason would you have to not donate and save plenty of people? If the answer is no, does it imply you don't see them as "*human*" within the global community or is it a "*Libertarian*" justification? There may be a "*pragmatic*" out by saying moral decisions were never meant to be made for a universal community or doubting the efficacy of a single donation.
 

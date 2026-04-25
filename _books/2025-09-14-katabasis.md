@@ -6,7 +6,7 @@ title:            Katabasis
 name:             Katabasis
 layout:           style
 description:  >-
-    linguistic fanfic
+    Thoughts on Katabasis, a philosophical fantasy structured like Dante’s Inferno, using paradoxes, linguistics, and symbolic systems as magic.
 comment: ✦✦✦✦✧
 ---
 

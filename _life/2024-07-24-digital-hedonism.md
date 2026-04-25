@@ -6,7 +6,7 @@ title:            Digital Hedonism
 name:             Digital Hedonism
 layout:           style
 description:  >-
-  Brain-rot, Doom-scrolling, and Skibidi Toilet. The cause of digital hedonism and things to do against it.
+    A reflection on digital hedonism, overstimulation, and the quiet cost of infinite entertainment.
 comment: my first post, wow its bad
 ---
 

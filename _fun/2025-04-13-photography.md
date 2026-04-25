@@ -6,7 +6,7 @@ title:            photography is fun
 name:             photography is fun
 layout:           style
 description:  >-
-    re-exploring my interest in photography
+    A casual reflection on photography as a hobby, focusing on observation, play, and enjoying the act of seeing.
 comment:
 ---
 

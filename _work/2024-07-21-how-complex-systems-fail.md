@@ -6,7 +6,7 @@ title:            How Complex Systems Fail
 name:             How Complex Systems Fail and Crowdstrike
 layout:           style
 description:  >-
-  The recent Crowdstrike incident and insights.
+    An analysis of complex system failures, using real incidents to examine fragility, coupling, and blame.
 comment: it was regex in the kernel?
 ---
 

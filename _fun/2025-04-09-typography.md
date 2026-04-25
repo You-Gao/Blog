@@ -5,7 +5,7 @@ title:            typography is fun
 name:             typography is fun
 layout:           style
 description:  >-
-    Typography is pretty fun
+    Thoughts on typography through the lens of Comic Sans, design taste, and why aesthetics are often misunderstood.
 comment: comic sans
 ---
 

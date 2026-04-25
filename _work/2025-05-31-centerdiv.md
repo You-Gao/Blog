@@ -6,7 +6,7 @@ title:            How To Center a div
 name:             4-5 Ways to Center a div
 layout:           style
 description:  >-
-    pro web-dev intern
+    A practical overview of common CSS techniques for centering elements, comparing tradeoffs and use cases.
 ---
 
 # 4-5 Ways to Center a div

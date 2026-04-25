@@ -6,7 +6,7 @@ title:            A Philosophy of Software Design
 name:             A Philosophy of Software Design
 layout:           style
 description:  >-
-  Reflections on "A Philosophy of Software Design".
+    Reflections on A Philosophy of Software Design, emphasizing complexity management and abstraction quality.
 ---
 
 # A Philosophy of Software Design

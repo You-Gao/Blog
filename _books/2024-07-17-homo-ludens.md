@@ -5,8 +5,8 @@ tags:             [anthropology]
 title:            Homo Ludens
 name:             Homo Ludens
 layout:           style
-description:  >-
-  The history of the playing man.
+description: >-
+  A reflective reading of Johan Huizinga’s Homo Ludens, exploring play as a foundation of culture, ritual, and social order.
 comment: ✦✦✦✧✧
 ---
 

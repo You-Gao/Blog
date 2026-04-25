@@ -6,7 +6,7 @@ title:            Software Entropy and Silver Bullets
 name:             Software Entropy and Silver Bullets
 layout:           style
 description:  >-
-    Understanding what software entropy is.
+    An essay on software entropy, accidental complexity, and why no single tool can prevent system decay.
 ---
 
 # Software Entropy 

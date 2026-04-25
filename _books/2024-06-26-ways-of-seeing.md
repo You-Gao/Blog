@@ -5,8 +5,8 @@ tags:             [phenomenology, art]
 title:            Ways of Seeing
 name:             Ways of Seeing
 layout:           style
-description:  >-
-  A phenomenology of sight.
+description: >-
+  Notes on John Berger’s Ways of Seeing, examining perception, phenomenology, perspective, and how meaning is shaped by sight.
 comment: ✦✦✦✦✧
 ---
 

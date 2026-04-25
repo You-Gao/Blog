@@ -6,7 +6,7 @@ title:            Civilization 6
 name:             Civilization 6
 layout:           style
 description:  >-
-  A reflection on Civ 6
+    Thoughts on Civilization VI and how turn‑based strategy games distort time through feedback loops and decision density.
 comment: time disapears when playing this
 ---
 

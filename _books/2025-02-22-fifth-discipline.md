@@ -6,7 +6,7 @@ title:            The Fifth Discipline
 name:             The Fifth Discipline 
 layout: style
 description:  >-
-  see the big picture charlie 
+    Thoughts on Peter Senge’s The Fifth Discipline, critiquing systems thinking, organizational learning, and its limits as a business framework.
 comment: ✦✦✧✧✧
 ---
 

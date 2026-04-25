@@ -6,7 +6,7 @@ title:            State Motto Rankings
 name:             State Motto Rankings
 layout:           style
 description:  >-
-    rating state mottos
+    A lighthearted ranking of U.S. state mottos, judging which ones feel meaningful, strange, forgettable, or unintentionally funny.
 ---
 
 # State Motto Rankings + friends

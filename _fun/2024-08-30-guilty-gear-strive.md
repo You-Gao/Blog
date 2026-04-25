@@ -6,7 +6,7 @@ title:            Guilty Gear Strive
 name:             Guilty Gear Strive
 layout:           style
 description:  >-
-  A reflection on Guilty Gear Strive
+    Personal thoughts on Guilty Gear Strive, accessibility, character identity, and how balance changes can affect player attachment.
 comment: quit after potemkin kara removal :(
 ---
 

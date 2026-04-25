@@ -6,7 +6,7 @@ title:            Layer 8 DDOS and AI
 name:             Layer 8 DDOS
 layout:           style
 description:  >-
-    A new-age way of denying service.
+    Thoughts on social‑layer attacks, rage‑bait bots, and how attention systems can be exploited at scale.
 comment: i foresaw rage-bait social media bots
 ---
 

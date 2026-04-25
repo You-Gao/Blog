@@ -6,8 +6,7 @@ title:            async/parallel
 name:             async/parallel
 layout:           style
 description:  >-
-    my attempt at finally fully understanding these concepts
-hidden: true
+    My attempt at finally fully understanding async and parallel.
 ---
 
 # async parallel

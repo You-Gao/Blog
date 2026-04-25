@@ -6,7 +6,7 @@ title:            Worlds Hidden in Plain Sight
 name:             Worlds Hidden in Plain Sight
 layout: style
 description:  >-
- complex systems
+    Reflections on Worlds Hidden in Plain Sight, exploring complexity science, emergence, and systems thinking across biology, economics, and society.
 comment: ✦✦✦✧✧
 ---
 

@@ -6,7 +6,7 @@ title:            What Time is This Place?
 name:             What Time is This Place?
 layout:           style
 description:  >-
-  A reflection on "*What Time is This Place?*"
+    A reflective reading of Kevin Lynch’s What Time Is This Place?, exploring how memory, environment, and daily rhythms shape our experience of time.
 comment: ✦✦✦✦✧
 ---
 

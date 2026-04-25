@@ -6,7 +6,7 @@ title:            Neocities and UX
 name:             Neocities & UX
 layout:           style 
 description:  >-
-    exploring ux design via "the indie web."
+    Insights on UX design drawn from the indie web, focusing on identity, performance, and intentional rule‑breaking.
 ---
 
 # Neocities & UX

@@ -6,7 +6,7 @@ title:            A Random Walk Down Wall Street
 name:             A Random Walk Down Wall Street
 layout:           style
 description:  >-
-  My introduction to investing and markets.
+  Notes on A Random Walk Down Wall Street: investing fundamentals, efficient markets, speculation, and how hype shapes modern financial behavior.
 comment: ✦✦✦✧✧
 ---
 

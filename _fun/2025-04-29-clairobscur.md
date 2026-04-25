@@ -6,8 +6,8 @@ title:            Clair Obscur Expedition 33
 name:             Clair Obscur Expedition 33
 layout:           style
 description:  >-
-    paper mario x HxH
-comment: paper mario + hxh
+    First impressions of Clair Obscur: Expedition 33, comparing its combat and presentation to Paper Mario.
+comment: paper mario
 ---
 
 # Clair Obscur: Expedition 33

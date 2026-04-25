@@ -6,7 +6,7 @@ title:            Beyond Vibe Coding
 name:             Beyond Vibe Coding
 layout: style
 description:  >-
-    Is it really the "future"?
+    A critical reading of Beyond Vibe Coding, reflecting on AI‑assisted programming, intent, abstraction, and the limits of natural‑language coding.
 comment: ✦✦✦✧✧
 ---
 

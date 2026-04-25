@@ -6,7 +6,7 @@ title:            The Art of Listening
 name:             The Art of Listening
 layout:           style
 description:  >-
-  What does it mean to listen?
+  Notes on The Art of Listening, examining attention, presence, empathy, and listening as an ethical and human practice.
 comment: ✦✦✦✦✧
 ---
 

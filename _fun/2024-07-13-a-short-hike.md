@@ -6,7 +6,7 @@ title:            A Short Hike
 name:             A Short Hike
 layout:           style
 description:  >-
-  A reflection on A Short Hike
+    A reflection on A Short Hike, focusing on gentle exploration, progression through play, and cozy game design.
 comment: a well-made game
 ---
 
