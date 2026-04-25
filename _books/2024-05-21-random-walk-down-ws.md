@@ -7,7 +7,7 @@ name:             A Random Walk Down Wall Street
 layout:           style
 description:  >-
   My introduction to investing and markets.
-comment: r/wallstreetbets
+comment: ✦✦✦✧✧
 ---
 
 # A Random Walk Down Wall Street

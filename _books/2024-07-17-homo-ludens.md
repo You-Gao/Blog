@@ -7,7 +7,7 @@ name:             Homo Ludens
 layout:           style
 description:  >-
   The history of the playing man.
-comment: not a book about video games
+comment: ✦✦✦✧✧
 ---
 
 # Homo Ludens

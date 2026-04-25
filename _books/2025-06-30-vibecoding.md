@@ -7,7 +7,7 @@ name:             Beyond Vibe Coding
 layout: style
 description:  >-
     Is it really the "future"?
-
+comment: ✦✦✦✧✧
 ---
 
 # THE Vibe Coding Book

@@ -7,6 +7,7 @@ name:             Ways of Seeing
 layout:           style
 description:  >-
   A phenomenology of sight.
+comment: ✦✦✦✦✧
 ---
 
 # Ways of Seeing

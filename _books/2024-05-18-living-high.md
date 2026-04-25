@@ -7,6 +7,7 @@ name:             Living High and Letting Die
 layout:           style
 description:  >-
   From the founder of effective altruism, case studies in ethics.
+comment: ✦✦✦✧✧
 ---
 
 # Living High and Letting Die

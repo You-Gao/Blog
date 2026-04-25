@@ -7,6 +7,7 @@ name:             Man's Search for Meaning
 layout:           style
 description:  >-
   The psychology and experiences of the human condition.
+comment: ✦✦✦✦✧
 ---
 
 # Man's Search for Meaning

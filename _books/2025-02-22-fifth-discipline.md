@@ -7,6 +7,7 @@ name:             The Fifth Discipline
 layout: style
 description:  >-
   see the big picture charlie 
+comment: ✦✦✧✧✧
 ---
 
 # The Fifth Discipline

@@ -7,6 +7,7 @@ name:             Worlds Hidden in Plain Sight
 layout: style
 description:  >-
  complex systems
+comment: ✦✦✦✧✧
 ---
 
 # Worlds Hidden in Plain Sight
