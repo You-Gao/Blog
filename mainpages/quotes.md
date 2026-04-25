@@ -6,7 +6,7 @@ description:  >-
 layout:           style
 tags: [quotes]
 title: >-
-    quotes
+    Quotes
 permalink: /quotes/
 ---
 

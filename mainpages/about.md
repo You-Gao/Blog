@@ -9,7 +9,7 @@ lang:             en
 last_modified_at: 2024-07-14
 layout:           style
 title: >-
-  about
+  About
 permalink: /about/
 ---
 # about me
@@ -28,7 +28,7 @@ The blog logo, u高, is my first and last name (you gao). here is my [aboutme.tx
 
 ## why are you writing?
 
-i started this blog as a tool to reflect on the ideas i have and come in contact with. It has since morphed to include personal reflections, celebrations of life, and artistic work[^1]. The central goal of my writing is to gain insight---not simply factoids, except sometimes---on the topic under investigation.
+I started this blog as a tool to reflect on the ideas I have and come in contact with. It has since morphed to include personal reflections, celebrations of life, and artistic work[^1]. The central goal of my writing is to gain insight---not simply factoids, except sometimes---on the topic under investigation.
 
 I approach writing the posts as a blank slate, meaning I'll have little sense of what I'll be exploring. In many cases, this writing method leads to unparsable/unreadable texts, so I apologize in advance. My dream scenario is if you, the reader, can take anything useful from the blog.
 

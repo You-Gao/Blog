@@ -8,7 +8,7 @@ lang:             en
 last_modified_at: 2024-07-14
 layout:           style
 title: >-
- archive 
+ Archive 
 permalink: /archive/
 
 ---

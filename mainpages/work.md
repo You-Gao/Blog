@@ -8,7 +8,7 @@ last_modified_at: 2024-07-14
 layout:           style
 tags:
 title: >-
-  work
+  Work
 permalink: /work/
 ---
 <figure class="container-lg" >

@@ -8,7 +8,7 @@ description:  >-
 lang:             en
 layout:           style
 title: >-
-  now
+  Now
 permalink: /now/
 ---
 # now

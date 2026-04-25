@@ -7,7 +7,7 @@ description:  >-
 layout:           style
 tags:
 title: >-
-    internet shadow box
+    Internet Shadow Box
 permalink: /box/
 ---
 

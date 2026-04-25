@@ -1,14 +1,12 @@
 ---
 categories:       blog
-date:             2024-07-14
 description:  >-
-  abandon all hope, ye who enter here.
+    A personal blog by You Gao with reflections on life, books, work, hobbies, and photography—writing to explore ideas and make sense of them.
 lang:             en
-last_modified_at: 2024-07-14
 layout:           style
 tags:
-title: >-
-  home
+seo:
+  type: website
 ---
 
 <section class="row pt-1">

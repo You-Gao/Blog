@@ -5,7 +5,7 @@ description:  >-
 layout:           style
 tags:
 title: >-
-  photos
+  Photos
 permalink: /photos/
 ---
 <figure class="container-lg" >

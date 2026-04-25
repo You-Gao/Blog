@@ -8,7 +8,7 @@ last_modified_at: 2024-07-14
 layout:           style
 tags:
 title: >-
-  life
+  Life
 permalink: /life/
 ---
 <figure class="container-lg">
