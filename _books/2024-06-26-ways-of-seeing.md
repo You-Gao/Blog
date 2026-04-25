@@ -15,7 +15,7 @@ comment: ✦✦✦✦✧
 > "The relation between what we see and what we know is never settled."
 > {% include figcaption.html caption="Ways of Seeing" %}
 
-I picked up this book because I wanted to understand perception. The quote stuck with me because it answered why I chose to read "*Ways of Seeing*". My interpretation is that there is always a gap between perception and language. And then another gap with "*truth*" or "*reality*". We're always two steps removed when communicating about the world[^1].
+I picked up this book because I wanted to understand perception. The quote stuck with me because it answered why I chose to read *Ways of Seeing*. My interpretation is that there is always a gap between perception and language. And then another gap with "*truth*" or "*reality*". We're always two steps removed when communicating about the world[^1].
 
 Berger explains this effect by analyzing art and their interpretations. The concept of "*perspective phenomenology*" is useful because it describes the process of developing human "*inter-subjectivity.*"
 

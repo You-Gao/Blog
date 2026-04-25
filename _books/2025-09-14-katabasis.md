@@ -15,9 +15,9 @@ comment: ✦✦✦✦✧
 > "No—the reason paradoxes trouble us is that their absurd conclusions make us rethink all of our premises. A paradox is like a staircase, in which each step leads inexorably to the destination. But you get to the top, and the destination is impossible; you've stepped off into empty air."
 > {% include figcaption.html caption="Katabasis" %}
 
-Katabasis is an allegory of an already existing allegory.
+*Katabasis* is an allegory of an already existing allegory.
 
-It takes the structure of "*Dante's Inferno*" and adds a power system called "*magick*" which is another name for "*linguistics*". Specifically, linguists who study "*symbolic systems*" or "*grammar*", including both math and English.
+It takes the structure of *Dante's Inferno* and adds a power system called "*magick*" which is another name for "*linguistics*". Specifically, linguists who study "*symbolic systems*" or "*grammar*", including both math and English.
 
 The plot is good, but I only got through it because of the random references scattered throughout the book. I wrote this post to talk about the referenced philosophical paradoxes and the resolutions people have proposed to them.
 
@@ -27,7 +27,7 @@ The plot is good, but I only got through it because of the random references sca
 
 ![M.C. Escher Staircase](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.lUWUSAeFigCfMMKrr9-JegHaDn%3Fpid%3DApi&f=1&ipt=4b4f5c64aab58a2cdb17fb618a12da1696bf2ac838e1ffa52e57935024782337)
 
-The book cover of Katabasis is a reference to the work of M.C. Escher. What is so special about Escher's works is his ability to play with perceptual reasoning. It is an interesting showcase of how unconscious and opaque our reasoning systems can be.
+The book cover of *Katabasis* is a reference to the work of M.C. Escher. What is so special about Escher's works is his ability to play with perceptual reasoning. It is an interesting showcase of how unconscious and opaque our reasoning systems can be.
 
 The paradox is resolved by recognizing how our visual systems are processing the image. The paradoxical effect exists because our visual language uses the junctions to infer movement. The problem arises when we integrate the junctions and the deduced movement, which can be crafted to contradict each other.
 

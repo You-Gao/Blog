@@ -111,33 +111,36 @@
                         </section>
                     </section>
                 </main>
-                <footer class="site-footer h-card container-md px-3 my-6">  
-                    <data class="u-url" href="/"></data>
+<footer class="site-footer h-card container-md px-3 my-6">  
 
-                    <hr/>
+    <hr/>
 
-                    <div class="wrapper">
-                        <div class="row footer-col-wrapper ">
-                            <div class="col-4 footer-col">
-                                <ul style="font-size: 16px; list-style-type: none;">
-                                    <li><a href="/now">now</a></li>
-                                    <li><a href="/about">about</a></li>
-                                </ul>
-                            </div>
-                            <div class="col-4 footer-col">
-                                <ul style="font-size: 16px; list-style-type: none;">
-                                    <li><a href="/blogroll.xml">blogroll</a></li>
-                                    <li class="active"><a href="/feed.xml">rss</a></li>
-                                </ul>
-                            </div>
+    <div class="wrapper">
+        <div class="row footer-col-wrapper px-1">
+            <div class="col-4 footer-col">
+                <ul style="font-size: 16px; list-style-type: none;">
+                    <li class="now"><a href="/now">now</a></li>
+                    <li class="about"><a href="/about">about</a></li>
+                </ul>
+            </div>
+            <div class="col-4 footer-col">
+                <ul style="font-size: 16px; list-style-type: none;">
+                    <li><a href="/blogroll.xml">blogroll</a></li>
+                    <li><a href="/feed.xml">rss</a></li>
+                </ul>
+            </div>
 
-                            <div class="col-4 footer-col" style="font-size:16px;">
-                                <p style="margin-bottom: 0 !important;">An archive of my thoughts.</p>
-                            </div>
-                        </div>
-                    </div>
-                </footer>
-
+            <div class="col-4 footer-col" style="font-size:16px;">
+                <ul style="font-size: 16px; list-style-type: none;">
+                    <li>
+                        <p style="margin-bottom: 0 !important; margin-top: 0 !important;">An archive of my thoughts.</p>
+                    </li>
+                    <li><a href="/archive">archive</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
                 <section id="toolbar" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;">
                     <div style="display: flex; align-items: center; justify-content: flex-end; padding-left: 10px;">
                         <div id="react-icon" class="item">
@@ -171,9 +174,11 @@
                         <xsl:value-of select="atom:id" />
                     </xsl:attribute>
                     <xsl:value-of select="atom:title" />
-                </a> :  
-                <xsl:value-of select="atom:summary" disable-output-escaping="yes" />
+                </a>
             </h4>
+                <p>
+                    <xsl:value-of select="atom:summary" disable-output-escaping="yes" />
+                </p>
         </div>
     </xsl:template>
 

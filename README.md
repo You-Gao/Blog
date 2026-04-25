@@ -19,6 +19,15 @@ description: used to set description of the page
 keywords: used to set keywords in head
 ```
 
+## Bold Guideline
+
+```
+*[]*: proper nouns
+**[]**: use to emphasize a word
+"*[]*": use to emphasize and highlight the importance of knowing the word
+"*[]*": in-line quotation
+```
+
 ## Installation
 
 ### Prerequisites

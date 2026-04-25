@@ -15,7 +15,7 @@ comment: ✦✦✦✦✧
 > "Those who have a 'why' to live, can bear with almost any 'how'."
 > {% include figcaption.html caption="Man's Search for Meaning" %}
 
-Everyone knows the quote but not the book where it came from. Frankl gives his account of living within concentration camps. He reflects on his encounters with those who lived or died and identified a distinctive orientation to life, "*hope*". He says suffering is universal, but the ways people cope with suffering and persevere are what make humanity "*strong.*" To identify with a mission or "*telos*" can let you live longer.
+Everyone knows the quote but not the book where it came from. Frankl gives his account of living within concentration camps. He reflects on his encounters with those who lived or died and identified a distinctive orientation to life, "*hope*". He says suffering is universal, but the ways people cope with suffering and persevere are what make humanity "*strong*". To identify with a mission or "*telos*" can let you live longer.
 
 I don't know what to make of it. Finding yourself and what you believe in is good. Aligning yourself with a path is good as well. What if you can't? What if your future is systematically foreclosed? Continuously reinventing yourself to avoid "*depression*" can quickly get "*schizophrenic*". In fact, Frankl's diagnosis of schizophrenia can occur from practicing "*Logotherapy*". You can find "*beauty in the struggle*" only so many times[^1].
 
