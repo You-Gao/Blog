@@ -12,9 +12,9 @@ comment: art interpretation is weird
 
 # Why Do Artworks Need Titles?
 
-Do all artwork have titles? What is the point of them? Does it add anything to the painting? The answer is yes and no[^1].
+Do all artworks have titles? What is the point of them? Does it add anything to the painting? The answer is yes and no[^1].
 
-A hallmark of "*modern art*" is a sense of obscurantism. The more metaphorical your work, the better the piece is. Having a title in this situation is helpful, insofar as having the artist them self explain the work. For all I care, paint a rock and title the piece "*me*". The title provides something to work off.
+A hallmark of "*modern art*" is a sense of obscurantism. The more metaphorical your work, the better the piece is. Having a title in this situation is helpful, insofar as having the artist themselves explain the work. For all I care, paint a rock and title the piece "*me*". The title provides something to work off.
 
 On the other hand, there are artists who can paint the "*ineffable*". There isn't a need to title a painting of a Tree "*Tree 06.23*", unless the work is within a collection. With the collection holding the meaning.
 

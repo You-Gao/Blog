@@ -11,7 +11,7 @@ description:  >-
 
 # Software Entropy 
 
-I wanted to write this blog to define the necessary scope of "*software entropy*". A lot of people learn about this concept throughout college or the workplace yet it remains conceptually vague. Misunderstanding software entropy often leads to the a sense of hopelessness against it. By some magic, a software codebase will decay into an incredible mess littered with arcane logic. 
+I wanted to write this blog to define the necessary scope of "*software entropy*". A lot of people learn about this concept throughout college or the workplace, yet it remains conceptually vague. Misunderstanding software entropy often leads to a sense of hopelessness against it. By some magic, a software codebase will decay into an incredible mess littered with arcane logic. 
 
 ## What is Software Entropy? 
 
@@ -21,13 +21,10 @@ Google defines it as follows: "*Software entropy is a term used to describe the 
 
 Borrowing from the concepts of "*accidental*" and "*essential*" complexity. Software entropy would be classified under the former. For example, the code that got the rocket to the moon dealt with essential complexity in the calculations and controls needed to navigate the rocket ship accurately. The developers dealt with accidental complexity in the coordination and maintenance of software development.
 
-Software entropy should not be seen as a magical deterioration of code. Looking at it this way, the solution becomes clearer. The solution is to follow existing practices to minimize accidental complexity. There is a preexisting suite of contextual best practices. The sad reality is everyone hates following best practices.
+Software entropy should not be seen as a magical deterioration of code. Looking at it this way, the solution becomes clearer. The solution is to follow existing practices to minimize accidental complexity. There is a preexisting suite of contextual best practices. Sadly, everyone hates following best practices.
 
 To oversimplify and be tautological: "*good design + good code + good documentation = no software entropy.*"
 
 ## Citations
 
 Brooks, F.P. (1987). No Silver Bullet: Essence and Accidents of Software Engineering.
-
----
-[^1]: I've come to experience that this is a organizational culture issue.

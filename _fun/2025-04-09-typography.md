@@ -11,17 +11,17 @@ comment: comic sans
 
 # typography is fun[^1]
 
-I recently went down the rabbit hole of typography. Specifically the formal elements of typography and how it affects branding. Questions like why does Nerd font look so "*nerdy*" or why does Comic Sans look so "*goofy*" have been on my ind.
+I recently went down the rabbit hole of typography. Specifically, the formal elements of typography and how they affect branding. Questions like why does Nerd font look so "*nerdy*" or why does Comic Sans look so "*goofy*" have been on my mind.
 
 I don't have the answer yet, but I wanted to give context to how I got here. As there is a "*language*" to data visualization, I wondered if there was a "*language*" in typography in relation to textual form.
 
-I made some delightful discoveries. The reason why Nerd fonts have been deemed "*nerdy*" is because they are monospace sans serif typefaces. Monospace typefaces have been historically used in coding applications because they allow clear spacing between letters, which heavily affects the readability of a codebase. 
+I made some delightful discoveries. The reason why Nerd fonts have been deemed "*nerdy*" is because they are monospace sans-serif typefaces. Monospace typefaces have been historically used in coding applications because they allow clear spacing between letters, which heavily affects the readability of a codebase. 
 
 Thus, the description of monospace fonts as "*nerdy*" follows from the historical usage due to how well adapted it was for coders. The same can be said of serif's reputation for "*elegance*" or sans-serif's reputation for "*modern*".
 
 ## my personal favorite fonts
 
-I didn't make this post to share the history and progression of typography. I made this post to share my favorite fonts that I went and found after reading. In no particular order, here they are grouped by typeface family.
+I didn't make this post to share the history and progression of typography. I made this post to share my favorite fonts that I found after reading. In no particular order, here they are grouped by typeface family.
 
 ### sans serif
 

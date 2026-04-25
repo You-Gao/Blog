@@ -12,9 +12,6 @@ description:  >-
 
 # THE Vibe Coding Book
 
-> "The modern software developer has become a poet, their audience---AI."
-> <figcaption class="blockquote-footer">me</figcaption>
-
 I have come around to reading a book on "*vibe-coding.*" I was mid doom scroll when I found a meme depicting a developer heralding this book. I then saw it was on *O'Reilly*[^1], which my university has free access to.
 
 So I gave it a shot and read through *Beyond Vibe Coding*. The book is surprisingly lucid on the topic of "*AI Coding*" and the book doesn't seem to be vibe-coded---at least in some chapters[^2].
@@ -39,7 +36,7 @@ This topic wasn't in the book, but I wanted to write about it without making a w
 
 "*Domain Specific Languages*" are declarative languages whose syntax is used to express "*intent*" in a specific "*domain*". Because of that property, they are highly effective and useful for doing operations, in many ways similar to English.
 
-"*HCL*" (HashiCorp Configuration Language), "*SQL*" (Structured Query Language), and "*YAML*" (Yet Another Markup Language) are examples of DSLs. These languages are powerful, and usable because they are simple. I foresee DSLs becoming popular because AI's can use them easier. 
+"*HCL*" (HashiCorp Configuration Language), "*SQL*" (Structured Query Language), and "*YAML*" (Yet Another Markup Language) are examples of DSLs. These languages are powerful and usable because they are simple. I foresee DSLs becoming popular because AI's can use them easier. 
 
 ### Transpilation
 
@@ -65,13 +62,13 @@ The solution to the above problem, and frankly, when there will be no more human
 
 The same thing exists in the "*No-code*" space for web design, where all you need is a web designer constructing interfaces using design principles. Traditionally, you would have a web developer build out the UI because under the UI is a web browser that intakes HTML/CSS/JS.
 
-All the jobs left are the ones which do "*conceptual*" work. A layer above what we would call "*developer*" work. Essentially, they focus on if the app is functioning how it's supposed to, not how it is functioning.
+All the jobs left are the ones doing "*conceptual*" work. A layer above what we would call "*developer*" work. Essentially, they focus on if the app is functioning how it's supposed to, not how it is functioning.
 
-Diagrams have been the best syntax for communicating architectural insight in "*system design*". The only role a business would hire for is a software architect who understands how to wire everything up conceptually. Then have them draw a diagram of the system and pass it into an AI tool to run implementation. That is until a CEO could describe a business function and have the AI build out the system.
+Diagrams have been the best syntax for communicating architectural insight in "*system design*". The only role a business would hire for is a software architect who understands how to wire everything up conceptually. Then have them draw a diagram of the system and pass it into an AI tool to run the implementation. That is, until a CEO could describe a business function and have the AI build out the system.
 
 ### The 30%
 
-It is no surprise the author advocates to learn "*conceptual*" skills instead of software development. In other words: "*become a designer*".
+It is no surprise the author advocates for learning "*conceptual*" skills instead of software development. In other words: "*become a designer*".
 
 Funnily enough, I have read 3/4 of the books the author recommends:
 
@@ -80,12 +77,12 @@ Funnily enough, I have read 3/4 of the books the author recommends:
 * *Fundamentals of Software Architecture*
 * *Head First Software Architecture*
 
-Though, I have a disclaimer. The fact is having well-founded and solid software developer skills will never hurt. It would be incredibly easy to offload "*critical thinking*" to an AI, but incredibly hurtful, especially in your early career.
+Though I have a disclaimer. The fact is, having well-founded and solid software developer skills will never hurt. It would be incredibly easy to offload "*critical thinking*" to an AI, but incredibly hurtful, especially in your early career.
 
 It's not like debugging as a skill is going to go away. I, for one, think it will be the most important skill. And to do debugging, you actually need to know the syntax and what is "*under the hood*". Yes, AI is coming, but I believe it is a "*tad-bit*" overhyped.
 
 > "You can teach a physicist finance, but you can't teach a finance person physics."
-> <figcaption class="blockquote-footer">Jim Simons</figcaption>
+> {% include figcaption.html caption="Jim Simons" %}
 
 ---
 [^1]: Not the auto parts company.

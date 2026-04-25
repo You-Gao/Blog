@@ -17,9 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
                     data.extract
                 ) {
                     
-                    const definition = (data.type === "disambiguation")
-                        ? "Too many definitions for this word, I hope I used it correctly."
-                        : (data.extract.length >= 200
+                    const definition =  (data.extract.length >= 200
                             ? data.extract.substring(0, 200) + "..."
                             : data.extract);
                     box.textContent = definition;

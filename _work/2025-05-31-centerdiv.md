@@ -32,11 +32,11 @@ I thought it would be a fun exercise, so here it is.
 
 ## display: grid + grid-template-columns
 
-{display: grid} is another way to structure html elements.
+{display: grid} is another way to structure HTML elements.
 
-{grid-template-columns} define the grid structure, but people typically just use bootstrap defined col classes. 
+{grid-template-columns} defines the grid structure, but people typically just use the Bootstrap-defined col classes. 
 
-{text-align} aligns text to the middle of {<p>}.
+{text-align} aligns text to the middle of the container.
 
 {place-items} also works if you want to set elements inside a grid child.
 
@@ -44,7 +44,7 @@ I thought it would be a fun exercise, so here it is.
 
 You can use a script to set it, but functionally it will be the same as ##1.
 
-```
+```Javascript
 <script>
 function SetXY() {
     var element = document.GetElementbyId("centerme");

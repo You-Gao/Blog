@@ -12,7 +12,7 @@ comment: a well-made game
 
 # A Short Hike
 
-<img src="{{ 'assets/games/a-short-hike/game_logo.jpg' | relative_url }}" alt="Logo" class="game_logo"/>
+{% include gamelogo.html src="{{ 'assets/games/a-short-hike/game_logo.jpg' | relative_url }}" %}
 
 ## Introduction
 
@@ -40,7 +40,7 @@ The game begins with the main character---a bird---traveling in a car with Aunt 
 
 **Mountain Top (Frozen):** At a specific altitude of the mountain, the golden feathers are frozen upon use and are only replenished when the player gets to a warm zone. The mechanic is a skill check for the player, serving as a way to test how well they understand the player mechanics.
 
-**NPCs**: NPCs provide the player with tasks that offer both growth and narrative depth. While the quests themselves grant golden feathers and encourage exploration; NPCs add a layer of storytelling and character development. 
+**NPCs**: NPCs provide the player with tasks that offer both growth and narrative depth. While the quests themselves grant golden feathers and encourage exploration. NPCs add a layer of storytelling and character development. 
 
 **Quests:** Each of the quests focuses on a unique aspect of the game while granting the player more feathers. The existence of these quests incentivizes the player to actively search for NPCs.
 
@@ -56,9 +56,9 @@ The game begins with the main character---a bird---traveling in a car with Aunt 
 
 ## Themes and Player Experience
 
-**Growth and Mastery:** The primary theme in *A Short Hike* is growth---which goes hand-in-hand with mastery. You start off with a single golden feather, which slowly increases until you get the max of twenty. Along the way, you and the character both grow. On the one hand, via learning the game mechanics better, and on the other by collecting more feathers. 
+**Growth and Mastery:** The primary theme in *A Short Hike* is growth---which goes hand-in-hand with mastery. You start with a single golden feather, which slowly increases until you get the max of twenty. Along the way, you and the character both grow. On the one hand, via learning the game mechanics better, and on the other, by collecting more feathers. 
 
-**Exploration and Discovery:** As players collect golden feathers, they experience increased freedom. The mountain serves as goalpost for marking player progression. The collection of golden feathers and the mountain "*egg on*" the player to reach the top.
+**Exploration and Discovery:** As players collect golden feathers, they experience increased freedom. The mountain serves as a goalpost for marking player progression. The collection of golden feathers and the mountain "*egg on*" the player to reach the top.
 
 **Narrative and Connection:** The game's narrative binds together its diverse aesthetics, advancing the storyline and immersing players in its world. 
 
@@ -66,12 +66,12 @@ The game begins with the main character---a bird---traveling in a car with Aunt 
 
 *A Short Hike* effectively blends simple mechanics with deep, meaningful themes. The journey up the mountain is a testament to the player's growth, mirroring real-life experiences of learning, exploration, and the satisfaction of achieving personal goals. Through its design, the game creates a fulfilling and introspective experience for the player.
 
-My reflections on the game has made me want to go on a real hike. The only reason why I have never been on a hike was because of an unfounded bias. I always thought of them like stick-to-the-path adventures and boring walking.
+My reflections on the game have made me want to go on a real hike. The only reason I have never been on a hike was because of an unfounded bias. I always thought of them as stick-to-the-path adventures and boring walking.
 
-The motivator missing for me was other people. In the actual world, a hiker wouldn't encounter a shady person asking you to complete tasks for them. Everything I have written about the themes and aesthetics in *A Short Hike* equally applies to real-life hiking, so go "*touch some grass*".
+The motivator missing for me was other people. In the actual world, a hiker wouldn't encounter a shady person asking them to complete tasks for them. Everything I have written about the themes and aesthetics in *A Short Hike* equally applies to real-life hiking, so go "*touch some grass*".
 
 Here is a clip of *A Short Hike*.
 
-<iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/KEJDFSUUzCo?si=__ZUXXb8rP5HVS-5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include video.html src="https://www.youtube.com/embed/KEJDFSUUzCo?si=__ZUXXb8rP5HVS-5" %}
 
 If you want to play the game: [https://ashorthike.com/](https://ashorthike.com/)

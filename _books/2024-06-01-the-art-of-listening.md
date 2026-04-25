@@ -12,11 +12,11 @@ description:  >-
 # The Art of Listening
 
 > "and, actually, every human being is the hero of a drama"
-> <figcaption class="blockquote-footer">The Art of Listening</figcaption>
+> {% include figcaption.html caption="The Art of Listening" %}
 
-Fromm has good ideas. I've read some of his previous works e.g. *The Escape from Freedom* and *The Art of Loving* and wanted to read more. I chose *The Art of Listening*.
+Fromm has good ideas. I've read some of his previous works, e.g., *The Escape from Freedom* and *The Art of Loving*, and wanted to read more. I chose *The Art of Listening*.
 
-The book is a collection of talks and seminars Fromm did later on in his career.The content is his reflections on psychoanalysis and the insights he gathered from practicing therapy. Fromm, as any other psychoanalyst, is interested in the structural causes of "*neurosis*"---beyond physiology.
+The book is a collection of talks and seminars given by Fromm later on in his career. The content is his reflections on psychoanalysis and the insights he gathered from practicing therapy. Fromm, as any other psychoanalyst, is interested in the structural causes of "*neurosis*"---beyond physiology.
 
 Fromm asks if society is fundamentally sick[^1]. He says the structure and ways of "*being*" in modern society is at fault, not the person. The use of the term "*mental illness*" is relative to the institutions. These are good questions to ask because, as we live our day-to-day without questioning ourselves, we legitimize abnormality as the "*new normal*"[^2]. As Fromm highlighted, no one is truly sick if everyone is sick.
 

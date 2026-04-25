@@ -10,7 +10,7 @@ description:  >-
 
 # anthropomorphizing the magical[^1]
 
-I have been taking a "*philosophy of mind*" course and recently read [psychologism and behaviorism](https://www.jstor.org/stable/2184371). I realize humans anthropomorphize "*mystical*" or "*magical*" things. Without going too much into the article, the main difference between the two lines of thought towards "*intelligence*" is if it is private or public. I'm on the side of intelligence as having a "*special sauce*". Which makes sense as I agree with "*Chalmers*" and his "*problem of other minds*".
+I have been taking a "*philosophy of mind*" course and recently read [psychologism and behaviorism](https://www.jstor.org/stable/2184371). I realize humans anthropomorphize "*mystical*" or "*magical*" things. Without going too much into the article, the main difference between the two lines of thought towards "*intelligence*" is whether it is private or public. I'm on the side of intelligence as having a "*special sauce*". Which makes sense as I agree with "*Chalmers*" and his "*problem of other minds*".
 
 Back to the main point. We often treat unknown entities as having human characteristics. Look at how Greek and Roman mythology even came about. The way in which we confer nature "*personhood*" is interesting.
 

@@ -12,7 +12,7 @@ comment: my first post, wow its bad
 
 # Digital Hedonism
 
-<iframe class="py-3" width="100%" height="350" src="https://www.youtube.com/embed/L8csN-ci3Yk?si=ADXqqsxQjTOxFQ9R&amp;start=41" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include video.html src="https://www.youtube.com/embed/L8csN-ci3Yk?si=ADXqqsxQjTOxFQ9R&amp;start=41" %}
 
 It has gotten pretty bad. Even when I try to stay aware and moderate myself, I remain subconsciously attracted to my phone. The thing is, even if you know how the attention economy functions, you can't escape it.
 

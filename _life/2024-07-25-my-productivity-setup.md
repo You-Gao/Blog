@@ -29,7 +29,7 @@ The Specs:
 * Memory: 8GB
 * Storage: 500GB
 
-This ThinkPad was seriously underpriced and I'm glad I bought it. It has sent me down the road as a user of Vim and Linux, which I will report back in a while on how it is going[^1].
+This ThinkPad was seriously underpriced, and I'm glad I bought it. It has sent me down the road as a user of Vim and Linux, which I will report back in a while on how it is going[^1].
 
 ## Terminal and Tiling Manager
 

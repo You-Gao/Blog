@@ -13,6 +13,6 @@ comment: not a book about video games
 # Homo Ludens
 
 > "All are temporary worlds within the ordinary world, dedicated to the performance of an act apart."
-> <figcaption class="blockquote-footer">Homo Ludens</figcaption>
+> {% include figcaption.html caption="Homo Ludens" %}
 
 I play "*games*". *Homo Ludens* isn't about video games. It's about the basis of games. "*Homo Ludens*" translates to "*playing man*". Huizinga shows how "*play*" is a precursor to the game of society. There are better ways to convey what Huizinga is talking about, but I give it a pass because it's an anthropological work.

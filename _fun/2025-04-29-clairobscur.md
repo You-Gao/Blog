@@ -12,7 +12,7 @@ comment: paper mario + hxh
 
 # Clair Obscur: Expedition 33
 
-<img src="{{ 'assets/games/clair.png' | relative_url }}" alt="Logo" class="game_logo"/>
+{% include gamelogo.html src="{{ 'assets/games/clair.png' | relative_url }}" %}
 
 ## Intro
 
@@ -22,7 +22,7 @@ The game as a concept isn't novel. The interactive turn-based combat system has 
 
 ## Dodge & Parry
 
-<iframe class="my-3" width="100%" height="300" src="https://www.youtube.com/embed/YBMu9n49_S0?si=g6rS2QyYxQXxNVmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% include video.html src="https://www.youtube.com/embed/YBMu9n49_S0?si=g6rS2QyYxQXxNVmo" %}
 
 The combat system + the graphics make the entire game. The reason why an interactive turn-based system does well is because of the immersion. It rewards and encourages the player not to autopilot by adding an incentive to participate in each encounter[^4]. In contrast with noninteractive turn-based games, it easily gets boring after you finish a build.
 

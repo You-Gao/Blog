@@ -12,15 +12,15 @@ description:  >-
 # What Time Is This Place?
 
 > "Everywhere there are signs of time."
-> <figcaption class="blockquote-footer">What Time is This Place?</figcaption>
+> {% include figcaption.html caption="What Time is This Place?" %}
 
-I enjoy understanding how the "*built environment*" has a sociological and psychology---often hidden---effect in others and my life. *What Time is This Place?* details how we experience time through environmental cues and its effect on our "*daily rhythms.*" Reflecting on the contents helped me piece together my understanding of how we experience time. 
+I enjoy understanding how the "*built environment*" has a sociological and psychological ---often hidden---effect on others and my life. *What Time is This Place?* details how we experience time through environmental cues and its effect on our "*daily rhythms.*" Reflecting on the contents helped me piece together my understanding of how we experience time. 
 
 ## Accounting Time[^2]
 
 We don't seem to experience time linearly. Sure, the world is in constant motion and the arrow of time "*waits for nobody*". But in reflection, time appears as discontinuous jumps of experience. If I were to ask you to think about your childhood experiences, it wouldn't be a linear stream---akin to a video. It would be a fragmented set of moments for a specific event. "*Accounted time*" seems to be a collection of long-term memories.
 
-The relation to "*perceived change*" is important to state. Change is what constructs the experience of time. The change within experiences, between experiences, and the present. Plus the ability to recollect it is how "*time*" is experienced. An example is the saying: "*time speeds up when you are having fun!*". It is said because people are absorbed into the present and they don't stop to perceive any changes within their environment[^1].
+The relation to "*perceived change*" is important to state. Change is what constructs the experience of time. The change within experiences, between experiences, and the present. Plus, the ability to recollect it is how "*time*" is experienced. An example is the saying: "*time speeds up when you are having fun!*". It is said because people are absorbed into the present, and they don't stop to perceive any changes within their environment[^1].
 
 ## Encountering Time
 
@@ -28,11 +28,11 @@ In contrast with the previous section, "*encountering time*" focuses more on how
 
 Turning on the lights when you get home after work, looking outside the window and seeing the city lit up, or even the scent of a candle. These experiences "*guide*" us throughout the day and act as cues for where we are in time.
 
-In historical Japan, the burning of scented candles was used as a way to mark different times of the day. Each candle would have a distinct scent which signaled a new segment of time. People waiting for buses, traffic coming back from work, the sun setting, and similar experiences in our daily lives contribute to our temporal rhythms as we move throughout the day.
+In historical Japan, the burning of scented candles was used as a way to mark different times of the day. Each candle would have a distinct scent, which signaled a new segment of time. People waiting for buses, traffic coming back from work, the sun setting, and similar experiences in our daily lives contribute to our temporal rhythms as we move throughout the day.
 
 ## Discounting Time
 
-If you somewhat agree with what I have said in the previous sections, Then let me leave with some practical advice. People discount time daily. We treat time as it weren't "*priceless*". If time is spent with eyes closed, you haven't experienced any of it at all. So do your best to intentionally spend time intentionally for memories and experiences. 
+If you somewhat agree with what I have said in the previous sections, then let me leave with some practical advice. People discount time daily. We treat time as if it weren't "*priceless*". If time is spent with eyes closed, you haven't experienced any of it at all. So do your best to intentionally spend time on memories and experiences. 
 
 ## Citations
 

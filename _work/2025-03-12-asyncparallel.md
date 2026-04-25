@@ -14,11 +14,11 @@ hidden: true
 
 No one really teaches programming within an async parallel frame. Which is a problem because most "*good*" applications or services use async/parallel concepts. The further problem is how amorphous the topic is with vague definitions, etc. Even worse, each language implements it differently.
 
-I made this post as a meta-post of resources for understanding async and parallel behavior of programs. It's a collection of rabbit holes, other blogposts, and documentation for understanding how to use this coding paradigm.
+I made this post as a meta-post of resources for understanding async and parallel behavior of programs. It's a collection of rabbit holes, other blog posts, and documentation for understanding how to use this coding paradigm.
 
 ## async
 
-Async is difficult to understand because languages provide different abstractions for it. At base level it is hardware interrupts. 
+Async is difficult to understand because languages provide different abstractions for it. At the base level, it is hardware interrupts. 
 
 - [Nonblocking IO/Epoll](https://eklitzke.org/blocking-io-nonblocking-io-and-epoll)
 - [Futures/Promises Example](https://github.com/tsoding/c3fut)

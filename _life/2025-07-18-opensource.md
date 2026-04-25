@@ -11,18 +11,15 @@ description:  >-
 
 # cool open-source software[^2]
 
-> With every new shiny software constantly shoving AI down your throat, I thought it was about time to migrate off and find alternatives to mainstream "*enterprise free*" offerings. 
-> <figcaption class="blockquote-footer">me</figcaption>
-
-There are a lot of interesting, useful, and importantly **cool** open-source projects out there. Projects who don't try to shove their new AI offerings down your throat. Without further ado, here are some cool open-source software.
+There are a lot of interesting, useful, and importantly **cool** open-source projects out there.
 
 ## qutebrowser
 
 ![qutebroweser](https://qutebrowser.org/doc/img/hints.png)
 
-[qutebrowser](https://qutebrowser.org/index.html) is a fun alternative to Chrome or any browser really. It is written using Python and "*Qt*", which is an open-source project allowing developers to write '*cross-platform apps*'.
+[qutebrowser](https://qutebrowser.org/index.html) is a fun alternative to Chrome or any browser. It is written using Python and "*Qt*", which is an open-source project allowing developers to write '*cross-platform apps*'.
 
-Anyhow, qutebrowser is just fun to use. Keyboard-based workflows, in general, are fun to use. Having a quick interface for what you want to do is good UX. It can be "*overkill*", akin to using a stenography keyboard to write a paper, but even in general cases it is useful.
+Anyhow, qutebrowser is just fun to use. Keyboard-based workflows, in general, are fun to use. Having a quick interface for what you want to do is good UX. It can be "*overkill*", akin to using a stenography keyboard to write a paper, but even in general cases, it is useful.
 
 A small rabbit hole to go down: [History of Web Engines](https://eylenburg.github.io/browser_engines.htm)
 
@@ -55,5 +52,5 @@ The main competitor to this would be "*Obsidian*", and although I do admit their
 [komorebi](https://github.com/LGUG2Z/komorebi) is a tiling window manager for Windows. I use "*i3*" for my window manager on Linux, so it kind of made sense to have the same thing for my PC.
 
 ---
-[^1]: Interestingly, they used a JavaScript module which is usually run on Node.js, but can be bundled using WebPack.
+[^1]: Interestingly, they used a JavaScript module usually ran on Node.js, but can be bundled using WebPack.
 [^2]: I ended up showcasing cross-platform SDKs more than anything.

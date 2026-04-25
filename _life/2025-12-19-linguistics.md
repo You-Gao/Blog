@@ -11,9 +11,9 @@ description:  >-
 
 # linguistics and the such
 
-It has been an odd half-year for me. My mind has been focused on understanding language and it has not stopped. Language as in grammar, plus "*semantics*" and "*syntax*". You could trace through my blogs and find understanding language was at the core of most posts. "*art interpretation*", "*Wittgenstein*", "*data ethics*", physics, the "*self*", and the year's writing were focused on language.
+It has been an odd half-year for me. My mind has been focused on understanding language and it has not stopped. Language as in grammar, plus "*semantics*" and "*syntax*". You could trace through my blogs and identify understanding language at the core of most posts. "*art interpretation*", "*Wittgenstein*", "*data ethics*", physics, the "*self*", and the year's writing were focused on language.
 
-I don't mean the English language or the spoken language. More so about what are symbols, what is meaning, and what is truth. This interest than transitioned to thinking about formalism in programming languages like "*Prolog*" and "*Scala*". With the main goal in answering what is "*representation*" and what is "*computation*". Both topics circling back to using and understanding language.
+I don't mean the English language or the spoken language. More so about what symbols are, what their meaning is, and what the truth is. This interest then transitioned to thinking about formalism in programming languages like "*Prolog*" and "*Scala*". With the main goal of answering what "*representation* " is and what "*computation*"  is. Both topics circle back to using and understanding language.
 
 ## resources
 
