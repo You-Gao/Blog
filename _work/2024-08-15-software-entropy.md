@@ -19,7 +19,7 @@ Google defines it as follows: "*Software entropy is a term used to describe the 
 
 ## Complexity and Entropy
 
-Borrowing from the concepts of "*accidental*" and "*essential*" complexity. Software entropy would be classified under the former. For example, the code that got the rocket to the moon dealt with essential complexity in the calculations and controls needed to navigate the rocket ship accurately. The developers dealt with accidental complexity in the coordination and maintenance of software development.
+Borrowing from the concepts of "*accidental*" and "*essential*" complexity. Software entropy would be classified under the former. For example, the code which got the rocket to the moon dealt with essential complexity in the calculations and controls needed to navigate the rocket ship accurately. The developers dealt with accidental complexity in the coordination and maintenance of software development.
 
 Software entropy should not be seen as a magical deterioration of code. Looking at it this way, the solution becomes clearer. The solution is to follow existing practices to minimize accidental complexity. There is a preexisting suite of contextual best practices. Sadly, everyone hates following best practices.
 

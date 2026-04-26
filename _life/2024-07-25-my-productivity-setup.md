@@ -45,7 +45,7 @@ It's a solid open-source note-taking app. I know Obsidian exists, but I already 
 
 ## Habitica
 
-The app aims to gamify daily tasks, habits, and to-do lists in a positive way. And it does achieve that for me. The effectiveness of any habit/daily task app relies on the person. You need to make a critical inquiry about your goals in life and then set them up in the app. 
+The app aims to gamify daily tasks, habits, and to-do lists in a positive way. It does well for me. The effectiveness of any habit/daily task app relies on the person. You need to make a critical inquiry about your goals in life and then set them up in the app. 
 
 In a sense, you are developing your "*virtual self*" to mirror what you want to be in reality. It's a continuous process to reflect and see what things you would like to incentivize artificially. 
 

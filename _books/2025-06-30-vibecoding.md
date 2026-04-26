@@ -34,7 +34,7 @@ Intent is an incorrect separating factor. AI-assisted programming and vibe-codin
 
 This topic wasn't in the book, but I wanted to write about it without making a whole other blog.
 
-"*Domain Specific Languages*" are declarative languages whose syntax is used to express "*intent*" in a specific "*domain*". Because of that property, they are highly effective and useful for doing operations, in many ways similar to English.
+"*Domain Specific Languages*" are declarative languages whose syntax is used to express "*intent*" in a specific "*domain*". Because of the declarative semantics, they are highly effective and useful for doing operations, in many ways similar to English.
 
 "*HCL*" (HashiCorp Configuration Language), "*SQL*" (Structured Query Language), and "*YAML*" (Yet Another Markup Language) are examples of DSLs. These languages are powerful and usable because they are simple. I foresee DSLs becoming popular because AI's can use them easier. 
 
@@ -52,7 +52,7 @@ Secondly, even if you say the code generation is a declarative transpiler, it do
 
 ### 70% Problem
 
-AI is not a "*silver bullet.*" It has not solved the problem of "*essential complexity*", rather helps with "*accidental complexity*" and in many cases even contributes to it. The "*70% problem*" is the idea that AI can get you 70% of the way, but after a critical point, any more usage simply fails.
+AI is not a "*silver bullet.*" It has not solved the problem of "*essential complexity*", rather helps with "*accidental complexity*" and in many cases even contributes to it. The "*70% problem*" is how AI can get you 70% of the way, but after a critical point, any more usage simply fails.
 
 The common scenario of vibe-coding is "*MVP*" generation. However, as features start to add up and more chats are spawned, it will ultimately collapse. This phenomenon is due to AI's inability to understand intent in the single file alongside the "*10,000 ft*" view of what you're trying to express.
 
@@ -60,7 +60,7 @@ The common scenario of vibe-coding is "*MVP*" generation. However, as features s
 
 The solution to the above problem, and frankly, when there will be no more human software engineers, is when AI can take "*Diagram as Code*".
 
-The same thing exists in the "*No-code*" space for web design, where all you need is a web designer constructing interfaces using design principles. Traditionally, you would have a web developer build out the UI because under the UI is a web browser that intakes HTML/CSS/JS.
+The same thing exists in the "*No-code*" space for web design, where all you need is a web designer constructing interfaces using design principles. Traditionally, you would have a web developer build out the UI because under the UI is a web browser rendering HTML/CSS/JS.
 
 All the jobs left are the ones doing "*conceptual*" work. A layer above what we would call "*developer*" work. Essentially, they focus on if the app is functioning how it's supposed to, not how it is functioning.
 
@@ -86,4 +86,4 @@ It's not like debugging as a skill is going to go away. I, for one, think it wil
 
 ---
 [^1]: Not the auto parts company.
-[^2]: You can tell because there are human typos throughout, unless that is to trick the reader.
+[^2]: You can tell because there are human typos throughout, unless it is a trick.

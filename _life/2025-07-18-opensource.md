@@ -25,7 +25,7 @@ A small rabbit hole to go down: [History of Web Engines](https://eylenburg.githu
 
 ## Readest
 
-[Readest](https://readest.com/) is an e-book PDF reader I recently stumbled upon. I found it after being pretty miffed about the sheer, almost absurd, greed of AI companies making "*TTS (Text To Speech)*" readers on iOS. The popular ones charge like **$10-$20** a month for a TTS reader. Isn't that crazy?
+[Readest](https://readest.com/) is an e-book PDF reader I recently stumbled upon. I found it after being pretty miffed about the sheer, almost absurd, greed of AI companies making "*TTS (Text To Speech)*" readers on iOS. The popular ones charge like **$10-$20** a month for a TTS reader. Isn't the price crazy?
 
 The end-to-end processing of a Vocoder + Spectrogram model does not take a lot of compute. It doesn't take much because:
 

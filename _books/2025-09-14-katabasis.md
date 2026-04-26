@@ -41,11 +41,11 @@ There is a simple solution: defining the predicate quantitatively. A heap is onl
 
 ### Zeno's Paradox
 
-Zeno's paradox is described with Tortoise & Hare interlocutors. Consider the following statements. If it rains, it will be wet outside. It rained. So it is logical that it will be wet outside. It is an evocation of the "*modus ponens*" schema. The Tortoise, however, asks why we are justified in believing in modus ponens.
+Zeno's paradox is described with Tortoise & Hare interlocutors. Consider the following statements. If it rains, it will be wet outside. It rained. So it is wet outside. It is an evocation of the "*modus ponens*" schema. The Tortoise, however, asks why we are justified in believing in modus ponens.
 
 The Hare adds another premise by stating If the first premise is true and the second premise is true, then the conclusion is true. Then again, why should the Tortoise agree with the newly added premise? 
 
-The resolution here is realizing that the grammatical rules of a system are not defined within the system. When people do formal logic, "*modus ponens*" isn't in the "*object language*" of formal logic. It's in plain English or its own grammar. 
+The resolution here is realizing how the grammatical rules of a system are not defined within the system. When people do formal logic, "*modus ponens*" isn't in the "*object language*" of formal logic. It's in plain English or its own grammar. 
 
 ### Curry's and Russell's Paradox 
 

@@ -25,7 +25,7 @@ The relation to "*perceived change*" is important to state. Change is what const
 
 ## Encountering Time
 
-In contrast with the previous section, "*encountering time*" focuses more on how we relate and orient ourselves to time. What differs here is how the memory and experience are used. "*Accounting time*" was about the relation of changes that created time. "*Encountering time*" is about recognizing patterns we use to orient ourselves "*temporally.*"
+In contrast with the previous section, "*encountering time*" focuses more on how we relate and orient ourselves to time. What differs here is how the memory and experience are used. "*Accounting time*" was about the relation of changes creating time. "*Encountering time*" is about recognizing patterns we use to orient ourselves "*temporally.*"
 
 Turning on the lights when you get home after work, looking outside the window and seeing the city lit up, or even the scent of a candle. These experiences "*guide*" us throughout the day and act as cues for where we are in time.
 

@@ -18,7 +18,7 @@ The film shares a truth I hold about living. Being content is a mental state wor
 
 ## Hirayama
 
-Wim Wenders uses Hirayama to demonstrate this truth. Hirayama is a Japanese toilet cleaner who follows a seemingly mundane daily/weekly routine. Wenders notably plays with the fact that we "*viewers*" are acting as judges for Hirayama.
+Wim Wenders uses Hirayama to demonstrate this truth. Hirayama is a Japanese toilet cleaner who follows a seemingly mundane daily/weekly routine. Wenders notably plays with how we "*viewers*" are acting as judges for Hirayama.
 
 > "Hirayama is a janitor; he is a failed man."
 
@@ -26,7 +26,7 @@ Wim Wenders uses Hirayama to demonstrate this truth. Hirayama is a Japanese toil
 
 It speaks to how we use people's jobs to infer something of a person's internal psyche. Anyone who works X job is "*clearly miserable*" or "*lazy*" or "*boring*" or "*unsatisfied*" or Y negative trait. 
 
-This is how Hirayama's sister interprets Hirayama. She sees that Hirayama is a janitor and demeans him in the later parts of the film. These scenes often leave viewers wondering how Hirayama is happy despite all of this.
+This is how Hirayama's sister interprets Hirayama. She sees Hirayama as a janitor and demeans him in the later parts of the film. These scenes often leave viewers wondering how Hirayama is happy despite all of this.
 
 ## "Other Minds" & "I"
 

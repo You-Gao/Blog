@@ -18,7 +18,7 @@ Note to self or anyone: **Never buy a film camera as your starting camera.**
 
 There were some merits to buying a film camera. I got it at a discount. $50 for an Olympus OM-4[^2]. One of those merits is learning the fundamentals of a camera, like lens, aperture, focus, shutter speed and ISO. The other is reading all the old **beautifully** designed manuals and trying to figure out how to operate the film camera. 
 
-These merits are offset by the fact that you can't see the results of your photography until you get the film developed. Which, for me, is likely never.
+These merits are offset by how you can't see the results of your photography until you get the film developed. Which, for me, is likely never.
 
 I recently got intrigued with photography again and wanted to share what made me revisit the craft.
 

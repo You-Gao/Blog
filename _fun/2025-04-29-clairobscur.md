@@ -18,7 +18,7 @@ comment: paper mario
 
 Recently finished up with classes and found out my brother had an Xbox Game Pass subscription. Lo and behold, this game was recently released and available via the game pass, so I decided to play it. Having completed the game, I'd have to agree with the 9/10 rating on both Steam and IGN. *Clair Obscur: Expedition 33* made me regain hope for triple-A game development as capable of creating "*good games*".
 
-The game as a concept isn't novel. The interactive turn-based combat system has been done in *Paper Mario* on the N64. Nevertheless, no game development company has taken the turn-based combat system and put it in Unreal Engine. The developers saw this gap in the market for "*a high-fidelity graphics turn-based RPG*" and decided to craft the masterpiece that is *Clair Obscur: Expedition 33*[^1]. 
+The game as a concept isn't novel. The interactive turn-based combat system has been done in *Paper Mario* on the N64. Nevertheless, no game development company has taken the turn-based combat system and put it in Unreal Engine. The developers saw this gap in the market for "*a high-fidelity graphics turn-based RPG*" and decided to craft the masterpiece known as *Clair Obscur: Expedition 33*[^1]. 
 
 ## Dodge & Parry
 
@@ -28,7 +28,7 @@ The combat system + the graphics make the entire game. The reason why an interac
 
 Another point of praise is how "*smooth*" and good it feels to execute dodges and parries. 
 
-1. The visual effects after hitting a parry are accentuated to create that visceral weight (similar to impact frames in animation).
+1. The visual effects after hitting a parry are accentuated to create a visceral weight (similar to impact frames in animation).
 2. How reactive the dodge and parry buttons are, even against massive frame drops. The parry/dodge system feels fair towards the player.
 
 My only critique of where this fails is a problem with level design more than the interaction. I call it "*victory roading*" the player, as an analogy to the long and repetitive battles before the Elite 4 in Pokemon.

@@ -31,10 +31,10 @@ Performance is a vague term when it comes to UI/UX. The definition includes the 
 
 ### Be Different
 
-In order to be different, you have to understand the technology you are working with and what is possible or not. Throughout my deep dive, I encountered sites made fully in WebGL, sites without any CSS, sites with only images, and sites that broke conventional design rules. These pages played with the boundary of web design on their own. 
+In order to be different, you have to understand the technology you are working with and what is possible or not. Throughout my deep dive, I encountered sites made fully in WebGL, sites without any CSS, sites with only images, and sites which broke conventional design rules. These pages played with the boundary of web design on their own. 
 
 Like an artist who selects oil paint over watercolor for a specific effect, a web designer who understands HTML, CSS, JavaScript, and beyond can make more deliberate design choices rather than relying on templates or trends.
 
 ## Closing Thoughts
 
-Even though I wrote a blog on it, UX still feels a bit amorphous to me. My best interpretation is that UI is "*lintable*" and UX is more semantic. UX captures more than the UI. If anyone out there has a better conception, please do tell me.
+Even though I wrote a blog on it, UX still feels a bit amorphous to me. My best interpretation is understanding UI as "*lintable*" and UX as semantic. UX captures more than the UI. If anyone out there has a better conception, please do tell me.

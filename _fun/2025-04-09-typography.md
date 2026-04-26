@@ -21,7 +21,7 @@ Thus, the description of monospace fonts as "*nerdy*" follows from the historica
 
 ## my personal favorite fonts
 
-I didn't make this post to share the history and progression of typography. I made this post to share my favorite fonts that I found after reading. In no particular order, here they are grouped by typeface family.
+I didn't make this post to share the history and progression of typography. I made this post to share my favorite fonts I found after reading. In no particular order, here they are grouped by typeface family.
 
 ### sans serif
 
@@ -41,7 +41,7 @@ I didn't make this post to share the history and progression of typography. I ma
 
 ### script
 
-I don't know of any script typefaces that I like.
+I don't know if I like any script typefaces.
 
 ---
 [^1]: Post inspired by *Thinking with Type* and *The Elements of Typographic Style.*

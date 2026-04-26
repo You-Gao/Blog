@@ -14,7 +14,7 @@ description:  >-
 > "For many, the joys far outweigh the woes, and for them, the remainder of this book will attempt to lay some boardwalks across the tar."
 > {% include figcaption.html caption="The Mythical Man-Month" %}
 
-*Mythical Man-Month* put out concepts that have stood the test of time. Fred Brooks provides us with the wisdom he has gathered over the years, leading major software projects in the 1970s.
+*Mythical Man-Month* put out concepts which have stood the test of time. Fred Brooks provides us with the wisdom he has gathered over the years, leading major software projects in the 1970s.
 
 Personally, the book has helped highlight and provide insight into a lot of the challenges of writing software within an organizational context (open-source or in a company). As a student, you usually will never encounter software development at scale until an internship, so this book is priceless in this respect. 
 

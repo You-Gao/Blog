@@ -32,9 +32,9 @@ On the path to victory, you will have to manage resource allocation, build citie
 
 **Civic and Tech Trees:** Allows players to "*invest*" turns into unlocking specific technologies on the tree. Each of these technologies and civics is dependent on the type of nation, civilization, and ruler. Tech trees add another layer of dynamism in deciding a game plan.
 
-**Eureka:** Boosts the tech tree when the player has met certain requirements, like making six farms or killing a barbarian. These boosts are a micro mechanic that can connect to the game plan.
+**Eureka:** Boosts the tech tree when the player has met certain requirements, like making six farms or killing a barbarian. These boosts are a micro mechanic which can connect to the game plan.
 
-**Resources (Faith, Gold, Culture, Science):** Incremented counters that can be spent to further the game state. Gold is especially important in the early game as it can accelerate city growth. All of these resources end up as a way to win the game: science, war (gold), culture, and religion.
+**Resources (Faith, Gold, Culture, Science):** Incremented counters which can be spent to further the game state. Gold is especially important in the early game as it can accelerate city growth. All of these resources end up as a way to win the game: science, war (gold), culture, and religion.
 
 **City-states:** Separate cities around the map grant the player's nation benefits when you complete their missions or send envoys. Again, dynamically impacts the game as the bonuses can grant drastic growth benefits.
 
@@ -46,11 +46,11 @@ On the path to victory, you will have to manage resource allocation, build citie
 
 **Wonders:** Monuments grant strong and specific bonuses with the trade-off being the high investment cost. There can only be one being built, and if another player builds it, you basically wasted all your turns doing so. 
 
-**Amenities:** Luxury resources that require builders to spend a charge to harvest. These provide +1/2 happiness of a civilization and more if you select perks. High happiness increases the overall resource production of the city. Amenities scale throughout the game, requiring more amenities as your population grows.
+**Amenities:** Luxury resources which require builders to spend a charge to harvest. These provide +1/2 happiness of a civilization and more if you select perks. High happiness increases the overall resource production of the city. Amenities scale throughout the game, requiring more amenities as your population grows.
 
 ## Themes and Player Experience
 
-**Achievement:** In Civ, there is an absolute joy in seeing how you get from 1 settler and 1 warrior to a super advanced death-bot-producing nation. I don't play only for the victory screen because if that were the case, I wouldn't have been playing Civ at all[^2].
+**Achievement:** In Civ, there is an absolute joy in seeing how you get from 1 settler and 1 warrior to a super advanced death-bot-producing nation. I don't play only for the victory screen because if winning was my only goal, I wouldn't have been playing Civ at all[^2].
 
 **Immersion:** If you want to experience what it was like for Teddy Roosevelt to build America starting from ancient times, then look no further. Besides the ability to play leaders, the game does well for realism "*realism*". Different environmental effects and the routes to victory make the game feel real.
 

@@ -16,7 +16,7 @@ comment: a well-made game
 
 ## Introduction
 
-The game begins with the main character---a bird---traveling in a car with Aunt May---a bird---to a hiking location. This starting screen sets the stage for the adventure and exploration that follows.
+The game begins with the main character---a bird---traveling in a car with Aunt May---a bird---to a hiking location. This starting screen sets the stage for the adventure and exploration which follows.
 
 ## Player Mechanics
 
@@ -40,7 +40,7 @@ The game begins with the main character---a bird---traveling in a car with Aunt 
 
 **Mountain Top (Frozen):** At a specific altitude of the mountain, the golden feathers are frozen upon use and are only replenished when the player gets to a warm zone. The mechanic is a skill check for the player, serving as a way to test how well they understand the player mechanics.
 
-**NPCs**: NPCs provide the player with tasks that offer both growth and narrative depth. While the quests themselves grant golden feathers and encourage exploration. NPCs add a layer of storytelling and character development. 
+**NPCs**: NPCs provide the player with tasks which offer both growth and narrative depth. While the quests themselves grant golden feathers and encourage exploration. NPCs add a layer of storytelling and character development. 
 
 **Quests:** Each of the quests focuses on a unique aspect of the game while granting the player more feathers. The existence of these quests incentivizes the player to actively search for NPCs.
 

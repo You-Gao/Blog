@@ -31,7 +31,7 @@ Unlike a word like "*blue*" which has stable "*referents*", more controversial w
 
 I find it worth understanding the mechanics of these words as they are consistently weaponized. The decision to label a group a riot or a protest, an action just or unjust, and a person dangerous has more implications than saying "*the sky is blue*".
 
-Starting with the word "*dangerous*", words like it are abstract, similar to words like "*Justice*". The hard part comes when asking people to define the word and how they use it. "*What is the prototypical dangerous or just schema?*" It can be answered, and it is pragmatic that they are answered.
+Starting with the word "*dangerous*", words like it are abstract, similar to words like "*Justice*". The hard part comes when asking people to define the word and how they use it. "*What is the prototypical dangerous or just schema?*" It can be answered, and it is pragmatic they are answered.
 
 The problem is, most academic studies, personal attitudes, and arguments will say "X is *dangerous*" without saying how they "*measured*" the term and whether or not it is an acceptable measure. It is in this way I despair about rhetoric because it allows a person to cite data and, in a sense, have their claim be "*true*", but not "*True*".
 
