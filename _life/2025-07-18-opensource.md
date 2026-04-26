@@ -19,7 +19,7 @@ There are a lot of interesting, useful, and importantly **cool** open-source pro
 
 [qutebrowser](https://qutebrowser.org/index.html) is a fun alternative to Chrome or any browser. It is written using Python and "*Qt*", which is an open-source project allowing developers to write '*cross-platform apps*'.
 
-Anyhow, qutebrowser is just fun to use. Keyboard-based workflows, in general, are fun to use. Having a quick interface for what you want to do is good UX. It can be "*overkill*", akin to using a stenography keyboard to write a paper, but even in general cases, it is useful.
+Anyhow, qutebrowser is fun to use. Keyboard-based workflows, in general, are fun to use. Having a quick interface for what you want to do is good UX. It can be "*overkill*", akin to using a stenography keyboard to write a paper, but even in general cases, it is useful.
 
 A small rabbit hole to go down: [History of Web Engines](https://eylenburg.github.io/browser_engines.htm)
 
@@ -29,7 +29,7 @@ A small rabbit hole to go down: [History of Web Engines](https://eylenburg.githu
 
 The end-to-end processing of a Vocoder + Spectrogram model does not take a lot of compute. It doesn't take much because:
 
-1. the "*context window*" is small, usually just the page
+1. the "*context window*" is small
 2. not 10B+ parameters in it
 3. highly optimized for use
  

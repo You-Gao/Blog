@@ -34,7 +34,7 @@ I thought it would be a fun exercise, so here it is.
 
 {display: grid} is another way to structure HTML elements.
 
-{grid-template-columns} defines the grid structure, but people typically just use the Bootstrap-defined col classes. 
+{grid-template-columns} defines the grid structure, but people typically use the Bootstrap-defined col classes. 
 
 {text-align} aligns text to the middle of the container.
 

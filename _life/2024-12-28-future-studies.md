@@ -20,7 +20,7 @@ I enjoy writing Node.js more than using Node.js. It feels more fruitful to gain 
 
 ## Operating Systems/Kernel Modules
 
-What does it really mean for UNIX to treat everything as "*files*" or use file descriptors? This question and many more motivated me to understand what underlies OS abstractions.
+What does it mean for UNIX to treat everything as "*files*" or use file descriptors? This question and many more motivated me to understand what underlies OS abstractions.
 
 Reasonably enough, any sane person doesn't need to go beyond the abstractions they are given, but I'm not sane. I want to know the underlying wizardry and black magic of operating systems. It's simply interesting how you have this special program dubbed the kernel, which runs the show. 
 

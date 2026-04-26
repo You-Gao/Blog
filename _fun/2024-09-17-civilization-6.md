@@ -42,7 +42,7 @@ On the path to victory, you will have to manage resource allocation, build citie
 
 **Great People:** Units can be recruited with "*Great People Points*" which are awarded through different game mechanics. Again, adds dynamism because these units provide massive boosts.
 
-**Districts:** Buildings grant specific bonuses and have bonuses based on the tiles around them. It's one of the more confusing portions of the game plan. At least I have not figured it out because you need to eventually build all of them to meet specific pieces of the plan. In other words, you can't just build one for your win condition and expect it to work.
+**Districts:** Buildings grant specific bonuses and have bonuses based on the tiles around them. It's one of the more confusing portions of the game plan. At least I have not figured it out because you need to eventually build all of them to meet specific pieces of the plan. In other words, you can't build one for your win condition and expect it to work.
 
 **Wonders:** Monuments grant strong and specific bonuses with the trade-off being the high investment cost. There can only be one being built, and if another player builds it, you basically wasted all your turns doing so. 
 
@@ -50,7 +50,7 @@ On the path to victory, you will have to manage resource allocation, build citie
 
 ## Themes and Player Experience
 
-**Achievement:** In Civ, there is an absolute joy in seeing how you get from 1 settler and 1 warrior to a super advanced death-bot-producing nation. It isn't just seeing the victory screen because if that were the case, I wouldn't have been playing Civ at all[^2].
+**Achievement:** In Civ, there is an absolute joy in seeing how you get from 1 settler and 1 warrior to a super advanced death-bot-producing nation. I don't play only for the victory screen because if that were the case, I wouldn't have been playing Civ at all[^2].
 
 **Immersion:** If you want to experience what it was like for Teddy Roosevelt to build America starting from ancient times, then look no further. Besides the ability to play leaders, the game does well for realism "*realism*". Different environmental effects and the routes to victory make the game feel real.
 
@@ -69,5 +69,5 @@ Good game, should play 10/10.
 If you want to play the game: [https://civilization.2k.com/](https://civilization.2k.com/)
 
 ---
-[^1]: It was kind of awkward thinking of specifically player mechanics because for Turn-based Games, you are just interacting w/ the main game mechanics. There isn't a single "*body*" to control, rather a system.
+[^1]: It was kind of awkward thinking of specifically player mechanics because for Turn-based Games, you are interacting w/ the main game mechanics. There isn't a single "*body*" to control, rather a system.
 [^2]: I have not completed 80% of my games.

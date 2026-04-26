@@ -11,7 +11,7 @@ description:  >-
 
 # async parallel
 
-No one really teaches programming within an async parallel frame. Which is a problem because most "*good*" applications or services use async/parallel concepts. The further problem is how amorphous the topic is with vague definitions, etc. Even worse, each language implements it differently.
+No one teaches programming within an async parallel frame. Which is a problem because most "*good*" applications or services use async/parallel concepts. The further problem is how amorphous the topic is with vague definitions, etc. Even worse, each language implements it differently.
 
 I made this post as a meta-post of resources for understanding async and parallel behavior of programs. It's a collection of rabbit holes, other blog posts, and documentation for understanding how to use this coding paradigm.
 
