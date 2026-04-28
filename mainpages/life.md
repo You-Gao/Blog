@@ -2,7 +2,7 @@
 categories:       blog
 date:             2024-07-14
 description:  >-
-  the thoughts i hope have originality
+    Thoughts about life, written in the hope they carry some originality.
 lang:             en
 last_modified_at: 2024-07-14
 layout:           style

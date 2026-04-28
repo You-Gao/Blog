@@ -4,7 +4,7 @@ date:             2024-07-14
 last_modified_at: 2026-04-08
 tags: [aboutme, reflection]
 description:  >-
-  who i am and why i started blogging
+  A personal blog about reflections, books, work, photos, and the small joys which shape how I think and live.
 lang:             en
 last_modified_at: 2024-07-14
 layout:           style

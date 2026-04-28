@@ -1,7 +1,7 @@
 ---
 date:             2024-07-14
 description:  >-
-  entertaining stuff that i want to comment on
+    What things I consider fun in life. 
 lang:             en
 last_modified_at: 2025-03-17
 layout:           style

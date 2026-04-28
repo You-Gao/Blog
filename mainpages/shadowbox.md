@@ -3,7 +3,7 @@ date:             2025-11-06
 last_modified_at: 2026-04-08
 tags: [random, cs, life, philosophy]
 description:  >-
-    stuff that i found cool on the internet
+   A list of interesting resources on the web. 
 layout:           style
 tags:
 title: >-

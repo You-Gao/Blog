@@ -2,7 +2,7 @@
 date:             2025-11-10
 last_modified_at: 2026-04-09
 description:  >-
-    old quotes
+   A list of quotes which have resonated with me through time. 
 layout:           style
 tags: [quotes]
 title: >-

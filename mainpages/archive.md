@@ -3,7 +3,7 @@ categories:       blog
 date:             2026-04-08
 last_modified_at: 2026-04-08
 description:  >-
-    I finally have enough posts to archive
+    A chronological archive of everything I’ve written so far.
 lang:             en
 last_modified_at: 2024-07-14
 layout:           style

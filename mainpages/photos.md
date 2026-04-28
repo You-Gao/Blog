@@ -1,7 +1,7 @@
 ---
 date:             2025-03-17
 description:  >-
-  sharing pictures of my life
+    Photographs and media collected over time, with brief notes alongside them.
 layout:           style
 tags:
 title: >-

@@ -2,7 +2,7 @@
 categories:       blog
 date:             2024-07-14
 description:  >-
-  working in the world...
+    Technical writing and upkeeping my professional knowledge. 
 lang:             en
 last_modified_at: 2024-07-14
 layout:           style

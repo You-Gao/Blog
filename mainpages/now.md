@@ -4,7 +4,7 @@ date:             2025-06-15
 last_modified_at: 2026-04-08
 tags: [reflection, work, life]
 description:  >-
-    how many apis can i call here...
+   What I am up to or wish I was up to. 
 lang:             en
 layout:           style
 title: >-
