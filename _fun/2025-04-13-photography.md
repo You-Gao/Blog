@@ -30,7 +30,7 @@ I recently got intrigued with photography again and wanted to share what made me
 * [Camera Lucida](https://www.amazon.com/Camera-Lucida-Reflections-Roland-Barthes/dp/0374532338): Comprehensive on thinking about the meaning of photography.
 * Camera, Negative, Print by Ansel Adams is a well-known series
 
-### collections[^3]
+### collections
 
 * [The Americans](https://www.amazon.com/Americans-Robert-Frank/dp/386521584X): Recommended by a teacher, was pretty cool.
 * [Equivalents](https://en.wikipedia.org/wiki/Equivalents): Cool as an idea.
