@@ -37,7 +37,7 @@ permalink: /quotes/
 ### november
 
 > "Do nothing, say nothing, and be nothing, and you'll never be criticized."
-> <figcaption class="blockquote-footer">Hegel</figcaption>
+> <figcaption class="blockquote-footer">Elbert Hubbard</figcaption>
 
 ### december
 
@@ -55,3 +55,9 @@ permalink: /quotes/
 
 > "Moreover, there is nothing in theory, and certainly nothing in experience, to support the extraordinary judgment that it is the truth about himself that is the easiest for a person to know."
 > <figcaption class="blockquote-footer">Frankfurt, On Bullshit</figcaption>
+
+### march
+
+> "Freedom is the freedom to say that two plus two make four. If that is granted, all else follows."
+> {% include figcaption.html caption="Orwell" %}
+

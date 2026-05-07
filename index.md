@@ -27,9 +27,9 @@ seo:
             </ul>
         </div>
         <h3 id="qotm" style="margin-bottom:5px;">Quote of the Month:</h3>
-        <blockquote>"Freedom is the freedom to say that two plus two make four. If that is granted, all else follows."
+        <blockquote>"‘If he be Mr. Hyde,’ he had thought, ‘I shall be Mr. Seek."
             <figcaption class="blockquote-footer"> 
-               George Orwell
+               The Strange Case of Dr. Jekyll and Mr. Hyde
             </figcaption>
         </blockquote>
         <a id="link" href="/quotes">old quotes</a>
